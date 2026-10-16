@@ -1,0 +1,30 @@
+name: Báo chỗ chưa chính xác về lịch sử
+description: Một chi tiết sai, thiếu nguồn hoặc cần nói rõ hơn
+labels: ["thẩm định"]
+body:
+  - type: input
+    id: chuong
+    attributes:
+      label: Chương / phân cảnh
+      placeholder: "Bạch Đằng 938 — phân cảnh 'Bãi cọc dưới lòng sông'"
+    validations:
+      required: true
+  - type: textarea
+    id: hien-tai
+    attributes:
+      label: Nội dung hiện tại
+    validations:
+      required: true
+  - type: textarea
+    id: de-xuat
+    attributes:
+      label: Đề xuất sửa
+    validations:
+      required: true
+  - type: textarea
+    id: nguon
+    attributes:
+      label: Nguồn
+      description: Tên sách, trang, tác giả, năm — càng cụ thể càng tốt
+    validations:
+      required: true

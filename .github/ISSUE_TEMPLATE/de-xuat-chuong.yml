@@ -1,0 +1,33 @@
+name: Đề xuất / nhận viết chương
+description: Đề xuất một chương mới hoặc nhận viết chương trong lộ trình
+labels: ["chương mới"]
+body:
+  - type: input
+    id: ten
+    attributes:
+      label: Tên chương và năm
+      placeholder: "Chiếu dời đô (1010)"
+    validations:
+      required: true
+  - type: textarea
+    id: noi-dung
+    attributes:
+      label: Câu chuyện muốn kể
+      description: Các phân cảnh chính, khoảnh khắc tương tác bạn hình dung
+    validations:
+      required: true
+  - type: textarea
+    id: nguon
+    attributes:
+      label: Nguồn sử liệu dự kiến
+    validations:
+      required: true
+  - type: checkboxes
+    id: vai-tro
+    attributes:
+      label: Bạn có thể làm
+      options:
+        - label: Viết lời kể (story.md)
+        - label: Dựng cảnh 3D
+        - label: Làm model Blender
+        - label: Thẩm định nội dung
