@@ -1,4 +1,6 @@
 import type { Metadata, Viewport } from "next";
+import { Analytics } from "@vercel/analytics/next";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import { Be_Vietnam_Pro, Playfair_Display } from "next/font/google";
 import "lenis/dist/lenis.css";
 import "./globals.css";
@@ -33,7 +35,12 @@ export const viewport: Viewport = {
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html lang="vi" className={`${display.variable} ${body.variable}`}>
-      <body>{children}</body>
+      <body>
+        {children}
+        {/* Đo lượt xem và Web Vitals của Vercel — không cookie, không định danh người xem. */}
+        <Analytics />
+        <SpeedInsights />
+      </body>
     </html>
   );
 }

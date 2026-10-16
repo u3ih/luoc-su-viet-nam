@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <div className="home">
       <header className="home__hero">
-        <DongSonDrum className="home__drum" birds={12} />
+        <DongSonDrum className="home__drum" />
         <p className="kicker">Dự án cộng đồng · Mã nguồn mở</p>
         <h1 className="home__title">
           Lược sử

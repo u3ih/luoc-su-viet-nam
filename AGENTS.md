@@ -75,8 +75,9 @@ scripts/                         gen-content.mjs, build-assets.mjs
 4. **`src/core` không biết chương cụ thể nào.** Không viết `if (slug === "bach-dang-938")` trong core. Hành vi riêng của chương phải đi qua API `World` (`world.resolve`, `world.signal`, `world.beat`).
 5. **Không sửa tay `registry.generated.ts`.** Chạy `pnpm content`.
 6. **Model 3D đi qua pipeline Blender.** Không thêm file `.glb` tải từ nguồn ngoài nếu chưa rõ giấy phép. Model mới thì viết `blender/assets/<ten>.py` dùng bảng màu `PALETTE`, chạy `pnpm assets <ten>`, rồi commit cả `.py`, `.glb` và ảnh preview.
-7. **Không thêm backend, API route, cơ sở dữ liệu, tracking hay cookie.**
+7. **Không thêm backend, API route, cơ sở dữ liệu, tracking hay cookie.** Ngoại lệ duy nhất: Vercel Web Analytics và Speed Insights (`@vercel/analytics`, `@vercel/speed-insights` trong `src/app/layout.tsx`) — không dùng cookie, không định danh người xem. Không thêm dịch vụ theo dõi nào khác, không gửi sự kiện tuỳ biến chứa dữ liệu cá nhân.
 8. **Nội dung lịch sử:** không bịa sự kiện, số liệu hay lời thoại của nhân vật lịch sử. Mọi chi tiết phải có nguồn trong "Nguồn tham khảo". Diễn ý thì ghi `(diễn ý)`. Không chép dài bản dịch hiện đại. Nếu không chắc một chi tiết, **hỏi lại hoặc ghi chú TODO cần thẩm định**, đừng đoán.
+9. **Hình ảnh lịch sử, văn hoá (hoa văn trống đồng, trang phục, kiến trúc, thuyền, vũ khí…) phải đúng hiện vật.** Không tự cách điệu theo trí nhớ. Đối chiếu tư liệu có nguồn (bảo tàng, ảnh hiện vật, bản dập) — số lượng, thứ tự, hướng của từng mô-típ. Nếu không vẽ lại chính xác được thì dùng hình có sẵn có giấy phép rõ (public domain / CC), ghi nguồn và giấy phép trong comment cạnh chỗ dùng. Ví dụ: mặt trống Ngọc Lũ trong `ornaments/DongSonDrum.tsx` dùng hình `public/hoa-van/mat-trong-ngoc-lu.svg`.
 
 ## 5. Kiến trúc cảnh 3D
 

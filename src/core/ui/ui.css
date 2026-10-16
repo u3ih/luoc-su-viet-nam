@@ -82,7 +82,7 @@
   width: min(78vmin, 640px);
   color: var(--vang);
   opacity: 0.55;
-  animation: spin 60s linear infinite;
+  animation: spin 60s linear infinite reverse;
 }
 .intro__text {
   position: relative;
@@ -105,6 +105,14 @@
   text-transform: uppercase;
   color: var(--giay-mo);
 }
+/* mặt trống Ngọc Lũ (ornaments/DongSonDrum): hình làm mặt nạ, tô bằng `color` */
+.dong-son-drum {
+  aspect-ratio: 1;
+  background-color: currentColor;
+  -webkit-mask: url("/hoa-van/mat-trong-ngoc-lu.svg") center / contain no-repeat;
+  mask: url("/hoa-van/mat-trong-ngoc-lu.svg") center / contain no-repeat;
+}
+/* mặt trống quay `reverse` (ngược chiều kim đồng hồ) cho cùng hướng đi của người và chim Lạc */
 @keyframes spin {
   to {
     transform: rotate(360deg);
@@ -367,7 +375,7 @@ main {
   margin-top: calc(min(92vh, 900px) / -2);
   color: var(--vang);
   opacity: 0.16;
-  animation: spin 240s linear infinite;
+  animation: spin 240s linear infinite reverse;
   pointer-events: none;
 }
 .hero__content {
@@ -592,7 +600,7 @@ main {
   margin-top: calc(min(110vh, 1000px) / -2);
   color: var(--vang);
   opacity: 0.22;
-  animation: spin 300s linear infinite, drum-in 2.4s var(--ease-out) both;
+  animation: spin 300s linear infinite reverse, drum-in 2.4s var(--ease-out) both;
   pointer-events: none;
 }
 @keyframes drum-in {
