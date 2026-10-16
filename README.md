@@ -32,20 +32,21 @@ Người viết sử chỉ cần sửa file Markdown. Web tự cập nhật theo
 
 ## Các chương
 
-| # | Chương | Thời kỳ | Bản chữ | Bản trực quan |
-|---|---|---|---|---|
-| I | **Bạch Đằng** (938) | Kết thúc Bắc thuộc | [📜 Đọc](content/01-bach-dang-938/story.md) | [▶ Xem](https://luocsu.u3ih.io.vn/chuong/bach-dang-938) |
-| II | Chiếu dời đô (1010) | Nhà Lý | _đang chờ người viết_ | |
-| III | Phòng tuyến Như Nguyệt (1077) | Nhà Lý | _đang chờ người viết_ | |
-| IV | Bạch Đằng lần nữa (1288) | Nhà Trần | _đang chờ người viết_ | |
-| V | Hội thề Lũng Nhai (1416) | Khởi nghĩa Lam Sơn | _đang chờ người viết_ | |
-| VI | Ngọc Hồi – Đống Đa (1789) | Tây Sơn | _đang chờ người viết_ | |
+Các chương xếp theo thời gian (không đánh số, để sau này chèn thêm sự kiện vào giữa).
 
-Muốn nhận viết một chương? [Mở đề xuất chương](../../issues/new?template=de-xuat-chuong.yml).
+| Năm | Chương | Thời kỳ | Bản chữ | Bản trực quan |
+|---|---|---|---|---|
+| Truyền thuyết | **Con Rồng cháu Tiên** | Hồng Bàng · Văn Lang | [📜 Đọc](content/con-rong-chau-tien/story.md) | [▶ Xem](https://luocsu.u3ih.io.vn/chuong/con-rong-chau-tien) |
+| Thế kỷ III TCN | **Thành Cổ Loa** | Âu Lạc | [📜 Đọc](content/co-loa/story.md) | [▶ Xem](https://luocsu.u3ih.io.vn/chuong/co-loa) |
+| 40 | **Hai Bà Trưng** | Bắc thuộc lần thứ nhất | [📜 Đọc](content/hai-ba-trung-40/story.md) | [▶ Xem](https://luocsu.u3ih.io.vn/chuong/hai-ba-trung-40) |
+| 544 | **Vạn Xuân** | Nhà Tiền Lý | [📜 Đọc](content/van-xuan-544/story.md) | [▶ Xem](https://luocsu.u3ih.io.vn/chuong/van-xuan-544) |
+| 938 | **Bạch Đằng** | Kết thúc Bắc thuộc | [📜 Đọc](content/bach-dang-938/story.md) | [▶ Xem](https://luocsu.u3ih.io.vn/chuong/bach-dang-938) |
+
+Các sự kiện đang chờ người viết nằm trong **[lộ trình lịch sử](content/lo-trinh.md)** — xem trên bản đồ tại [luocsu.u3ih.io.vn/lo-trinh](https://luocsu.u3ih.io.vn/lo-trinh). Muốn nhận viết một chương? [Mở đề xuất chương](../../issues/new?template=de-xuat-chuong.yml).
 
 ## Cùng viết lịch sử 🇻🇳
 
-Dự án sống nhờ cộng đồng. Bạn không cần biết lập trình để đóng góp:
+Dự án cộng đồng. Bạn không cần biết lập trình để đóng góp:
 
 | Bạn là… | Bạn có thể |
 |---|---|
@@ -82,18 +83,6 @@ public/models/  model đã tối ưu cho web
 ```
 
 Chi tiết kiến trúc: [AGENTS.md](AGENTS.md). Định dạng nội dung: [content/README.md](content/README.md). Model 3D: [blender/README.md](blender/README.md).
-
-## Công nghệ
-
-Next.js 16 · React 19 · Three.js · GSAP · Lenis · Blender · gltf-transform. Chỉ có frontend: build ra trang tĩnh, deploy lên Vercel. Không có backend, không thu thập dữ liệu người dùng.
-
-**Hiệu năng:** chữ render sẵn phía server và hiện ngay. Cảnh 3D tải sau, tự hạ chất lượng trên máy yếu. Toàn bộ model của một chương khoảng 400 KB.
-
-## Deploy
-
-1. Import repo vào [Vercel](https://vercel.com/new). Framework tự nhận Next.js, không cần cấu hình thêm.
-2. (Tuỳ chọn) Đặt biến môi trường `NEXT_PUBLIC_SITE_URL` bằng tên miền chính thức.
-3. Sửa `repo` trong `src/site.config.ts` và đường dẫn nút "Xem trực quan" trong các `story.md` nếu đổi tên miền.
 
 ## Lưu ý về nội dung
 

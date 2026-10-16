@@ -13,11 +13,4 @@ export const site = {
   },
 };
 
-/** Các chương đang lên kế hoạch — hiển thị ở trang chủ, mời cộng đồng nhận viết. */
-export const roadmap = [
-  { numeral: "II", title: "Chiếu dời đô", year: "1010", era: "Nhà Lý" },
-  { numeral: "III", title: "Phòng tuyến Như Nguyệt", year: "1077", era: "Nhà Lý" },
-  { numeral: "IV", title: "Bạch Đằng lần nữa", year: "1288", era: "Nhà Trần" },
-  { numeral: "V", title: "Hội thề Lũng Nhai", year: "1416", era: "Khởi nghĩa Lam Sơn" },
-  { numeral: "VI", title: "Ngọc Hồi – Đống Đa", year: "1789", era: "Tây Sơn" },
-];
+// Các sự kiện lịch sử chờ viết thành chương: xem content/lo-trinh.md (trang /lo-trinh).

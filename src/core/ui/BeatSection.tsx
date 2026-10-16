@@ -13,12 +13,14 @@ type Props = {
   sectionRef: (el: HTMLElement | null) => void;
   completed: boolean;
   onComplete: () => void;
+  /** Chế độ tự cuộn: máy tự kéo thanh tương tác giúp người xem. */
+  autoPlay?: boolean;
   /** Nội dung thêm cuối phân cảnh (vd. phần kết chương). */
   children?: React.ReactNode;
 };
 
 /** Một phân cảnh chữ — bố cục trái/phải/giữa, ghi chú, trích dẫn, tương tác. */
-export default function BeatSection({ beat, index, sectionRef, completed, onComplete, children }: Props) {
+export default function BeatSection({ beat, index, sectionRef, completed, onComplete, autoPlay, children }: Props) {
   const ref = useRef<HTMLElement | null>(null);
   useGSAP(() => {
     if (ref.current) revealBeat(ref.current);
@@ -65,7 +67,7 @@ export default function BeatSection({ beat, index, sectionRef, completed, onComp
 
         {beat.interaction && (
           <div className="beat__extra">
-            <SliderInteraction spec={beat.interaction} done={completed} onComplete={onComplete} />
+            <SliderInteraction spec={beat.interaction} done={completed} onComplete={onComplete} autoPlay={autoPlay} />
             <p className={`beat__won ${completed ? "is-shown" : ""}`} aria-live="polite">
               {completed ? beat.interaction.completeText : ""}
             </p>

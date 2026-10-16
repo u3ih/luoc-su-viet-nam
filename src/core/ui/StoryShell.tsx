@@ -2,6 +2,7 @@
 
 import dynamic from "next/dynamic";
 import { useEffect, useRef, useState } from "react";
+import { markSeen } from "../story/progress";
 import { computeT, resetStory, story } from "../story/store";
 import { narrationOf, type Chapter } from "../types";
 import BeatSection from "./BeatSection";
@@ -31,12 +32,24 @@ export default function StoryShell({ chapter, textUrl, editUrl }: { chapter: Cha
   const [opened, setOpened] = useState(false);
   const [active, setActive] = useState(0);
   const [completed, setCompleted] = useState<Record<string, boolean>>({});
+  /** Phân cảnh vừa được kể xong (chế độ tự cuộn); -1 = đang đọc dở. */
+  const [spokenAt, setSpokenAt] = useState(-1);
+  /** Phân cảnh tương tác mà máy đang tự kéo giúp người xem. */
+  const [autoInteract, setAutoInteract] = useState<string | null>(null);
 
   const scroll = useSmoothScroll();
   const ambient = useAmbient();
   const beat = chapter.beats[active];
-  const narrationText = beat.interaction && completed[beat.interaction.key] ? beat.interaction.completeText : narrationOf(beat);
-  const narration = useNarration(narrationText, beat.audio);
+  const done = !!(beat.interaction && completed[beat.interaction.key]);
+  const narrationText = done ? beat.interaction!.completeText : narrationOf(beat);
+  const narrationAudio = done ? beat.interaction!.completeAudio : beat.audio;
+  const activeRef = useRef(active);
+  useEffect(() => {
+    activeRef.current = active;
+    // tiến độ xem chỉ ghi khi màn mở đầu đã mở (đang dựng cảnh thì active luôn là 0)
+    if (opened) markSeen(chapter.slug, active, chapter.beats.length);
+  }, [active, opened, chapter]);
+  const narration = useNarration(narrationText, narrationAudio, () => setSpokenAt(activeRef.current));
 
   useEffect(() => {
     resetStory();
@@ -86,6 +99,26 @@ export default function StoryShell({ chapter, textUrl, editUrl }: { chapter: Cha
   const complete = (key: string) => setCompleted((c) => ({ ...c, [key]: true }));
   const last = chapter.beats.length - 1;
 
+  // Chế độ tự cuộn (bật cùng giọng kể): kể xong phân cảnh thì nghỉ một nhịp rồi cuộn sang phân cảnh sau.
+  // Gặp phân cảnh tương tác: chờ người xem tự kéo; một lúc không ai kéo thì máy kéo giúp, kể lời kết rồi đi tiếp.
+  // Người xem tự cuộn đi chỗ khác thì giọng kể đọc phân cảnh mới và nhịp tự cuộn tính lại từ đó.
+  useEffect(() => setSpokenAt(-1), [narrationText]);
+  useEffect(() => {
+    if (!narration.on) setAutoInteract(null);
+  }, [narration.on]);
+  useEffect(() => {
+    if (!narration.on || spokenAt !== active) return;
+    const b = chapter.beats[active];
+    if (b.interaction && !completed[b.interaction.key]) {
+      const key = b.interaction.key;
+      const timer = setTimeout(() => setAutoInteract(key), 6000);
+      return () => clearTimeout(timer);
+    }
+    if (active >= last) return;
+    const timer = setTimeout(() => goTo(active + 1), 1100);
+    return () => clearTimeout(timer);
+  }, [narration.on, spokenAt, active, completed]);
+
   return (
     <>
       <div className={`stage stage--${status}`} aria-hidden="true">
@@ -102,12 +135,13 @@ export default function StoryShell({ chapter, textUrl, editUrl }: { chapter: Cha
       <div className={`scrim scrim--${chapter.beats[active]?.layout ?? (active % 2 === 0 ? "right" : "left")}`} aria-hidden="true" />
       <div className="progress" ref={progressRef} aria-hidden="true" />
 
-      <IntroOverlay ready={status !== "loading"} numeral={chapter.numeral} title={chapter.title} onDone={() => setOpened(true)} />
+      <IntroOverlay ready={status !== "loading"} label={`${chapter.era} · ${chapter.year}`} title={chapter.title} onDone={() => setOpened(true)} />
 
       <TopBar narration={narration} ambient={ambient} textUrl={textUrl} />
       {narration.missing && (
         <p className="toast" role="status">
-          Trình duyệt này chưa có giọng đọc tiếng Việt. Thử Microsoft Edge, Safari hoặc Chrome trên Android.
+          Trình duyệt này chưa có giọng đọc tiếng Việt nên trang sẽ tự cuộn theo nhịp đọc thầm. Muốn nghe kể, thử Microsoft Edge, Safari
+          hoặc Chrome trên Android.
         </p>
       )}
       <Timeline items={chapter.beats.map((b, i) => (i === 0 ? chapter.year : b.kicker))} active={active} onGo={goTo} />
@@ -123,6 +157,7 @@ export default function StoryShell({ chapter, textUrl, editUrl }: { chapter: Cha
               index={i}
               sectionRef={setRef(i)}
               completed={!!(b.interaction && completed[b.interaction.key])}
+              autoPlay={!!b.interaction && autoInteract === b.interaction.key}
               onComplete={() => b.interaction && complete(b.interaction.key)}
             >
               {i === last && <ChapterEnd chapter={chapter} textUrl={textUrl} editUrl={editUrl} />}

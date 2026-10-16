@@ -1,5 +1,9 @@
 // Quét content/*/story.md và sinh content/registry.generated.ts
-// (bảng tra slug → thư mục + bộ nạp cảnh). Chạy tự động trước dev/build.
+// (bảng tra slug → thư mục + bộ nạp cảnh), xếp các chương theo thời gian (`sortYear`).
+// Chạy tự động trước dev/build.
+//
+// Thư mục chương đặt tên đúng bằng slug (vd. content/bach-dang-938/) — không đánh số thứ tự, để sau này
+// chèn một sự kiện vào giữa hai chương chỉ cần ghi `sortYear` cho đúng.
 //
 //   pnpm content          # sinh lại registry
 //   pnpm content --check  # chỉ kiểm tra (CI) — lỗi nếu registry lỗi thời
@@ -30,13 +34,19 @@ for (const dir of dirs) {
     errors.push(`${dir}/story.md: frontmatter thiếu "slug" (chỉ chữ thường không dấu, số, gạch ngang)`);
     continue;
   }
-  if (!/^\d{2}-/.test(dir)) errors.push(`${dir}/: tên thư mục phải bắt đầu bằng 2 chữ số thứ tự, vd. "02-${slug}"`);
+  const sortYear = Number(fm[1].match(/^sortYear:\s*["']?(-?\d+)["']?\s*$/m)?.[1]);
+  if (!Number.isFinite(sortYear)) {
+    errors.push(`${dir}/story.md: frontmatter thiếu "sortYear" (năm để xếp thứ tự; âm = trước Công nguyên, vd. -257)`);
+    continue;
+  }
+  if (dir !== slug) errors.push(`${dir}/: tên thư mục phải trùng slug "${slug}" (đổi tên thành content/${slug}/)`);
   for (const f of ["scene.config.ts", "scene.ts"]) {
     if (!existsSync(join(CONTENT, dir, f))) errors.push(`${dir}/: thiếu ${f} (chép từ content/_mau/)`);
   }
   if (entries.some((e) => e.slug === slug)) errors.push(`${dir}/: trùng slug "${slug}"`);
-  entries.push({ dir, slug });
+  entries.push({ dir, slug, sortYear });
 }
+entries.sort((a, b) => a.sortYear - b.sortYear || a.slug.localeCompare(b.slug));
 
 if (errors.length) {
   console.error("✗ Nội dung chưa hợp lệ:\n  - " + errors.join("\n  - "));
@@ -53,6 +63,7 @@ export type ChapterEntry = {
   scene: () => Promise<{ default: SceneSetup }>;
 };
 
+/** Các chương, xếp theo thời gian. */
 export const registry: Record<string, ChapterEntry> = {
 ${entries
   .map(

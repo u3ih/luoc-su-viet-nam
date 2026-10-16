@@ -23,25 +23,28 @@ Web kể chuyện lịch sử Việt Nam bằng cảnh 3D tương tác. Cuộn t
 ## 2. Bản đồ thư mục
 
 ```
-content/                         NỘI DUNG — mỗi chương một thư mục
-  01-bach-dang-938/
+content/                         NỘI DUNG — mỗi chương một thư mục, tên thư mục = slug (KHÔNG đánh số)
+  bach-dang-938/
     story.md                     lời kể (Markdown, đọc trên GitHub) — NGUỒN DUY NHẤT của chữ
     scene.config.ts              keyframe máy quay + tham số, khớp theo id phân cảnh
     scene.ts                     SceneSetup: dựng cảnh 3D của chương
     terrain.ts, actors/*.ts      thành phần riêng của chương
   _mau/                          mẫu chương tối giản (chép để tạo chương mới)
+  lo-trinh.md                    lộ trình: mọi sự kiện lịch sử theo thời gian + toạ độ, địa chỉ (trang /lo-trinh)
   registry.generated.ts          TỰ SINH bởi scripts/gen-content.mjs — không sửa tay
   README.md                      đặc tả định dạng story.md (đọc trước khi sửa nội dung)
 
 src/
-  app/                           route: / (trang chủ), /chuong/[slug]
+  app/                           route: / (trang chủ), /chuong/[slug], /lo-trinh (bản đồ); sitemap, robots, manifest,
+                                 llms.txt, llms-full.txt (GEO), icon.svg / apple-icon.png / favicon.ico
   core/                          BỘ KHUNG DÙNG CHUNG cho mọi chương
     types.ts                     kiểu dữ liệu: ChapterText, Beat, Keyframe, SceneConfig, MOOD
-    content/                     parse story.md (server-only), nạp chương, link GitHub
+    content/                     parse story.md, lo-trinh.md (server-only), nạp chương, link GitHub, JSON-LD (seo.ts), llms.ts
     engine/                      Engine (render loop, camera spline, chất lượng thích ứng), assets (GLB), World/Actor
     world/                       thành phần cảnh tái sử dụng: sky, water, terrain, dust, props, grass, birds, foliage, rocks, atmosphere
     story/store.ts               trạng thái chung UI ↔ engine (t, inputs, signals)
-    audio/                       giọng kể (Web Speech / file audio), âm thanh nền tổng hợp
+    story/progress.ts            tiến độ xem từng chương — chỉ lưu localStorage trên máy người xem
+    audio/                       giọng kể (file mp3 thu sẵn, dự phòng Web Speech; speakable.ts đổi số → chữ), âm thanh nền tổng hợp
     ui/                          component React dùng chung: StoryShell, Hero, BeatSection, ornaments…
   site.config.ts                 tên miền, repo GitHub, lộ trình chương
 
@@ -51,7 +54,8 @@ blender/
   sources/<ten>.blend            model làm tay (tuỳ chọn)
   previews/                      ảnh xem trước tự render
 public/models/<ten>.glb          model đã tối ưu (artifact — commit vào repo)
-scripts/                         gen-content.mjs, build-assets.mjs
+public/geo/                      dữ liệu bản đồ: Natural Earth (biên giới, bờ biển), OSM (34 tỉnh, 3.321 xã) — xem README trong đó
+scripts/                         gen-content.mjs, build-assets.mjs, geo-osm.mjs, geo-dia-chi.mjs
 ```
 
 ## 3. Lệnh
@@ -64,18 +68,20 @@ scripts/                         gen-content.mjs, build-assets.mjs
 | `pnpm typecheck` | kiểm tra kiểu |
 | `pnpm build` | build production; **kiểm tra khớp id ↔ keyframe** và lỗi định dạng story.md |
 | `pnpm assets [ten…]` | dựng lại model từ Blender (cần Blender 5.x cài sẵn, hoặc đặt `BLENDER_BIN`) |
+| `GOOGLE_TTS_API_KEY=… pnpm tts [slug…]` | tạo giọng kể mp3 (Google Cloud TTS, giọng neural vi-VN) cho phân cảnh có chữ đã đổi → `public/audio/<slug>/`. Khoá API chỉ đặt trong biến môi trường, không commit. `pnpm tts --dry` để xem phần cần tạo |
+| `pnpm geo` | tải lại ranh giới tỉnh/xã từ OpenStreetMap (cache `.geo-cache/`) và ghi lại địa chỉ hiện nay vào `lo-trinh.md`. Hiếm khi cần — chỉ khi địa giới hành chính đổi |
 
 **Trước khi báo xong việc, bắt buộc chạy `pnpm typecheck && pnpm build`.** Nếu có sửa cảnh hay giao diện, mở trình duyệt xem thật (desktop và khổ điện thoại 390px) và nói rõ bạn đã kiểm tra những gì, chưa kiểm tra những gì.
 
 ## 4. Quy tắc bất biến
 
 1. **Chữ chỉ nằm trong `story.md`.** Không viết lời kể vào file `.ts` hay `.tsx`. Component nhận chữ qua props từ `ChapterText`.
-2. **Mỗi `id` phân cảnh có đúng một keyframe** trong `scene.config.ts`. Đổi `id` thì sửa cả hai nơi.
+2. **Mỗi `id` phân cảnh có đúng một keyframe** trong `scene.config.ts`. Đổi `id` thì sửa cả hai nơi. **Không đánh số chương:** thư mục chương trùng `slug`, thứ tự theo `sortYear` trong frontmatter; không viết "Chương I/II…" trong lời kể hay giao diện.
 3. **Code chung nằm trong `src/core/`; code riêng của chương nằm trong `content/<chương>/`.** Một chương không được import từ thư mục chương khác. Nếu hai chương cần cùng một thứ, hãy đưa nó vào `src/core/world` hoặc `src/core/ui`.
 4. **`src/core` không biết chương cụ thể nào.** Không viết `if (slug === "bach-dang-938")` trong core. Hành vi riêng của chương phải đi qua API `World` (`world.resolve`, `world.signal`, `world.beat`).
 5. **Không sửa tay `registry.generated.ts`.** Chạy `pnpm content`.
 6. **Model 3D đi qua pipeline Blender.** Không thêm file `.glb` tải từ nguồn ngoài nếu chưa rõ giấy phép. Model mới thì viết `blender/assets/<ten>.py` dùng bảng màu `PALETTE`, chạy `pnpm assets <ten>`, rồi commit cả `.py`, `.glb` và ảnh preview.
-7. **Không thêm backend, API route, cơ sở dữ liệu, tracking hay cookie.** Ngoại lệ duy nhất: Vercel Web Analytics và Speed Insights (`@vercel/analytics`, `@vercel/speed-insights` trong `src/app/layout.tsx`) — không dùng cookie, không định danh người xem. Không thêm dịch vụ theo dõi nào khác, không gửi sự kiện tuỳ biến chứa dữ liệu cá nhân.
+7. **Không thêm backend, API route, cơ sở dữ liệu, tracking hay cookie.** (Route `llms.txt`, `sitemap`, `robots` chỉ dựng sẵn lúc build từ file nội dung — không phải backend.) Tiến độ xem chương chỉ lưu `localStorage` trên máy người xem, không gửi đi đâu. Ngoại lệ duy nhất: Vercel Web Analytics và Speed Insights (`@vercel/analytics`, `@vercel/speed-insights` trong `src/app/layout.tsx`) — không dùng cookie, không định danh người xem. Không thêm dịch vụ theo dõi nào khác, không gửi sự kiện tuỳ biến chứa dữ liệu cá nhân.
 8. **Nội dung lịch sử:** không bịa sự kiện, số liệu hay lời thoại của nhân vật lịch sử. Mọi chi tiết phải có nguồn trong "Nguồn tham khảo". Diễn ý thì ghi `(diễn ý)`. Không chép dài bản dịch hiện đại. Nếu không chắc một chi tiết, **hỏi lại hoặc ghi chú TODO cần thẩm định**, đừng đoán.
 9. **Hình ảnh lịch sử, văn hoá (hoa văn trống đồng, trang phục, kiến trúc, thuyền, vũ khí…) phải đúng hiện vật.** Không tự cách điệu theo trí nhớ. Đối chiếu tư liệu có nguồn (bảo tàng, ảnh hiện vật, bản dập) — số lượng, thứ tự, hướng của từng mô-típ. Nếu không vẽ lại chính xác được thì dùng hình có sẵn có giấy phép rõ (public domain / CC), ghi nguồn và giấy phép trong comment cạnh chỗ dùng. Ví dụ: mặt trống Ngọc Lũ trong `ornaments/DongSonDrum.tsx` dùng hình `public/hoa-van/mat-trong-ngoc-lu.svg`.
 
@@ -131,6 +137,9 @@ const setup: SceneSetup = async (world) => {
 | `createSmoke`, `createMist`, `createRanges` (`world/atmosphere.ts`) | khói bếp, sương là là mặt nước, dãy núi xa nhiều lớp theo màu trời |
 | `scatter(count, rand, area, accept, minDist)` | sinh vị trí rải theo luật |
 | `bakeModel(name, { filter, recenter, smooth })` + `getPropMaterial()` | tự làm InstancedMesh có cập nhật mỗi frame (thuyền, cọc…) |
+| `createFires({ sites, lit, glow })` (`world/fire.ts`) | đống lửa, đuốc, lửa hiệu — bật dần theo `order` khi `lit` tăng (lửa khởi nghĩa lan, trại giặc bừng cháy) |
+| `cameraClearance(config.keyframes)` (`world/clearance.ts`) | `nearCam`, `clearOfCam` — không rải cây/đá sát máy quay hay chắn tia nhìn |
+| `createVietnamMap` (`world/vietnam-map.ts`) | bản đồ Việt Nam 3D của trang /lo-trinh (chỉ địa lý; nhãn, mốc là HTML trong `ui/HistoryMap.tsx`) |
 | `mulberry32(seed)` | số ngẫu nhiên có seed — **luôn dùng thay `Math.random`** để cảnh lần nào cũng giống nhau |
 
 ### Hiệu năng — ngân sách bắt buộc
@@ -149,7 +158,7 @@ const setup: SceneSetup = async (world) => {
 - Bóng đổ chỉ bật khi `quality.shadows`; cây rừng / bụi ở xa không cần đổ bóng.
 - Model GLB < 100 KB mỗi file sau tối ưu. Tổng model của một chương < 1 MB.
 
-**Đo** (Playwright + Chrome, dev server hoặc `pnpm build && pnpm start`): giả lập iPhone (390×844, cảm ứng) với CPU chậm ×4 qua CDP `Emulation.setCPUThrottlingRate`, GPU yếu bằng `--use-angle=swiftshader`; đếm draw call và số đỉnh mỗi lần vẽ bằng cách bọc `drawArraysInstanced` / `drawElements…`, đo fps khi đứng yên và khi đang cuộn, long task lúc dựng cảnh. Số đo ngày 2026-10-16 (Bạch Đằng, bản production): điện thoại (low, CPU ×4) 51–62 draw call, 0,52–0,69 triệu đỉnh mỗi lần vẽ, 60 fps khi cuộn, dựng xong sau 0,9 s, long task lớn nhất 70 ms; điện thoại GPU phần mềm + CPU ×6: 29–40 fps (trước tối ưu 6–7 fps); desktop (high, có bóng đổ) 143–158 draw call, 3,4–4,9 triệu đỉnh.
+**Đo** (Playwright + Chrome, dev server hoặc `pnpm build && pnpm start`): giả lập iPhone (390×844, cảm ứng) với CPU chậm ×4 qua CDP `Emulation.setCPUThrottlingRate`, GPU yếu bằng `--use-angle=swiftshader`; đếm draw call và số đỉnh mỗi lần vẽ bằng cách bọc `drawArraysInstanced` / `drawElements…`, đo fps khi đứng yên và khi đang cuộn, long task lúc dựng cảnh. Số đo ngày 2026-10-16, bản production, điện thoại giả lập (CPU ×4): bốn chương mới 21–50 draw call, 0,17–0,45 triệu đỉnh, 60 fps khi cuộn và khi đứng yên, long task lớn nhất 95–150 ms; trang `/lo-trinh` (bản đồ) dựng xong dưới 1 s, long task lớn nhất ~150 ms, 22 MB heap, desktop 5 draw call/khung và chỉ vẽ khi kéo/phóng. Số đo Bạch Đằng: điện thoại (low, CPU ×4) 51–62 draw call, 0,52–0,69 triệu đỉnh mỗi lần vẽ, 60 fps khi cuộn, dựng xong sau 0,9 s, long task lớn nhất 70 ms; điện thoại GPU phần mềm + CPU ×6: 29–40 fps (trước tối ưu 6–7 fps); desktop (high, có bóng đổ) 143–158 draw call, 3,4–4,9 triệu đỉnh.
 - Không dùng `backdrop-filter` hay `mix-blend-mode` phủ lên canvas.
 - Three.js chỉ được import trong `src/core/engine`, `src/core/world` và `content/*/scene.ts` hoặc `actors`, tức những file chỉ nạp phía client. Không import trong server component.
 
@@ -159,11 +168,15 @@ const setup: SceneSetup = async (world) => {
 
 ## 6. Giao diện (`src/core/ui`)
 
-- Component dùng chung: `StoryShell` (khung trang chương), `Hero`, `BeatSection`, `SliderInteraction`, `IntroOverlay`, `TopBar`, `Timeline`, `ChapterEnd`, `SceneStage`, hoa văn trong `ornaments/` (`DongSonDrum`, `DongSonBand`, `Seal`).
-- Hook: `useSmoothScroll` (Lenis + ScrollTrigger), `useNarration`, `useAmbient`.
+- Component dùng chung: `StoryShell` (khung trang chương), `Hero`, `BeatSection`, `SliderInteraction`, `IntroOverlay`, `TopBar`, `Timeline`, `ChapterEnd`, `SceneStage`, `HistoryMap` (bản đồ lộ trình), `ReadProgress` (nhãn tiến độ xem), hoa văn trong `ornaments/` (`DongSonDrum`, `DongSonBand`, `Seal`).
+- Hook: `useSmoothScroll` (Lenis + ScrollTrigger), `useNarration` (giọng kể + báo đọc xong để tự cuộn), `useAmbient`, `useProgress`.
+- **Giọng kể:** ưu tiên mp3 trong `public/audio/<slug>/` (`<id>.mp3`, `<id>.xong.mp3` cho lời sau tương tác), do `pnpm tts` tạo hoặc người thật thu. `core/content/audio.ts` tự gắn file vào phân cảnh nếu `manifest.json` còn khớp mã băm câu chữ; sửa `story.md` thì nhớ chạy lại `pnpm tts`, nếu không trang tự quay về giọng máy của trình duyệt (giọng "Linh" mặc định của macOS đọc rời rạc từng tiếng).
+- **Nghe kể = tự cuộn:** bật giọng kể thì kể xong phân cảnh nào trang tự cuộn sang phân cảnh sau; gặp tương tác thì chờ người xem, quá 6 s thì máy tự kéo giúp. Máy không có giọng tiếng Việt thì vẫn tự cuộn theo thời gian đọc ước lượng.
 - **Import GSAP từ `@/core/ui/gsap`**, không import thẳng từ `"gsap"`, để plugin được đăng ký đúng một lần. Viết animation trong `useGSAP` để tự dọn khi unmount. Luôn bọc bằng `gsap.matchMedia("(prefers-reduced-motion: no-preference)")`.
 - **SplitText với tiếng Việt:** khi dùng `mask`, phải đặt class (`wordsClass: "sw"`, `linesClass: "sl"`, `charsClass: "sc"`). CSS trong `ui.css` nới vùng clip để không cắt dấu (ạ, ặ, ỗ…).
-- Style viết trong `src/core/ui/ui.css`, đặt tên kiểu BEM (`.khoi__phan--bien-the`). Màu lấy từ biến CSS trong `globals.css`: `--then`, `--son`, `--vang`, `--giay`… Không viết mã màu lẻ.
+- **Style mới viết bằng SCSS Modules** đặt cạnh component: `TenComponent.module.scss`, import `css from "./TenComponent.module.scss"`, dùng `className={css.ten}`. Tên class được băm theo file nên không đè lẫn nhau. Mixin dùng chung (`phone`, `motion-ok`, `progress-track`) ở `src/core/ui/styles/_mixins.scss`. Lớp toàn cục có sẵn (`.btn`, `.chip`, `.kicker`, `.band`) thì dùng qua `:global(.chip)` hoặc ghép chuỗi class.
+- `src/core/ui/ui.css` là CSS toàn cục cũ (BEM, `.khoi__phan--bien-the`) — đang chuyển dần sang module; sửa nhỏ thì được, đừng thêm khối mới vào đó.
+- Màu lấy từ biến CSS trong `globals.css`: `--then`, `--son`, `--vang`, `--giay`… Không viết mã màu lẻ.
 - Thẩm mỹ: tông sơn mài (nền then, vàng kim, đỏ son), hoa văn trống đồng Đông Sơn, con dấu son. Chuyển động chậm, mượt, ease `expo.out` / `power3.out`. Tránh hiệu ứng "công nghệ" (neon, glitch).
 - Trợ năng: mọi nút có nhãn; tương tác dùng `<input type="range">` thật; tôn trọng `prefers-reduced-motion`; chữ luôn có trong HTML render từ server.
 
@@ -171,7 +184,7 @@ const setup: SceneSetup = async (world) => {
 
 ### Thêm chương mới
 
-1. `cp -r content/_mau content/NN-<slug>`. `NN` là số thứ tự tiếp theo, `<slug>` khớp với frontmatter.
+1. Chọn sự kiện trong `content/lo-trinh.md`. `cp -r content/_mau content/<slug>` — tên thư mục trùng `slug` trong frontmatter, ghi `sortYear` để chương tự vào đúng chỗ theo thời gian. Thêm `chuong: <slug>` vào dòng sự kiện tương ứng trong `lo-trinh.md`.
 2. Viết `story.md` theo `content/README.md`. Mỗi phân cảnh có `<!-- id: … | kicker: … -->`.
 3. Viết `scene.config.ts`: mỗi `id` một keyframe.
 4. Viết `scene.ts`: bắt đầu từ mẫu, dùng lại thành phần trong `src/core/world`.
@@ -181,7 +194,7 @@ const setup: SceneSetup = async (world) => {
 ### Thêm tương tác cho một phân cảnh
 
 1. Trong `story.md`: thêm `interaction: <key>@<ngưỡng>` vào dòng chú thích, kèm khối `> [!IMPORTANT]`.
-2. Trong `scene.ts`: đọc `ctx.inputs.<key>` (0..1) bên trong `world.resolve` để đổi tham số mục tiêu, và dùng `ctx.completedAt.<key>` để kích hoạt diễn biến sau khi người xem hoàn thành. Xem `content/01-bach-dang-938/scene.ts`.
+2. Trong `scene.ts`: đọc `ctx.inputs.<key>` (0..1) bên trong `world.resolve` để đổi tham số mục tiêu, và dùng `ctx.completedAt.<key>` để kích hoạt diễn biến sau khi người xem hoàn thành. Xem `content/05-bach-dang-938/scene.ts`.
 
 ### Thêm model Blender
 

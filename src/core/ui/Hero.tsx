@@ -15,7 +15,8 @@ export default function Hero({ chapter, beat, sectionRef, play, loading }: { cha
       if (!play) return;
       const mm = gsap.matchMedia();
       mm.add("(prefers-reduced-motion: no-preference)", () => {
-        const split = SplitText.create(".hero__title-text", { type: "chars", mask: "chars", charsClass: "sc" });
+        // tách theo từ rồi mới tới ký tự: mỗi từ là một khối, trình duyệt chỉ xuống dòng giữa các từ (không ngắt "Lo|a")
+        const split = SplitText.create(".hero__title-text", { type: "words,chars", mask: "chars", wordsClass: "sw", charsClass: "sc" });
         gsap
           .timeline()
           .from(".hero .kicker", { y: 12, opacity: 0, duration: 0.8 })
@@ -46,7 +47,7 @@ export default function Hero({ chapter, beat, sectionRef, play, loading }: { cha
         <h1 className="hero__title">
           <span className="hero__title-text">{chapter.title}</span>
           <span className="hero__year">{chapter.year}</span>
-          <Seal lines={[chapter.title.split(" ")[0], chapter.year]} />
+          <Seal lines={chapter.seal ?? [chapter.title.split(" ")[0], chapter.year]} />
         </h1>
         <p className="hero__lead">{chapter.lead}</p>
         <p className="hero__scroll">

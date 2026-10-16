@@ -71,9 +71,10 @@ function blockquote(tok: Tokens.Blockquote, beat: Beat, file: string) {
 
 export function parseStory(source: string, file: string): ChapterText {
   const { data, content } = matter(source);
-  for (const k of ["slug", "numeral", "title", "year", "era", "teaser"]) {
-    if (!data[k]) throw new ContentError(file, `frontmatter thiếu "${k}"`);
+  for (const k of ["slug", "title", "year", "sortYear", "era", "teaser"]) {
+    if (data[k] === undefined || data[k] === "") throw new ContentError(file, `frontmatter thiếu "${k}"`);
   }
+  if (!Number.isFinite(Number(data.sortYear))) throw new ContentError(file, `"sortYear" phải là số (năm; âm = trước Công nguyên)`);
 
   const tokens = marked.lexer(content);
   const beats: Beat[] = [];
@@ -130,14 +131,14 @@ export function parseStory(source: string, file: string): ChapterText {
 
   return {
     slug: String(data.slug),
-    numeral: String(data.numeral),
     title: String(data.title),
     year: String(data.year),
+    sortYear: Number(data.sortYear),
     era: String(data.era),
     teaser: String(data.teaser),
     status: data.status === "ready" ? "ready" : "draft",
     disclaimer: data.disclaimer ? String(data.disclaimer) : undefined,
-    next: data.next ? { numeral: String(data.next.numeral), title: String(data.next.title), year: String(data.next.year), slug: data.next.slug } : undefined,
+    seal: Array.isArray(data.seal) ? data.seal.map(String) : undefined,
     lead: lead || beats[0].body[0] || "",
     beats,
     sources,

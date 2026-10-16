@@ -1,0 +1,22 @@
+// Mixin dùng chung cho các file *.module.scss. Màu, phông vẫn lấy từ biến CSS trong src/app/globals.css
+// (var(--then), var(--vang)…) — không viết mã màu lẻ.
+
+/** Khổ điện thoại (khớp @media trong ui.css). */
+@mixin phone {
+  @media (max-width: 760px) {
+    @content;
+  }
+}
+
+/** Chỉ chạy chuyển động khi người xem không chọn giảm chuyển động. */
+@mixin motion-ok {
+  @media (prefers-reduced-motion: no-preference) {
+    @content;
+  }
+}
+
+/** Vạch tiến độ ngang: tô vàng tới `--p`. */
+@mixin progress-track($height: 3px) {
+  height: $height;
+  background: linear-gradient(90deg, var(--vang) var(--p, 0%), rgba(241, 230, 210, 0.15) var(--p, 0%));
+}

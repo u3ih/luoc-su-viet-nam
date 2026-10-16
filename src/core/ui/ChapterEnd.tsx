@@ -1,10 +1,11 @@
 import Link from "next/link";
 import { site } from "@/site.config";
-import type { ChapterText } from "../types";
+import type { Chapter } from "../types";
+import css from "./ChapterEnd.module.scss";
 import DongSonBand from "./ornaments/DongSonBand";
 
 /** Cuối chương: nguồn, chương tiếp theo, mời góp ý trên GitHub. */
-export default function ChapterEnd({ chapter, textUrl, editUrl }: { chapter: ChapterText; textUrl: string; editUrl: string }) {
+export default function ChapterEnd({ chapter, textUrl, editUrl }: { chapter: Chapter; textUrl: string; editUrl: string }) {
   return (
     <div className="chapter-end beat__extra">
       <DongSonBand className="band band--dim" />
@@ -20,9 +21,13 @@ export default function ChapterEnd({ chapter, textUrl, editUrl }: { chapter: Cha
       )}
       {chapter.next && (
         <p className="next">
-          <span>Chương {chapter.next.numeral}</span>
+          <span>Tiếp theo</span>
           {chapter.next.slug ? <Link href={`/chuong/${chapter.next.slug}`}>{chapter.next.title}</Link> : chapter.next.title} · {chapter.next.year}
-          {!chapter.next.slug && <em>Sắp ra mắt</em>}
+          {!chapter.next.slug && (
+            <Link className={css.wait} href="/lo-trinh">
+              Đang chờ người viết
+            </Link>
+          )}
         </p>
       )}
       <div className="contribute">
@@ -32,6 +37,7 @@ export default function ChapterEnd({ chapter, textUrl, editUrl }: { chapter: Cha
         <a href={editUrl} target="_blank" rel="noreferrer">
           Góp ý, sửa nội dung
         </a>
+        <Link href="/lo-trinh">Lộ trình lịch sử</Link>
         <Link href="/">Các chương khác</Link>
       </div>
       {chapter.disclaimer && <p className="disclaimer">{chapter.disclaimer}</p>}

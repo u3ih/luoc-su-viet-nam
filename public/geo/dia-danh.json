@@ -1,0 +1,88 @@
+{
+  "tinh": [
+    { "ten": "Hà Nội", "loai": "thu-do", "toaDo": [21.03, 105.85] },
+    { "ten": "Hải Phòng", "loai": "tp", "toaDo": [20.86, 106.68] },
+    { "ten": "Huế", "loai": "tp", "toaDo": [16.46, 107.59] },
+    { "ten": "Đà Nẵng", "loai": "tp", "toaDo": [16.05, 108.2] },
+    { "ten": "TP. Hồ Chí Minh", "loai": "tp", "toaDo": [10.78, 106.7] },
+    { "ten": "Cần Thơ", "loai": "tp", "toaDo": [10.03, 105.78] },
+    { "ten": "Tuyên Quang", "toaDo": [21.82, 105.21] },
+    { "ten": "Cao Bằng", "toaDo": [22.67, 106.26] },
+    { "ten": "Lai Châu", "toaDo": [22.4, 103.46] },
+    { "ten": "Lào Cai", "toaDo": [21.72, 104.9] },
+    { "ten": "Thái Nguyên", "toaDo": [21.59, 105.85] },
+    { "ten": "Điện Biên", "toaDo": [21.39, 103.02] },
+    { "ten": "Lạng Sơn", "toaDo": [21.85, 106.76] },
+    { "ten": "Sơn La", "toaDo": [21.33, 103.91] },
+    { "ten": "Phú Thọ", "toaDo": [21.32, 105.4] },
+    { "ten": "Bắc Ninh", "toaDo": [21.27, 106.19] },
+    { "ten": "Quảng Ninh", "toaDo": [20.95, 107.08] },
+    { "ten": "Hưng Yên", "toaDo": [20.65, 106.05] },
+    { "ten": "Ninh Bình", "toaDo": [20.25, 105.97] },
+    { "ten": "Thanh Hoá", "toaDo": [19.81, 105.78] },
+    { "ten": "Nghệ An", "toaDo": [18.68, 105.68] },
+    { "ten": "Hà Tĩnh", "toaDo": [18.34, 105.91] },
+    { "ten": "Quảng Trị", "toaDo": [17.47, 106.62] },
+    { "ten": "Quảng Ngãi", "toaDo": [15.12, 108.8] },
+    { "ten": "Gia Lai", "toaDo": [13.77, 109.22] },
+    { "ten": "Khánh Hoà", "toaDo": [12.24, 109.19] },
+    { "ten": "Lâm Đồng", "toaDo": [11.94, 108.44] },
+    { "ten": "Đắk Lắk", "toaDo": [12.67, 108.04] },
+    { "ten": "Đồng Nai", "toaDo": [10.95, 106.82] },
+    { "ten": "Tây Ninh", "toaDo": [10.54, 106.41] },
+    { "ten": "Vĩnh Long", "toaDo": [10.25, 105.97] },
+    { "ten": "Đồng Tháp", "toaDo": [10.36, 106.36] },
+    { "ten": "Cà Mau", "toaDo": [9.18, 105.15] },
+    { "ten": "An Giang", "toaDo": [10.01, 105.08] }
+  ],
+  "dao": [
+    { "ten": "Bạch Long Vĩ", "toaDo": [20.13, 107.73] },
+    { "ten": "Cô Tô", "toaDo": [20.98, 107.77] },
+    { "ten": "Cát Bà", "toaDo": [20.8, 107.0] },
+    { "ten": "Cồn Cỏ", "toaDo": [17.16, 107.34] },
+    { "ten": "Lý Sơn", "toaDo": [15.38, 109.12] },
+    { "ten": "Phú Quý", "toaDo": [10.52, 108.94] },
+    { "ten": "Côn Đảo", "toaDo": [8.69, 106.61] },
+    { "ten": "Phú Quốc", "toaDo": [10.22, 103.96] },
+    { "ten": "Thổ Chu", "toaDo": [9.3, 103.48] }
+  ],
+  "quanDao": [
+    {
+      "ten": "Quần đảo Hoàng Sa",
+      "thuoc": "Đặc khu Hoàng Sa, thành phố Đà Nẵng",
+      "toaDo": [16.4, 112.0],
+      "dao": [
+        { "ten": "Phú Lâm", "toaDo": [16.84, 112.34] },
+        { "ten": "Linh Côn", "toaDo": [16.67, 112.73] },
+        { "ten": "Hoàng Sa", "toaDo": [16.53, 111.61] },
+        { "ten": "Quang Ảnh", "toaDo": [16.45, 111.51] },
+        { "ten": "Tri Tôn", "toaDo": [15.78, 111.2] }
+      ]
+    },
+    {
+      "ten": "Quần đảo Trường Sa",
+      "thuoc": "Đặc khu Trường Sa, tỉnh Khánh Hòa",
+      "toaDo": [9.9, 113.6],
+      "dao": [
+        { "ten": "Song Tử Tây", "toaDo": [11.43, 114.33] },
+        { "ten": "Sơn Ca", "toaDo": [10.38, 114.48] },
+        { "ten": "Nam Yết", "toaDo": [10.18, 114.36] },
+        { "ten": "Sinh Tồn", "toaDo": [9.88, 114.33] },
+        { "ten": "Phan Vinh", "toaDo": [8.97, 113.7] },
+        { "ten": "Trường Sa", "toaDo": [8.64, 111.92] },
+        { "ten": "An Bang", "toaDo": [7.89, 112.91] }
+      ]
+    }
+  ],
+  "bien": [
+    { "ten": "Biển Đông", "toaDo": [13.5, 112.2], "co": 1.6 },
+    { "ten": "Vịnh Bắc Bộ", "toaDo": [19.7, 107.9], "co": 1 },
+    { "ten": "Vịnh Thái Lan", "toaDo": [9.6, 101.9], "co": 1 }
+  ],
+  "nuoc": [
+    { "ten": "Trung Quốc", "toaDo": [24.2, 108.0] },
+    { "ten": "Lào", "toaDo": [19.4, 102.6] },
+    { "ten": "Campuchia", "toaDo": [12.6, 104.8] },
+    { "ten": "Thái Lan", "toaDo": [15.4, 101.2] }
+  ]
+}

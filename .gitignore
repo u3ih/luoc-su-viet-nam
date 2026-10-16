@@ -40,3 +40,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 blender/.raw/
+
+# dữ liệu OpenStreetMap thô (scripts/geo-osm.mjs)
+/.geo-cache/

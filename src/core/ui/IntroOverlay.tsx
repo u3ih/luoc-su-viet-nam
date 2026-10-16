@@ -8,7 +8,7 @@ import DongSonDrum from "./ornaments/DongSonDrum";
  * Màn mở đầu: trống đồng xoay chậm trong lúc dựng cảnh, rồi "mở màn" bằng
  * vòng tròn loang ra từ tâm trống. Gọi onDone khi màn đã mở.
  */
-export default function IntroOverlay({ ready, numeral, title, onDone }: { ready: boolean; numeral: string; title: string; onDone: () => void }) {
+export default function IntroOverlay({ ready, label, title, onDone }: { ready: boolean; label: string; title: string; onDone: () => void }) {
   const ref = useRef<HTMLDivElement>(null);
   const [gone, setGone] = useState(false);
 
@@ -45,7 +45,7 @@ export default function IntroOverlay({ ready, numeral, title, onDone }: { ready:
     <div ref={ref} className="intro" role="status" aria-live="polite">
       <DongSonDrum className="intro__drum" />
       <div className="intro__text">
-        <p className="kicker">Chương {numeral}</p>
+        <p className="kicker">{label}</p>
         <p className="intro__title">{title}</p>
         <p className="intro__hint">{ready ? "Mở màn" : "Đang dựng cảnh…"}</p>
       </div>

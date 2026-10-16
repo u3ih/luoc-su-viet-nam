@@ -9,6 +9,8 @@
     "start": "next start",
     "assets": "node scripts/build-assets.mjs",
     "content": "node scripts/gen-content.mjs",
+    "tts": "node scripts/tts.mjs",
+    "geo": "node scripts/geo-osm.mjs && node scripts/geo-dia-chi.mjs",
     "predev": "node scripts/gen-content.mjs",
     "prebuild": "node scripts/gen-content.mjs",
     "typecheck": "next typegen && tsc --noEmit"
@@ -34,6 +36,7 @@
     "@types/react-dom": "^19",
     "@types/three": "^0.186.0",
     "babel-plugin-react-compiler": "1.0.0",
+    "sass": "^1.105.1",
     "typescript": "^5"
   },
   "packageManager": "pnpm@12.11.2"

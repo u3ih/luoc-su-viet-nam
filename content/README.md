@@ -1,16 +1,17 @@
 # Nội dung các chương
 
-Mỗi chương là một thư mục. Tên thư mục gồm số thứ tự hai chữ số và mã chương:
+Mỗi chương là một thư mục, **tên thư mục trùng `slug`** (không đánh số thứ tự). Các chương tự xếp theo thời gian dựa vào `sortYear` — muốn chèn một sự kiện vào giữa hai chương có sẵn, chỉ cần ghi năm cho đúng.
 
 ```
 content/
-├── 01-bach-dang-938/
+├── bach-dang-938/
 │   ├── story.md          ← lời kể (bản chữ — đọc thẳng trên GitHub)
 │   ├── scene.config.ts   ← máy quay + tham số cho từng phân cảnh
 │   ├── scene.ts          ← dựng cảnh 3D
 │   ├── terrain.ts        ← (tuỳ chương) địa hình
 │   └── actors/           ← (tuỳ chương) thành phần cảnh riêng
 ├── _mau/                 ← thư mục mẫu để chép khi tạo chương mới
+├── lo-trinh.md           ← lộ trình: mọi sự kiện lịch sử theo thời gian, có toạ độ (trang /lo-trinh)
 └── registry.generated.ts ← tự sinh, đừng sửa tay
 ```
 
@@ -27,25 +28,23 @@ File Markdown bình thường: GitHub hiển thị như một bài viết, có n
 ```yaml
 ---
 slug: bach-dang-938          # mã chương: chữ thường không dấu, số, gạch ngang → /chuong/bach-dang-938
-numeral: I                   # số La Mã
 title: Bạch Đằng
-year: "938"                  # để trong ngoặc kép
+year: "938"                  # năm hiển thị, chữ tự do ("938", "Thế kỷ III TCN", "Truyền thuyết"); số thì để trong ngoặc kép
+sortYear: 938                # năm để xếp thứ tự (số; âm = trước Công nguyên, vd. -257)
 era: Kết thúc Bắc thuộc
 teaser: Một câu giới thiệu, hiện ở trang chủ.
 status: ready                # draft = ẩn khỏi trang chủ; ready = hiện
 disclaimer: Bản thử nghiệm…  # (không bắt buộc) dòng lưu ý cuối chương
-next:                        # (không bắt buộc) chương kế tiếp
-  numeral: II
-  title: Chiếu dời đô
-  year: "1010"
-  # slug: chieu-doi-do-1010  ← thêm khi chương đó đã có
+seal: [Bạch, Đằng]           # (không bắt buộc) chữ trên con dấu son; mặc định: chữ đầu tiêu đề + năm
 ---
 ```
+
+"Chương tiếp theo" ở cuối chương được tính tự động: chương đã sẵn sàng kế tiếp theo `sortYear`, hoặc sự kiện kế tiếp trong `lo-trinh.md` đang chờ người viết.
 
 ### Phần mở đầu
 
 ```md
-# Chương I · Bạch Đằng (938)
+# Bạch Đằng (938)
 
 [![▶ Xem trực quan](…badge…)](https://luocsu.u3ih.io.vn/chuong/bach-dang-938)
 
@@ -72,7 +71,7 @@ Mỗi phân cảnh bắt đầu bằng tiêu đề `##`, **ngay dòng dưới** 
 | `id` | ✔ | Mã phân cảnh, không dấu, không trùng. Khớp với keyframe trong `scene.config.ts`. |
 | `kicker` | ✔ | Dòng nhỏ phía trên tiêu đề (năm, địa danh, "Mưu kế"…). |
 | `layout` |  | `hero` (phân cảnh mở đầu), `left`, `right`, `center`. Mặc định xen kẽ trái/phải. |
-| `narration` |  | Lời đọc riêng cho giọng kể. Mặc định đọc tiêu đề + các đoạn văn. |
+| `narration` |  | Lời đọc riêng cho giọng kể. Mặc định đọc tiêu đề + các đoạn văn. Số, số La Mã sau "thế kỷ"/"chương", "TCN", "km"… được tự đổi sang chữ trước khi đọc (`src/core/audio/speakable.ts`), cứ viết như văn bản thường. Khi bật "Nghe kể", trang tự cuộn sang phân cảnh sau mỗi khi đọc xong. |
 | `audio` |  | File thu âm sẵn, ví dụ `/audio/bach-dang-938/bai-coc.mp3`. Có file này thì không dùng giọng máy. |
 | `interaction` |  | Tương tác dạng `khoá@ngưỡng`, ví dụ `drain@0.85` (xem bên dưới). |
 
@@ -158,12 +157,12 @@ Khi build, hệ thống báo lỗi nếu một `id` thiếu keyframe hoặc có 
 
 ## 4. `scene.ts` — dựng cảnh
 
-Hàm `setup(world)` thêm các thành phần vào cảnh. Xem `_mau/scene.ts` (tối giản) và `01-bach-dang-938/scene.ts` (đầy đủ). Hướng dẫn chi tiết cho người lập trình và AI agent nằm trong [`AGENTS.md`](../AGENTS.md).
+Hàm `setup(world)` thêm các thành phần vào cảnh. Xem `_mau/scene.ts` (tối giản) và `05-bach-dang-938/scene.ts` (đầy đủ). Hướng dẫn chi tiết cho người lập trình và AI agent nằm trong [`AGENTS.md`](../AGENTS.md).
 
 ## 5. Tạo chương mới
 
 ```bash
-cp -r content/_mau content/02-chieu-doi-do-1010
+cp -r content/_mau content/chieu-doi-do-1010
 # sửa story.md (slug, nội dung), scene.config.ts (keyframe cho từng id)
 pnpm content   # cập nhật registry
 pnpm dev       # xem tại http://localhost:3000/chuong/chieu-doi-do-1010

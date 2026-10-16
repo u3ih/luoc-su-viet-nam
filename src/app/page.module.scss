@@ -1,0 +1,23 @@
+// Phần mới của trang chủ. Phần cũ (thẻ chương, hero…) vẫn ở src/core/ui/ui.css, sẽ chuyển dần sang module.
+
+// năm là chữ dài ("Thế kỷ III TCN"): thu nhỏ cỡ chữ của .chapter-card__year (ui.css)
+:global(.chapter-card__year).yearLong {
+  font-size: 2.1rem;
+  line-height: 1.1;
+}
+
+.badge {
+  margin: -8px 0 16px;
+  align-self: flex-start;
+}
+
+.note {
+  max-width: 44rem;
+  margin: -6px 0 22px;
+  color: var(--giay-mo);
+
+  a {
+    color: var(--vang-nhat);
+    text-underline-offset: 4px;
+  }
+}

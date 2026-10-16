@@ -21,6 +21,8 @@ export type SliderInteraction = {
   labels: [string, string];
   hint: string;
   completeText: string;
+  /** Giọng kể thu sẵn cho lời sau khi hoàn thành (tự gắn nếu có public/audio/<slug>/<id>.xong.mp3). */
+  completeAudio?: string;
 };
 
 export type Interaction = SliderInteraction;
@@ -40,9 +42,11 @@ export type Beat = {
 
 export type ChapterMeta = {
   slug: string;
-  numeral: string;
   title: string;
+  /** Năm hiển thị ("938", "Thế kỷ III TCN", "Truyền thuyết"…). */
   year: string;
+  /** Năm dùng để xếp các chương theo thời gian (số âm = trước Công nguyên). */
+  sortYear: number;
   era: string;
   teaser: string;
   status: "ready" | "draft";
@@ -53,13 +57,19 @@ export type ChapterText = ChapterMeta & {
   beats: Beat[];
   sources: string[];
   disclaimer?: string;
-  next?: { slug?: string; numeral: string; title: string; year: string };
+  /** Chữ trên con dấu son ở phần mở đầu (mặc định: chữ đầu của tiêu đề + năm). */
+  seal?: string[];
 };
 
+/** Chương / sự kiện kế tiếp theo thời gian (tự tính, xem core/content/load.ts). */
+export type NextUp = { slug?: string; title: string; year: string };
+
 export type Chapter = ChapterText & {
-  /** Thư mục trong content/ (vd. "01-bach-dang-938"). */
+  /** Thư mục trong content/ (trùng slug, vd. "bach-dang-938"). */
   dir: string;
   scene: SceneConfig;
+  /** Chương tiếp theo đã có (theo thời gian), hoặc sự kiện kế tiếp trong lộ trình đang chờ người viết. */
+  next?: NextUp;
 };
 
 // ---------- phần cảnh (scene.config.ts) ----------

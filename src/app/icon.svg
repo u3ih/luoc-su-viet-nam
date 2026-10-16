@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Biểu tượng site: con dấu son, giữa là mặt trời 14 tia của trống đồng Ngọc Lũ.
+       Đường nét ngôi sao lấy nguyên từ public/hoa-van/mat-trong-ngoc-lu.svg (Wikimedia Commons, public domain),
+       chỉ thu nhỏ — không vẽ lại. -->
+  <rect width="64" height="64" rx="14" fill="#b8322a"/>
+  <circle cx="32" cy="32" r="26.5" fill="none" stroke="#f1d08a" stroke-width="2.4"/>
+  <path transform="translate(32 32) scale(0.106) translate(-825.5 -846.5)" fill="#f1d08a" d="m901 864 126-17-126-18 107-70-122 40 66-110-93 88 12-127-45 120-45-120 12 127-93-88 66 110-122-40 107 70-127 18 127 17-107 70 122-40-66 110 93-88-12 127 45-120 45 120-12-127 93 88-66-110 122 40z"/>
+</svg>

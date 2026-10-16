@@ -1,0 +1,62 @@
+@use "./styles/mixins" as *;
+
+.badge {
+  --p: 0%;
+  position: relative;
+  display: inline-block;
+  padding: 3px 10px 5px;
+  font-size: 12px;
+  letter-spacing: 0.04em;
+  color: var(--vang-nhat);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  overflow: hidden;
+
+  &::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 2px;
+    width: var(--p);
+    background: var(--vang);
+  }
+}
+
+.done {
+  color: var(--then);
+  background: var(--vang);
+  border-color: var(--vang);
+}
+
+.summary {
+  margin: -6px 0 22px;
+  font-size: 14px;
+  color: var(--giay-mo);
+
+  strong {
+    color: var(--vang-nhat);
+  }
+}
+
+.bar {
+  display: block;
+  width: min(100%, 320px);
+  margin-bottom: 10px;
+  @include progress-track;
+}
+
+.reset {
+  font: inherit;
+  font-size: 13px;
+  color: var(--giay-mo);
+  background: none;
+  border: 0;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  cursor: pointer;
+
+  &:hover {
+    color: var(--giay);
+  }
+}

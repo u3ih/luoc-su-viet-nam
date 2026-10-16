@@ -4,7 +4,7 @@ Cảm ơn bạn đã quan tâm! Đây là dự án phi lợi nhuận của cộn
 
 ## Cách nhanh nhất: sửa trên GitHub, không cần cài gì
 
-1. Mở file lời kể, ví dụ [`content/01-bach-dang-938/story.md`](content/01-bach-dang-938/story.md).
+1. Mở file lời kể, ví dụ [`content/bach-dang-938/story.md`](content/bach-dang-938/story.md).
 2. Bấm biểu tượng ✏️ (Edit). GitHub sẽ tự tạo bản sao (fork) cho bạn.
 3. Sửa câu chữ, rồi bấm **Propose changes** và **Create pull request**.
 4. Ghi rõ bạn sửa gì và **dựa trên nguồn nào**.
@@ -25,10 +25,14 @@ Trên trang web, cuối mỗi chương cũng có nút **"Góp ý, sửa nội du
 
 ### 🆕 Viết một chương mới
 
-1. [Mở đề xuất chương](../../issues/new?template=de-xuat-chuong.yml) để mọi người biết và tránh trùng việc.
-2. Chép thư mục mẫu `content/_mau/` thành `content/NN-<ma-chuong>/`.
+1. Chọn một sự kiện trong [lộ trình](content/lo-trinh.md) (xem trên bản đồ tại trang `/lo-trinh`), rồi [mở đề xuất chương](../../issues/new?template=de-xuat-chuong.yml) để mọi người biết và tránh trùng việc.
+2. Chép thư mục mẫu `content/_mau/` thành `content/<ma-chuong>/` (tên thư mục trùng `slug`). Không cần đánh số: chương tự xếp theo năm ghi ở `sortYear`.
 3. Viết `story.md` trước. Phần cảnh 3D có thể để người khác làm sau, dùng cảnh mẫu trong lúc chờ.
 4. Để `status: draft` cho đến khi nội dung được thẩm định.
+
+### 🗺 Bổ sung lộ trình
+
+Thấy thiếu một sự kiện, hay mốc năm, địa danh chưa đúng? Sửa [`content/lo-trinh.md`](content/lo-trinh.md) — mỗi sự kiện một dòng, kèm toạ độ để cắm mốc trên bản đồ. Hướng dẫn ở đầu file.
 
 ### 🔍 Thẩm định sử liệu
 
@@ -48,7 +52,9 @@ Xem [`blender/README.md`](blender/README.md). Bạn có thể viết script Pyth
 
 ### 🎙 Lồng tiếng
 
-Thu giọng kể cho từng phân cảnh (mp3, mono, khoảng 64–96 kbps). Đặt file vào `public/audio/<ma-chuong>/<id>.mp3` và thêm `audio: /audio/<ma-chuong>/<id>.mp3` vào dòng chú thích của phân cảnh.
+Thu giọng kể cho từng phân cảnh (mp3, mono, khoảng 64–96 kbps). Đặt file vào `public/audio/<ma-chuong>/<id>.mp3` (lời sau khi hoàn thành tương tác: `<id>.xong.mp3`), xoá dòng tương ứng trong `manifest.json` của thư mục đó — web tự nhận file, không cần sửa `story.md`.
+
+Chưa có giọng người thật thì dùng giọng neural: `GOOGLE_TTS_API_KEY=… pnpm tts` (cần khoá Google Cloud có bật Text-to-Speech API).
 
 ## Dùng AI agent để đóng góp
 

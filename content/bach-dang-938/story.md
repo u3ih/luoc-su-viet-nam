@@ -1,26 +1,22 @@
 ---
 slug: bach-dang-938
-numeral: I
 title: Bạch Đằng
 year: "938"
+sortYear: 938
 era: Kết thúc Bắc thuộc
 teaser: Con nước, bãi cọc ngầm và trận thủy chiến khép lại hơn một nghìn năm Bắc thuộc.
 status: ready
 disclaimer: Bản thử nghiệm. Nội dung đang chờ chuyên gia sử học thẩm định. Giọng đọc do máy tổng hợp.
-next:
-  numeral: II
-  title: Chiếu dời đô
-  year: "1010"
 ---
 
-# Chương I · Bạch Đằng (938)
+# Bạch Đằng (938)
 
 [![▶ Xem trực quan](https://img.shields.io/badge/%E2%96%B6%20Xem%20tr%E1%BB%B1c%20quan-b8322a?style=for-the-badge)](https://luocsu.u3ih.io.vn/chuong/bach-dang-938)
 
 _Một dòng sông, một con nước, và một bãi cọc ngầm đã khép lại hơn một nghìn năm Bắc thuộc._
 
 ## Bạch Đằng
-<!-- id: mo-dau | kicker: Lược sử Việt Nam · Chương I | layout: hero | narration: Năm chín trăm ba mươi tám. Trên sông Bạch Đằng, một con nước triều và một bãi cọc ngầm đã khép lại hơn một nghìn năm Bắc thuộc. -->
+<!-- id: mo-dau | kicker: Lược sử Việt Nam · Năm 938 | layout: hero | narration: Năm chín trăm ba mươi tám. Trên sông Bạch Đằng, một con nước triều và một bãi cọc ngầm đã khép lại hơn một nghìn năm Bắc thuộc. -->
 
 Một dòng sông, một con nước, và một bãi cọc ngầm đã khép lại hơn một nghìn năm Bắc thuộc.
 

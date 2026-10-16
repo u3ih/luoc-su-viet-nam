@@ -1,0 +1,408 @@
+@use "./styles/mixins" as *;
+
+$stage-h: min(78svh, 760px);
+
+.map {
+  padding: 0 clamp(16px, 8vw, 140px);
+
+  @include phone {
+    padding: 0 12px;
+  }
+}
+
+.placeholder {
+  height: $stage-h;
+  margin: 46px clamp(16px, 8vw, 140px) 0;
+  border: 1px solid var(--line);
+  background: radial-gradient(60% 60% at 50% 50%, #22140d, var(--then));
+}
+
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 14px;
+
+  :global(.chip) {
+    cursor: pointer;
+  }
+}
+
+.jumps {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 12px;
+  font-size: 13px;
+  color: var(--giay-mo);
+
+  :global(.chip) {
+    padding: 4px 12px;
+    font-size: 12px;
+    cursor: pointer;
+  }
+}
+
+.toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-left: 6px;
+  font-size: 13px;
+  color: var(--giay-mo);
+  cursor: pointer;
+
+  input {
+    accent-color: var(--son);
+  }
+}
+
+.stage {
+  position: relative;
+  height: $stage-h;
+  border: 1px solid var(--line);
+  overflow: hidden;
+  background: var(--then);
+  // kéo bản đồ bằng một ngón tay; cuộn trang thì vuốt ngoài khung bản đồ
+  touch-action: none;
+
+  @include phone {
+    height: 72svh;
+  }
+}
+
+.canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+  cursor: grab;
+
+  &:active {
+    cursor: grabbing;
+  }
+}
+
+.status {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  padding: 24px;
+  text-align: center;
+  color: var(--giay-mo);
+}
+
+// nhãn và mốc: đặt ở (0, 0), HistoryMap dịch chuyển bằng transform sau mỗi lần bản đồ vẽ
+.label,
+.pin {
+  position: absolute;
+  left: 0;
+  top: 0;
+  will-change: transform;
+}
+
+.label {
+  pointer-events: none;
+  white-space: nowrap;
+
+  > span {
+    display: block;
+    translate: -50% -50%;
+    text-align: center;
+    text-shadow: 0 1px 3px #000, 0 0 8px rgba(0, 0, 0, 0.8);
+  }
+
+  small {
+    display: block;
+    font-size: 10px;
+    letter-spacing: 0.06em;
+    color: var(--giay-mo);
+  }
+}
+
+// tên tỉnh, thành nằm ngay dưới điểm (để mốc sự kiện đặt đúng chỗ không bị chữ che)
+.province > span,
+.city > span,
+.capital > span {
+  translate: -50% 8px;
+}
+
+.province > span {
+  font-size: 11px;
+  color: rgba(241, 230, 210, 0.78);
+}
+
+.city > span,
+.capital > span {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--giay);
+}
+
+.capital > span {
+  color: var(--vang-nhat);
+}
+
+.commune > span {
+  font-size: 10px;
+  color: rgba(241, 230, 210, 0.62);
+}
+
+.island > span {
+  translate: 6px -50%;
+  font-size: 10px;
+  color: rgba(232, 196, 126, 0.85);
+}
+
+.archipelago > span {
+  translate: -50% -160%;
+  font-family: var(--font-d);
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--vang-nhat);
+}
+
+.sea > span {
+  font-family: var(--font-d);
+  font-size: 18px;
+  font-style: italic;
+  letter-spacing: 0.3em;
+  color: rgba(212, 162, 76, 0.55);
+}
+
+.country > span {
+  font-size: 12px;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: rgba(201, 185, 160, 0.45);
+}
+
+// nút 28 px, tâm đặt đúng toạ độ (margin âm) — đủ to để chạm bằng ngón tay
+// sao vàng thủ đô — nằm trên mốc sự kiện Hà Nội (cùng chỗ) nhưng không nhận chuột: bấm xuyên xuống mốc
+.star {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 3;
+  width: 34px;
+  height: 34px;
+  margin: -17px 0 0 -17px;
+  pointer-events: none;
+  will-change: transform;
+
+  polygon {
+    fill: #ffd84a; // màu sao vàng (biểu tượng quốc gia) — riêng chỗ này không dùng biến bảng màu
+    stroke: #8a5a10;
+    stroke-width: 3;
+    stroke-linejoin: round;
+  }
+
+  svg {
+    display: block;
+    filter: drop-shadow(0 0 6px rgba(255, 200, 60, 0.75));
+  }
+}
+
+.pin {
+  width: 28px;
+  height: 28px;
+  margin: -14px 0 0 -14px;
+  padding: 0;
+  border: 0;
+  background: none;
+  cursor: pointer;
+  z-index: 2;
+
+  &:focus-visible {
+    outline: none;
+
+    .dot {
+      outline: 2px solid var(--vang-nhat);
+      outline-offset: 3px;
+    }
+  }
+
+  &:hover .dot,
+  &:focus-visible .dot,
+  &.active .dot {
+    transform: scale(1.35);
+  }
+}
+
+.dot {
+  position: absolute;
+  left: 5px;
+  top: 5px;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  border: 2px solid var(--vang);
+  background: radial-gradient(circle, var(--vang) 0 3px, var(--then) 3.5px);
+  box-shadow: 0 0 0 3px rgba(18, 11, 8, 0.6);
+  transition: transform 0.3s var(--ease-out);
+}
+
+.ready .dot {
+  border-color: var(--vang-nhat);
+  background: radial-gradient(circle, var(--vang-nhat) 0 3px, var(--son) 3.5px);
+
+  @include motion-ok {
+    animation: pulse 2.4s ease-out infinite;
+  }
+}
+
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(212, 162, 76, 0.55);
+  }
+  100% {
+    box-shadow: 0 0 0 14px rgba(212, 162, 76, 0);
+  }
+}
+
+.count {
+  position: absolute;
+  left: 20px;
+  top: -6px;
+  min-width: 18px;
+  padding: 0 5px;
+  font-size: 10px;
+  font-weight: 600;
+  line-height: 16px;
+  color: var(--then);
+  background: var(--vang);
+  border-radius: 999px;
+}
+
+.zoom {
+  position: absolute;
+  right: 12px;
+  bottom: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  z-index: 3;
+
+  :global(.chip) {
+    justify-content: center;
+    width: 38px;
+    padding: 6px 0;
+    font-size: 16px;
+    cursor: pointer;
+  }
+}
+
+.card {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  z-index: 4;
+  width: min(360px, calc(100% - 24px));
+  max-height: calc(100% - 24px);
+  overflow-y: auto;
+  padding: 16px 18px;
+  border: 1px solid var(--line);
+  background: rgba(18, 11, 8, 0.94);
+  box-shadow: 0 20px 40px -20px #000;
+
+  ol {
+    list-style: none;
+  }
+
+  li + li {
+    margin-top: 14px;
+    padding-top: 14px;
+    border-top: 1px solid var(--line);
+  }
+
+  h3 {
+    font-family: var(--font-d);
+    font-size: 1.2rem;
+    line-height: 1.3;
+  }
+
+  @include phone {
+    top: auto;
+    bottom: 12px;
+    max-height: 55%;
+    width: calc(100% - 70px);
+  }
+}
+
+.place + .place {
+  margin-top: 18px;
+  padding-top: 14px;
+  border-top: 1px solid var(--vang);
+}
+
+.open {
+  border-color: var(--vang);
+}
+
+.text {
+  font-size: 14px;
+  color: var(--giay-mo);
+}
+
+.year {
+  font-weight: 600;
+  color: var(--vang-nhat);
+
+  em {
+    font-weight: 400;
+    color: var(--giay-mo);
+  }
+}
+
+.go {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 10px;
+
+  :global(.btn) {
+    padding: 7px 14px;
+  }
+}
+
+.wait,
+.hint {
+  margin-top: 6px;
+  font-size: 12px;
+  color: var(--giay-mo);
+  font-style: italic;
+}
+
+// tên xưa / địa chỉ cũ / địa chỉ hiện nay
+.addr {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 2px 10px;
+  margin-top: 8px;
+  font-size: 12px;
+
+  dt {
+    color: var(--vang);
+    letter-spacing: 0.04em;
+  }
+
+  dd {
+    color: var(--giay-mo);
+  }
+}
+
+// ghi công dữ liệu bản đồ (bắt buộc với ODbL của OpenStreetMap)
+.credit {
+  position: absolute;
+  left: 10px;
+  bottom: 8px;
+  z-index: 3;
+  font-size: 10px;
+  color: rgba(201, 185, 160, 0.7);
+
+  a {
+    color: inherit;
+  }
+}

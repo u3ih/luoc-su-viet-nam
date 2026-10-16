@@ -8,10 +8,31 @@ export type ChapterEntry = {
   scene: () => Promise<{ default: SceneSetup }>;
 };
 
+/** Các chương, xếp theo thời gian. */
 export const registry: Record<string, ChapterEntry> = {
+  "con-rong-chau-tien": {
+    dir: "con-rong-chau-tien",
+    config: () => import("./con-rong-chau-tien/scene.config"),
+    scene: () => import("./con-rong-chau-tien/scene"),
+  },
+  "co-loa": {
+    dir: "co-loa",
+    config: () => import("./co-loa/scene.config"),
+    scene: () => import("./co-loa/scene"),
+  },
+  "hai-ba-trung-40": {
+    dir: "hai-ba-trung-40",
+    config: () => import("./hai-ba-trung-40/scene.config"),
+    scene: () => import("./hai-ba-trung-40/scene"),
+  },
+  "van-xuan-544": {
+    dir: "van-xuan-544",
+    config: () => import("./van-xuan-544/scene.config"),
+    scene: () => import("./van-xuan-544/scene"),
+  },
   "bach-dang-938": {
-    dir: "01-bach-dang-938",
-    config: () => import("./01-bach-dang-938/scene.config"),
-    scene: () => import("./01-bach-dang-938/scene"),
+    dir: "bach-dang-938",
+    config: () => import("./bach-dang-938/scene.config"),
+    scene: () => import("./bach-dang-938/scene"),
   },
 };
