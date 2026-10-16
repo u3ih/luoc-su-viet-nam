@@ -1,24 +1,32 @@
 import type { Metadata, Viewport } from "next";
 import { Analytics } from "@vercel/analytics/next";
 import { SpeedInsights } from "@vercel/speed-insights/next";
-import { Be_Vietnam_Pro, Playfair_Display } from "next/font/google";
+import localFont from "next/font/local";
 import "lenis/dist/lenis.css";
 import "./globals.css";
 import "@/core/ui/ui.css";
 import { site } from "@/site.config";
 
-const display = Playfair_Display({
+// Phông tự lưu trữ (SIL OFL 1.1) để build không phụ thuộc Google Fonts — nguồn và cách dựng: src/app/fonts/README.md
+// Playfair Display, rút gọn latin + tiếng Việt; đổi tên thành "LSVN Display" theo Reserved Font Name của OFL.
+const display = localFont({
+  src: "./fonts/lsvn-display.woff2",
+  weight: "600 800",
   variable: "--font-display",
-  subsets: ["vietnamese", "latin"],
-  weight: ["600", "800"],
   display: "swap",
+  adjustFontFallback: "Times New Roman",
 });
 
-const body = Be_Vietnam_Pro({
+// Be Vietnam Pro, rút gọn latin + tiếng Việt.
+const body = localFont({
+  src: [
+    { path: "./fonts/BeVietnamPro-Regular.woff2", weight: "400", style: "normal" },
+    { path: "./fonts/BeVietnamPro-Medium.woff2", weight: "500", style: "normal" },
+    { path: "./fonts/BeVietnamPro-SemiBold.woff2", weight: "600", style: "normal" },
+  ],
   variable: "--font-body",
-  subsets: ["vietnamese", "latin"],
-  weight: ["400", "500", "600"],
   display: "swap",
+  adjustFontFallback: "Arial",
 });
 
 export const metadata: Metadata = {
