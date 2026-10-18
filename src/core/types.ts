@@ -78,6 +78,12 @@ export type Chapter = ChapterText & {
 export type Keyframe = {
   cam: Vec3;
   look: Vec3;
+  /**
+   * Chủ thể chính của hoạt cảnh. Trên màn dọc (điện thoại) máy quay nhìn vào đây thay cho `look` — `look` thường
+   * được đẩy lệch để chủ thể nằm ở nửa màn hình không có chữ, mà màn dọc thì hẹp, lệch là rơi ra ngoài khung.
+   * Không ghi thì dùng `look`.
+   */
+  focus?: Vec3;
   mood: number;
   /** Góc nhìn (mặc định 50). */
   fov?: number;

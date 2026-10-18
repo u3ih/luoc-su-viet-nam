@@ -90,6 +90,8 @@ export function createEngine(canvas: HTMLCanvasElement, o: EngineOptions): Engin
   const K = o.keyframes;
   const camCurve = new THREE.CatmullRomCurve3(K.map((k) => new THREE.Vector3(...k.cam)), false, "centripetal");
   const lookCurve = new THREE.CatmullRomCurve3(K.map((k) => new THREE.Vector3(...k.look)), false, "centripetal");
+  const focusCurve = new THREE.CatmullRomCurve3(K.map((k) => new THREE.Vector3(...(k.focus ?? k.look))), false, "centripetal");
+  let portrait = false;
   const paramKeys = Object.keys(o.params);
   const filled: Record<string, number>[] = [];
   K.forEach((k, i) => filled.push({ ...(i ? filled[i - 1] : o.params), ...k.params }));
@@ -111,7 +113,7 @@ export function createEngine(canvas: HTMLCanvasElement, o: EngineOptions): Engin
     const f = dwell(tt - i);
     const u = (i + f) / (K.length - 1);
     camCurve.getPoint(u, camTarget);
-    lookCurve.getPoint(u, lookTarget);
+    (portrait ? focusCurve : lookCurve).getPoint(u, lookTarget);
     const a = filled[i];
     const b = filled[i + 1];
     for (const k of paramKeys) target[k] = lerp(a[k], b[k], f);
@@ -163,7 +165,8 @@ export function createEngine(canvas: HTMLCanvasElement, o: EngineOptions): Engin
     const h = window.innerHeight;
     renderer.setSize(w, h, false);
     camera.aspect = w / h;
-    baseFov = camera.aspect < 1 ? lerp(70, 54, camera.aspect) : 50;
+    portrait = camera.aspect < 1;
+    baseFov = portrait ? lerp(70, 54, camera.aspect) : 50;
     camera.updateProjectionMatrix();
     ctx.pixelScale = dpr * (h / 900);
   }
@@ -269,6 +272,8 @@ export function createEngine(canvas: HTMLCanvasElement, o: EngineOptions): Engin
     camera.position.y += py * 1.2 + Math.sin(ctx.time * 0.3) * 0.18;
     camera.position.addScaledVector(side, Math.sin(ctx.time * 0.17) * 0.25);
     camera.lookAt(lookAt);
+    // màn dọc: chữ chiếm nửa dưới → cúi máy quay một chút để điểm nhìn lên khoảng 1/3 phía trên khung hình
+    if (portrait) camera.rotateX(-Math.atan(0.32 * Math.tan(THREE.MathUtils.degToRad(camera.fov / 2))));
     const fov = baseFov * (params.fov / 50);
     if (Math.abs(camera.fov - fov) > 0.01) {
       camera.fov = fov;

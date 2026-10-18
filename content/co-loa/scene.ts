@@ -1,14 +1,19 @@
+import * as THREE from "three";
 import { clamp, mulberry32, smoothstep } from "@/core/engine/math";
-import type { SceneSetup } from "@/core/engine/world";
+import type { FrameCtx, SceneSetup } from "@/core/engine/world";
 import { createMist, createRanges, createSmoke } from "@/core/world/atmosphere";
+import { createBeatClock } from "@/core/world/beat-clock";
 import { createBirds } from "@/core/world/birds";
 import { cameraClearance } from "@/core/world/clearance";
+import { createCrowd } from "@/core/world/crowd";
 import { createDust } from "@/core/world/dust";
+import { createFires, type FireSite } from "@/core/world/fire";
 import { createFoliage } from "@/core/world/foliage";
 import { createGrass } from "@/core/world/grass";
 import { createProps, scatter } from "@/core/world/props";
 import { createHeightTexture, createTerrain, fbm2 } from "@/core/world/terrain";
 import { createWater } from "@/core/world/water";
+import { createBolt } from "./actors/bolt";
 import { createWalls } from "./actors/walls";
 import config from "./scene.config";
 import { BOUNDS, colorize, height, outsideCity, paddyCell, riverCenter, wallDistance, WALLS, WATER } from "./terrain";
@@ -32,6 +37,25 @@ const setup: SceneSetup = async (world) => {
     const w = clamp(1 - Math.abs(ctx.t - BEAT));
     target.built += ((ctx.inputs.dap ?? 0) - target.built) * w;
   });
+
+  // ---- hoạt cảnh: mỗi phân cảnh có đồng hồ riêng, diễn trong lúc người xem dừng đọc ----
+  const clock = createBeatClock(world, ["au-lac", "dap-thanh", "ba-vong-thanh", "no-than", "my-chau", "mat-nuoc", "bac-thuoc"]);
+  /** Giây kể từ khi người xem kéo xong thanh đắp thành (Kim Quy hiện lên). */
+  const sinceBuilt = (ctx: FrameCtx) => (ctx.completedAt.dap ? (ctx.now - ctx.completedAt.dap) / 1000 : -1);
+  const KQ_TRIP = 6;
+
+  // Ba vòng thành: vệt sáng vàng lần lượt chạy hết vòng ngoài → giữa → trong (độ dài tương ứng ~8 / 6,5 / 1,6 km);
+  // khi Kim Quy tới nơi, cả ba vòng loé sáng một lúc.
+  const TRACE = [
+    [0.4, 3.0],
+    [3.6, 2.6],
+    [6.4, 1.6],
+  ];
+  const TRACE_LOOP = 11;
+  const kqFlash = (ctx: FrameCtx) => {
+    const s = sinceBuilt(ctx) - KQ_TRIP;
+    return s < 0 ? 0 : smoothstep(0, 0.4, s) * (1 - smoothstep(1.2, 2.6, s)) * Math.max(clock.near("dap-thanh"), clock.near("ba-vong-thanh"));
+  };
   world.add(
     createWalls({
       walls: WALLS,
@@ -39,14 +63,182 @@ const setup: SceneSetup = async (world) => {
       quality: q,
       // k = 0 ngoài, 1 giữa, 2 trong → vòng trong lên trước
       built: (k, ctx) => smoothstep((2 - k) * 0.28, (2 - k) * 0.28 + 0.44, ctx.params.built),
+      traceHead: (k, ctx) => {
+        if (kqFlash(ctx) > 0) return 1;
+        const tau = clock.elapsed("ba-vong-thanh") % TRACE_LOOP;
+        return clamp((tau - TRACE[k][0]) / TRACE[k][1]);
+      },
+      traceOn: (k, ctx) => {
+        const tau = clock.elapsed("ba-vong-thanh") % TRACE_LOOP;
+        const loop = tau > TRACE[k][0] ? 1 - smoothstep(9.4, 10.8, tau) : 0;
+        return Math.max(kqFlash(ctx), loop * clock.near("ba-vong-thanh"));
+      },
+      wear: (ctx) => ctx.params.wear,
+    }),
+  );
+
+  // Rùa Vàng (Kim Quy) giúp đắp thành: một đốm sáng vàng từ sông phía đông lướt vào giữa thành rồi tan.
+  world.add(
+    createCrowd({
+      glow: true,
+      size: 16,
+      height: (x, z) => Math.max(height(x, z), WATER) + 10,
+      groups: [{ path: [[322, -20], [250, -12], [130, 12], [14, 34]], count: 1, color: "#ffcf6a" }],
+      progress: (ctx) => clamp(sinceBuilt(ctx) / KQ_TRIP),
+      visible: (ctx) => {
+        const s = sinceBuilt(ctx);
+        return s < 0 ? 0 : smoothstep(0, 0.5, s) * (1 - smoothstep(KQ_TRIP, KQ_TRIP + 1.2, s)) * Math.max(clock.near("dap-thanh"), clock.near("ba-vong-thanh"));
+      },
+    }),
+  );
+
+  // Từ Văn Lang đến Âu Lạc: người Âu Việt từ miền núi phía bắc, người Lạc Việt từ đồng bằng phía nam
+  // cùng đổ về Phong Khê, tới nơi thì hoà làm một màu.
+  const AU_LAC = 11;
+  world.add(
+    createCrowd({
+      size: 4,
+      height,
+      seed: 21,
+      groups: [
+        { path: [[-300, 300], [-180, 170], [-60, 60], [0, 18]], count: 70, spread: [26, 34], color: "#a8552c", arrive: "#7a4a22" },
+        { path: [[90, -340], [60, -220], [26, -90], [4, 14]], count: 70, spread: [26, 34], color: "#2c4a6a", arrive: "#7a4a22", timing: [[0.05, 0], [1, 1]] },
+      ],
+      progress: () => clamp(clock.elapsed("au-lac") / AU_LAC),
+      visible: () => clock.near("au-lac"),
+    }),
+  );
+
+  // Nỏ thần: quân Triệu Đà từ phía bắc kéo xuống dọc sông, tới bãi ngoài thành, một phát nỏ từ mặt thành hạ cả đám giữa đội hình,
+  // số còn lại rút lui — lặp lại từng đợt ("nhiều lần đem quân sang đánh nhưng không thắng").
+  const WAVE = 10;
+  const wave = (ctx: FrameCtx) => clock.elapsed("no-than") % WAVE;
+  world.add(
+    createCrowd({
+      size: 3,
+      height,
+      seed: 31,
+      groups: [{ path: [[276, 330], [272, 260], [266, 186]], count: 150, spread: [40, 30], color: "#2a2320", mortal: true }],
+      progress: (ctx) => {
+        const tau = wave(ctx);
+        return smoothstep(0.3, 4.0, tau) * (1 - smoothstep(5.8, 9.4, tau));
+      },
+      fall: (ctx) => 0.5 * smoothstep(4.5, 5.3, wave(ctx)),
+      visible: (ctx) => {
+        const tau = wave(ctx);
+        return clock.near("no-than") * clamp(tau / 0.6) * clamp((WAVE - tau) / 0.6);
+      },
+    }),
+  );
+  world.add(
+    createBolt({
+      from: new THREE.Vector3(200, height(200, 131) + WALLS[0].height + 1.5, 131),
+      to: new THREE.Vector3(268, height(268, 202) + 1, 202),
+      arc: 12,
+      phase: (ctx) => (clock.near("no-than") > 0.5 ? (wave(ctx) - 3.6) / 0.9 : -1),
+    }),
+  );
+
+  // Mỵ Châu – Trọng Thủy: đoàn người phương bắc vào thành tới chỗ Mỵ Châu, ở lại một thời gian, rồi theo
+  // Trọng Thủy về bắc — mang theo một đốm sáng vàng (lẫy nỏ đã bị đánh tráo). Mỵ Châu (chấm son) ở lại.
+  const MY_CHAU = 17;
+  const north: [number, number][] = [[40, 340], [34, 250], [22, 130], [14, 46], [12, 36]];
+  const roundTrip: [number, number][] = [...north, ...north.slice(0, -1).reverse()];
+  const stay: [number, number][] = [[0, 0], [0.34, 0.5], [0.6, 0.5], [0.94, 1]];
+  world.add(
+    createCrowd({
+      size: 11,
+      height,
+      seed: 41,
+      groups: [
+        { path: [[8, 33], [8.2, 33]], count: 1, color: "#b8322a", size: 1.3 },
+        { path: roundTrip, count: 1, color: "#e8e2d4", size: 1.3, timing: stay, show: [0, 0.97] },
+        { path: roundTrip, count: 7, spread: [14, 24], color: "#c9c2b2", timing: stay, show: [0, 0.97] },
+      ],
+      progress: () => clamp(clock.elapsed("my-chau") / MY_CHAU),
+      visible: () => clock.near("my-chau"),
+    }),
+  );
+  world.add(
+    createCrowd({
+      glow: true,
+      size: 5,
+      height: (x, z) => height(x, z) + 9,
+      groups: [{ path: [...north].reverse(), count: 1, color: "#ffd27a", timing: [[0.6, 0], [0.94, 1]], show: [0.6, 0.97] }],
+      progress: () => clamp(clock.elapsed("my-chau") / MY_CHAU),
+      visible: () => clock.near("my-chau"),
+    }),
+  );
+
+  // Mất nước: quân Triệu tràn vào thành, phát nỏ mất linh rơi giữa đường; vua cùng Mỵ Châu chạy về nam,
+  // lông ngỗng rắc dọc đường, quân đuổi lần theo; cuối đường, ánh vàng của Rùa Vàng hiện lên.
+  const MAT_NUOC = 18;
+  const flee: [number, number][] = [[14, 30], [4, -40], [-18, -150], [-34, -230], [-44, -290]];
+  const fleeTiming: [number, number][] = [[0.3, 0], [0.82, 1]];
+  const lost = (ctx: FrameCtx) => clamp(clock.elapsed("mat-nuoc") / MAT_NUOC);
+  world.add(
+    createCrowd({
+      size: 2.6,
+      height,
+      seed: 51,
+      groups: [
+        { path: [[-70, 345], [-40, 250], [0, 130], [10, 62]], count: 170, spread: [50, 44], color: "#2a2320", timing: [[0, 0], [0.45, 1]] },
+        { path: [[90, 345], [60, 250], [28, 130], [18, 64]], count: 120, spread: [40, 36], color: "#2a2320", timing: [[0.05, 0], [0.5, 1]] },
+        { path: flee, count: 26, spread: [10, 16], color: "#2a2320", timing: [[0.46, 0], [0.98, 0.86]], show: [0.46, 1.1] },
+      ],
+      progress: lost,
+      visible: () => clock.near("mat-nuoc"),
+    }),
+  );
+  world.add(
+    createCrowd({
+      glow: true,
+      size: 0.6,
+      height: (x, z) => height(x, z) + 1.6,
+      seed: 52,
+      groups: [
+        { path: flee, count: 2, spread: [3, 2], color: "#ffd27a", timing: fleeTiming },
+        { path: flee, count: 46, color: "#f4efe4", drop: true, size: 0.45, timing: fleeTiming },
+        { path: [[-44, -296], [-44, -295]], count: 1, color: "#ffcf6a", size: 22, show: [0.84, 1.1] },
+      ],
+      progress: lost,
+      visible: () => clock.near("mat-nuoc"),
+    }),
+  );
+  world.add(
+    createBolt({
+      from: new THREE.Vector3(14, height(14, 74) + WALLS[2].height + 1.5, 74),
+      to: new THREE.Vector3(-14, height(-14, 210) + 1, 210),
+      arc: 14,
+      fizzle: true,
+      phase: (ctx) => (clock.near("mat-nuoc") > 0.5 ? (clock.elapsed("mat-nuoc") - 3.2) / 1.3 : -1),
+    }),
+  );
+
+  // Hơn một nghìn năm: về đêm, đuốc của quân cai trị thắp dần trên khắp ba vòng thành, từ trong ra ngoài.
+  const garrison: FireSite[] = WALLS.flatMap((w, k) => {
+    const count = [18, 14, 9][k];
+    return Array.from({ length: count }, (_, i) => {
+      const [x, z] = w.at((i / count) * Math.PI * 2 + k);
+      return { x, y: height(x, z) + w.height + 0.4, z, order: (2 - k) * 0.3 + (i / count) * 0.28, size: 0.8 };
+    });
+  });
+  world.add(
+    createFires({
+      sites: garrison,
+      perSite: 5,
+      size: 1.2,
+      lit: (ctx) => clock.near("bac-thuoc") * clamp(clock.elapsed("bac-thuoc") / 7),
     }),
   );
 
   // ---- vườn, tre làng trong và quanh thành (không dựng nhà: chưa đủ tư liệu hình dáng nhà thời Âu Lạc) ----
   const clearOfWalls = (x: number, z: number) => WALLS.every((w, k) => Math.abs(wallDistance(k, x, z)) > w.base * 0.5 + 12);
+  // bãi ven sông ngoài thành, nơi quân giặc kéo tới trong phân cảnh "Nỏ thần": để trống cho thấy rõ đội quân
+  const battlefield = (x: number, z: number) => x > 215 && x < 305 && z > 150 && z < 345;
   const dry = (x: number, z: number) => {
     const h = height(x, z);
-    return h > 1.2 && clearOfWalls(x, z) && clearOfCam(x, z, h) ? h : null;
+    return h > 1.2 && clearOfWalls(x, z) && clearOfCam(x, z, h) && !battlefield(x, z) ? h : null;
   };
   const hamlets = scatter(14, rand, { x0: -230, x1: 250, z0: -230, z1: 240 }, (x, z) => {
     const y = dry(x, z);

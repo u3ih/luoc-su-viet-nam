@@ -15,6 +15,8 @@ export type ChildrenOptions = {
   orb: (ctx: FrameCtx) => number;
   spread: (ctx: FrameCtx) => number;
   glow: (ctx: FrameCtx) => number;
+  /** Trứng nở (0..1): 0 = trăm trứng nằm im trong bọc, 1 = đã nở, bay lượn. Mặc định 1. */
+  hatch?: (ctx: FrameCtx) => number;
 };
 
 export function createChildren(o: ChildrenOptions): Actor {
@@ -43,6 +45,7 @@ export function createChildren(o: ChildrenOptions): Actor {
     uOrb: { value: 0 },
     uSpread: { value: 0 },
     uGlow: { value: 1 },
+    uHatch: { value: 1 },
     uMountain: { value: new THREE.Color("#ffd98a") },
     uSea: { value: new THREE.Color("#9fe0d0") },
   };
@@ -52,12 +55,13 @@ export function createChildren(o: ChildrenOptions): Actor {
     depthWrite: false,
     blending: THREE.AdditiveBlending,
     vertexShader: /* glsl */ `
-      uniform float uTime, uPixel, uOrb, uSpread, uGlow;
+      uniform float uTime, uPixel, uOrb, uSpread, uGlow, uHatch;
       attribute vec3 aEnd;
       attribute vec3 aData;
       varying float vA;
       varying float vGroup;
       varying float vCore;
+      varying float vHatch;
       void main() {
         float seed = aData.x, group = aData.y, arc = aData.z;
         vec3 p;
@@ -68,15 +72,20 @@ export function createChildren(o: ChildrenOptions): Actor {
           size = 60.0 * (1.0 + sin(uTime * 1.6) * 0.06) * (1.0 + uSpread * 0.8);
           vA = uOrb * (1.0 - smoothstep(0.0, 0.35, uSpread)) * 0.95;
           vCore = 1.0;
+          vHatch = 1.0;
         } else {
           // mỗi đốm rời bọc lệch nhau một chút, bay theo vòng cung rồi lơ lửng ở nơi đến
           float e = smoothstep(seed * 0.35, seed * 0.35 + 0.65, uSpread);
           float a = seed * 40.0 + uTime * (0.5 + seed * 0.4);
           vec3 orbit = vec3(cos(a), sin(a * 1.3) * 0.6, sin(a)) * (1.2 + seed * 1.6);
-          p = mix(position + orbit, aEnd, e);
+          // trước khi nở: trứng nằm im, xếp chặt quanh tâm bọc; mỗi trứng nở lệch nhau, loé lên một chút
+          float h = smoothstep(fract(seed * 7.31) * 0.8, fract(seed * 7.31) * 0.8 + 0.2, uHatch);
+          vec3 egg = vec3(cos(seed * 91.0), sin(seed * 57.0) * 0.6, sin(seed * 91.0)) * (0.35 + fract(seed * 13.0) * 0.55);
+          p = mix(position + mix(egg, orbit, h), aEnd, e);
           p.y += sin(e * 3.14159) * arc + sin(uTime * 0.9 + seed * 20.0) * 0.4 * e;
-          size = 6.0 + seed * 2.5;
-          vA = uOrb * mix(1.0, uGlow, e);
+          size = (6.0 + seed * 2.5) * mix(0.55, 1.0, h) * (1.0 + h * (1.0 - h) * 4.0);
+          vA = uOrb * mix(1.0, uGlow, e) * mix(0.55, 1.0, h);
+          vHatch = h;
           vCore = 0.0;
         }
         vGroup = group;
@@ -90,9 +99,11 @@ export function createChildren(o: ChildrenOptions): Actor {
       varying float vA;
       varying float vGroup;
       varying float vCore;
+      varying float vHatch;
       void main() {
         float r = length(gl_PointCoord - 0.5);
-        vec3 col = vGroup > 0.5 && vGroup < 1.5 ? uSea : uMountain;
+        // trứng chưa nở màu trắng ngà, nở rồi mới mang màu của nhóm
+        vec3 col = mix(vec3(1.0, 0.95, 0.85), vGroup > 0.5 && vGroup < 1.5 ? uSea : uMountain, vHatch);
         // bọc: lõi sáng trắng vàng + quầng loang; đốm: chấm sáng có viền mềm
         float a = vCore > 0.5 ? pow(smoothstep(0.5, 0.0, r), 1.6) + smoothstep(0.12, 0.0, r) * 0.8 : pow(smoothstep(0.5, 0.0, r), 2.2) * 0.7 + smoothstep(0.16, 0.0, r);
         a *= vA;
@@ -110,6 +121,7 @@ export function createChildren(o: ChildrenOptions): Actor {
       uniforms.uOrb.value = o.orb(ctx);
       uniforms.uSpread.value = o.spread(ctx);
       uniforms.uGlow.value = o.glow(ctx);
+      uniforms.uHatch.value = o.hatch ? o.hatch(ctx) : 1;
       points.visible = uniforms.uOrb.value > 0.002;
     },
   };

@@ -2,7 +2,7 @@ import { clamp } from "../engine/math";
 import type { Keyframe } from "../types";
 
 // Giữ khung hình thoáng: không rải cây, nhà, đá sát chỗ đặt máy quay, và không để ngọn cây chắn đường nhìn
-// từ máy quay tới điểm nhìn của từng keyframe.
+// từ máy quay tới điểm nhìn (và chủ thể `focus`, nếu có) của từng keyframe.
 
 export type Clearance = {
   /** (x, z) cách vị trí máy quay của keyframe nào đó dưới `r` mét (theo mặt bằng). */
@@ -15,7 +15,8 @@ export function cameraClearance(keyframes: Record<string, Keyframe>, o: { radius
   const radius = o.radius ?? 30;
   const corridor = (o.corridor ?? 24) ** 2;
   const cams = Object.values(keyframes).map((k) => k.cam);
-  const looks = Object.values(keyframes).map((k) => k.look);
+  // mỗi tia nhìn: [máy quay, điểm nhìn]; keyframe có `focus` thêm một tia tới chủ thể (màn dọc nhìn vào đó)
+  const rays = Object.values(keyframes).flatMap((k) => (k.focus ? [[k.cam, k.look], [k.cam, k.focus]] : [[k.cam, k.look]]));
   const nearCam = (x: number, z: number, r = radius) => cams.some(([cx, , cz]) => (cx - x) ** 2 + (cz - z) ** 2 < r * r);
   // vật nằm gần đoạn máy quay → điểm nhìn (theo mặt bằng) mà ngọn cao hơn tia nhìn tại chỗ ấy thì chắn
   const blocks = (x: number, z: number, top: number, [ax, ay, az]: number[], [bx, by, bz]: number[]) => {
@@ -27,6 +28,6 @@ export function cameraClearance(keyframes: Record<string, Keyframe>, o: { radius
   };
   return {
     nearCam,
-    clearOfCam: (x, z, h, tall = 10) => !nearCam(x, z) && cams.every((c, i) => !blocks(x, z, h + tall, c, looks[i])),
+    clearOfCam: (x, z, h, tall = 10) => !nearCam(x, z) && rays.every(([c, l]) => !blocks(x, z, h + tall, c, l)),
   };
 }

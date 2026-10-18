@@ -1,8 +1,10 @@
 import * as THREE from "three";
-import { clamp, easeInOut, mulberry32, smoothstep } from "@/core/engine/math";
+import { clamp, easeInOut, lerp, mulberry32, smoothstep } from "@/core/engine/math";
 import type { SceneSetup } from "@/core/engine/world";
 import { createMist, createRanges, createSmoke } from "@/core/world/atmosphere";
+import { createBeatClock } from "@/core/world/beat-clock";
 import { createBirds } from "@/core/world/birds";
+import { createCrowd } from "@/core/world/crowd";
 import { createDust } from "@/core/world/dust";
 import { createFoliage } from "@/core/world/foliage";
 import { createGrass } from "@/core/world/grass";
@@ -10,7 +12,7 @@ import { createProps, scatter, type Placement } from "@/core/world/props";
 import { createRocks } from "@/core/world/rocks";
 import { createHeightTexture, createTerrain, fbm2 } from "@/core/world/terrain";
 import { createWater } from "@/core/world/water";
-import { createFleet, WAKE_SLOTS } from "./actors/fleet";
+import { createFleet, FINAL_LEAD, WAKE_SLOTS } from "./actors/fleet";
 import { createMoored } from "./actors/moored";
 import { createStakes } from "./actors/stakes";
 import config, { TIDE_HIGH, TIDE_LOW } from "./scene.config";
@@ -22,6 +24,11 @@ const KARST: [number, number, number, number][] = [
   [140, -190, 48, 14], [-98, -150, 34, 10], [-128, -205, 44, 13], [-160, -140, 28, 9],
   [-84, -248, 30, 9], [36, -262, 38, 11], [182, -240, 34, 10], [-200, -230, 40, 12],
 ];
+
+// Màu chấm người trong hoạt cảnh: quân Ngô Quyền (son), quân Nam Hán và phe Kiều Công Tiễn (mực), Dương Đình Nghệ (sáng)
+const SON = "#8e2f22";
+const INK = "#2a2320";
+const PALE = "#e8e2d4";
 
 const setup: SceneSetup = async (world) => {
   const q = world.quality;
@@ -62,6 +69,216 @@ const setup: SceneSetup = async (world) => {
     }
   });
 
+  // ---- hoạt cảnh: mỗi phân cảnh có đồng hồ riêng, diễn trong lúc người xem dừng đọc ----
+  const clock = createBeatClock(world, ["nghin-nam", "nam-937", "nam-han", "bai-coc", "trieu-len", "nuoc-rut", "ket-cuc", "xung-vuong", "dau-vet"]);
+  const sec = (id: string, d: number) => clamp(clock.elapsed(id) / d);
+  // tham số keyframe (đoàn thuyền, bãi cọc, con nước) được đồng hồ phân cảnh dẫn khi người xem đang ở đó,
+  // ngoài phân cảnh thì trả về giá trị keyframe như cũ
+  const drive = (target: Record<string, number>, key: string, id: string, value: number) => {
+    target[key] += (value - target[key]) * clock.near(id);
+  };
+  world.resolve((target) => {
+    // Thuyền giặc vượt biển: đoàn thuyền từ ngoài khơi tiến dần vào cửa sông (12 s).
+    drive(target, "fleet", "nam-han", lerp(0.15, 0.4, easeInOut(sec("nam-han", 12))));
+    // Bãi cọc: cọc trồi lên từng hàng (từ phía biển vào), xong thì triều lên phủ kín (12 → 19 s).
+    const b = clock.elapsed("bai-coc");
+    drive(target, "built", "bai-coc", smoothstep(0.5, 10, b));
+    drive(target, "tide", "bai-coc", lerp(TIDE_LOW, TIDE_HIGH, smoothstep(12, 19, b)));
+    // Dụ địch: thuyền nhẹ xuôi dòng ra khiêu chiến (0–5,5 s), dừng trước mũi đoàn thuyền giặc (đến 7 s),
+    // rồi quay đầu chạy ngược dòng; đoàn thuyền lớn đuổi theo vượt qua bãi cọc (7–16 s).
+    // lure < 0,5: thuyền nhẹ còn hướng mũi ra biển; ≥ 0,5: đã quay đầu (xem actors/fleet.ts).
+    const tr = clock.elapsed("trieu-len");
+    drive(target, "lure", "trieu-len", tr < 7 ? 0.49 * smoothstep(0.3, 5.5, tr) : lerp(0.5, 1, smoothstep(7, 8, tr)));
+    drive(target, "fleet", "trieu-len", lerp(0.45, 1, easeInOut(clamp((tr - 7) / 9))));
+  });
+
+  // Hơn một nghìn năm: những đốm lửa khởi nghĩa lần lượt bùng lên rồi tắt ở khắp nơi (năm cuộc khởi nghĩa được
+  // kể tên), sau cùng hai đốm của họ Khúc và Dương Đình Nghệ sáng lên và giữ lại. Vị trí các đốm chỉ là
+  // tượng trưng, không ứng với địa danh thật (cảnh là cửa sông, không phải bản đồ Giao Châu).
+  const NGHIN_NAM = 14;
+  const UPRISINGS: [number, number][] = [[100, -50], [60, 0], [120, 0], [62, -40], [90, 22], [80, -20], [110, -88]];
+  world.add(
+    createCrowd({
+      glow: true,
+      size: 8,
+      height: (x, z) => height(x, z) + 6,
+      seed: 71,
+      groups: UPRISINGS.map(([x, z], i) => {
+        const at = 0.04 + i * 0.12;
+        const kept = i >= 5;
+        return {
+          path: [[x, z], [x + 8, z + 5]] as [number, number][],
+          count: 5,
+          spread: [16, 12] as [number, number],
+          color: kept ? "#ffc65a" : "#ff9a3c",
+          timing: [[at, 0], [at + 0.14, 1]] as [number, number][],
+          show: [at, kept ? 1.1 : at + 0.15] as [number, number],
+        };
+      }),
+      progress: () => sec("nghin-nam", NGHIN_NAM),
+      visible: () => clock.near("nghin-nam"),
+    }),
+  );
+
+  // Giao Châu dậy sóng (năm 937): Dương Đình Nghệ (chấm sáng) ngã xuống giữa nhóm Kiều Công Tiễn (chấm mực);
+  // quân Ngô Quyền (chấm son) từ xa kéo tới; thế cùng, vài người của Kiều Công Tiễn rời đi về phía biển cầu cứu.
+  // Diễn hoạ: vị trí nơi Kiều Công Tiễn đóng, hướng quân Ngô Quyền kéo tới và đường sứ giả đi chỉ là tượng trưng.
+  const NAM_937 = 15;
+  const seat: [number, number] = [-55, 72];
+  const march: [number, number][] = [[-215, 152], [-150, 125], [-86, 88]];
+  const envoy: [number, number][] = [[-58, 62], [-60, 20], [-62, -30], [-66, -80]];
+  world.add(
+    createCrowd({
+      size: 8,
+      height,
+      seed: 72,
+      groups: [
+        { path: [[seat[0], seat[1] + 2], seat], count: 28, spread: [16, 12], color: INK },
+        { path: [[-50, 67], [-50, 66]], count: 1, color: PALE, size: 1.3, mortal: true },
+        { path: march, count: 90, spread: [22, 34], color: SON, timing: [[0.15, 0], [0.72, 1]] },
+        { path: envoy, count: 3, spread: [3, 4], color: INK, timing: [[0.6, 0], [0.96, 1]], show: [0.6, 0.97] },
+      ],
+      progress: () => sec("nam-937", NAM_937),
+      fall: () => smoothstep(0.1, 0.2, sec("nam-937", NAM_937)),
+      visible: () => clock.near("nam-937"),
+    }),
+  );
+
+  // Thuyền giặc vượt biển (đoàn thuyền do `fleet` dẫn ở trên); quân Ngô Quyền từ trong đồi kéo ra, dàn ở bờ
+  // cửa sông chờ sẵn. Diễn hoạ: lời kể không nói quân ta đứng ở bờ nào.
+  const BANK_TROOPS: [number, number][] = [[-75, 30], [-68, -20], [-62, -50], [-60, -68]];
+  world.add(
+    createCrowd({
+      size: 3,
+      height,
+      seed: 73,
+      groups: [{ path: BANK_TROOPS, count: 80, spread: [12, 30], color: SON, timing: [[0.05, 0], [0.8, 1]] }],
+      progress: () => sec("nam-han", 13),
+      visible: () => clock.near("nam-han"),
+    }),
+  );
+
+  // Bãi cọc: quân từ đồi bờ đông xuống mép nước rồi trở lên, từng lượt (gỗ đẵn trên đồi đem xuống bãi) trong lúc
+  // cọc trồi lên từng hàng; khi triều bắt đầu lên thì tản đi. Diễn hoạ: lời kể không nói gỗ lấy ở đâu, đóng từ bờ nào.
+  const CARRY = 6;
+  const haul: [number, number][] = [[60, 45], [48, 10], [36, -12], [29, -20]];
+  world.add(
+    createCrowd({
+      size: 3.5,
+      height,
+      seed: 74,
+      groups: [
+        {
+          path: [...haul, ...haul.slice(0, -1).reverse()],
+          count: 26,
+          spread: [5, 16],
+          color: SON,
+          timing: [[0, 0], [0.45, 0.5], [0.55, 0.5], [1, 1]],
+          show: [0.01, 0.99],
+        },
+      ],
+      progress: () => (clock.elapsed("bai-coc") % CARRY) / CARRY,
+      visible: () => clock.near("bai-coc") * (1 - smoothstep(10.5, 12, clock.elapsed("bai-coc"))),
+    }),
+  );
+
+  // Chờ nước rút: quân ta dàn trên bờ tây, lặng im chờ (tương tác con nước giữ nguyên như cũ).
+  const waiting: [number, number][] = [[-32, 14], [-32, -28]];
+  world.add(
+    createCrowd({
+      size: 3,
+      height,
+      seed: 75,
+      groups: [{ path: waiting, count: 60, spread: [6, 40], color: SON }],
+      progress: () => 1,
+      visible: () => clock.near("nuoc-rut"),
+    }),
+  );
+
+  // Kết cục: quân Nam Hán dưới nước quanh xác thuyền, quá nửa chìm dần (chết đuối); số còn lại dạt ra phía biển
+  // rồi khuất (tàn quân rút về). Diễn hoạ: người dưới nước thể hiện bằng chấm đứng trên mặt nước.
+  const KET_CUC = 16;
+  const wreckZ = FINAL_LEAD - 30;
+  world.add(
+    createCrowd({
+      size: 3,
+      height: (x, z) => Math.max(height(x, z), TIDE_LOW),
+      seed: 76,
+      groups: [
+        {
+          path: [[riverCenter(wreckZ), wreckZ], [riverCenter(-70), -70], [-6, -100]],
+          count: 140,
+          spread: [30, 30],
+          color: INK,
+          mortal: true,
+          timing: [[0.45, 0], [0.95, 1]],
+          show: [0, 0.97],
+        },
+      ],
+      progress: () => sec("ket-cuc", KET_CUC),
+      fall: () => 0.6 * smoothstep(1, 7, clock.elapsed("ket-cuc")),
+      visible: () => clock.near("ket-cuc"),
+    }),
+  );
+
+  // Mở nước xưng vương: đoàn quân Ngô Quyền theo bờ sông kéo ngược lên phía đất liền (hướng về Cổ Loa), đi một
+  // lượt rồi dừng ở xa. Diễn hoạ: lời kể không nói đường quân đi — chỉ để gợi việc rời cửa sông về đóng đô.
+  const XUNG_VUONG = 18;
+  const upstream: [number, number][] = [-34, 0, 40, 90, 140, 180, 212].map((z) => [riverCenter(z) + riverHalfWidth(z) + 10, z]);
+  world.add(
+    createCrowd({
+      size: 4,
+      height,
+      seed: 77,
+      groups: [{ path: upstream, count: 140, spread: [4, 70], color: SON }],
+      progress: () => easeInOut(sec("xung-vuong", XUNG_VUONG)),
+      visible: () => clock.near("xung-vuong"),
+    }),
+  );
+
+  // Dấu vết còn lại: một đốm sáng lần lượt hiện ở vài khúc cửa sông rồi tắt, không dừng hẳn ở đâu —
+  // gợi việc vị trí trận năm 938 còn bàn luận. Ba vị trí chỉ là tượng trưng.
+  const GUESS = 9;
+  const guesses: [number, number][] = [[2, -22], [6, -72], [-2, 46]];
+  world.add(
+    createCrowd({
+      glow: true,
+      size: 7,
+      height: () => TIDE_LOW + 4,
+      seed: 78,
+      groups: guesses.map(([x, z], i) => ({
+        path: [[x, z], [x, z + 0.1]] as [number, number][],
+        count: 1,
+        color: "#ffd27a",
+        show: [i / 3 + 0.02, (i + 1) / 3 - 0.02] as [number, number],
+      })),
+      progress: () => (clock.elapsed("dau-vet") % GUESS) / GUESS,
+      visible: () => clock.near("dau-vet"),
+    }),
+  );
+
+  // khoảng trống quanh đường đi của các đoàn người: không rải cây, tre, bụi lên đó để khỏi che hoạt cảnh
+  const STAGE: [[number, number][], number][] = [
+    [[seat, [-50, 66]], 26],
+    [march, 28],
+    [envoy, 8],
+    [BANK_TROOPS, 14],
+    [haul, 8],
+    [waiting, 7],
+    [upstream, 7],
+  ];
+  const offStage = (x: number, z: number) =>
+    STAGE.every(([path, r]) =>
+      path.every(([ax, az], i) => {
+        if (i === 0) return true;
+        const [bx, bz] = path[i - 1];
+        const dx = bx - ax;
+        const dz = bz - az;
+        const t = clamp(((x - ax) * dx + (z - az) * dz) / (dx * dx + dz * dz || 1));
+        return (ax + dx * t - x) ** 2 + (az + dz * t - z) ** 2 > r * r;
+      }),
+    );
+
   // ---- thuyền & cọc (tải song song model Blender) ----
   // không rải cây sát vị trí máy quay để khỏi che khung hình
   const cams = Object.values(config.keyframes).map((k) => k.cam);
@@ -79,7 +296,7 @@ const setup: SceneSetup = async (world) => {
   const clearOfCam = (x: number, z: number, h: number) => !nearCam(x, z) && cams.every((c, i) => !blocks(x, z, h, c, looks[i]));
   const onBank = (minH: number, maxH: number, maxFromRiver: number) => (x: number, z: number) => {
     const h = height(x, z);
-    if (!clearOfCam(x, z, h)) return null;
+    if (!clearOfCam(x, z, h) || !offStage(x, z)) return null;
     const d = Math.abs(x - riverCenter(z)) - riverHalfWidth(z);
     return h > minH && h < maxH && d < maxFromRiver ? h - 0.2 : null;
   };
@@ -185,7 +402,7 @@ const setup: SceneSetup = async (world) => {
       area: wide,
       accept: notInVillage((x, z) => {
         const h = height(x, z);
-        if (h < 5 || !clearOfCam(x, z, h) || fromRiver(x, z) < 22 || slopeAt(x, z) > 0.9) return null;
+        if (h < 5 || !clearOfCam(x, z, h) || !offStage(x, z) || fromRiver(x, z) < 22 || slopeAt(x, z) > 0.9) return null;
         // rừng mọc thành mảng, không rải đều như rắc tiêu
         return fbm2(x * 0.03 + 4, z * 0.03 - 2, 3) > 0.42 ? h - 0.3 : null;
       }),
@@ -204,7 +421,7 @@ const setup: SceneSetup = async (world) => {
       area: wide,
       accept: notInVillage((x, z) => {
         const h = height(x, z);
-        if (h < 1.4 || h > 26 || !clearOfCam(x, z, h)) return null;
+        if (h < 1.4 || h > 26 || !clearOfCam(x, z, h) || !offStage(x, z)) return null;
         return fbm2(x * 0.05 - 7, z * 0.05 + 3, 3) > 0.45 || fromRiver(x, z) < 14 ? h - 0.2 : null;
       }),
       scale: [0.5, 1.2],
@@ -222,7 +439,7 @@ const setup: SceneSetup = async (world) => {
       accept: (x, z) => {
         const h = height(x, z);
         const d = fromRiver(x, z);
-        return h > 0.8 && h < 4 && d > 1 && d < 16 && !nearCam(x, z) && (z > 0 || z < -50) ? h - 0.2 : null;
+        return h > 0.8 && h < 4 && d > 1 && d < 16 && !nearCam(x, z) && offStage(x, z) && (z > 0 || z < -50) ? h - 0.2 : null;
       },
       scale: [0.8, 1.2],
       dark: "#3d5a24",

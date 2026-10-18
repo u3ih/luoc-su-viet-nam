@@ -10,7 +10,8 @@ const DRAFT = 1.1; // mớn nước thuyền Nam Hán (Blender: đáy ở z = -1
 const SHIP_COUNT = 12;
 const LURE_COUNT = 5;
 const RAIDER_COUNT = 18;
-const FINAL_LEAD = -12;
+/** Vị trí mũi đoàn thuyền giặc khi đã nằm gọn trên bãi cọc (z). */
+export const FINAL_LEAD = -12;
 /** Số thuyền có vệt sóng đuôi (đủ cho cả ba nhóm). */
 export const WAKE_SLOTS = SHIP_COUNT + LURE_COUNT + RAIDER_COUNT;
 

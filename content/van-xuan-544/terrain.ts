@@ -9,6 +9,8 @@ export const BOUNDS: HeightBounds = { minX: -360, minZ: -360, sizeX: 720, sizeZ:
 export const WATER = 0;
 /** Bãi đất cao giữa đầm — chỗ nghĩa quân đóng. */
 export const ISLAND = { x: -20, z: 10, r: 42 };
+/** Gò cao nhất trên bãi: chỗ nghĩa quân đóng, chỗ lập đàn trong truyền thuyết móng rồng (chừa trống, không trồng tre). */
+export const ALTAR = { x: -17, z: 0 };
 /** Trại quân Lương trên bờ đông. */
 export const CAMP = { x: 262, z: 20 };
 

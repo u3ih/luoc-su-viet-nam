@@ -5,12 +5,19 @@ import type { Wall } from "../terrain";
 
 // Ba vòng thành đất Cổ Loa: mỗi vòng là một dải mặt cắt hình thang chạy theo đường tim thành.
 // Chiều cao "đắp" (0..1) đẩy trong vertex shader nên đắp thành chỉ đổi một uniform, không dựng lại hình.
+// Cũng trong shader: vệt sáng vàng chạy dọc đường tim (chỉ cho người xem thấy từng vòng) và độ mòn
+// (đất thành sụt thành từng quãng, chỉ còn những đoạn như ngày nay).
 
 export type WallsOptions = {
   walls: Wall[];
   height: (x: number, z: number) => number;
   /** Mức đắp của vòng thứ k (0 = mặt đất, 1 = xong). */
   built: (k: number, ctx: FrameCtx) => number;
+  /** Vệt sáng chạy dọc vòng k: đầu vệt (0..1 quanh vòng) và độ sáng (0..1). */
+  traceHead?: (k: number, ctx: FrameCtx) => number;
+  traceOn?: (k: number, ctx: FrameCtx) => number;
+  /** Độ mòn 0..1: 1 = chỉ còn từng đoạn thành. */
+  wear?: (ctx: FrameCtx) => number;
   quality: Quality;
 };
 
@@ -28,6 +35,7 @@ function wallGeometry(w: Wall, height: (x: number, z: number) => number, seg: nu
   const pos: number[] = [];
   const base: number[] = [];
   const lift: number[] = [];
+  const along: number[] = [];
   const col: number[] = [];
   const idx: number[] = [];
   const P = profile.length;
@@ -48,6 +56,7 @@ function wallGeometry(w: Wall, height: (x: number, z: number) => number, seg: nu
       pos.push(px, g + l * w.height, pz);
       base.push(g - 0.6 * (1 - l));
       lift.push(l);
+      along.push(i / seg);
       const c = l > 0.5 ? TOP : SIDE;
       col.push(c.r, c.g, c.b);
     }
@@ -63,6 +72,7 @@ function wallGeometry(w: Wall, height: (x: number, z: number) => number, seg: nu
   g.setAttribute("position", new THREE.Float32BufferAttribute(pos, 3));
   g.setAttribute("aBase", new THREE.Float32BufferAttribute(base, 1));
   g.setAttribute("aLift", new THREE.Float32BufferAttribute(lift, 1));
+  g.setAttribute("aU", new THREE.Float32BufferAttribute(along, 1));
   g.setAttribute("color", new THREE.Float32BufferAttribute(col, 3));
   g.setIndex(idx);
   g.computeVertexNormals();
@@ -71,17 +81,39 @@ function wallGeometry(w: Wall, height: (x: number, z: number) => number, seg: nu
 
 export function createWalls(o: WallsOptions): Actor {
   const group = new THREE.Group();
-  const uniforms = o.walls.map(() => ({ value: 0 }));
+  const rings = o.walls.map(() => ({ uBuilt: { value: 0 }, uHead: { value: 0 }, uTrace: { value: 0 } }));
+  const uWear = { value: 0 };
   o.walls.forEach((w, k) => {
     const mat = new THREE.MeshLambertMaterial({ vertexColors: true });
-    const uBuilt = uniforms[k];
+    const r = rings[k];
     const uH = { value: w.height };
+    const uSeed = { value: k * 17.3 };
     mat.onBeforeCompile = (shader) => {
-      shader.uniforms.uBuilt = uBuilt;
-      shader.uniforms.uH = uH;
+      Object.assign(shader.uniforms, r, { uH, uWear, uSeed });
       shader.vertexShader = shader.vertexShader
-        .replace("#include <common>", "#include <common>\nattribute float aBase;\nattribute float aLift;\nuniform float uBuilt;\nuniform float uH;")
-        .replace("#include <begin_vertex>", "#include <begin_vertex>\ntransformed.y = aBase + aLift * uH * uBuilt + (1.0 - aLift) * 0.6 * min(uBuilt * 4.0, 1.0);");
+        .replace(
+          "#include <common>",
+          `#include <common>
+attribute float aBase;
+attribute float aLift;
+attribute float aU;
+uniform float uBuilt, uH, uWear, uSeed, uHead, uTrace;
+varying float vTrace;
+float wallHash(float x) { return fract(sin(x * 91.7 + uSeed) * 43758.5); }`,
+        )
+        .replace(
+          "#include <begin_vertex>",
+          `#include <begin_vertex>
+float wx = aU * 46.0;
+float wn = mix(wallHash(floor(wx)), wallHash(floor(wx) + 1.0), smoothstep(0.0, 1.0, fract(wx)));
+float keep = mix(1.0, mix(0.18, 1.0, smoothstep(0.42, 0.58, wn)), uWear);
+transformed.y = aBase + aLift * uH * uBuilt * keep + (1.0 - aLift) * 0.6 * min(uBuilt * 4.0, 1.0);
+float behind = uHead - aU;
+vTrace = uTrace * step(0.0, behind) * (0.35 + 0.65 * exp(-behind * 30.0));`,
+        );
+      shader.fragmentShader = shader.fragmentShader
+        .replace("#include <common>", "#include <common>\nvarying float vTrace;")
+        .replace("#include <emissivemap_fragment>", "#include <emissivemap_fragment>\ntotalEmissiveRadiance += vec3(0.95, 0.68, 0.25) * vTrace * 0.8;");
     };
     mat.customProgramCacheKey = () => "co-loa-wall";
     const mesh = new THREE.Mesh(wallGeometry(w, o.height, o.quality.lite ? 140 : 280), mat);
@@ -94,8 +126,13 @@ export function createWalls(o: WallsOptions): Actor {
   return {
     object: group,
     update(ctx) {
-      uniforms.forEach((u, k) => (u.value = o.built(k, ctx)));
-      group.children.forEach((m, k) => (m.visible = uniforms[k].value > 0.002));
+      uWear.value = o.wear ? o.wear(ctx) : 0;
+      rings.forEach((r, k) => {
+        r.uBuilt.value = o.built(k, ctx);
+        r.uHead.value = o.traceHead ? o.traceHead(k, ctx) : 0;
+        r.uTrace.value = o.traceOn ? o.traceOn(k, ctx) : 0;
+        group.children[k].visible = r.uBuilt.value > 0.002;
+      });
     },
   };
 }
