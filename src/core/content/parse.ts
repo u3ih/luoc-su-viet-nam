@@ -139,6 +139,7 @@ export function parseStory(source: string, file: string): ChapterText {
     status: data.status === "ready" ? "ready" : "draft",
     disclaimer: data.disclaimer ? String(data.disclaimer) : undefined,
     seal: Array.isArray(data.seal) ? data.seal.map(String) : undefined,
+    heroDrum: data["hero-drum"] === false ? false : undefined,
     lead: lead || beats[0].body[0] || "",
     beats,
     sources,

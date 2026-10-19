@@ -144,6 +144,7 @@ const setup: SceneSetup = async (world) => {
 | `bakeModel(name, { filter, recenter, smooth })` + `getPropMaterial()` | tự làm InstancedMesh có cập nhật mỗi frame (thuyền, cọc…) |
 | `createFires({ sites, lit, glow })` (`world/fire.ts`) | đống lửa, đuốc, lửa hiệu — bật dần theo `order` khi `lit` tăng (lửa khởi nghĩa lan, trại giặc bừng cháy) |
 | `createCrowd({ groups, height, progress, visible, fall? })` (`world/crowd.ts`) | đoàn người, đoàn quân nhìn từ xa (chấm dáng người, không vẽ trang phục/cờ hiệu) đi theo đường gấp khúc, giữ đội hình; `drop` rải dấu vết dọc đường, `mortal` + `fall` cho ngã xuống, `glow` cho ánh sáng huyền thoại — một draw call |
+| `createGlows({ count, color, size, place, visible })` + `timedPath(points, times)` (`world/glows.ts`) | đốm sáng tự do (một draw call): `place(i, ctx, out)` đặt vị trí + độ sáng từng frame; dùng cho nhân vật huyền thoại, điểm hiện vật, dấu mốc — chỉ là ánh sáng, không vẽ hình. `timedPath` đi theo mốc giây |
 | `createBeatClock(world, ids)` (`world/beat-clock.ts`) | đồng hồ riêng từng phân cảnh: `elapsed(id)` giây kể từ khi cuộn tới, `near(id)` độ hiện — để hoạt cảnh diễn trong lúc người xem dừng đọc |
 | `cameraClearance(config.keyframes)` (`world/clearance.ts`) | `nearCam`, `clearOfCam` — không rải cây/đá sát máy quay hay chắn tia nhìn |
 | `createVietnamMap` (`world/vietnam-map.ts`) | bản đồ Việt Nam 3D của trang /lo-trinh (chỉ địa lý; nhãn, mốc là HTML trong `ui/HistoryMap.tsx`) |

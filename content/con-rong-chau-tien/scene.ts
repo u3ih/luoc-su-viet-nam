@@ -16,7 +16,7 @@ import { createHeightTexture, createTerrain, fbm2 } from "@/core/world/terrain";
 import { createWater } from "@/core/world/water";
 import { createChildren } from "./actors/children";
 import { createDrum } from "./actors/drum";
-import { createGlows, timedPath } from "./actors/glows";
+import { createGlows, timedPath } from "@/core/world/glows";
 import config from "./scene.config";
 import { BOUNDS, colorize, height, HILL, KNOLL, mountainness, paddyCell, riverCenter } from "./terrain";
 

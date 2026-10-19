@@ -59,6 +59,8 @@ export type ChapterText = ChapterMeta & {
   disclaimer?: string;
   /** Chữ trên con dấu son ở phần mở đầu (mặc định: chữ đầu của tiêu đề + năm). */
   seal?: string[];
+  /** false = bỏ mặt trống đồng ở phần mở đầu (chương trước thời Đông Sơn). Mặc định: có. */
+  heroDrum?: boolean;
 };
 
 /** Chương / sự kiện kế tiếp theo thời gian (tự tính, xem core/content/load.ts). */

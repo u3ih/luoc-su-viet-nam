@@ -36,6 +36,7 @@ teaser: Một câu giới thiệu, hiện ở trang chủ.
 status: ready                # draft = ẩn khỏi trang chủ; ready = hiện
 disclaimer: Bản thử nghiệm…  # (không bắt buộc) dòng lưu ý cuối chương
 seal: [Bạch, Đằng]           # (không bắt buộc) chữ trên con dấu son; mặc định: chữ đầu tiêu đề + năm
+hero-drum: false             # (không bắt buộc) bỏ mặt trống đồng ở màn mở đầu — dùng cho chương trước thời Đông Sơn
 ---
 ```
 

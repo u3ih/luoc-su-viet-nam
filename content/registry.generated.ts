@@ -10,6 +10,36 @@ export type ChapterEntry = {
 
 /** Các chương, xếp theo thời gian. */
 export const registry: Record<string, ChapterEntry> = {
+  "nui-do": {
+    dir: "nui-do",
+    config: () => import("./nui-do/scene.config"),
+    scene: () => import("./nui-do/scene"),
+  },
+  "son-vi": {
+    dir: "son-vi",
+    config: () => import("./son-vi/scene.config"),
+    scene: () => import("./son-vi/scene"),
+  },
+  "con-moong": {
+    dir: "con-moong",
+    config: () => import("./con-moong/scene.config"),
+    scene: () => import("./con-moong/scene"),
+  },
+  "hoa-binh": {
+    dir: "hoa-binh",
+    config: () => import("./hoa-binh/scene.config"),
+    scene: () => import("./hoa-binh/scene"),
+  },
+  "bac-son": {
+    dir: "bac-son",
+    config: () => import("./bac-son/scene.config"),
+    scene: () => import("./bac-son/scene"),
+  },
+  "quynh-van": {
+    dir: "quynh-van",
+    config: () => import("./quynh-van/scene.config"),
+    scene: () => import("./quynh-van/scene"),
+  },
   "con-rong-chau-tien": {
     dir: "con-rong-chau-tien",
     config: () => import("./con-rong-chau-tien/scene.config"),
