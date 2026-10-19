@@ -160,3 +160,15 @@
   font-size: 13px;
   color: var(--giay-mo);
 }
+
+.src {
+  margin-top: 4px;
+  font-size: 13px;
+  color: var(--giay-mo);
+
+  a {
+    color: var(--vang);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+}

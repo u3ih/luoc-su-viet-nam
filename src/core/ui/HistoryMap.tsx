@@ -5,6 +5,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import type { MapView } from "../world/vietnam-map";
 import css from "./HistoryMap.module.scss";
 import { ReadBadge } from "./ReadProgress";
+import SourceLinks from "./SourceLinks";
 
 export type MapEvent = {
   year: string;
@@ -17,6 +18,8 @@ export type MapEvent = {
   ancient?: string;
   before2025?: string;
   now?: string;
+  /** Link nguồn đọc đầy đủ. */
+  sources: string[];
 };
 /** Một địa danh trên bản đồ, gom mọi sự kiện cùng chỗ. */
 export type MapPin = { id: string; place: string; lat: number; lon: number; events: MapEvent[] };
@@ -451,6 +454,7 @@ export default function HistoryMap({ pins, eras }: { pins: MapPin[]; eras: strin
                           )}
                         </dl>
                       )}
+                      <SourceLinks urls={e.sources} className={css.src} />
                       {e.slug ? (
                         <p className={css.go}>
                           <Link className="btn btn--primary" href={`/chuong/${e.slug}`}>

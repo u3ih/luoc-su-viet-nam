@@ -15,6 +15,7 @@ import { ContentError } from "./parse";
 // `truyen-thuyet` (tuỳ chọn, không cần giá trị): đánh dấu đây là truyền thuyết.
 // `noi`, `toa-do` (tuỳ chọn): địa danh và "vĩ độ, kinh độ" để cắm mốc trên bản đồ.
 // `ten-xua` (tuỳ chọn): tên gọi xưa. `truoc-2025` (tuỳ chọn): địa chỉ trước sắp xếp hành chính 01/7/2025.
+// `nguon` (BẮT BUỘC): các đường link nguồn đọc đầy đủ, cách nhau bằng dấu cách (chỉ nhận http/https).
 // `nay` (tự sinh bởi scripts/geo-dia-chi.py từ toạ độ): địa chỉ hiện nay — đừng sửa tay, chạy lại script.
 
 export type RoadmapEvent = {
@@ -34,6 +35,8 @@ export type RoadmapEvent = {
   now?: string;
   /** [vĩ độ, kinh độ] để cắm mốc trên bản đồ. */
   latLon?: [number, number];
+  /** Link nguồn để người xem đọc bản đầy đủ. */
+  sources: string[];
 };
 export type RoadmapEra = { title: string; intro: string; events: RoadmapEvent[] };
 
@@ -67,7 +70,10 @@ function parseEvent(raw: string): RoadmapEvent {
     if (!(lat > 0 && lat < 30 && lon > 95 && lon < 120)) throw new ContentError(FILE, `sự kiện "${m[2]}": toa-do "${meta["toa-do"]}" sai (cần "vĩ độ, kinh độ")`);
     latLon = [lat, lon];
   }
-  return { year: plain(m[1]), title: plain(m[2]), text: plain(m[3] ?? ""), sortYear, slug, legend: "truyen-thuyet" in meta, place: meta.noi || undefined, latLon, ancient: meta["ten-xua"] || undefined, before2025: meta["truoc-2025"] || undefined, now: meta.nay || undefined };
+  const sources = (meta.nguon ?? "").split(/\s+/).filter(Boolean);
+  if (!sources.length) throw new ContentError(FILE, `sự kiện "${m[2]}" thiếu nguon: (mỗi sự kiện phải có 1–3 link nguồn, xem quy tắc trong AGENTS.md)`);
+  for (const u of sources) if (!/^https?:\/\/\S+$/.test(u)) throw new ContentError(FILE, `sự kiện "${m[2]}": nguon "${u}" không phải link http(s)`);
+  return { sources, year: plain(m[1]), title: plain(m[2]), text: plain(m[3] ?? ""), sortYear, slug, legend: "truyen-thuyet" in meta, place: meta.noi || undefined, latLon, ancient: meta["ten-xua"] || undefined, before2025: meta["truoc-2025"] || undefined, now: meta.nay || undefined };
 }
 
 let cache: RoadmapEra[] | null = null;

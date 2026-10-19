@@ -7,6 +7,7 @@ import MapLoader from "@/core/ui/MapLoader";
 import type { MapPin } from "@/core/ui/HistoryMap";
 import DongSonBand from "@/core/ui/ornaments/DongSonBand";
 import { ReadBadge, ReadSummary } from "@/core/ui/ReadProgress";
+import SourceLinks from "@/core/ui/SourceLinks";
 import TopBar from "@/core/ui/TopBar";
 import { site } from "@/site.config";
 import css from "./page.module.scss";
@@ -41,7 +42,7 @@ export default function RoadmapPage() {
     if (!ev.latLon) continue;
     const key = `${ev.latLon[0].toFixed(2)},${ev.latLon[1].toFixed(2)}`;
     const pin = pins.get(key) ?? { id: key, place: ev.place ?? "", lat: ev.latLon[0], lon: ev.latLon[1], events: [] };
-    pin.events.push({ year: ev.year, title: ev.title, text: ev.text, slug: ev.slug, legend: ev.legend, era: ev.era, ancient: ev.ancient, before2025: ev.before2025, now: ev.now });
+    pin.events.push({ year: ev.year, title: ev.title, text: ev.text, slug: ev.slug, legend: ev.legend, era: ev.era, ancient: ev.ancient, before2025: ev.before2025, now: ev.now, sources: ev.sources });
     pins.set(key, pin);
   }
 
@@ -86,6 +87,7 @@ export default function RoadmapPage() {
                           {e.now && <span>Hiện nay: {e.now}</span>}
                         </p>
                       )}
+                      <SourceLinks urls={e.sources} className={css.src} />
                       <p className={css.meta}>
                         {e.place && <span>{e.place}</span>}
                         {e.slug ? (

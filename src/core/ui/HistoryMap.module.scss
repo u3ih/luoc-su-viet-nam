@@ -406,3 +406,15 @@ $stage-h: min(78svh, 760px);
     color: inherit;
   }
 }
+
+.src {
+  margin-top: 8px;
+  font-size: 12px;
+  color: var(--giay-mo);
+
+  a {
+    color: var(--vang);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+}
