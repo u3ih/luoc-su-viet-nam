@@ -172,3 +172,75 @@
     text-underline-offset: 2px;
   }
 }
+
+// bộ lọc khoảng năm + tỉnh/thành
+.filter {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 14px 18px;
+  padding: 0 clamp(16px, 8vw, 140px) 22px;
+
+  @include phone {
+    padding: 0 12px 18px;
+  }
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 13px;
+  color: var(--giay-mo);
+
+  input,
+  select {
+    height: 38px;
+    padding: 0 10px;
+    font: inherit;
+    font-size: 14px;
+    color: var(--giay);
+    background: var(--then);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+
+    &:focus-visible {
+      outline: 2px solid var(--vang);
+      outline-offset: 1px;
+    }
+  }
+}
+
+.yearIn {
+  display: flex;
+  gap: 6px;
+
+  input {
+    width: 112px;
+  }
+}
+
+.count {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  height: 38px;
+  font-size: 13px;
+  color: var(--giay-mo);
+}
+
+.clear {
+  padding: 4px 12px;
+  font: inherit;
+  font-size: 12px;
+  color: var(--vang-nhat);
+  background: none;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.empty {
+  padding: 24px 0;
+  color: var(--giay-mo);
+}
