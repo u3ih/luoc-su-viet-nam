@@ -1,0 +1,38 @@
+{
+  "mo-dau": {
+    "hash": "429c4950388c2005",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "loan": {
+    "hash": "4362589a68ae99d0",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "hoa-lu": {
+    "hash": "0b7de8fce8259fb5",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "co-lau": {
+    "hash": "cbfd0c2f5e2c5ba6",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "dep-loan": {
+    "hash": "9ad1bc5005e1a040",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "dep-loan.xong": {
+    "hash": "ffa6d0eff5fd26b1",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "xung-de": {
+    "hash": "2e2932bb8199e368",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "trieu-dinh": {
+    "hash": "63c7a16cbfe0d02c",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "ket": {
+    "hash": "52e01dc17dc54eab",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  }
+}

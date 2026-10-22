@@ -152,6 +152,7 @@ const setup: SceneSetup = async (world) => {
 | `createRivers(rivers, wiggle)` (`world/rivers.ts`) | `riverDist`, `bankDist` cho sông dạng đường gấp khúc — dùng trong `terrain.ts` thay vì tự viết lại |
 | `shot(focus, az, dist, camH, side)` (`core/shot.ts`) | dựng `cam`/`look`/`focus` cho keyframe: chủ thể rơi vào nửa màn hình không có chữ, màn dọc nhìn thẳng vào chủ thể |
 | `createVietnamMap` (`world/vietnam-map.ts`) | bản đồ Việt Nam 3D của trang /lo-trinh (chỉ địa lý; nhãn, mốc là HTML trong `ui/HistoryMap.tsx`) |
+| `createStakeField({ lines, height, top, built, toward })` (`world/stakes.ts`) | bãi cọc ngầm dưới lòng sông (model `coc`), trồi dần theo `built` 0 → 1, mũi nghiêng về phía thuyền địch — trận Bạch Đằng 981, 1288 |
 | `mulberry32(seed)` | số ngẫu nhiên có seed — **luôn dùng thay `Math.random`** để cảnh lần nào cũng giống nhau |
 
 ### Hiệu năng — ngân sách bắt buộc
