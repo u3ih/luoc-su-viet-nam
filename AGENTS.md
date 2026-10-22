@@ -153,6 +153,7 @@ const setup: SceneSetup = async (world) => {
 | `shot(focus, az, dist, camH, side)` (`core/shot.ts`) | dựng `cam`/`look`/`focus` cho keyframe: chủ thể rơi vào nửa màn hình không có chữ, màn dọc nhìn thẳng vào chủ thể |
 | `createVietnamMap` (`world/vietnam-map.ts`) | bản đồ Việt Nam 3D của trang /lo-trinh (chỉ địa lý; nhãn, mốc là HTML trong `ui/HistoryMap.tsx`) |
 | `createStakeField({ lines, height, top, built, toward })` (`world/stakes.ts`) | bãi cọc ngầm dưới lòng sông (model `coc`), trồi dần theo `built` 0 → 1, mũi nghiêng về phía thuyền địch — trận Bạch Đằng 981, 1288 |
+| `createWalls({ walls, height, built, wear, colors })` (`world/walls.ts`) | vòng thành khép kín (thành đất Cổ Loa, thành đá Tây Đô): dải mặt cắt hình thang theo đường tim `at(a)`, đắp lên theo `built` 0 → 1, mòn theo `wear`, `gates` để trống cửa thành; vệt sáng chạy quanh thành (`traceHead`/`traceOn`). Chỉ dựng khối tường theo mặt bằng, không vẽ chi tiết kiến trúc |
 | `mulberry32(seed)` | số ngẫu nhiên có seed — **luôn dùng thay `Math.random`** để cảnh lần nào cũng giống nhau |
 
 ### Hiệu năng — ngân sách bắt buộc

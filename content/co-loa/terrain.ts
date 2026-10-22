@@ -1,6 +1,7 @@
 import * as THREE from "three";
 import { clamp, lerp, smoothstep } from "@/core/engine/math";
 import { fbm2, noise2, type HeightBounds } from "@/core/world/terrain";
+import type { Wall } from "@/core/world/walls";
 
 // Cổ Loa (cách điệu, thu nhỏ khoảng 1/6): đồng bằng phẳng, sông Hoàng chảy phía đông, ba vòng thành đất.
 // Tỉ lệ chu vi ba vòng theo số liệu khảo cổ: ngoài ~8 km, giữa ~6,5 km, trong ~1,6 km (vòng trong gần chữ nhật).
@@ -9,14 +10,6 @@ import { fbm2, noise2, type HeightBounds } from "@/core/world/terrain";
 export const BOUNDS: HeightBounds = { minX: -360, minZ: -360, sizeX: 720, sizeZ: 720, minH: -6, maxH: 60 };
 export const WATER = 0.2;
 
-export type Wall = {
-  /** Điểm trên đường tim thành theo góc (rad) — trả [x, z]. */
-  at: (a: number) => [number, number];
-  /** Bề rộng chân, mặt thành và chiều cao (m, đã thu nhỏ). */
-  base: number;
-  top: number;
-  height: number;
-};
 
 const radial = (cx: number, cz: number, R: number, k: number, seed: number) => (a: number): [number, number] => {
   const r = R * (1 + k * Math.sin(2 * a + seed) + k * 0.6 * Math.sin(3 * a + seed * 2.1) + k * 0.4 * (noise2(Math.cos(a) * 2 + seed, Math.sin(a) * 2) - 0.5));

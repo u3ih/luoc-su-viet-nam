@@ -110,4 +110,34 @@ export const registry: Record<string, ChapterEntry> = {
     config: () => import("./bach-dang-1288/scene.config"),
     scene: () => import("./bach-dang-1288/scene"),
   },
+  "nha-ho-1400": {
+    dir: "nha-ho-1400",
+    config: () => import("./nha-ho-1400/scene.config"),
+    scene: () => import("./nha-ho-1400/scene"),
+  },
+  "hau-tran-1408": {
+    dir: "hau-tran-1408",
+    config: () => import("./hau-tran-1408/scene.config"),
+    scene: () => import("./hau-tran-1408/scene"),
+  },
+  "lam-son-1418": {
+    dir: "lam-son-1418",
+    config: () => import("./lam-son-1418/scene.config"),
+    scene: () => import("./lam-son-1418/scene"),
+  },
+  "tot-dong-1426": {
+    dir: "tot-dong-1426",
+    config: () => import("./tot-dong-1426/scene.config"),
+    scene: () => import("./tot-dong-1426/scene"),
+  },
+  "chi-lang-1427": {
+    dir: "chi-lang-1427",
+    config: () => import("./chi-lang-1427/scene.config"),
+    scene: () => import("./chi-lang-1427/scene"),
+  },
+  "binh-ngo-1428": {
+    dir: "binh-ngo-1428",
+    config: () => import("./binh-ngo-1428/scene.config"),
+    scene: () => import("./binh-ngo-1428/scene"),
+  },
 };

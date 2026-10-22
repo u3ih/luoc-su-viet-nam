@@ -13,8 +13,8 @@ import { createGrass } from "@/core/world/grass";
 import { createProps, scatter } from "@/core/world/props";
 import { createHeightTexture, createTerrain, fbm2 } from "@/core/world/terrain";
 import { createWater } from "@/core/world/water";
+import { createWalls } from "@/core/world/walls";
 import { createBolt } from "./actors/bolt";
-import { createWalls } from "./actors/walls";
 import config from "./scene.config";
 import { BOUNDS, colorize, height, outsideCity, paddyCell, riverCenter, wallDistance, WALLS, WATER } from "./terrain";
 
