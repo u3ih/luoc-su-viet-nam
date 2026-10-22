@@ -40,10 +40,25 @@ export const registry: Record<string, ChapterEntry> = {
     config: () => import("./quynh-van/scene.config"),
     scene: () => import("./quynh-van/scene"),
   },
+  "phung-nguyen": {
+    dir: "phung-nguyen",
+    config: () => import("./phung-nguyen/scene.config"),
+    scene: () => import("./phung-nguyen/scene"),
+  },
+  "dong-dau": {
+    dir: "dong-dau",
+    config: () => import("./dong-dau/scene.config"),
+    scene: () => import("./dong-dau/scene"),
+  },
   "con-rong-chau-tien": {
     dir: "con-rong-chau-tien",
     config: () => import("./con-rong-chau-tien/scene.config"),
     scene: () => import("./con-rong-chau-tien/scene"),
+  },
+  "dong-son": {
+    dir: "dong-son",
+    config: () => import("./dong-son/scene.config"),
+    scene: () => import("./dong-son/scene"),
   },
   "co-loa": {
     dir: "co-loa",

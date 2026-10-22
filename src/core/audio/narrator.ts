@@ -20,6 +20,11 @@ let audio: HTMLAudioElement | null = null;
 /** Mỗi lần speak/stop tăng lên — sự kiện của lượt đọc cũ (bị huỷ) không được báo "đã đọc xong". */
 let generation = 0;
 let keepAlive: ReturnType<typeof setInterval> | undefined;
+/** Hẹn giờ "đọc thầm" khi cả file audio lẫn giọng máy đều không phát được. */
+let fallbackTimer: ReturnType<typeof setTimeout> | undefined;
+
+/** Thời gian đọc ước lượng (~2,6 tiếng/giây, cộng một nhịp nghỉ) — dùng khi không phát được tiếng. */
+export const readingMs = (text: string) => 1200 + text.split(/\s+/).filter(Boolean).length * 380;
 
 const isVietnamese = (v: SpeechSynthesisVoice) => /^vi([-_]|$)/i.test(v.lang) || /vietnam|tiếng việt/i.test(v.name);
 
@@ -71,10 +76,28 @@ export function loadVoice(): Promise<SpeechSynthesisVoice | null> {
   });
 }
 
+/** WAV im lặng ~0,01 s — chỉ để "mở khoá" phần tử audio bằng một lần chạm của người dùng. */
+const SILENT = "data:audio/wav;base64,UklGRiQAAABXQVZFZm10IBAAAAABAAEAQB8AAEAfAAABAAgAZGF0YQAAAAA=";
+
+/**
+ * Gọi ĐỒNG BỘ trong sự kiện bấm "Nghe kể". Safari/iOS chỉ cho phát tiếng khi lệnh play() nằm trong lần chạm của người dùng,
+ * và phần tử audio đã được mở khoá thì các lần phát sau (chế độ tự cuộn sang phân cảnh mới, không có lần chạm nào) mới được phép.
+ */
+export function primeAudio() {
+  audio ??= new Audio();
+  audio.onended = audio.onerror = null;
+  audio.src = SILENT;
+  void audio.play().catch(() => {});
+}
+
 export function stop() {
   generation++;
   clearInterval(keepAlive);
-  audio?.pause();
+  clearTimeout(fallbackTimer);
+  if (audio) {
+    audio.onended = audio.onerror = null;
+    audio.pause();
+  }
   if (ttsSupported()) speechSynthesis.cancel();
 }
 
@@ -85,7 +108,9 @@ function sentences(text: string) {
 
 /**
  * Đọc `text` (hoặc phát `audioSrc`). Gọi `onEnd` khi đọc hết — không gọi nếu bị huỷ giữa chừng.
- * Trả `false` nếu không đọc được (không có giọng tiếng Việt).
+ * Luôn tìm được cách "kể xong" để chế độ tự cuộn không bị kẹt: file audio hỏng hoặc bị chặn phát (autoplay)
+ * thì đọc bằng giọng máy; máy không có giọng tiếng Việt thì hẹn giờ theo độ dài chữ.
+ * Trả `false` nếu không phát được tiếng nào (không có audio, không có giọng tiếng Việt) và chưa hẹn giờ.
  */
 export function speak(text: string, audioSrc?: string, onEnd?: () => void): boolean {
   stop();
@@ -93,40 +118,50 @@ export function speak(text: string, audioSrc?: string, onEnd?: () => void): bool
   const finish = () => {
     if (gen !== generation) return;
     clearInterval(keepAlive);
+    clearTimeout(fallbackTimer);
     onEnd?.();
   };
+  const viaVoice = (): boolean => {
+    const voice = ttsSupported() ? currentVoice() : null;
+    if (!voice) return false;
+    const parts = sentences(speakable(text));
+    parts.forEach((s, i) => {
+      const u = new SpeechSynthesisUtterance(s);
+      u.voice = voice;
+      u.lang = "vi-VN";
+      u.rate = 0.92;
+      if (i === parts.length - 1) {
+        u.onend = finish;
+        u.onerror = (e) => {
+          // "interrupted"/"canceled" = do chính ta huỷ; lỗi khác thì vẫn cho câu chuyện đi tiếp
+          if (e.error !== "interrupted" && e.error !== "canceled") finish();
+        };
+      }
+      speechSynthesis.speak(u);
+    });
+    if (!parts.length) queueMicrotask(finish);
+    // Chrome (giọng online) tự dừng hàng đợi sau ~15 s nếu không "đánh thức" — pause/resume định kỳ
+    if (!voice.localService) {
+      keepAlive = setInterval(() => {
+        if (!speechSynthesis.speaking) return;
+        speechSynthesis.pause();
+        speechSynthesis.resume();
+      }, 10000);
+    }
+    return true;
+  };
   if (audioSrc) {
+    const fallback = () => {
+      if (gen !== generation) return;
+      audio?.pause();
+      if (!viaVoice()) fallbackTimer = setTimeout(finish, readingMs(text));
+    };
     audio ??= new Audio();
-    audio.src = audioSrc;
     audio.onended = finish;
-    void audio.play().catch(() => {});
+    audio.onerror = fallback;
+    audio.src = audioSrc;
+    audio.play().catch(fallback);
     return true;
   }
-  const voice = ttsSupported() ? currentVoice() : null;
-  if (!voice) return false;
-  const parts = sentences(speakable(text));
-  parts.forEach((s, i) => {
-    const u = new SpeechSynthesisUtterance(s);
-    u.voice = voice;
-    u.lang = "vi-VN";
-    u.rate = 0.92;
-    if (i === parts.length - 1) {
-      u.onend = finish;
-      u.onerror = (e) => {
-        // "interrupted"/"canceled" = do chính ta huỷ; lỗi khác thì vẫn cho câu chuyện đi tiếp
-        if (e.error !== "interrupted" && e.error !== "canceled") finish();
-      };
-    }
-    speechSynthesis.speak(u);
-  });
-  if (!parts.length) queueMicrotask(finish);
-  // Chrome (giọng online) tự dừng hàng đợi sau ~15 s nếu không "đánh thức" — pause/resume định kỳ
-  if (!voice.localService) {
-    keepAlive = setInterval(() => {
-      if (!speechSynthesis.speaking) return;
-      speechSynthesis.pause();
-      speechSynthesis.resume();
-    }, 10000);
-  }
-  return true;
+  return viaVoice();
 }

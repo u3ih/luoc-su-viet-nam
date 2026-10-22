@@ -531,6 +531,9 @@ main {
   list-style: none;
   font-size: 14px;
   color: var(--giay-mo);
+  /* URL nguồn rất dài không có chỗ ngắt: nếu không cho bẻ dòng, thẻ cuối chương rộng hơn màn hình, trình duyệt điện thoại
+     nới khung nhìn ra và đẩy thanh trên (nút "Nghe kể") ra ngoài màn hình */
+  overflow-wrap: anywhere;
 }
 .next {
   margin-top: 26px;

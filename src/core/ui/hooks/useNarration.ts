@@ -1,12 +1,9 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-import { loadVoice, speak, stop, ttsSupported } from "../../audio/narrator";
+import { loadVoice, primeAudio, readingMs, speak, stop, ttsSupported } from "../../audio/narrator";
 
 type VoiceStatus = "idle" | "ok" | "missing";
-
-/** Thời gian đọc ước lượng khi máy không có giọng tiếng Việt (~2,6 tiếng/giây, cộng một nhịp nghỉ). */
-const readingMs = (text: string) => 1200 + text.split(/\s+/).filter(Boolean).length * 380;
 
 /**
  * Bật/tắt giọng kể; tự đọc `text` mỗi khi nó đổi và gọi `onEnd` khi đọc xong (để tự cuộn sang phân cảnh sau).
@@ -21,7 +18,8 @@ export function useNarration(text: string, audio: string | undefined, onEnd: () 
     endRef.current = onEnd;
   });
 
-  useEffect(() => setSupported(ttsSupported()), []);
+  // phát được file audio thu sẵn là đủ — không cần giọng máy (vài trình duyệt trong ứng dụng không có speechSynthesis)
+  useEffect(() => setSupported(ttsSupported() || typeof Audio !== "undefined"), []);
   useEffect(() => {
     if (!on || voice === "idle") return;
     const done = () => endRef.current();
@@ -37,8 +35,15 @@ export function useNarration(text: string, audio: string | undefined, onEnd: () 
       setOn(false);
       return;
     }
+    primeAudio();
     setOn(true);
-    if (voice === "idle") setVoice((await loadVoice()) ? "ok" : "missing");
+    if (voice !== "idle") return;
+    // Có file audio thu sẵn thì phát ngay, không chờ trình duyệt nạp danh sách giọng (có thể mất tới 2,5 s);
+    // vẫn nạp ngầm để các phân cảnh chưa có audio còn dùng được giọng máy.
+    if (audio) {
+      setVoice("ok");
+      void loadVoice();
+    } else setVoice((await loadVoice()) ? "ok" : "missing");
   }
 
   return { on, toggle, supported, missing: on && voice === "missing" && !audio };

@@ -1,0 +1,42 @@
+{
+  "mo-dau": {
+    "hash": "f36334d5588d35ff",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "au-lac": {
+    "hash": "92da59b292cc9f74",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "dap-thanh": {
+    "hash": "5cba05c0d2279959",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "dap-thanh.xong": {
+    "hash": "04cedf84c2188c8f",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "ba-vong-thanh": {
+    "hash": "eced465663d96c94",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "no-than": {
+    "hash": "ee458c66854aa526",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "my-chau": {
+    "hash": "4e1775dc23b5d191",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "mat-nuoc": {
+    "hash": "fcde1646f6f08f6b",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "bac-thuoc": {
+    "hash": "870a6afce07a2eee",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "hom-nay": {
+    "hash": "4b101fc8ee9d4624",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  }
+}

@@ -43,3 +43,7 @@ blender/.raw/
 
 # dữ liệu OpenStreetMap thô (scripts/geo-osm.mjs)
 /.geo-cache/
+
+# giọng kể: môi trường Python + mô hình VieNeu-TTS tải về (scripts/tts.mjs)
+/.tts-venv/
+/.tts-cache/
