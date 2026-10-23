@@ -2,6 +2,7 @@ import { statSync } from "node:fs";
 import { join } from "node:path";
 import type { MetadataRoute } from "next";
 import { listChapters } from "@/core/content/load";
+import { ogImage } from "@/core/content/seo";
 import { site } from "@/site.config";
 
 // /sitemap.xml — nộp lên Google Search Console. Ngày sửa lấy theo file nội dung lúc build.
@@ -23,7 +24,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: modified(`${c.dir}/story.md`),
       changeFrequency: "monthly" as const,
       priority: 0.8,
-      images: [`${site.url}/og/${c.slug}.jpg`],
+      images: [`${site.url}${ogImage(c.slug)}`],
     })),
   ];
 }

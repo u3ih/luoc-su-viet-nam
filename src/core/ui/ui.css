@@ -577,6 +577,11 @@ main {
   opacity: 0.8;
 }
 
+.disclaimer--ai {
+  font-size: 13px;
+  opacity: 1;
+}
+
 /* ---------- Trang chủ ---------- */
 .home {
   min-height: 100vh;

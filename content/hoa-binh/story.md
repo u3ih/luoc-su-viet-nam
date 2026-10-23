@@ -5,7 +5,7 @@ year: 20.000 – 7.000 năm trước
 sortYear: -12000
 era: Thời tiền sử
 teaser: Dưới những mái đá vôi ở vùng núi Hoà Bình, các nhà khảo cổ tìm thấy công cụ làm từ hòn cuội, vỏ ốc, xương thú và cả nơi yên nghỉ của người xưa.
-status: draft
+status: ready
 seal: [Hoà, Bình]
 hero-drum: false
 disclaimer: Bản thử nghiệm. Nội dung đang chờ chuyên gia khảo cổ học thẩm định; niên đại, phạm vi và cách gọi tên "văn hoá Hoà Bình" còn khác nhau giữa các nguồn. Hình ảnh trong cảnh chỉ mang tính gợi ý, không phải bản dựng lại hiện vật, nơi cư trú hay di cốt. Giọng đọc do máy tổng hợp.

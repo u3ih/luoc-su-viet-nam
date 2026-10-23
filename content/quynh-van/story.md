@@ -5,7 +5,7 @@ year: 6.000 – 3.500 năm trước
 sortYear: -4000
 era: Thời tiền sử
 teaser: Ven biển Nghệ An và Hà Tĩnh, những cư dân xưa sống bằng nhuyễn thể, để lại các đống vỏ sò dày nhiều mét với bếp lửa, công cụ và mộ táng.
-status: draft
+status: ready
 seal: [Quỳnh, Văn]
 hero-drum: false
 disclaimer: Bản thử nghiệm. Nội dung đang chờ chuyên gia khảo cổ học thẩm định; niên đại, số di tích và một số chi tiết đời sống còn khác nhau giữa các nguồn. Hình ảnh trong cảnh chỉ mang tính gợi ý, không phải bản dựng lại hiện vật hay di cốt. Giọng đọc do máy tổng hợp.

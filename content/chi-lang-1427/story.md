@@ -5,7 +5,7 @@ year: "1427"
 sortYear: 1427
 era: Thuộc Minh
 teaser: Hai đạo viện binh lớn của nhà Minh kéo sang cứu Đông Quan; nghĩa quân Lam Sơn chặn đánh ở ải Chi Lăng rồi vây diệt trên cánh đồng Xương Giang.
-status: draft
+status: ready
 seal: [Chi, Lăng]
 hero-drum: false
 disclaimer: Bản thử nghiệm. Quân số, ngày tháng và thiệt hại được các nguồn ghi khác nhau; cảnh 3D chỉ gợi ý, không phải bản đồ chiến dịch, không vẽ thành Xương Giang. Nội dung đang chờ chuyên gia sử học thẩm định. Giọng đọc do máy tổng hợp.

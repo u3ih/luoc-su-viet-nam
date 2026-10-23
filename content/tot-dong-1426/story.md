@@ -5,7 +5,7 @@ year: "1426"
 sortYear: 1426
 era: Thuộc Minh
 teaser: Vương Thông đem đại quân ra khỏi thành Đông Quan định đánh một trận lớn, nhưng sa vào trận mai phục giữa đồng lầy Tốt Động, Chúc Động.
-status: draft
+status: ready
 seal: [Tốt, Động]
 hero-drum: false
 disclaimer: Bản thử nghiệm. Quân số và thiệt hại được các nguồn Việt và Trung Quốc ghi rất khác nhau; cảnh 3D chỉ gợi ý, không phải bản đồ trận đánh, không vẽ thành Đông Quan. Nội dung đang chờ chuyên gia sử học thẩm định. Giọng đọc do máy tổng hợp.

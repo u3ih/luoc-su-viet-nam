@@ -5,7 +5,7 @@ year: Thời đồ đá cũ
 sortYear: -300000
 era: Thời tiền sử · Sơ kỳ đá cũ
 teaser: Trên một quả núi đá thấp bên sông Chu, các nhà khảo cổ tìm thấy những công cụ đá ghè đẽo thô sơ — dấu vết người xưa nhất được nhắc tới trong lược sử này, và tuổi của nó vẫn còn tranh luận.
-status: draft
+status: ready
 seal: [Núi, Đọ]
 hero-drum: false
 disclaimer: Bản thử nghiệm. Niên đại núi Đọ còn tranh luận giữa các nhà nghiên cứu. Cảnh 3D chỉ mang tính gợi ý, không phải phục dựng cảnh quan hay đời sống thời đồ đá cũ. Nội dung đang chờ chuyên gia khảo cổ học thẩm định. Giọng đọc do máy tổng hợp.

@@ -5,7 +5,7 @@ year: Đồ đá cũ muộn
 sortYear: -20000
 era: Thời đại đá cũ (hậu kỳ)
 teaser: Những nhóm người săn bắt, hái lượm trên đồi trung du và thềm sông Bắc Bộ, để lại những hòn cuội ghè đẽo.
-status: draft
+status: ready
 seal: [Sơn, Vi]
 hero-drum: false
 disclaimer: Bản thử nghiệm. Niên đại và nhiều chi tiết của văn hoá Sơn Vi vẫn còn được các nhà khảo cổ thảo luận; nội dung đang chờ chuyên gia khảo cổ học thẩm định. Hình ảnh trong cảnh chỉ mang tính gợi ý, không phải bản dựng lại có tư liệu. Giọng đọc do máy tổng hợp.

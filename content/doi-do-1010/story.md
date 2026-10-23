@@ -5,7 +5,7 @@ year: "1010"
 sortYear: 1010
 era: Nhà Lý
 teaser: Lý Công Uẩn rời Hoa Lư núi non chật hẹp, đưa kinh đô ra thành Đại La bên sông Hồng và đặt tên là Thăng Long.
-status: draft
+status: ready
 seal: [Thăng, Long]
 hero-drum: false
 disclaimer: Bản thử nghiệm. Cảnh 3D chỉ mang tính gợi ý, không phải phục dựng Hoa Lư, Đại La hay thành Thăng Long thật. Nội dung đang chờ chuyên gia sử học thẩm định. Giọng đọc do máy tổng hợp.

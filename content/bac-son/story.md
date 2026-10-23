@@ -5,7 +5,7 @@ year: Khoảng 12.000 – 5.000 năm trước
 sortYear: -8000
 era: Thời tiền sử · Thời đại đá mới
 teaser: Trong các hang động của vùng núi đá vôi Bắc Sơn, Lạng Sơn, các nhà khảo cổ tìm thấy những chiếc rìu đá chỉ mài ở phần lưỡi — dấu vết của một nền văn hoá thuộc thời đại đá mới.
-status: draft
+status: ready
 seal: [Bắc, Sơn]
 hero-drum: false
 disclaimer: Bản thử nghiệm. Niên đại và nhiều chi tiết của văn hoá Bắc Sơn vẫn còn được các nhà khảo cổ thảo luận; nội dung đang chờ chuyên gia khảo cổ học thẩm định. Cảnh 3D chỉ mang tính gợi ý, không phải phục dựng cảnh quan, hiện vật hay đời sống người xưa. Giọng đọc do máy tổng hợp.

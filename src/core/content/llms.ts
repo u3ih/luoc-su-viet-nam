@@ -14,7 +14,7 @@ export function llmsIndex() {
   return [
     `# ${site.name}`,
     "",
-    `> ${site.description} Dự án cộng đồng, mã nguồn mở; nội dung tiếng Việt theo giấy phép ${site.license.content.name}. Mỗi chương kể một sự kiện bằng cảnh 3D tương tác, có ghi nguồn sử liệu; phần truyền thuyết được ghi rõ là truyền thuyết.`,
+    `> ${site.description} Dự án cộng đồng, mã nguồn mở; nội dung tiếng Việt theo giấy phép ${site.license.content.name}. Mỗi chương kể một sự kiện bằng cảnh 3D tương tác, có ghi nguồn sử liệu; phần truyền thuyết được ghi rõ là truyền thuyết. ${site.aiNotice}`,
     "",
     "## Các chương (theo thời gian)",
     "",
@@ -44,6 +44,7 @@ export async function llmsFull() {
       if (b.note) out.push(`> **${b.note.title}** — ${b.note.text}`, "");
       if (b.quote) out.push(`> ${b.quote.text} — ${b.quote.cite}${b.quote.paraphrase ? " (diễn ý)" : ""}`, "");
     }
+    out.push(`_${site.aiNotice}_`, "");
     if (c.disclaimer) out.push(`_${c.disclaimer}_`, "");
     out.push("Nguồn tham khảo:", "", ...c.sources.map((s) => `- ${s}`), "");
   }

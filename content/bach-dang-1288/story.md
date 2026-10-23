@@ -5,7 +5,7 @@ year: "1288"
 sortYear: 1288
 era: Nhà Trần
 teaser: Ba thế kỷ sau Ngô Quyền, Trần Hưng Đạo dùng lại kế cọc ngầm và con nước trên sông Bạch Đằng, đánh tan đoàn thuyền quân Nguyên.
-status: draft
+status: ready
 seal: [Bạch, Đằng]
 hero-drum: false
 disclaimer: Bản thử nghiệm. Số liệu thiệt hại và vị trí bãi cọc chính các nguồn còn tranh luận; cảnh 3D chỉ gợi ý, không phải bản đồ trận đánh. Nội dung đang chờ chuyên gia sử học thẩm định. Giọng đọc do máy tổng hợp.
