@@ -5,7 +5,7 @@ year: Khoảng 4.000 năm trước
 sortYear: -2000
 era: Sơ kỳ thời đại đồ đồng
 teaser: Những xóm làng trên doi đất cao ven sông Hồng, nơi cư dân làm gốm, mài đá, khoan vòng và bắt đầu biết đến đồng.
-status: draft
+status: ready
 seal: [Phùng, Nguyên]
 hero-drum: false
 disclaimer: Bản thử nghiệm. Niên đại và nhiều chi tiết của văn hoá Phùng Nguyên được các nguồn nêu hơi khác nhau; nội dung đang chờ chuyên gia khảo cổ học thẩm định. Hình ảnh trong cảnh chỉ mang tính gợi ý, không phải bản dựng lại có tư liệu. Cảnh không vẽ nhà ở, trang phục, hoa văn gốm hay hình dáng hiện vật. Giọng đọc do máy tổng hợp.

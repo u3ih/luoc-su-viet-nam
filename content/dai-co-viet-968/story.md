@@ -5,7 +5,7 @@ year: "968"
 sortYear: 968
 era: Nhà Đinh
 teaser: Sau thời loạn mười hai sứ quân, Đinh Bộ Lĩnh từ Hoa Lư dẹp yên đất nước, lên ngôi hoàng đế và đặt quốc hiệu Đại Cồ Việt.
-status: draft
+status: ready
 seal: [Đại, Cồ Việt]
 disclaimer: Bản thử nghiệm. Cảnh 3D chỉ mang tính gợi ý, không phải phục dựng địa hình hay cung điện Hoa Lư thật. Nội dung đang chờ chuyên gia sử học thẩm định. Giọng đọc do máy tổng hợp.
 ---

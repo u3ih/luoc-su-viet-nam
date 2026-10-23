@@ -7,6 +7,8 @@ export const site = {
   /** Repo GitHub — dùng cho link "Đọc bản chữ" / "Sửa trên GitHub". */
   repo: "https://github.com/u3ih/luoc-su-viet-nam",
   branch: "main",
+  /** Lưu ý hiện ở cuối mọi trang chương và trong llms*.txt — luôn có, không phụ thuộc story.md. */
+  aiNotice: "Nội dung do AI tổng hợp từ nhiều nguồn, chưa được chuyên gia kiểm chứng. Hãy đối chiếu với nguồn tham khảo ở trên trước khi trích dẫn.",
   license: {
     code: { name: "MIT", url: "https://opensource.org/license/mit" },
     content: { name: "CC BY-SA 4.0", url: "https://creativecommons.org/licenses/by-sa/4.0/" },

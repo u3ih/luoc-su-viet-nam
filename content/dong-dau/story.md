@@ -5,7 +5,7 @@ year: Khoảng 3.500 năm trước
 sortYear: -1250
 era: Trung kỳ thời đại đồ đồng
 teaser: Làng xóm trên đồi gò thấp ven đầm hồ, nơi lò đúc đồng bốc lửa và đồ đồng bắt đầu trở thành nghề quan trọng nhất.
-status: draft
+status: ready
 seal: [Đồng, Đậu]
 hero-drum: false
 disclaimer: Bản thử nghiệm. Nội dung đang chờ chuyên gia khảo cổ học thẩm định. Hình ảnh trong cảnh chỉ mang tính gợi ý, không phải bản dựng lại có tư liệu. Cảnh không vẽ nhà ở, trang phục, hình dáng đồ đồng, đồ gốm hay hoa văn. Giọng đọc do máy tổng hợp.

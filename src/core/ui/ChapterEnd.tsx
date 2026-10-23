@@ -40,6 +40,9 @@ export default function ChapterEnd({ chapter, textUrl, editUrl }: { chapter: Cha
         <Link href="/lo-trinh">Lộ trình lịch sử</Link>
         <Link href="/">Các chương khác</Link>
       </div>
+      <p className="disclaimer disclaimer--ai" role="note">
+        {site.aiNotice}
+      </p>
       {chapter.disclaimer && <p className="disclaimer">{chapter.disclaimer}</p>}
       <p className="disclaimer">
         Nội dung theo giấy phép{" "}

@@ -5,7 +5,7 @@ year: Thế kỷ VII TCN – I
 sortYear: -690
 era: Cuối thời đại đồng thau, đầu thời đại sắt
 teaser: Gần một nghìn năm của những người làm ruộng nước, đúc đồng và đúc trống, trải từ sông Hồng, sông Mã tới sông Cả.
-status: draft
+status: ready
 seal: [Đông, Sơn]
 disclaimer: Bản thử nghiệm. Niên đại và cách diễn giải văn hoá Đông Sơn còn được các nhà khảo cổ thảo luận; nội dung đang chờ chuyên gia khảo cổ học thẩm định. Hình ảnh trong cảnh chỉ mang tính gợi ý, không phải bản dựng lại có tư liệu. Cảnh không vẽ nhà ở, thuyền, trang phục, trống đồng hay hoa văn trên đồ đồng. Riêng mặt trống ở màn mở đầu là bản vẽ lại hiện vật Ngọc Lũ có giấy phép công khai (Wikimedia Commons, phạm vi công cộng). Giọng đọc do máy tổng hợp.
 ---

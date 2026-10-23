@@ -5,7 +5,7 @@ year: "1075 – 1077"
 sortYear: 1077
 era: Nhà Lý · Lý Thường Kiệt
 teaser: Lý Thường Kiệt đánh trước để phá thế chuẩn bị của quân Tống, rồi dựng phòng tuyến sông Như Nguyệt chặn đường tiến của quân Tống.
-status: draft
+status: ready
 seal: [Như, Nguyệt]
 hero-drum: false
 disclaimer: Bản thử nghiệm. Số liệu quân số và nhiều chi tiết diễn biến các nguồn chép khác nhau; cảnh 3D chỉ gợi ý hành trình chung, không phải bản đồ trận đánh. Nội dung đang chờ chuyên gia sử học thẩm định. Giọng đọc do máy tổng hợp.

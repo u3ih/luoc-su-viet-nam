@@ -5,7 +5,7 @@ year: 15.000 – 7.000 năm trước
 sortYear: -14000
 era: Thời tiền sử
 teaser: Trong lòng một ngọn núi đá vôi ở Thanh Hoá, nhiều lớp đất xếp chồng lên nhau, mỗi lớp giữ dấu vết của những người từng sống nơi đây.
-status: draft
+status: ready
 seal: [Con, Moong]
 hero-drum: false
 disclaimer: Bản thử nghiệm. Nội dung đang chờ chuyên gia khảo cổ học thẩm định; niên đại và số lớp địa tầng còn khác nhau giữa các nguồn. Hình ảnh trong cảnh chỉ mang tính gợi ý, không phải bản dựng lại hiện vật hay di cốt. Giọng đọc do máy tổng hợp.

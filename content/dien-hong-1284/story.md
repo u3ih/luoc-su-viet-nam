@@ -5,7 +5,7 @@ year: "1284"
 sortYear: 1284
 era: Nhà Trần
 teaser: Khi quân Nguyên áp sát biên giới, triều đình nhà Trần mời các bô lão về điện Diên Hồng hỏi nên hòa hay đánh.
-status: draft
+status: ready
 seal: [Diên, Hồng]
 hero-drum: false
 disclaimer: Bản thử nghiệm. Sử cũ chép về hội nghị ngắn gọn; cảnh 3D chỉ gợi ý, không phải phục dựng điện Diên Hồng hay Thăng Long thật. Nội dung đang chờ chuyên gia sử học thẩm định. Giọng đọc do máy tổng hợp.

@@ -5,7 +5,7 @@ year: "1407 – 1414"
 sortYear: 1408
 era: Thuộc Minh
 teaser: Sau khi nhà Hồ thất bại, con cháu nhà Trần nối nhau dựng cờ chống quân Minh, thắng lớn ở Bô Cô, rồi tan vỡ vì nghi kỵ lẫn nhau.
-status: draft
+status: ready
 seal: [Bô, Cô]
 hero-drum: false
 disclaimer: Bản thử nghiệm. Ngày tháng các trận và kết cục của một số nhân vật được các nguồn chép khác nhau; cảnh 3D chỉ gợi ý, không phải bản đồ chiến dịch. Nội dung đang chờ chuyên gia sử học thẩm định. Giọng đọc do máy tổng hợp.

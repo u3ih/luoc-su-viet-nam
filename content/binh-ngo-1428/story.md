@@ -5,7 +5,7 @@ year: "1428"
 sortYear: 1428
 era: Nhà Lê sơ
 teaser: Quân Minh hội thề rồi rút về nước; Nguyễn Trãi viết Bình Ngô đại cáo, Lê Lợi lên ngôi, mở ra nhà Lê sơ.
-status: draft
+status: ready
 seal: [Bình, Ngô]
 hero-drum: false
 disclaimer: Bản thử nghiệm. Phần trích Bình Ngô đại cáo là nguyên văn Hán Việt kèm lời diễn ý; chuyện trả gươm là truyền thuyết. Cảnh 3D chỉ gợi ý, không phục dựng thành Đông Quan hay kinh thành Đông Kinh. Nội dung đang chờ chuyên gia sử học thẩm định. Giọng đọc do máy tổng hợp.

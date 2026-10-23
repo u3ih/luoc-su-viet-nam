@@ -5,7 +5,7 @@ year: "1418"
 sortYear: 1418
 era: Thuộc Minh
 teaser: Từ một vùng núi ở Thanh Hoá, Lê Lợi dựng cờ khởi nghĩa, vượt qua những năm gian khổ ở núi Chí Linh, rồi tiến vào Nghệ An và mở rộng ra khắp nước.
-status: draft
+status: ready
 seal: [Lam, Sơn]
 hero-drum: false
 disclaimer: Bản thử nghiệm. Một số sự việc (hội thề Lũng Nhai, Lê Lai cứu chúa) được chép trong các nguồn đời sau và có chỗ khác nhau; cảnh 3D chỉ gợi ý, không phải bản đồ chiến dịch. Nội dung đang chờ chuyên gia sử học thẩm định. Giọng đọc do máy tổng hợp.

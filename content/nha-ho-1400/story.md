@@ -5,7 +5,7 @@ year: "1400"
 sortYear: 1400
 era: Nhà Hồ
 teaser: Hồ Quý Ly dựng toà thành đá Tây Đô, lập nhà Hồ và tiến hành nhiều cải cách, nhưng chỉ bảy năm sau đã thất bại trước cuộc xâm lược của nhà Minh.
-status: draft
+status: ready
 seal: [Tây, Đô]
 hero-drum: false
 disclaimer: Bản thử nghiệm. Thành Tây Đô trong cảnh 3D được thu nhỏ, chỉ dựng khối tường theo mặt bằng, không phục dựng cổng hay cung điện; các trận đánh chỉ gợi ý, không phải bản đồ chiến dịch. Nội dung đang chờ chuyên gia sử học thẩm định. Giọng đọc do máy tổng hợp.

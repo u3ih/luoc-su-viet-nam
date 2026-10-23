@@ -5,7 +5,7 @@ year: "981"
 sortYear: 981
 era: Nhà Tiền Lê
 teaser: Khi triều Đinh rối ren, nhà Tống đưa quân sang. Lê Hoàn lên ngôi, cắm cọc dưới sông, dùng mưu phục kích và giữ vững nền độc lập.
-status: draft
+status: ready
 seal: [Lê, Hoàn]
 hero-drum: false
 disclaimer: Bản thử nghiệm. Các nguồn chép diễn biến từng trận ở Chi Lăng, Bạch Đằng khác nhau nên cảnh 3D chỉ gợi ý hành trình chung. Nội dung đang chờ chuyên gia sử học thẩm định. Giọng đọc do máy tổng hợp.
