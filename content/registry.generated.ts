@@ -185,6 +185,11 @@ export const registry: Record<string, ChapterEntry> = {
     config: () => import("./cau-giay-1873/scene.config"),
     scene: () => import("./cau-giay-1873/scene"),
   },
+  "bai-say-1883": {
+    dir: "bai-say-1883",
+    config: () => import("./bai-say-1883/scene.config"),
+    scene: () => import("./bai-say-1883/scene"),
+  },
   "yen-the-1884": {
     dir: "yen-the-1884",
     config: () => import("./yen-the-1884/scene.config"),
@@ -195,9 +200,24 @@ export const registry: Record<string, ChapterEntry> = {
     config: () => import("./can-vuong-1885/scene.config"),
     scene: () => import("./can-vuong-1885/scene"),
   },
+  "ba-dinh-1886": {
+    dir: "ba-dinh-1886",
+    config: () => import("./ba-dinh-1886/scene.config"),
+    scene: () => import("./ba-dinh-1886/scene"),
+  },
   "huong-khe-1885": {
     dir: "huong-khe-1885",
     config: () => import("./huong-khe-1885/scene.config"),
     scene: () => import("./huong-khe-1885/scene"),
+  },
+  "dong-du-1905": {
+    dir: "dong-du-1905",
+    config: () => import("./dong-du-1905/scene.config"),
+    scene: () => import("./dong-du-1905/scene"),
+  },
+  "ben-nha-rong-1911": {
+    dir: "ben-nha-rong-1911",
+    config: () => import("./ben-nha-rong-1911/scene.config"),
+    scene: () => import("./ben-nha-rong-1911/scene"),
   },
 };
