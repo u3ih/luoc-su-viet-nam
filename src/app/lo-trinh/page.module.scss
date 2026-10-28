@@ -40,7 +40,7 @@
 
 .era {
   margin-top: 56px;
-  scroll-margin-top: 80px;
+  scroll-margin-top: 130px;
 }
 
 .eraTitle {
@@ -243,4 +243,97 @@
 .empty {
   padding: 24px 0;
   color: var(--giay-mo);
+}
+
+// ô tìm kiếm và nút "chỉ sự kiện đã có chương" trong bộ lọc
+.searchIn {
+  width: min(100%, 240px);
+}
+
+.check {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  height: 38px;
+  font-size: 14px;
+  color: var(--giay);
+  cursor: pointer;
+
+  input {
+    width: 16px;
+    height: 16px;
+    accent-color: var(--vang);
+  }
+}
+
+// thanh nhảy tới thời kỳ: dính ở đầu màn hình khi cuộn qua hàng trăm sự kiện
+.eraNav {
+  position: sticky;
+  top: 54px;
+  z-index: 6;
+  margin: 0 calc(clamp(16px, 8vw, 140px) * -1);
+  padding: 8px clamp(16px, 8vw, 140px);
+  background: linear-gradient(180deg, var(--then) 86%, rgba(18, 11, 8, 0));
+
+  @include phone {
+    top: 48px;
+  }
+
+  ul {
+    display: flex;
+    gap: 8px;
+    list-style: none;
+    overflow-x: auto;
+    padding-bottom: 4px;
+    scrollbar-width: thin;
+  }
+
+  a {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    white-space: nowrap;
+    height: 32px;
+    padding: 0 13px;
+    font-size: 13px;
+    color: var(--giay);
+    text-decoration: none;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+
+    b {
+      font-weight: 500;
+      font-size: 11.5px;
+      color: var(--vang);
+    }
+
+    &[aria-current="location"] {
+      color: var(--then);
+      background: var(--vang-nhat);
+      border-color: var(--vang-nhat);
+
+      b {
+        color: var(--then);
+      }
+    }
+
+    &:focus-visible {
+      outline: 2px solid var(--vang-nhat);
+      outline-offset: 2px;
+    }
+  }
+}
+
+.eraCount {
+  margin-left: 10px;
+  font-family: var(--font-b, inherit);
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: var(--giay-mo);
+}
+
+// danh sách dài: trình duyệt bỏ qua việc vẽ những mục đang nằm ngoài màn hình
+.event {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 120px;
 }
