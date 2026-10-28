@@ -160,4 +160,44 @@ export const registry: Record<string, ChapterEntry> = {
     config: () => import("./dong-da-1789/scene.config"),
     scene: () => import("./dong-da-1789/scene"),
   },
+  "gia-long-1802": {
+    dir: "gia-long-1802",
+    config: () => import("./gia-long-1802/scene.config"),
+    scene: () => import("./gia-long-1802/scene"),
+  },
+  "da-nang-1858": {
+    dir: "da-nang-1858",
+    config: () => import("./da-nang-1858/scene.config"),
+    scene: () => import("./da-nang-1858/scene"),
+  },
+  "can-giuoc-1861": {
+    dir: "can-giuoc-1861",
+    config: () => import("./can-giuoc-1861/scene.config"),
+    scene: () => import("./can-giuoc-1861/scene"),
+  },
+  "truong-dinh-1864": {
+    dir: "truong-dinh-1864",
+    config: () => import("./truong-dinh-1864/scene.config"),
+    scene: () => import("./truong-dinh-1864/scene"),
+  },
+  "cau-giay-1873": {
+    dir: "cau-giay-1873",
+    config: () => import("./cau-giay-1873/scene.config"),
+    scene: () => import("./cau-giay-1873/scene"),
+  },
+  "yen-the-1884": {
+    dir: "yen-the-1884",
+    config: () => import("./yen-the-1884/scene.config"),
+    scene: () => import("./yen-the-1884/scene"),
+  },
+  "can-vuong-1885": {
+    dir: "can-vuong-1885",
+    config: () => import("./can-vuong-1885/scene.config"),
+    scene: () => import("./can-vuong-1885/scene"),
+  },
+  "huong-khe-1885": {
+    dir: "huong-khe-1885",
+    config: () => import("./huong-khe-1885/scene.config"),
+    scene: () => import("./huong-khe-1885/scene"),
+  },
 };
