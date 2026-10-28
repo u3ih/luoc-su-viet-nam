@@ -1,7 +1,8 @@
 "use client";
 
 import Link from "next/link";
-import { useMemo, useState, type ReactNode } from "react";
+import { useEffect, useMemo, useState, type ReactNode } from "react";
+import { fold, slugify } from "@/core/content/era-id";
 import type { RoadmapEra, RoadmapEvent } from "@/core/content/roadmap";
 import type { MapPin } from "@/core/ui/HistoryMap";
 import MapLoader from "@/core/ui/MapLoader";
@@ -16,14 +17,11 @@ type Bound = { value: string; bc: boolean };
 
 const NO_PLACE = "__none__";
 
-const slugify = (s: string) =>
-  s
-    .normalize("NFD")
-    .replace(/[̀-ͯ]/g, "")
-    .replace(/đ/gi, "d")
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-|-$/g, "");
+/** "Thời Lý" → "Lý", "Thời tiền sử" → "Tiền sử": chip gọn để cả hàng thời kỳ vừa màn hình. */
+const short = (t: string) => {
+  const s = t.replace(/^Thời /, "");
+  return s.charAt(0).toUpperCase() + s.slice(1);
+};
 
 /** Tỉnh/thành hiện nay = đoạn cuối của địa chỉ "hiện nay" ("Xã A, Tỉnh B" → "Tỉnh B"). */
 const provinceOf = (ev: RoadmapEvent) => ev.now?.split(",").pop()?.trim();
@@ -42,6 +40,9 @@ export default function RoadmapExplorer({ eras, footer }: { eras: RoadmapEra[]; 
   const [from, setFrom] = useState<Bound>({ value: "", bc: true });
   const [to, setTo] = useState<Bound>({ value: "", bc: false });
   const [place, setPlace] = useState("");
+  const [query, setQuery] = useState("");
+  const [onlyReady, setOnlyReady] = useState(false);
+  const [active, setActive] = useState("");
 
   const all: Event[] = useMemo(() => eras.flatMap((e, i) => e.events.map((ev) => ({ ...ev, era: i }))), [eras]);
 
@@ -59,16 +60,19 @@ export default function RoadmapExplorer({ eras, footer }: { eras: RoadmapEra[]; 
   const hi = toYear(to);
   const rangeBad = lo !== null && hi !== null && lo > hi;
 
+  const needle = fold(query.trim());
   const events = useMemo(
     () =>
       all.filter((ev) => {
+        if (onlyReady && !ev.slug) return false;
+        if (needle && !fold(`${ev.title} ${ev.text} ${ev.place ?? ""} ${ev.ancient ?? ""} ${ev.year}`).includes(needle)) return false;
         if (lo !== null && hi !== null && lo > hi) return false;
         if (lo !== null && ev.sortYear < lo) return false;
         if (hi !== null && ev.sortYear > hi) return false;
         if (place === NO_PLACE) return !provinceOf(ev);
         return !place || provinceOf(ev) === place;
       }),
-    [all, lo, hi, place],
+    [all, lo, hi, place, needle, onlyReady],
   );
 
   // gom sự kiện cùng địa danh thành một mốc trên bản đồ
@@ -84,12 +88,30 @@ export default function RoadmapExplorer({ eras, footer }: { eras: RoadmapEra[]; 
     return [...map.values()];
   }, [events]);
 
-  const filtered = lo !== null || hi !== null || !!place;
+  const filtered = lo !== null || hi !== null || !!place || !!needle || onlyReady;
   const reset = () => {
     setFrom({ value: "", bc: true });
     setTo({ value: "", bc: false });
     setPlace("");
+    setQuery("");
+    setOnlyReady(false);
   };
+
+  // chip thời kỳ sáng theo thời kỳ đang nằm ở đầu màn hình
+  const ids = useMemo(() => eras.map((e) => slugify(e.title)), [eras]);
+  useEffect(() => {
+    const els = ids.map((id) => document.getElementById(id)).filter((el): el is HTMLElement => !!el);
+    if (!els.length || typeof IntersectionObserver === "undefined") return;
+    const io = new IntersectionObserver(
+      (entries) => {
+        const top = entries.filter((e) => e.isIntersecting).sort((a, b) => a.boundingClientRect.top - b.boundingClientRect.top)[0];
+        if (top) setActive(top.target.id);
+      },
+      { rootMargin: "-120px 0px -65% 0px" },
+    );
+    els.forEach((el) => io.observe(el));
+    return () => io.disconnect();
+  }, [ids, events]);
 
   const bound = (label: string, b: Bound, set: (b: Bound) => void) => (
     <div className={css.field}>
@@ -130,6 +152,14 @@ export default function RoadmapExplorer({ eras, footer }: { eras: RoadmapEra[]; 
             {unplaced > 0 && <option value={NO_PLACE}>Chưa rõ vị trí ({unplaced})</option>}
           </select>
         </div>
+        <div className={css.field}>
+          <label htmlFor="loc-tu-khoa">Tìm sự kiện</label>
+          <input id="loc-tu-khoa" type="search" className={css.searchIn} placeholder="tên, nhân vật, địa danh…" value={query} onChange={(e) => setQuery(e.currentTarget.value)} />
+        </div>
+        <label className={css.check}>
+          <input type="checkbox" checked={onlyReady} onChange={(e) => setOnlyReady(e.currentTarget.checked)} />
+          Chỉ sự kiện đã có chương
+        </label>
         <p className={css.count} role="status">
           {rangeBad ? "Năm bắt đầu lớn hơn năm kết thúc." : `${events.length} / ${all.length} sự kiện`}
           {filtered && (
@@ -143,13 +173,31 @@ export default function RoadmapExplorer({ eras, footer }: { eras: RoadmapEra[]; 
       <MapLoader pins={pins} eras={eras.map((e) => e.title)} />
 
       <section className={css.list} aria-label="Dòng thời gian">
+        <nav className={css.eraNav} aria-label="Nhảy tới thời kỳ">
+          <ul>
+            {eras.map((era, i) => {
+              const n = events.filter((e) => e.era === i).length;
+              if (!n) return null;
+              const id = slugify(era.title);
+              return (
+                <li key={id}>
+                  <a href={`#${id}`} aria-current={active === id ? "location" : undefined}>
+                    {short(era.title)} <b>{n}</b>
+                  </a>
+                </li>
+              );
+            })}
+          </ul>
+        </nav>
         {!events.length && <p className={css.empty}>Không có sự kiện nào khớp bộ lọc. Thử nới khoảng năm hoặc chọn &ldquo;Mọi nơi&rdquo;.</p>}
         {eras.map((era, i) => {
           const items = events.filter((e) => e.era === i);
           if (!items.length) return null;
           return (
             <section key={era.title} className={css.era} id={slugify(era.title)}>
-              <h2 className={css.eraTitle}>{era.title}</h2>
+              <h2 className={css.eraTitle}>
+                {era.title} <span className={css.eraCount}>{items.length} sự kiện{items.some((e) => e.slug) ? `, ${items.filter((e) => e.slug).length} đã có chương` : ""}</span>
+              </h2>
               <DongSonBand className="band" />
               {era.intro && !filtered && <p className={css.eraIntro}>{era.intro}</p>}
               <ol className={css.events}>

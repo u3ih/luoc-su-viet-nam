@@ -1,0 +1,303 @@
+@use "../core/ui/styles/mixins" as *;
+
+.root {
+  margin-top: 18px;
+}
+
+// thanh công cụ dính ở đầu màn hình khi cuộn qua danh sách dài
+.bar {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  margin: 0 calc(clamp(16px, 8vw, 140px) * -1) 8px;
+  padding: 12px clamp(16px, 8vw, 140px) 10px;
+  background: linear-gradient(180deg, var(--then) 82%, rgba(18, 11, 8, 0));
+
+  // màn hình nhỏ: thanh công cụ cao gần 1/4 màn hình nên không dính nữa
+  @include phone {
+    position: static;
+    background: none;
+  }
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 14px;
+  align-items: center;
+}
+
+.sr {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+}
+
+.search {
+  flex: 1 1 260px;
+  max-width: 460px;
+
+  input {
+    width: 100%;
+    height: 40px;
+    padding: 0 14px;
+    font: inherit;
+    font-size: 15px;
+    color: var(--giay);
+    background: var(--then);
+    border: 1px solid var(--line);
+    border-radius: 999px;
+
+    &::placeholder {
+      color: var(--giay-mo);
+    }
+
+    &:focus-visible {
+      outline: 2px solid var(--vang);
+      outline-offset: 1px;
+    }
+  }
+}
+
+.views {
+  display: inline-flex;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  overflow: hidden;
+
+  button {
+    height: 38px;
+    padding: 0 16px;
+    font: inherit;
+    font-size: 14px;
+    color: var(--giay-mo);
+    background: none;
+    border: 0;
+    cursor: pointer;
+
+    &[aria-pressed="true"] {
+      color: var(--then);
+      background: var(--vang);
+      font-weight: 600;
+    }
+
+    &:focus-visible {
+      outline: 2px solid var(--vang-nhat);
+      outline-offset: -3px;
+    }
+  }
+}
+
+// chip thời kỳ: một hàng cuộn ngang, không chiếm nhiều chỗ trên điện thoại
+.chips {
+  display: flex;
+  gap: 8px;
+  margin: 12px 0 0;
+  padding: 0 0 6px;
+  list-style: none;
+  overflow-x: auto;
+  scrollbar-width: thin;
+
+  button {
+    display: inline-flex;
+    gap: 7px;
+    align-items: baseline;
+    white-space: nowrap;
+    height: 34px;
+    padding: 0 14px;
+    font: inherit;
+    font-size: 13.5px;
+    color: var(--giay);
+    background: none;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    cursor: pointer;
+    align-items: center;
+
+    b {
+      font-weight: 500;
+      font-size: 12px;
+      color: var(--vang);
+    }
+
+    &[aria-pressed="true"] {
+      color: var(--then);
+      background: var(--vang-nhat);
+      border-color: var(--vang-nhat);
+
+      b {
+        color: var(--then);
+      }
+    }
+
+    &:focus-visible {
+      outline: 2px solid var(--vang-nhat);
+      outline-offset: 2px;
+    }
+  }
+}
+
+.count {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 8px;
+  font-size: 13px;
+  color: var(--giay-mo);
+}
+
+.clear {
+  padding: 3px 12px;
+  font: inherit;
+  font-size: 12px;
+  color: var(--vang-nhat);
+  background: none;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.empty {
+  padding: 28px 0;
+  color: var(--giay-mo);
+
+  a {
+    color: var(--vang-nhat);
+  }
+}
+
+.era {
+  margin-top: 40px;
+  scroll-margin-top: 150px;
+}
+
+.eraHead {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 4px 18px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--line);
+}
+
+.eraTitle {
+  font-family: var(--font-d);
+  font-size: clamp(1.4rem, 2.6vw, 1.9rem);
+  font-weight: 800;
+  color: var(--vang-nhat);
+}
+
+.eraMeta {
+  font-size: 13px;
+  color: var(--giay-mo);
+
+  a {
+    color: var(--giay);
+    text-underline-offset: 3px;
+  }
+}
+
+.eraIntro {
+  max-width: 46rem;
+  margin: 10px 0 0;
+  color: var(--giay-mo);
+  font-size: 15px;
+}
+
+// thẻ gọn hơn bản cũ để một màn hình thấy được nhiều chương
+.grid {
+  margin-top: 16px;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 270px), 1fr));
+  gap: 14px;
+}
+
+.card {
+  padding: 20px 20px 18px;
+
+  // nhãn thời kỳ dài không chạy đè con dấu ở góc
+  :global(.chapter-card__era) {
+    padding-right: 74px;
+  }
+}
+
+.year {
+  font-size: 2.6rem;
+}
+
+.yearLong {
+  font-size: 1.7rem;
+  line-height: 1.15;
+}
+
+.cardTitle {
+  font-size: 1.35rem;
+}
+
+.teaser {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 4;
+  line-clamp: 4;
+  overflow: hidden;
+  font-size: 14px;
+  margin: 8px 0 16px;
+}
+
+.badge {
+  margin: -6px 0 12px;
+  align-self: flex-start;
+}
+
+// kiểu "dòng thời gian": mỗi chương một dòng
+.rows {
+  list-style: none;
+  margin-top: 6px;
+}
+
+.rowItem {
+  display: grid;
+  grid-template-columns: minmax(96px, 150px) 1fr auto;
+  gap: 4px 20px;
+  align-items: baseline;
+  padding: 12px 6px;
+  border-bottom: 1px solid rgba(241, 230, 210, 0.08);
+  content-visibility: auto;
+  contain-intrinsic-size: auto 64px;
+
+  &:hover {
+    background: rgba(212, 162, 76, 0.07);
+  }
+
+  @include phone {
+    grid-template-columns: 1fr;
+  }
+}
+
+.rowYear {
+  font-family: var(--font-d);
+  font-weight: 700;
+  color: var(--vang-nhat);
+}
+
+.rowTitle {
+  font-size: 1.05rem;
+  font-weight: 600;
+
+  a {
+    color: var(--giay);
+    text-decoration-color: var(--vang);
+    text-underline-offset: 4px;
+  }
+}
+
+.rowTeaser {
+  max-width: 52rem;
+  font-size: 14px;
+  color: var(--giay-mo);
+}
+
+.rowBadge {
+  justify-self: end;
+}

@@ -1,23 +1,36 @@
 import Link from "next/link";
 import { githubLinks } from "@/core/content/links";
+import { groupChaptersByEra } from "@/core/content/eras";
 import { listChapters } from "@/core/content/load";
 import { loadRoadmap } from "@/core/content/roadmap";
 import { ldJson, siteJsonLd } from "@/core/content/seo";
 import DongSonBand from "@/core/ui/ornaments/DongSonBand";
 import DongSonDrum from "@/core/ui/ornaments/DongSonDrum";
-import Seal from "@/core/ui/ornaments/Seal";
-import { ReadBadge, ReadSummary } from "@/core/ui/ReadProgress";
+import { ReadSummary } from "@/core/ui/ReadProgress";
 import { site } from "@/site.config";
+import ChapterBrowser from "./ChapterBrowser";
 import css from "./page.module.scss";
 
-/** Mấy sự kiện chưa có chương, gợi ý cộng đồng nhận viết (lấy theo thứ tự thời gian, sau chương đầu tiên). */
+/** Số sự kiện chưa có chương được gợi ý ở trang chủ. */
 const SUGGEST = 6;
 
 export default function Home() {
   const chapters = listChapters().filter((c) => c.status === "ready");
-  const events = loadRoadmap().flatMap((e) => e.events);
-  const from = chapters[0]?.sortYear ?? -Infinity;
-  const waiting = events.filter((e) => !e.slug && e.sortYear >= from).slice(0, SUGGEST);
+  const roadmap = loadRoadmap();
+  const events = roadmap.flatMap((e) => e.events);
+  const eras = groupChaptersByEra(chapters).map((g) => ({
+    id: g.id,
+    title: g.title,
+    intro: g.intro,
+    events: g.events,
+    cards: g.chapters.map((c) => ({ slug: c.slug, title: c.title, year: c.year, era: c.era, teaser: c.teaser, seal: c.seal ?? [c.title.split(" ")[0], c.year], textUrl: githubLinks(c.dir).textUrl })),
+  }));
+  // gợi ý trải đều qua các thời kỳ (mỗi thời kỳ lấy sự kiện chưa có chương có lời mô tả dài nhất), thay vì dồn vào mấy sự kiện đầu tiên
+  const pool = roadmap
+    .map((era) => era.events.filter((e) => !e.slug).sort((a, b) => b.text.length - a.text.length)[0])
+    .filter((e): e is NonNullable<typeof e> => !!e);
+  const step = Math.max(1, Math.floor(pool.length / SUGGEST));
+  const waiting = pool.filter((_, i) => i % step === 0).slice(0, SUGGEST);
   return (
     <div className="home">
       <script type="application/ld+json" dangerouslySetInnerHTML={ldJson(siteJsonLd(chapters))} />
@@ -44,30 +57,11 @@ export default function Home() {
         </div>
       </header>
 
-      <section className="home__section">
+      <section className="home__section" id="cac-chuong">
         <h2 className="home__h2">Các chương</h2>
         <DongSonBand className="band" />
         <ReadSummary slugs={chapters.map((c) => c.slug)} />
-        <ol className="chapters">
-          {chapters.map((c) => (
-            <li key={c.slug} className="chapter-card">
-              <Seal lines={c.seal ?? [c.title.split(" ")[0], c.year]} />
-              <p className="chapter-card__era">{c.era}</p>
-              <p className={`chapter-card__year ${c.year.length > 5 ? css.yearLong : ""}`}>{c.year}</p>
-              <h3 className="chapter-card__title">{c.title}</h3>
-              <p className="chapter-card__teaser">{c.teaser}</p>
-              <ReadBadge slug={c.slug} className={css.badge} />
-              <div className="chapter-card__actions">
-                <Link className="btn btn--primary" href={`/chuong/${c.slug}`}>
-                  ▶ Xem trực quan
-                </Link>
-                <a className="btn" href={githubLinks(c.dir).textUrl} target="_blank" rel="noreferrer">
-                  Đọc bản chữ
-                </a>
-              </div>
-            </li>
-          ))}
-        </ol>
+        <ChapterBrowser eras={eras} />
       </section>
 
       <section className="home__section">
@@ -75,7 +69,7 @@ export default function Home() {
         <DongSonBand className="band" />
         <p className={css.note}>
           {events.length} sự kiện từ thời tiền sử đến nay đã được xếp trên{" "}
-          <Link href="/lo-trinh">bản đồ lộ trình</Link>, {events.filter((e) => e.slug).length} sự kiện đã có chương. Chọn một sự kiện và cùng viết tiếp.
+          <Link href="/lo-trinh">bản đồ lộ trình</Link>, {events.filter((e) => e.slug).length} sự kiện đã có chương. Dưới đây là mỗi thời kỳ một gợi ý; chọn một sự kiện và cùng viết tiếp.
         </p>
         <ol className="chapters">
           {waiting.map((e) => (
