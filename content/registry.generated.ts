@@ -70,10 +70,30 @@ export const registry: Record<string, ChapterEntry> = {
     config: () => import("./hai-ba-trung-40/scene.config"),
     scene: () => import("./hai-ba-trung-40/scene"),
   },
+  "ba-trieu-248": {
+    dir: "ba-trieu-248",
+    config: () => import("./ba-trieu-248/scene.config"),
+    scene: () => import("./ba-trieu-248/scene"),
+  },
   "van-xuan-544": {
     dir: "van-xuan-544",
     config: () => import("./van-xuan-544/scene.config"),
     scene: () => import("./van-xuan-544/scene"),
+  },
+  "mai-thuc-loan-722": {
+    dir: "mai-thuc-loan-722",
+    config: () => import("./mai-thuc-loan-722/scene.config"),
+    scene: () => import("./mai-thuc-loan-722/scene"),
+  },
+  "phung-hung-791": {
+    dir: "phung-hung-791",
+    config: () => import("./phung-hung-791/scene.config"),
+    scene: () => import("./phung-hung-791/scene"),
+  },
+  "khuc-thua-du-905": {
+    dir: "khuc-thua-du-905",
+    config: () => import("./khuc-thua-du-905/scene.config"),
+    scene: () => import("./khuc-thua-du-905/scene"),
   },
   "bach-dang-938": {
     dir: "bach-dang-938",
