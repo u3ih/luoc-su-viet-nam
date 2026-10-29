@@ -140,10 +140,30 @@ export const registry: Record<string, ChapterEntry> = {
     config: () => import("./binh-ngo-1428/scene.config"),
     scene: () => import("./binh-ngo-1428/scene"),
   },
+  "do-ban-1471": {
+    dir: "do-ban-1471",
+    config: () => import("./do-ban-1471/scene.config"),
+    scene: () => import("./do-ban-1471/scene"),
+  },
+  "hong-duc-1483": {
+    dir: "hong-duc-1483",
+    config: () => import("./hong-duc-1483/scene.config"),
+    scene: () => import("./hong-duc-1483/scene"),
+  },
+  "nha-mac-1527": {
+    dir: "nha-mac-1527",
+    config: () => import("./nha-mac-1527/scene.config"),
+    scene: () => import("./nha-mac-1527/scene"),
+  },
   "thuan-hoa-1558": {
     dir: "thuan-hoa-1558",
     config: () => import("./thuan-hoa-1558/scene.config"),
     scene: () => import("./thuan-hoa-1558/scene"),
+  },
+  "trinh-nguyen-1627": {
+    dir: "trinh-nguyen-1627",
+    config: () => import("./trinh-nguyen-1627/scene.config"),
+    scene: () => import("./trinh-nguyen-1627/scene"),
   },
   "tay-son-1771": {
     dir: "tay-son-1771",

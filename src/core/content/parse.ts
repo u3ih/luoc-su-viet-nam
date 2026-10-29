@@ -25,8 +25,9 @@ function plain(md: string) {
   return md
     .replace(/!\[[^\]]*\]\([^)]*\)/g, "")
     .replace(/\[([^\]]+)\]\([^)]*\)/g, "$1")
-    .replace(/(\*\*|__)(.+?)\1/g, "$2")
-    .replace(/(\*|_)(.+?)\1/g, "$2")
+    .split(/(https?:\/\/\S+)/)
+    .map((part, i) => (i % 2 ? part : part.replace(/(\*\*|__)(.+?)\1/g, "$2").replace(/(\*|_)(.+?)\1/g, "$2")))
+    .join("")
     .replace(/`([^`]+)`/g, "$1")
     .replace(/\s+/g, " ")
     .trim();
