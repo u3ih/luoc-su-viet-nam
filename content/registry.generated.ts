@@ -210,6 +210,11 @@ export const registry: Record<string, ChapterEntry> = {
     config: () => import("./bai-say-1883/scene.config"),
     scene: () => import("./bai-say-1883/scene"),
   },
+  "giap-than-1884": {
+    dir: "giap-than-1884",
+    config: () => import("./giap-than-1884/scene.config"),
+    scene: () => import("./giap-than-1884/scene"),
+  },
   "yen-the-1884": {
     dir: "yen-the-1884",
     config: () => import("./yen-the-1884/scene.config"),
@@ -235,9 +240,19 @@ export const registry: Record<string, ChapterEntry> = {
     config: () => import("./dong-du-1905/scene.config"),
     scene: () => import("./dong-du-1905/scene"),
   },
+  "dong-kinh-nghia-thuc-1907": {
+    dir: "dong-kinh-nghia-thuc-1907",
+    config: () => import("./dong-kinh-nghia-thuc-1907/scene.config"),
+    scene: () => import("./dong-kinh-nghia-thuc-1907/scene"),
+  },
   "ben-nha-rong-1911": {
     dir: "ben-nha-rong-1911",
     config: () => import("./ben-nha-rong-1911/scene.config"),
     scene: () => import("./ben-nha-rong-1911/scene"),
+  },
+  "yen-bai-1930": {
+    dir: "yen-bai-1930",
+    config: () => import("./yen-bai-1930/scene.config"),
+    scene: () => import("./yen-bai-1930/scene"),
   },
 };
