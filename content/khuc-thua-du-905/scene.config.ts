@@ -12,10 +12,10 @@ const config: SceneConfig = {
   params: {},
   keyframes: {
     "mo-dau": { cam: [-320,180,-300], look: [20,0,40], mood: MOOD.dawn + 0.3 },
-    "hong-chau": { ...shot([HONG_CHAU[0], 0, HONG_CHAU[1]], 160, 220, 110, -1), mood: MOOD.day },
-    "nam-905": { ...shot([DAI_LA[0], 0, DAI_LA[1]], 90, 230, 120, 1), mood: MOOD.overcast + 0.4 },
-    "tu-chu": { ...shot([DAI_LA[0], 0, DAI_LA[1]], 30, 250, 130, -1), mood: MOOD.dawn + 0.8 },
-    "ve-sau": { ...shot([DAI_LA[0], 0, DAI_LA[1]], 150, 230, 120, 1), mood: MOOD.sunset },
+    "hong-chau": { ...shot([HONG_CHAU[0], 0, HONG_CHAU[1]], 160, 220, 110, 1), mood: MOOD.day },
+    "nam-905": { ...shot([DAI_LA[0], 0, DAI_LA[1]], 90, 230, 120, -1), mood: MOOD.overcast + 0.4 },
+    "tu-chu": { ...shot([DAI_LA[0], 0, DAI_LA[1]], 30, 250, 130, 1), mood: MOOD.dawn + 0.8 },
+    "ve-sau": { ...shot([DAI_LA[0], 0, DAI_LA[1]], 150, 230, 120, -1), mood: MOOD.sunset },
   },
 };
 
