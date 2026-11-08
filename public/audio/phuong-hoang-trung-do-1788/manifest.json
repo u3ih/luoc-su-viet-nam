@@ -1,0 +1,26 @@
+{
+  "mo-dau": {
+    "hash": "62d6df9b3b7dada7",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "la-son": {
+    "hash": "39f68cdf217917b5",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "trung-do": {
+    "hash": "7c2ebb2d5a7ed672",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "xay-thanh": {
+    "hash": "e0cf2bbcd79bcfe6",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "xay-thanh.xong": {
+    "hash": "ff6f1f31a180a207",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "ve-sau": {
+    "hash": "23b93aa97e4c9405",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  }
+}
