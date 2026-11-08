@@ -68,6 +68,7 @@ export function speakable(text: string): string {
       .replace(/(\d)\s*km(?![\p{L}\d])/gu, "$1 ki-lô-mét")
       .replace(/(\d)\s*cm(?![\p{L}\d])/gu, "$1 xăng-ti-mét")
       .replace(/(\d)\s*kg(?![\p{L}\d])/gu, "$1 ki-lô-gam")
+      .replace(/(\d)\s*ha(?![\p{L}\d])/gu, "$1 héc-ta")
       .replace(/(\d)\s*m(?![\p{L}\d])/gu, "$1 mét")
       // kích thước "29 × 41"
       .replace(/(\d)\s*×\s*(\d)/g, "$1 nhân $2")

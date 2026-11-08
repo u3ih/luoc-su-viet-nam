@@ -60,6 +60,11 @@ export const registry: Record<string, ChapterEntry> = {
     config: () => import("./dong-son/scene.config"),
     scene: () => import("./dong-son/scene"),
   },
+  "sa-huynh": {
+    dir: "sa-huynh",
+    config: () => import("./sa-huynh/scene.config"),
+    scene: () => import("./sa-huynh/scene"),
+  },
   "co-loa": {
     dir: "co-loa",
     config: () => import("./co-loa/scene.config"),
@@ -75,15 +80,35 @@ export const registry: Record<string, ChapterEntry> = {
     config: () => import("./hai-ba-trung-40/scene.config"),
     scene: () => import("./hai-ba-trung-40/scene"),
   },
+  "oc-eo": {
+    dir: "oc-eo",
+    config: () => import("./oc-eo/scene.config"),
+    scene: () => import("./oc-eo/scene"),
+  },
+  "si-nhiep-187": {
+    dir: "si-nhiep-187",
+    config: () => import("./si-nhiep-187/scene.config"),
+    scene: () => import("./si-nhiep-187/scene"),
+  },
   "ba-trieu-248": {
     dir: "ba-trieu-248",
     config: () => import("./ba-trieu-248/scene.config"),
     scene: () => import("./ba-trieu-248/scene"),
   },
+  "my-son-380": {
+    dir: "my-son-380",
+    config: () => import("./my-son-380/scene.config"),
+    scene: () => import("./my-son-380/scene"),
+  },
   "van-xuan-544": {
     dir: "van-xuan-544",
     config: () => import("./van-xuan-544/scene.config"),
     scene: () => import("./van-xuan-544/scene"),
+  },
+  "trieu-quang-phuc-548": {
+    dir: "trieu-quang-phuc-548",
+    config: () => import("./trieu-quang-phuc-548/scene.config"),
+    scene: () => import("./trieu-quang-phuc-548/scene"),
   },
   "mai-thuc-loan-722": {
     dir: "mai-thuc-loan-722",
@@ -125,6 +150,11 @@ export const registry: Record<string, ChapterEntry> = {
     config: () => import("./le-hoan-982/scene.config"),
     scene: () => import("./le-hoan-982/scene"),
   },
+  "tich-dien-987": {
+    dir: "tich-dien-987",
+    config: () => import("./tich-dien-987/scene.config"),
+    scene: () => import("./tich-dien-987/scene"),
+  },
   "doi-do-1010": {
     dir: "doi-do-1010",
     config: () => import("./doi-do-1010/scene.config"),
@@ -140,6 +170,11 @@ export const registry: Record<string, ChapterEntry> = {
     config: () => import("./chua-mot-cot-1049/scene.config"),
     scene: () => import("./chua-mot-cot-1049/scene"),
   },
+  "phat-tich-1057": {
+    dir: "phat-tich-1057",
+    config: () => import("./phat-tich-1057/scene.config"),
+    scene: () => import("./phat-tich-1057/scene"),
+  },
   "y-lan-1069": {
     dir: "y-lan-1069",
     config: () => import("./y-lan-1069/scene.config"),
@@ -154,6 +189,11 @@ export const registry: Record<string, ChapterEntry> = {
     dir: "nhu-nguyet-1077",
     config: () => import("./nhu-nguyet-1077/scene.config"),
     scene: () => import("./nhu-nguyet-1077/scene"),
+  },
+  "de-co-xa-1108": {
+    dir: "de-co-xa-1108",
+    config: () => import("./de-co-xa-1108/scene.config"),
+    scene: () => import("./de-co-xa-1108/scene"),
   },
   "to-hien-thanh-1175": {
     dir: "to-hien-thanh-1175",
@@ -215,10 +255,20 @@ export const registry: Record<string, ChapterEntry> = {
     config: () => import("./truc-lam-1299/scene.config"),
     scene: () => import("./truc-lam-1299/scene"),
   },
+  "po-klong-garai-1300": {
+    dir: "po-klong-garai-1300",
+    config: () => import("./po-klong-garai-1300/scene.config"),
+    scene: () => import("./po-klong-garai-1300/scene"),
+  },
   "tran-hung-dao-1300": {
     dir: "tran-hung-dao-1300",
     config: () => import("./tran-hung-dao-1300/scene.config"),
     scene: () => import("./tran-hung-dao-1300/scene"),
+  },
+  "pho-minh-1305": {
+    dir: "pho-minh-1305",
+    config: () => import("./pho-minh-1305/scene.config"),
+    scene: () => import("./pho-minh-1305/scene"),
   },
   "huyen-tran-1306": {
     dir: "huyen-tran-1306",
@@ -320,6 +370,11 @@ export const registry: Record<string, ChapterEntry> = {
     config: () => import("./hong-duc-1483/scene.config"),
     scene: () => import("./hong-duc-1483/scene"),
   },
+  "hong-duc-ban-do-1490": {
+    dir: "hong-duc-ban-do-1490",
+    config: () => import("./hong-duc-ban-do-1490/scene.config"),
+    scene: () => import("./hong-duc-ban-do-1490/scene"),
+  },
   "tao-dan-1495": {
     dir: "tao-dan-1495",
     config: () => import("./tao-dan-1495/scene.config"),
@@ -404,6 +459,11 @@ export const registry: Record<string, ChapterEntry> = {
     dir: "ha-tien-1708",
     config: () => import("./ha-tien-1708/scene.config"),
     scene: () => import("./ha-tien-1708/scene"),
+  },
+  "chieu-anh-cac-1736": {
+    dir: "chieu-anh-cac-1736",
+    config: () => import("./chieu-anh-cac-1736/scene.config"),
+    scene: () => import("./chieu-anh-cac-1736/scene"),
   },
   "nguyen-huu-cau-1741": {
     dir: "nguyen-huu-cau-1741",
@@ -495,6 +555,11 @@ export const registry: Record<string, ChapterEntry> = {
     config: () => import("./nguyen-du-1810/scene.config"),
     scene: () => import("./nguyen-du-1810/scene"),
   },
+  "hoang-viet-luat-le-1813": {
+    dir: "hoang-viet-luat-le-1813",
+    config: () => import("./hoang-viet-luat-le-1813/scene.config"),
+    scene: () => import("./hoang-viet-luat-le-1813/scene"),
+  },
   "hoang-sa-1815": {
     dir: "hoang-sa-1815",
     config: () => import("./hoang-sa-1815/scene.config"),
@@ -509,6 +574,11 @@ export const registry: Record<string, ChapterEntry> = {
     dir: "vinh-te-1819",
     config: () => import("./vinh-te-1819/scene.config"),
     scene: () => import("./vinh-te-1819/scene"),
+  },
+  "lich-trieu-hien-chuong-1821": {
+    dir: "lich-trieu-hien-chuong-1821",
+    config: () => import("./lich-trieu-hien-chuong-1821/scene.config"),
+    scene: () => import("./lich-trieu-hien-chuong-1821/scene"),
   },
   "phan-ba-vanh-1821": {
     dir: "phan-ba-vanh-1821",
@@ -570,6 +640,16 @@ export const registry: Record<string, ChapterEntry> = {
     config: () => import("./nguyen-truong-to-1863/scene.config"),
     scene: () => import("./nguyen-truong-to-1863/scene"),
   },
+  "gia-dinh-bao-1865": {
+    dir: "gia-dinh-bao-1865",
+    config: () => import("./gia-dinh-bao-1865/scene.config"),
+    scene: () => import("./gia-dinh-bao-1865/scene"),
+  },
+  "lang-tu-duc-1873": {
+    dir: "lang-tu-duc-1873",
+    config: () => import("./lang-tu-duc-1873/scene.config"),
+    scene: () => import("./lang-tu-duc-1873/scene"),
+  },
   "phan-thanh-gian-1867": {
     dir: "phan-thanh-gian-1867",
     config: () => import("./phan-thanh-gian-1867/scene.config"),
@@ -625,6 +705,11 @@ export const registry: Record<string, ChapterEntry> = {
     config: () => import("./huong-khe-1885/scene.config"),
     scene: () => import("./huong-khe-1885/scene"),
   },
+  "phat-diem-1891": {
+    dir: "phat-diem-1891",
+    config: () => import("./phat-diem-1891/scene.config"),
+    scene: () => import("./phat-diem-1891/scene"),
+  },
   "yersin-1893": {
     dir: "yersin-1893",
     config: () => import("./yersin-1893/scene.config"),
@@ -649,6 +734,11 @@ export const registry: Record<string, ChapterEntry> = {
     dir: "dong-du-1905",
     config: () => import("./dong-du-1905/scene.config"),
     scene: () => import("./dong-du-1905/scene"),
+  },
+  "dai-hoc-dong-duong-1906": {
+    dir: "dai-hoc-dong-duong-1906",
+    config: () => import("./dai-hoc-dong-duong-1906/scene.config"),
+    scene: () => import("./dai-hoc-dong-duong-1906/scene"),
   },
   "duy-tan-trung-ky-1906": {
     dir: "duy-tan-trung-ky-1906",
@@ -685,6 +775,11 @@ export const registry: Record<string, ChapterEntry> = {
     config: () => import("./ntrang-long-1912/scene.config"),
     scene: () => import("./ntrang-long-1912/scene"),
   },
+  "cho-ben-thanh-1914": {
+    dir: "cho-ben-thanh-1914",
+    config: () => import("./cho-ben-thanh-1914/scene.config"),
+    scene: () => import("./cho-ben-thanh-1914/scene"),
+  },
   "duy-tan-1916": {
     dir: "duy-tan-1916",
     config: () => import("./duy-tan-1916/scene.config"),
@@ -714,5 +809,10 @@ export const registry: Record<string, ChapterEntry> = {
     dir: "duong-sat-1936",
     config: () => import("./duong-sat-1936/scene.config"),
     scene: () => import("./duong-sat-1936/scene"),
+  },
+  "cuc-phuong-1962": {
+    dir: "cuc-phuong-1962",
+    config: () => import("./cuc-phuong-1962/scene.config"),
+    scene: () => import("./cuc-phuong-1962/scene"),
   },
 };
