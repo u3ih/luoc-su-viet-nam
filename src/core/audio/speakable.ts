@@ -66,7 +66,11 @@ export function speakable(text: string): string {
       .replace(/(?<![\p{L}\d])TCN(?![\p{L}\d])/gu, "trước Công nguyên")
       .replace(/(?<![\p{L}\d])SCN(?![\p{L}\d])/gu, "sau Công nguyên")
       .replace(/(\d)\s*km(?![\p{L}\d])/gu, "$1 ki-lô-mét")
+      .replace(/(\d)\s*cm(?![\p{L}\d])/gu, "$1 xăng-ti-mét")
+      .replace(/(\d)\s*kg(?![\p{L}\d])/gu, "$1 ki-lô-gam")
       .replace(/(\d)\s*m(?![\p{L}\d])/gu, "$1 mét")
+      // kích thước "29 × 41"
+      .replace(/(\d)\s*×\s*(\d)/g, "$1 nhân $2")
       .replace(/~\s*/g, "khoảng ")
       .replace(/%/g, " phần trăm")
       // số thập phân kiểu Việt "4,5" → "bốn phẩy năm"
