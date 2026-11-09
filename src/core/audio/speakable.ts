@@ -58,8 +58,8 @@ const read = (s: string) => numberToWords(Number(s.replace(/\./g, "")));
 export function speakable(text: string): string {
   return (
     text
-      // số La Mã sau "thế kỷ", "chương", "phần" (chỉ khi viết hoa; "\b" của JS không hiểu chữ có dấu nên dùng lookaround)
-      .replace(/(thế kỷ|Thế kỷ|chương|Chương|phần|Phần)\s+([IVXLCDM]+)(?![\p{L}\d])/gu, (_, w, r) => `${w} ${numberToWords(romanToNumber(r))}`)
+      // số La Mã sau "thế kỷ", "chương", "phần", "khoá" (Quốc hội), "Louis", "Paris" (đại học) (chỉ khi viết hoa; "\b" của JS không hiểu chữ có dấu nên dùng lookaround)
+      .replace(/(thế kỷ|Thế kỷ|chương|Chương|phần|Phần|khoá|khóa|Khoá|Khóa|Louis|Paris)\s+([IVXLCDM]+)(?![\p{L}\d])/gu, (_, w, r) => `${w} ${numberToWords(romanToNumber(r))}`)
       .replace(/(?<![\p{L}\d])TK\s+([IVXLCDM]+)(?![\p{L}\d])/gu, (_, r) => `thế kỷ ${numberToWords(romanToNumber(r))}`)
       // khoảng năm "40–43", "179 – 111 TCN"
       .replace(/(\d[\d.]*)\s*[–—-]\s*(\d[\d.]*)/g, (_, a, b) => `${a} đến ${b}`)

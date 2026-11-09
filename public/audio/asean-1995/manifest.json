@@ -1,0 +1,26 @@
+{
+  "mo-dau": {
+    "hash": "bf7007d912f04188",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "bangkok": {
+    "hash": "cf298c91fe9c8df7",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "gia-nhap": {
+    "hash": "2b5e00095dbdaf63",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "gia-nhap.xong": {
+    "hash": "11467ff223fdd912",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "asean-10": {
+    "hash": "478c112e3da26005",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "ve-sau": {
+    "hash": "3d5becc84dafba80",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  }
+}
