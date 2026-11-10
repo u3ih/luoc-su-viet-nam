@@ -1,4 +1,12 @@
 {
+  "mo-dau": {
+    "hash": "15db43d70bb3b674",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "chiec-binh": {
+    "hash": "2f1e46eca886692c",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
   "tim-lai": {
     "hash": "4e015c6147b61b3c",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
@@ -9,14 +17,6 @@
   },
   "den-noi-xa": {
     "hash": "4cf232e6c221c80d",
-    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
-  },
-  "mo-dau": {
-    "hash": "15db43d70bb3b674",
-    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
-  },
-  "chiec-binh": {
-    "hash": "2f1e46eca886692c",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   }
 }
