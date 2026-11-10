@@ -1,4 +1,8 @@
 {
+  "mo-dau": {
+    "hash": "9a67291bcec99ab5",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
   "the-cung": {
     "hash": "0cef8d41483fd5c2",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
@@ -17,10 +21,6 @@
   },
   "ve-sau": {
     "hash": "5e02927fc548d9d5",
-    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
-  },
-  "mo-dau": {
-    "hash": "9a67291bcec99ab5",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   }
 }
