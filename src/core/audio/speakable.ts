@@ -58,8 +58,8 @@ const read = (s: string) => numberToWords(Number(s.replace(/\./g, "")));
 export function speakable(text: string): string {
   return (
     text
-      // số La Mã sau "thế kỷ", "chương", "phần" (chỉ khi viết hoa; "\b" của JS không hiểu chữ có dấu nên dùng lookaround)
-      .replace(/(thế kỷ|Thế kỷ|chương|Chương|phần|Phần)\s+([IVXLCDM]+)(?![\p{L}\d])/gu, (_, w, r) => `${w} ${numberToWords(romanToNumber(r))}`)
+      // số La Mã sau "thế kỷ", "chương", "phần", "khoá" (Quốc hội), "Louis", "Paris" (đại học) (chỉ khi viết hoa; "\b" của JS không hiểu chữ có dấu nên dùng lookaround)
+      .replace(/(thế kỷ|Thế kỷ|chương|Chương|phần|Phần|khoá|khóa|Khoá|Khóa|Louis|Paris)\s+([IVXLCDM]+)(?![\p{L}\d])/gu, (_, w, r) => `${w} ${numberToWords(romanToNumber(r))}`)
       .replace(/(?<![\p{L}\d])TK\s+([IVXLCDM]+)(?![\p{L}\d])/gu, (_, r) => `thế kỷ ${numberToWords(romanToNumber(r))}`)
       // khoảng năm "40–43", "179 – 111 TCN"
       .replace(/(\d[\d.]*)\s*[–—-]\s*(\d[\d.]*)/g, (_, a, b) => `${a} đến ${b}`)
@@ -71,7 +71,7 @@ export function speakable(text: string): string {
       .replace(/(\d)\s*MW(?![\p{L}\d])/gu, "$1 mê-ga-oát")
       .replace(/(\d)\s*((?:tỷ|triệu|nghìn)\s+)?kWh(?![\p{L}\d])/gu, "$1 $2ki-lô-oát giờ")
       .replace(/(\d)\s*km\/h(?![\p{L}\d])/gu, "$1 ki-lô-mét một giờ")
-      .replace(/(\d)\s*USD(?![\p{L}\d])/gu, "$1 đô la Mỹ")
+      .replace(/(\d)\s*((?:tỷ|triệu|nghìn)\s+)?USD(?![\p{L}\d])/gu, "$1 $2đô la Mỹ")
       .replace(/(\d)\s*km(?![\p{L}\d])/gu, "$1 ki-lô-mét")
       .replace(/(\d)\s*cm(?![\p{L}\d])/gu, "$1 xăng-ti-mét")
       .replace(/(\d)\s*kg(?![\p{L}\d])/gu, "$1 ki-lô-gam")

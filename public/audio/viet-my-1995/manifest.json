@@ -1,0 +1,26 @@
+{
+  "mo-dau": {
+    "hash": "205385ca97536fc4",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "cam-van": {
+    "hash": "c8bf31c344a94b32",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "do-cam-van": {
+    "hash": "3aee46e3cbbe000d",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "binh-thuong-hoa": {
+    "hash": "cc49f1cb1645fb91",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "binh-thuong-hoa.xong": {
+    "hash": "c3aad815eba49330",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "ve-sau": {
+    "hash": "e27c4f5efd29001a",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  }
+}
