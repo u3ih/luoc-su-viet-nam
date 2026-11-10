@@ -71,7 +71,7 @@ export function speakable(text: string): string {
       .replace(/(\d)\s*MW(?![\p{L}\d])/gu, "$1 mê-ga-oát")
       .replace(/(\d)\s*((?:tỷ|triệu|nghìn)\s+)?kWh(?![\p{L}\d])/gu, "$1 $2ki-lô-oát giờ")
       .replace(/(\d)\s*km\/h(?![\p{L}\d])/gu, "$1 ki-lô-mét một giờ")
-      .replace(/(\d)\s*USD(?![\p{L}\d])/gu, "$1 đô la Mỹ")
+      .replace(/(\d)\s*((?:tỷ|triệu|nghìn)\s+)?USD(?![\p{L}\d])/gu, "$1 $2đô la Mỹ")
       .replace(/(\d)\s*km(?![\p{L}\d])/gu, "$1 ki-lô-mét")
       .replace(/(\d)\s*cm(?![\p{L}\d])/gu, "$1 xăng-ti-mét")
       .replace(/(\d)\s*kg(?![\p{L}\d])/gu, "$1 ki-lô-gam")
