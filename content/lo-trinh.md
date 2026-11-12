@@ -134,6 +134,8 @@ Dời đô ra Thăng Long, dựng nền văn hiến Đại Việt.
 - **1016 – 1094** · Thiền sư Dương Không Lộ — Dương Không Lộ (1016 – 1094), thiền sư thời Lý, quê gốc làng Giao Thuỷ, phủ Hải Thanh, nay thuộc Ninh Bình. <!-- sort: 1060 | chuong: khong-lo-1063 | nguon: https://vi.wikipedia.org/wiki/D%C6%B0%C6%A1ng_Kh%C3%B4ng_L%E1%BB%99 -->
 - **1072 – 1116** · Thiền sư Từ Đạo Hạnh — Từ Đạo Hạnh (1072 – 1116), tục gọi là Đức Thánh Láng, là thiền sư thời Lý; cuộc đời ông được ghi lại dưới nhiều màu sắc huyền thoại. <!-- sort: 1100 | chuong: tu-dao-hanh-1116 | nguon: https://vi.wikipedia.org/wiki/T%E1%BB%AB_%C4%90%E1%BA%A1o_H%E1%BA%A1nh -->
 
+- **1121** · Bia ghi trò rối nước — Bia tháp Sùng Thiện Diên Linh dựng năm 1121 tả cảnh rùa vàng đội núi nổi trên sóng, tiên hiện từ cửa động — văn tự sớm nhất còn lại ghi về múa rối nước. <!-- sort: 1121 | chuong: mua-roi-nuoc-1121 | nguon: https://vi.wikipedia.org/wiki/M%C3%BAa_r%E1%BB%91i_n%C6%B0%E1%BB%9Bc -->
+
 ## Thời Trần
 
 Ba lần đánh thắng quân Mông – Nguyên.
@@ -357,7 +359,7 @@ Ba lần đánh thắng quân Mông – Nguyên.
 - **1864 – 1867** · Lăng Tự Đức — Quần thể kiến trúc, nơi chôn cất vua Tự Đức, trong một thung lũng hẹp ở làng Dương Xuân Thượng, Huế. <!-- sort: 1864.5 | chuong: lang-tu-duc-1873 | noi: Lăng Tự Đức, Huế | toa-do: 16.43, 107.56 | nguon: https://vi.wikipedia.org/wiki/L%C4%83ng_T%E1%BB%B1_%C4%90%E1%BB%A9c | nay: Thành phố Huế -->
 - **Ngày 15 tháng 3 năm 1874** · Hoà ước Giáp Tuất — Bản hiệp ước thứ hai giữa triều Nguyễn và Pháp, ký ngày 15 tháng 3 năm 1874, với đại diện triều Nguyễn là Lê Tuấn và Nguyễn Văn Tường. <!-- sort: 1874 | chuong: giap-tuat-1874 | noi: Sài Gòn | toa-do: 10.78, 106.70 | nguon: https://vi.wikipedia.org/wiki/H%C3%B2a_%C6%B0%E1%BB%9Bc_Gi%C3%A1p_Tu%E1%BA%A5t_(1874) | nay: Thành phố Hồ Chí Minh -->
 - **1863 – 1880** · Nhà thờ Đức Bà Sài Gòn — Nhà thờ chính toà Đức Bà Sài Gòn (Vương cung thánh đường chính toà Đức Mẹ Vô nhiễm Nguyên tội) hoàn thành năm 1880. <!-- sort: 1880 | chuong: nha-tho-duc-ba-1880 | noi: Sài Gòn | toa-do: 10.78, 106.70 | nguon: https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_ch%C3%ADnh_t%C3%B2a_%C4%90%E1%BB%A9c_B%C3%A0_S%C3%A0i_G%C3%B2n | nay: Thành phố Hồ Chí Minh -->
-- **Từ năm 1881** · Đường sắt Sài Gòn – Mỹ Tho — Tuyến đường sắt đầu tiên của Việt Nam và của Đông Dương, xây từ năm 1881. <!-- sort: 1881 | chuong: duong-sat-1936 | noi: Sài Gòn – Mỹ Tho | toa-do: 10.60, 106.50 | nguon: https://vi.wikipedia.org/wiki/%C4%90%C6%B0%E1%BB%9Dng_s%E1%BA%AFt_S%C3%A0i_G%C3%B2n_%E2%80%93_M%E1%BB%B9_Tho | nay: Tỉnh Tây Ninh -->
+- **Từ năm 1881** · Đường sắt Sài Gòn – Mỹ Tho — Tuyến đường sắt đầu tiên của Việt Nam và của Đông Dương, xây từ năm 1881. <!-- sort: 1881 | chuong: duong-sat-sai-gon-my-tho-1885 | noi: Sài Gòn – Mỹ Tho | toa-do: 10.60, 106.50 | nguon: https://vi.wikipedia.org/wiki/%C4%90%C6%B0%E1%BB%9Dng_s%E1%BA%AFt_S%C3%A0i_G%C3%B2n_%E2%80%93_M%E1%BB%B9_Tho | nay: Tỉnh Tây Ninh -->
 - **Ngày 19 tháng 5 năm 1883** · Trận Cầu Giấy lần thứ hai — Quân Cờ Đen đánh bại quân Pháp ở Cầu Giấy, ngoại vi thành Hà Nội, trong giai đoạn đầu của chiến dịch Bắc Kỳ; chỉ huy Pháp Henri Rivière tử trận. <!-- sort: 1883.4 | chuong: cau-giay-1883 | noi: Cầu Giấy, Hà Nội | toa-do: 21.03, 105.80 | nguon: https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_C%E1%BA%A7u_Gi%E1%BA%A5y_(1883) | nay: Thành phố Hà Nội -->
 - **Ngày 25 tháng 8 năm 1883** · Hoà ước Quý Mùi — Hoà ước (còn gọi là hoà ước Harmand) ký giữa triều Nguyễn và Pháp, mở đường cho quyền bảo hộ của Pháp ở Việt Nam. <!-- sort: 1883.6 | chuong: quy-mui-1883 | noi: Huế | toa-do: 16.47, 107.58 | nguon: https://vi.wikipedia.org/wiki/H%C3%B2a_%C6%B0%E1%BB%9Bc_Qu%C3%BD_M%C3%B9i,_1883 | nay: Thành phố Huế -->
 - **9/1884 – 6/1885** · Chiến tranh Pháp – Thanh — Cuộc chiến giữa Pháp và nhà Thanh, bùng nổ vì Pháp muốn kiểm soát vùng đồng bằng Bắc Bộ. <!-- sort: 1884.6 | chuong: phap-thanh-1884 | nguon: https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Ph%C3%A1p_%E2%80%93_Thanh -->
@@ -403,6 +405,24 @@ Ba lần đánh thắng quân Mông – Nguyên.
 - **1938** · Tân nhạc ra đời — Nhạc sĩ Nguyễn Văn Tuyên đi giới thiệu “âm nhạc cải cách” ở Huế, Hà Nội, Hải Phòng; báo Ngày nay in những bản nhạc đầu tiên — mốc hình thành tân nhạc Việt Nam. <!-- sort: 1938.5 | chuong: tan-nhac-1938 | noi: Hà Nội | toa-do: 21.028, 105.852 | nguon: https://vi.wikipedia.org/wiki/T%C3%A2n_nh%E1%BA%A1c_Vi%E1%BB%87t_Nam | nay: Thành phố Hà Nội -->
 
 - **1935 – 1939** · Tôn Thất Tùng và lá gan — Sinh viên y khoa Tôn Thất Tùng phẫu tích hơn 200 lá gan, bảo vệ luận án về cách phân chia mạch máu của gan năm 1939 — nền cho phương pháp mổ gan mang tên ông. <!-- sort: 1939 | chuong: ton-that-tung-1939 | noi: Bệnh viện Phủ Doãn (Việt Đức), Hà Nội | toa-do: 21.0286, 105.8461 | nguon: https://vi.wikipedia.org/wiki/T%C3%B4n_Th%E1%BA%A5t_T%C3%B9ng | nay: Thành phố Hà Nội -->
+
+- **1891** · Viện Pasteur Sài Gòn — Bác sĩ Albert Calmette lập chi nhánh đầu tiên ngoài nước Pháp của Viện Pasteur Paris, sản xuất vắc-xin đậu mùa, vắc-xin dại và nghiên cứu nọc rắn. <!-- sort: 1891 | chuong: pasteur-sai-gon-1891 | noi: Viện Pasteur, TP. Hồ Chí Minh | toa-do: 10.786, 106.692 | nguon: https://vi.wikipedia.org/wiki/Vi%E1%BB%87n_Pasteur_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh https://en.wikipedia.org/wiki/Albert_Calmette | nay: Thành phố Hồ Chí Minh -->
+
+- **1895 – 1896** · Đại Nam quấc âm tự vị — Hai tập tự vị tiếng Việt đầu tiên do người Việt biên soạn, của Huình Tịnh Của, in ở Sài Gòn. <!-- sort: 1895.5 | chuong: huynh-tinh-cua-1895 | noi: Sài Gòn | toa-do: 10.776, 106.700 | nguon: https://vi.wikipedia.org/wiki/Hu%E1%BB%B3nh_T%E1%BB%8Bnh_C%E1%BB%A7a | nay: Thành phố Hồ Chí Minh -->
+
+- **1901** · Tàu điện Hà Nội — Những tuyến tàu điện đầu tiên chạy từ bờ hồ Hoàn Kiếm ra Cầu Giấy, Thuỵ Khuê, Thái Hà ấp; hệ thống năm tuyến chạy tới năm 1991. <!-- sort: 1901.8 | chuong: tau-dien-ha-noi-1901 | noi: Hồ Hoàn Kiếm, Hà Nội | toa-do: 21.028, 105.852 | nguon: https://vi.wikipedia.org/wiki/T%C3%A0u_%C4%91i%E1%BB%87n_H%C3%A0_N%E1%BB%99i_(1901%E2%80%931991) | nay: Thành phố Hà Nội -->
+
+- **1902** · Trường Y khoa Hà Nội — Trường Y khoa Hà Nội thành lập, hiệu trưởng đầu tiên là bác sĩ Alexandre Yersin; tiền thân Trường Đại học Y Hà Nội. <!-- sort: 1902.2 | chuong: truong-y-ha-noi-1902 | noi: Trường Đại học Y Hà Nội | toa-do: 21.0028, 105.8303 | nguon: https://vi.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Y_H%C3%A0_N%E1%BB%99i | nay: Thành phố Hà Nội -->
+
+- **1903 – 1910** · Đường sắt Hải Phòng – Vân Nam — Tuyến đường sắt khổ một mét dài 855 km nối cảng Hải Phòng với Côn Minh, hoạt động từ ngày 1 tháng 4 năm 1910. <!-- sort: 1910.25 | chuong: duong-sat-van-nam-1910 | noi: Hải Phòng – Lào Cai | toa-do: 20.86, 106.68 | nguon: https://vi.wikipedia.org/wiki/Tuy%E1%BA%BFn_%C4%91%C6%B0%E1%BB%9Dng_s%E1%BA%AFt_H%E1%BA%A3i_Ph%C3%B2ng_%E2%80%93_V%C3%A2n_Nam | nay: Thành phố Hải Phòng -->
+
+- **1911** · Bệnh viện Bạch Mai — Nhà thương Cống Vọng chữa bệnh truyền nhiễm được lập ở Hà Nội, năm 1945 mang tên Bệnh viện Bạch Mai. <!-- sort: 1911 | chuong: bach-mai-1911 | noi: Bệnh viện Bạch Mai, Hà Nội | toa-do: 21.0013, 105.8410 | nguon: https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_B%E1%BA%A1ch_Mai | nay: Thành phố Hà Nội -->
+
+- **1917 – 1919** · Thư viện Quốc gia — Nghị định ngày 29 tháng 11 năm 1917 lập Thư viện Trung ương Đông Dương ở Hà Nội; thư viện mở cửa ngày 1 tháng 9 năm 1919, nay là Thư viện Quốc gia Việt Nam. <!-- sort: 1917.9 | chuong: thu-vien-quoc-gia-1917 | noi: Thư viện Quốc gia, Hà Nội | toa-do: 21.0255, 105.8495 | nguon: https://vi.wikipedia.org/wiki/Th%C6%B0_vi%E1%BB%87n_Qu%E1%BB%91c_gia_Vi%E1%BB%87t_Nam | nay: Thành phố Hà Nội -->
+
+- **1926 – 1932** · Bảo tàng Louis Finot — Bảo tàng của Viện Viễn Đông Bác cổ với sảnh bát giác, mái ba lớp, tiêu biểu kiến trúc Đông Dương; từ năm 1958 là Bảo tàng Lịch sử Việt Nam. <!-- sort: 1932 | chuong: bao-tang-lich-su-1932 | noi: Số 1 Tràng Tiền, Hà Nội | toa-do: 21.0243, 105.8597 | nguon: https://vi.wikipedia.org/wiki/B%E1%BA%A3o_t%C3%A0ng_L%E1%BB%8Bch_s%E1%BB%AD_qu%E1%BB%91c_gia_(Vi%E1%BB%87t_Nam) | nay: Thành phố Hà Nội -->
+
+- **1934** · Áo dài Lemur — Báo Phong Hoá ngày 23 tháng 3 năm 1934 in mẫu áo dài Lemur của hoạ sĩ Cát Tường, mở đầu chiếc áo dài tân thời. <!-- sort: 1934.2 | chuong: ao-dai-lemur-1934 | nguon: https://vi.wikipedia.org/wiki/%C3%81o_d%C3%A0i -->
 
 ## Thời hiện đại
 
@@ -530,3 +550,21 @@ Ba lần đánh thắng quân Mông – Nguyên.
 - **2023** · Đội tuyển nữ dự World Cup — Tháng 7, đội tuyển bóng đá nữ Việt Nam dự vòng chung kết Giải vô địch bóng đá nữ thế giới ở Úc và New Zealand — kỳ World Cup đầu tiên của bóng đá Việt Nam. <!-- sort: 2023.55 | chuong: world-cup-nu-2023 | nguon: https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99i_tuy%E1%BB%83n_b%C3%B3ng_%C4%91%C3%A1_n%E1%BB%AF_qu%E1%BB%91c_gia_Vi%E1%BB%87t_Nam -->
 
 - **2024** · Tuyến metro số 1 — Ngày 22 tháng 12, tuyến metro Bến Thành – Suối Tiên dài 19,7 km bắt đầu chở khách, tuyến đường sắt đô thị đầu tiên của Thành phố Hồ Chí Minh. <!-- sort: 2024.97 | chuong: metro-so-1-2024 | noi: Ga Bến Thành, TP. Hồ Chí Minh | toa-do: 10.7716, 106.6983 | nguon: https://vi.wikipedia.org/wiki/Tuy%E1%BA%BFn_1_(%C4%90%C6%B0%E1%BB%9Dng_s%E1%BA%AFt_%C4%91%C3%B4_th%E1%BB%8B_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh) | nay: Thành phố Hồ Chí Minh -->
+
+- **1956** · Trường Đại học Bách khoa Hà Nội — Thành lập ngày 6 tháng 3, khai giảng khoá đầu tiên ngày 15 tháng 10 năm 1956 cho 848 sinh viên trong 14 ngành. <!-- sort: 1956.2 | chuong: bach-khoa-ha-noi-1956 | noi: Đại học Bách khoa Hà Nội | toa-do: 21.0055, 105.8433 | nguon: https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_B%C3%A1ch_khoa_H%C3%A0_N%E1%BB%99i | nay: Thành phố Hà Nội -->
+
+- **1992** · Vườn quốc gia Ba Bể — Ngày 10 tháng 11, vườn quốc gia được lập quanh hồ Ba Bể, hồ tự nhiên trên núi đá vôi dài 8 km; năm 2004 thành Vườn di sản ASEAN. <!-- sort: 1992.85 | chuong: ba-be-1992 | noi: Hồ Ba Bể | toa-do: 22.41, 105.62 | nguon: https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_Ba_B%E1%BB%83 | nay: Tỉnh Thái Nguyên -->
+
+- **2004** · Cát Bà, khu dự trữ sinh quyển — UNESCO công nhận quần đảo Cát Bà (388 đảo, nơi duy nhất còn voọc Cát Bà) là khu dự trữ sinh quyển thế giới. <!-- sort: 2004.5 | chuong: cat-ba-2004 | noi: Quần đảo Cát Bà | toa-do: 20.80, 107.00 | nguon: https://vi.wikipedia.org/wiki/Khu_d%E1%BB%B1_tr%E1%BB%AF_sinh_quy%E1%BB%83n_qu%E1%BA%A7n_%C4%91%E1%BA%A3o_C%C3%A1t_B%C3%A0 | nay: Thành phố Hải Phòng -->
+
+- **2009** · Cù Lao Chàm, khu dự trữ sinh quyển — Ngày 29 tháng 5, UNESCO công nhận cụm tám đảo Cù Lao Chàm là khu dự trữ sinh quyển thế giới. <!-- sort: 2009.4 | chuong: cu-lao-cham-2009 | noi: Cù Lao Chàm | toa-do: 15.95, 108.52 | nguon: https://vi.wikipedia.org/wiki/Khu_d%E1%BB%B1_tr%E1%BB%AF_sinh_quy%E1%BB%83n_C%C3%B9_Lao_Ch%C3%A0m | nay: Thành phố Đà Nẵng -->
+
+- **2012** · Mộc bản chùa Vĩnh Nghiêm — Tháng 5, kho ván kinh Phật chùa Vĩnh Nghiêm được ghi danh Di sản tư liệu thế giới khu vực châu Á – Thái Bình Dương. <!-- sort: 2012.4 | chuong: moc-ban-vinh-nghiem-2012 | noi: Chùa Vĩnh Nghiêm | toa-do: 21.28, 106.27 | nguon: https://vi.wikipedia.org/wiki/Ch%C3%B9a_V%C4%A9nh_Nghi%C3%AAm_(B%E1%BA%AFc_Ninh) | nay: Thành phố Bắc Ninh -->
+
+- **2013** · Cầu Rồng — Ngày 29 tháng 3, cầu Rồng dài 666 m qua sông Hàn thông xe; đầu rồng phun lửa, phun nước vào tối cuối tuần. <!-- sort: 2013.25 | chuong: cau-rong-2013 | noi: Cầu Rồng, Đà Nẵng | toa-do: 16.0611, 108.2275 | nguon: https://vi.wikipedia.org/wiki/C%E1%BA%A7u_R%E1%BB%93ng | nay: Thành phố Đà Nẵng -->
+
+- **2013** · Vệ tinh VNREDSat-1 — Ngày 7 tháng 5, vệ tinh quan sát Trái Đất đầu tiên của Việt Nam được phóng lên quỹ đạo từ Kourou. <!-- sort: 2013.35 | chuong: vnredsat-2013 | nguon: https://vi.wikipedia.org/wiki/VNREDSat-1 -->
+
+- **2017** · Cầu vượt biển Tân Vũ – Lạch Huyện — Ngày 2 tháng 9, cầu vượt biển dài nhất Việt Nam (5,44 km) khánh thành, nối Hải Phòng với cảng Lạch Huyện. <!-- sort: 2017.67 | chuong: tan-vu-lach-huyen-2017 | noi: Cầu Tân Vũ – Lạch Huyện, Hải Phòng | toa-do: 20.83, 106.80 | nguon: https://vi.wikipedia.org/wiki/C%E1%BA%A7u_T%C3%A2n_V%C5%A9_%E2%80%93_L%E1%BA%A1ch_Huy%E1%BB%87n | nay: Thành phố Hải Phòng -->
+
+- **2020** · Công viên địa chất Đắk Nông — Ngày 7 tháng 7, UNESCO công nhận Đắk Nông là công viên địa chất toàn cầu thứ ba của Việt Nam, với gần 50 hang động núi lửa. <!-- sort: 2020.5 | chuong: dak-nong-2020 | noi: Công viên địa chất Đắk Nông | toa-do: 12.00, 107.70 | nguon: https://vi.wikipedia.org/wiki/C%C3%B4ng_vi%C3%AAn_%C4%91%E1%BB%8Ba_ch%E1%BA%A5t_%C4%90%E1%BA%AFk_N%C3%B4ng | nay: Tỉnh Lâm Đồng -->
