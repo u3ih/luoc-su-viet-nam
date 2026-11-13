@@ -3,10 +3,6 @@
     "hash": "5575a0ea97d151ba",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   },
-  "ben-thuy": {
-    "hash": "0958defc9f5732fe",
-    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
-  },
   "hung-nguyen": {
     "hash": "8ccc73545c1e9783",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
@@ -19,8 +15,12 @@
     "hash": "dbf504b4c7970af6",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   },
+  "ben-thuy": {
+    "hash": "7815506bbcd3a0f8",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
   "tran-ap": {
-    "hash": "a426236f9aba8eb7",
+    "hash": "8fd92abb4d230a03",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   }
 }

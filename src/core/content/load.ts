@@ -1,5 +1,5 @@
 import "server-only";
-import { readFileSync } from "node:fs";
+import { readFileSync, statSync } from "node:fs";
 import { join } from "node:path";
 import { registry } from "@content/registry.generated";
 import type { Chapter, ChapterText, NextUp } from "../types";
@@ -9,11 +9,19 @@ import { loadRoadmap } from "./roadmap";
 
 const CONTENT = join(process.cwd(), "content");
 
+// Mỗi trang chương gọi listChapters() (tìm chương kế tiếp), llms-full.txt gọi getChapter() cho mọi chương:
+// không nhớ kết quả thì một lần build parse lại hàng trăm nghìn lượt story.md. Nhớ theo mtime để `pnpm dev` vẫn thấy chữ mới.
+const parsed = new Map<string, { mtime: number; text: ChapterText }>();
+
 function readText(slug: string) {
   const entry = registry[slug];
   if (!entry) return null;
   const file = `content/${entry.dir}/story.md`;
-  return { entry, file, text: parseStory(readFileSync(join(CONTENT, entry.dir, "story.md"), "utf8"), file) };
+  const path = join(CONTENT, entry.dir, "story.md");
+  const mtime = statSync(path).mtimeMs;
+  let hit = parsed.get(slug);
+  if (hit?.mtime !== mtime) parsed.set(slug, (hit = { mtime, text: parseStory(readFileSync(path, "utf8"), file) }));
+  return { entry, file, text: hit.text };
 }
 
 export type ChapterSummary = Omit<ChapterText, "beats" | "sources" | "lead"> & { dir: string };

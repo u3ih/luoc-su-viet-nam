@@ -49,7 +49,7 @@ Sau khi đánh đuổi quân Minh, Lê Thái Tổ cho lập đền thờ ông �
 ## Nguồn tham khảo
 
 - "Nguyễn Biểu", Wikipedia tiếng Việt — quê quán, đỗ Thái học sinh, đi sứ năm 1413, bài thơ Cỗ đầu người, câu đối với Trương Phụ, bị dìm chết ở chân cầu, Nghĩa sĩ truyện (Hoàng Xuân Hãn, 1941), đền thờ, xếp hạng năm 1991: https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Bi%E1%BB%83u
-- "Phục dựng đền thờ Nguyễn Biểu: Có nên để dân tự làm?", Báo Nghệ An — đền thờ bên sông Lam ở xã Hưng Xuân, Hưng Nguyên, chuyện tiệc đầu người, việc dân tự tu sửa: https://baonghean.vn/en/phuc-dung-den-tho-nguyen-bieu-co-nen-de-dan-tu-lam-10039984.html
+- "Phục dựng đền thờ Nguyễn Biểu: Có nên để dân tự làm?", Báo Nghệ An — đền thờ bên sông Lam ở xã Hưng Xuân, Hưng Nguyên, chuyện tiệc đầu người, việc dân tự tu sửa: https://baonghean.vn/phuc-dung-den-tho-nguyen-bieu-co-nen-de-dan-tu-lam-10039984.html
 
 <!--
 TODO cần thẩm định (chương nguyen-bieu-1413):

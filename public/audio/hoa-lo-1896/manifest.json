@@ -3,10 +3,6 @@
     "hash": "9f87cf8e324f2afb",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   },
-  "maison-centrale": {
-    "hash": "f84fb959424bb0cf",
-    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
-  },
   "tu-chinh-tri": {
     "hash": "4469d88be58a9919",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
@@ -15,12 +11,16 @@
     "hash": "032e3c20228317e0",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   },
+  "maison-centrale": {
+    "hash": "f32da17568f833d9",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
   "vuot-nguc.xong": {
-    "hash": "de4db5bdee863de7",
+    "hash": "6eee1fc4a2fb2124",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   },
   "hanoi-hilton": {
-    "hash": "8e55300f531cfffe",
+    "hash": "9e85e18e21c9eb4b",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   }
 }

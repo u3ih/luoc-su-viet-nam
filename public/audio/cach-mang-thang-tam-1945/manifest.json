@@ -3,24 +3,24 @@
     "hash": "f7a9e6edb7c2b532",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   },
-  "tan-trao": {
-    "hash": "3b2315054d06029f",
-    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
-  },
   "ha-noi": {
     "hash": "bad233c127fb81f7",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   },
+  "ba-dinh": {
+    "hash": "7c7983cabb3818d2",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "tan-trao": {
+    "hash": "1b252413da91c151",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
   "ha-noi.xong": {
-    "hash": "43b53f3e260551e0",
+    "hash": "64348c613a1c5ce6",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   },
   "ngo-mon": {
-    "hash": "da55326e8989a2fa",
-    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
-  },
-  "ba-dinh": {
-    "hash": "7c7983cabb3818d2",
+    "hash": "1a8827a5438b153c",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   }
 }

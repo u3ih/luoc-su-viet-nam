@@ -3,10 +3,6 @@
     "hash": "41d87c591f0b4496",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   },
-  "hai-mien": {
-    "hash": "b7ead62b80250c4a",
-    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
-  },
   "bau-cu": {
     "hash": "fc6e6afdd80c281f",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
@@ -21,6 +17,10 @@
   },
   "ve-sau": {
     "hash": "dddad3698880469b",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "hai-mien": {
+    "hash": "3b859282c4c9c961",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   }
 }

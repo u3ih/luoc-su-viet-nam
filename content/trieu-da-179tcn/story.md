@@ -25,7 +25,7 @@ Khoảng năm 179 TCN, theo cách ghi của sử học Việt Nam hiện nay, Tr
 ## Viên quan vùng Nam Hải
 <!-- id: trieu-da | kicker: Người lập Nam Việt -->
 
-Triệu Đà người huyện Chân Định, quận Hằng Sơn, nay thuộc tỉnh Hà Bắc, Trung Quốc. Ông là tướng của Tần Thuỷ Hoàng, tham gia bình định vùng Lĩnh Nam, rồi làm huyện lệnh Long Xuyên thuộc quận Nam Hải, dưới quyền quận uý Nhâm Ngao.
+Triệu Đà người huyện Chân Định, quận Hằng Sơn, nay thuộc tỉnh Hà Bắc, Trung Quốc. Ông là tướng của Tần Thuỷ Hoàng, tham gia cuộc chinh phục vùng Lĩnh Nam, rồi làm huyện lệnh Long Xuyên thuộc quận Nam Hải, dưới quyền quận uý Nhâm Ngao.
 
 Năm 208 TCN, khi Nhâm Ngao mất, Triệu Đà nối quyền cai trị Nam Hải và thay các quan lại nhà Tần bằng người của mình.
 

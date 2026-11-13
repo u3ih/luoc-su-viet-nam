@@ -61,6 +61,8 @@ export function speakable(text: string): string {
       // số La Mã sau "thế kỷ", "chương", "phần", "khoá" (Quốc hội), "Louis", "Paris" (đại học), "quốc gia" / "trung ương" (trung tâm lưu trữ), "Đại hội", "lần thứ" (chỉ khi viết hoa; "\b" của JS không hiểu chữ có dấu nên dùng lookaround)
       .replace(/(thế kỷ|Thế kỷ|chương|Chương|phần|Phần|khoá|khóa|Khoá|Khóa|Louis|Paris|quốc gia|trung ương|Đại hội|lần thứ)\s+([IVXLCDM]+)(?![\p{L}\d])/gu, (_, w, r) => `${w} ${numberToWords(romanToNumber(r))}`)
       .replace(/(?<![\p{L}\d])TK\s+([IVXLCDM]+)(?![\p{L}\d])/gu, (_, r) => `thế kỷ ${numberToWords(romanToNumber(r))}`)
+      // số hiệu văn bản "Luật 10/59", "Nghị định 25/26-CP" → "mười năm mươi chín" (bỏ dấu "/" và hậu tố chữ)
+      .replace(/(Luật|Nghị định|Nghị quyết|Quyết định|Chỉ thị|Sắc lệnh)\s+(\d+)\/(\d+)(?:-[A-Z]+)?(?![\p{L}\d])/gu, "$1 $2 $3")
       // tỷ số trận đấu "thua Hàn Quốc 1–2", "hoà 0–0" → "một hai" (không đọc thành khoảng "một đến hai")
       .replace(/((?:[Tt]hắng|[Tt]hua|[Hh]oà|[Hh]òa|tỷ số|tỉ số|chung cuộc)(?:\s+[^\d\s]+){0,4}\s+)(\d{1,2})–(\d{1,2})(?!\d)/gu, "$1$2 $3")
       // khoảng năm "40–43", "179 – 111 TCN"

@@ -3,10 +3,6 @@
     "hash": "de8b50053ae324d3",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   },
-  "luat-10-59": {
-    "hash": "5df9cc3827f5e649",
-    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
-  },
   "mo-cay": {
     "hash": "a76b9b8094d98f67",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
@@ -15,12 +11,16 @@
     "hash": "1773f704b0a0c144",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   },
+  "luat-10-59": {
+    "hash": "70aa571693d0e4a1",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
   "toc-dai": {
-    "hash": "41578aa3e6beec4b",
+    "hash": "d9596b56f334ed5a",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   },
   "mat-tran": {
-    "hash": "52cb4d44b234199c",
+    "hash": "0108870cbd749139",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   }
 }

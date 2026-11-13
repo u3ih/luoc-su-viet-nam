@@ -209,7 +209,7 @@ const setup: SceneSetup = async (world) => {
 ### Thêm tương tác cho một phân cảnh
 
 1. Trong `story.md`: thêm `interaction: <key>@<ngưỡng>` vào dòng chú thích, kèm khối `> [!IMPORTANT]`.
-2. Trong `scene.ts`: đọc `ctx.inputs.<key>` (0..1) bên trong `world.resolve` để đổi tham số mục tiêu, và dùng `ctx.completedAt.<key>` để kích hoạt diễn biến sau khi người xem hoàn thành. Xem `content/05-bach-dang-938/scene.ts`.
+2. Trong `scene.ts`: đọc `ctx.inputs.<key>` (0..1) bên trong `world.resolve` để đổi tham số mục tiêu, và dùng `ctx.completedAt.<key>` để kích hoạt diễn biến sau khi người xem hoàn thành. Xem `content/bach-dang-938/scene.ts`.
 
 ### Thêm model Blender
 

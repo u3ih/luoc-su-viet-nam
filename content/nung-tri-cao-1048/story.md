@@ -5,7 +5,7 @@ year: "1041 – 1055"
 sortYear: 1048
 era: Nhà Lý
 teaser: Giữa thế kỷ XI, Nùng Trí Cao — thủ lĩnh người Tày, Nùng, Choang ở châu Quảng Nguyên (Cao Bằng), vùng đất kẹp giữa nhà Tống và Đại Việt — nhiều lần lập nước riêng, từng vây Quảng Châu 57 ngày, rồi bị tướng Tống Địch Thanh đánh bại; ngày nay ông vẫn được thờ ở cả hai bên biên giới.
-status: draft
+status: ready
 seal: [Quảng, Nguyên]
 disclaimer: Bản thử nghiệm. Chủ đề liên quan quan hệ giữa các dân tộc, quốc gia láng giềng; sử Việt, sử Trung Hoa và các nghiên cứu hiện đại ghi chép khác nhau, chương nêu rõ chỗ khác biệt. Cảnh 3D chỉ gợi ý bằng chấm người, đốm sáng; không vẽ người, thành quách, ngựa chiến hay cảnh giao tranh; vị trí các nơi là cách điệu. Nội dung đang chờ chuyên gia thẩm định. Giọng đọc do máy tổng hợp.
 ---
@@ -24,12 +24,12 @@ Giữa thế kỷ XI, Nùng Trí Cao — thủ lĩnh người Tày, Nùng, Choan
 ## Châu Quảng Nguyên
 <!-- id: quang-nguyen | kicker: Trước năm 1041 -->
 
-Châu Quảng Nguyên, vùng Cao Bằng ngày nay, giàu vàng, bạc, chu sa, là đất mà cả nhà Tống lẫn Đại Việt đều coi là của mình; các tù trưởng ở đây chủ yếu nộp cống cho Đại Việt. Cha của Nùng Trí Cao là Nùng Tồn Phúc tự xưng hoàng đế; vua Lý Thái Tông thân chinh, giết Tồn Phúc cùng người con trưởng. Về xuất thân của Trí Cao, các sử liệu ghi khác nhau: Toàn thư chép ông là con thứ của Tồn Phúc và bà A Nùng; một số sử Trung Hoa lại chép khác.
+Châu Quảng Nguyên, vùng Cao Bằng ngày nay, giàu vàng, bạc, chu sa, là đất mà cả nhà Tống lẫn Đại Việt đều coi là của mình; các tù trưởng ở đây chủ yếu nộp cống cho Đại Việt. Cha của Nùng Trí Cao là Nùng Tồn Phúc tự xưng Chiêu Thánh hoàng đế; vua Lý Thái Tông thân chinh, giết Tồn Phúc cùng người con là Trí Thông. Về xuất thân của Trí Cao, các sử liệu ghi khác nhau: Toàn thư chép ông là con thứ của Tồn Phúc và bà A Nùng; An Nam chí lược, Tục tư trị thông giám lại chép cha ông là một người buôn.
 
 ## Đại Lịch, Nam Thiên
 <!-- id: dai-lich | kicker: 1041 – 1048 -->
 
-Năm 1041 (bài tiếng Anh ghi 1042), Trí Cao cùng mẹ trở về chiếm châu Thảng Do, lập nước Đại Lịch. Quân Lý bắt ông về Thăng Long, nhưng vua tha, cho làm Quảng Nguyên mục, sau phong Thái bảo. Năm 1048, ông lại không thần phục, bị quân Lý đánh; theo bài tiếng Anh, ông lập nước Nam Thiên rồi dời lên phía bắc, vào đất nhà Tống.
+Năm 1041 (bài tiếng Anh ghi 1042), Trí Cao cùng mẹ trở về chiếm châu Thảng Do, lập nước Đại Lịch. Quân Lý bắt ông về Thăng Long, nhưng vua tha, cho làm Quảng Nguyên mục, sau phong Thái bảo. Năm 1048, ông chiếm động Vật Ác, bị quân Lý đánh phải xin hàng; sau đó ông dời lên phía bắc, vào đất nhà Tống, lập nước Nam Thiên.
 
 ## Vây Quảng Châu
 <!-- id: quang-chau | kicker: 1052 | interaction: quang-chau@0.9 | narration: Năm 1052, Nùng Trí Cao xưng hoàng đế nước Đại Nam rồi đem quân đánh xuống phía đông. Hãy kéo thanh để đoàn quân tiến từ Ung Châu tới Quảng Châu. -->
@@ -44,7 +44,7 @@ Năm 1052, ông xưng Nhân Huệ hoàng đế, đặt quốc hiệu Đại Nam,
 ## Địch Thanh và những ngôi đền
 <!-- id: dich-thanh | kicker: 1053 – nay -->
 
-Nhà Tống cử tướng Địch Thanh đem quân đánh; năm 1053, quân Trí Cao thua. Ông chạy về phía Đại Lý (Vân Nam) và mất khoảng năm 1055 — các nguồn ghi khác nhau. Theo bài tiếng Anh, thất bại một phần vì các dòng họ Hoàng, Sầm cùng vùng không ủng hộ. Ngày nay, người Choang ở Trung Quốc, người Nùng, người Tày ở Việt Nam vẫn tôn kính ông; ở Cao Bằng có đền Kỳ Sầm thờ ông. Các nhà nghiên cứu lưu ý: việc coi ông là người Việt hay người Trung Hoa thay đổi theo từng thời.
+Nhà Tống cử tướng Địch Thanh đem quân đánh; năm 1053, quân Trí Cao thua. Ông chạy về phía Đại Lý (Vân Nam); sử Trung Hoa chép người Đại Lý giết ông, đem đầu nộp nhà Tống, khoảng năm 1055 — năm mất các nguồn ghi khác nhau. Theo một số nghiên cứu, thất bại có thể một phần vì các dòng họ Hoàng, Sầm cùng vùng không ủng hộ. Ngày nay, người Choang ở Trung Quốc, người Nùng, người Tày ở Việt Nam vẫn tôn kính ông; ở Cao Bằng có đền Kỳ Sầm thờ ông. Các nhà nghiên cứu lưu ý: việc coi ông là người Việt hay người Trung Hoa thay đổi theo từng thời.
 
 ## Nguồn tham khảo
 
@@ -53,8 +53,9 @@ Nhà Tống cử tướng Địch Thanh đem quân đánh; năm 1053, quân Trí
 - “Lý Thái Tông”, Wikipedia tiếng Việt — vua Lý tha Trí Cao năm 1041, phong Thái bảo năm 1043: https://vi.wikipedia.org/wiki/L%C3%BD_Th%C3%A1i_T%C3%B4ng
 
 <!--
-TODO cần thẩm định (chương nung-tri-cao-1048):
-1. Để status: draft — chủ đề dân tộc, biên giới; Việt Nam và Trung Quốc đều có cách kể riêng về Nùng Trí Cao — cần chuyên gia dân tộc học, sử học duyệt (đối chiếu Tống sử, Toàn thư; nghiên cứu của James Anderson, The Rebel Den of Nùng Trí Cao).
-2. Năm mất (1053 hay 1055) và nơi mất chưa thống nhất.
-3. Hoạt cảnh 3D chỉ gợi ý: chấm người (đoàn quân), đốm sáng (Quảng Nguyên, Ung Châu, Quảng Châu); vị trí thu ngắn, cách điệu; không vẽ thành quách, ngựa chiến.
+TODO cần thẩm định (chương nung-tri-cao-1048) — rà soát 2026-11-13:
+1. Đã đối chiếu bài Wikipedia tiếng Việt (dẫn Toàn thư, An Nam chí lược, Tục tư trị thông giám) và tiếng Anh: Quảng Nguyên giàu vàng, bạc, chu sa, tù trưởng chủ yếu cống nạp Đại Việt; Đại Lịch 1041 (tiếng Anh 1042); tha và phong Quảng Nguyên mục, Thái bảo; năm 1048 chiếm động Vật Ác rồi sang đất Tống lập Nam Thiên; Đại Nam, Nhân Huệ hoàng đế 1052; Ung Châu; vây Quảng Châu 57 ngày; Địch Thanh; đền Kỳ Sầm — khớp.
+2. Đã sửa: Tồn Phúc xưng Chiêu Thánh hoàng đế, bị giết cùng con là Trí Thông (bỏ "con trưởng" vì nguồn không nói); ghi rõ An Nam chí lược, Tục tư trị thông giám chép cha Trí Cao là người buôn; thêm chi tiết người Đại Lý giết ông theo sử Trung Hoa; vai trò họ Hoàng, Sầm ghi là "có thể".
+3. Trận quyết định với Địch Thanh: chương ghi năm 1053 (tháng giêng năm Hoàng Hựu thứ năm); bài tiếng Việt có chỗ ghi tháng 1 năm 1054. Chưa đối chiếu trực tiếp Tống sử và sách của James Anderson.
+4. Hoạt cảnh 3D chỉ gợi ý: chấm người (đoàn quân), đốm sáng (Quảng Nguyên, Ung Châu, Quảng Châu); vị trí thu ngắn, cách điệu; không vẽ thành quách, ngựa chiến.
 -->

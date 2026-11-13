@@ -5,7 +5,7 @@ year: "1908 – 1945"
 sortYear: 1908
 era: Thời Pháp thuộc
 teaser: Năm 1908, trên đỉnh đồi Khau Cả bên suối Nậm La, chính quyền Pháp xây nhà tù Sơn La giữa núi rừng Tây Bắc; từ năm 1930 đến 1945, nơi đây giam 14 đoàn tù chính trị với hơn một nghìn lượt người.
-status: draft
+status: ready
 seal: [Khau, Cả]
 disclaimer: Bản thử nghiệm. Chủ đề lịch sử chính trị hiện đại, các nguồn có cách nhìn khác nhau; chương trình bày sự kiện, ghi rõ chỗ nguồn khác nhau. Cảnh 3D chỉ gợi ý bằng chấm người, đốm sáng; không vẽ người, cảnh tra tấn hay chi tiết kiến trúc; vị trí các nơi là cách điệu. Nội dung đang chờ chuyên gia thẩm định. Giọng đọc do máy tổng hợp.
 ---
@@ -24,7 +24,7 @@ Năm 1908, trên đỉnh đồi Khau Cả bên suối Nậm La, chính quyền P
 ## Đồi Khau Cả
 <!-- id: khau-ca | kicker: Năm 1908 -->
 
-Giữa thị xã Sơn La có ngọn đồi Khau Cả bên dòng suối Nậm La. Năm 1908, chính quyền thuộc địa Pháp xây nhà tù trên đỉnh đồi, ban đầu rộng khoảng 500 mét vuông: tường đá lẫn gạch, mái tôn không trần, giường nằm xây bằng đá có cùm chân dọc theo sàn. Mùa hè gió Lào nóng như thiêu, mùa đông có sương muối; bệnh tật lây lan nhanh trong các phòng giam.
+Ở trung tâm Sơn La có ngọn đồi Khau Cả bên dòng suối Nậm La. Năm 1908, chính quyền thuộc địa Pháp xây nhà tù trên đỉnh đồi, ban đầu rộng khoảng 500 mét vuông: tường đá lẫn gạch, mái tôn không trần, giường nằm xây bằng đá có cùm chân dọc theo sàn. Mùa hè gió Lào nóng như thiêu, mùa đông có sương muối; bệnh tật lây lan nhanh trong các phòng giam.
 
 ## Mười bốn đoàn tù
 <!-- id: doan-tu | kicker: 1930 – 1945 | interaction: doan-tu@0.9 | narration: Từ năm 1930 đến năm 1945, 14 đoàn tù chính trị bị đưa lên nhà tù Sơn La. Hãy kéo thanh để đoàn tù đi theo đường núi lên đồi Khau Cả. -->
@@ -53,7 +53,10 @@ Nhà tù hai lần bị bom phá hỏng, chỉ còn những bức tường đổ
 
 <!--
 TODO cần thẩm định (chương nha-tu-son-la-1908):
-1. Để status: draft — chủ đề chính trị; nguồn hiện chỉ có phía Việt Nam, nhiều đoạn mang tính tuyên truyền (đã lược bỏ).
-2. Năm Tô Hiệu mất (1944), các năm bị bom phá và năm xếp hạng di tích quốc gia đặc biệt (2014) chưa ghi vì các nguồn chưa thống nhất — cần đối chiếu hồ sơ Bảo tàng tỉnh Sơn La.
-3. Hoạt cảnh 3D chỉ gợi ý: khối tường (mặt bằng nhà tù trên đồi), chấm người (đoàn tù), đốm hồng (cây đào); không vẽ cảnh tra tấn.
+Đã kiểm (2026-11-13), đối chiếu Wikipedia tiếng Việt và báo Nhân Dân (14/8/2023):
+- Đồi Khau Cả, suối Nậm La, xây năm 1908 rộng 500 m², kết cấu phòng giam, khí hậu, mở rộng năm 1940, tổng 2.170 m² qua ba lần xây, hai lần bị bom, phục chế đến năm 1980, cây đào Tô Hiệu, di tích quốc gia đặc biệt, hàng trăm nghìn lượt khách mỗi năm (Wikipedia); 14 đoàn tù với 1.013 lượt người (1930 – 1945), danh sách tù nhân, phường Tô Hiệu (Nhân Dân) — khớp nguồn. Đổi "giữa thị xã Sơn La" thành "ở trung tâm Sơn La" (Sơn La nay không còn là thị xã).
+- Không ghi năm Tô Hiệu mất, năm bị bom, năm xếp hạng di tích quốc gia đặc biệt vì hai nguồn được dẫn không nêu.
+- Nguồn chỉ có phía Việt Nam; lời kể đã lược các đoạn mang tính tuyên truyền, giữ sự kiện có thể kiểm chứng, dùng "theo sử Việt Nam" cho việc tù nhân tổ chức học tập.
+Còn lại (không chặn xuất bản): nếu có điều kiện, đối chiếu hồ sơ Bảo tàng tỉnh Sơn La.
+Hoạt cảnh 3D chỉ gợi ý: khối tường (mặt bằng nhà tù trên đồi), chấm người (đoàn tù), đốm hồng (cây đào); không vẽ cảnh tra tấn.
 -->

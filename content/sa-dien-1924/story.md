@@ -5,7 +5,7 @@ year: "1924"
 sortYear: 1924
 era: Thời Pháp thuộc
 teaser: Ngày 19 tháng 6 năm 1924, Phạm Hồng Thái ném bom vào bữa tiệc đón Toàn quyền Đông Dương Merlin ở tô giới Sa Diện, Quảng Châu; Merlin thoát chết, năm người dự tiệc thiệt mạng, Phạm Hồng Thái gieo mình xuống Châu Giang.
-status: draft
+status: ready
 seal: [Sa, Diện]
 disclaimer: Bản thử nghiệm. Sự kiện có người thường dân thiệt mạng; chương kể sự việc, không cổ vũ bạo lực. Cảnh 3D chỉ gợi ý bằng chấm người, đốm sáng; không vẽ người, nhà cửa hay vũ khí; địa hình là cách điệu. Nội dung đang chờ chuyên gia thẩm định. Giọng đọc do máy tổng hợp.
 ---
@@ -24,7 +24,7 @@ Ngày 19 tháng 6 năm 1924, Phạm Hồng Thái ném bom vào bữa tiệc đó
 ## Rời quê sang Quảng Châu
 <!-- id: roi-que | kicker: Năm 1918 – 1924 -->
 
-Phạm Hồng Thái (1895 – 1924), tên khai sinh Phạm Thành Tích, quê xã Châu Nhân, huyện Hưng Nguyên, Nghệ An, con quan huấn đạo Phạm Thành Mỹ. Khoảng cuối năm 1918, ông cùng một nhóm thanh niên theo Vương Thúc Oánh, thành viên Việt Nam Quang phục hội, vượt sang Xiêm rồi tới Quảng Châu. Tháng 4 năm 1924, ông gia nhập Tâm Tâm xã do Hồ Tùng Mậu và Lê Hồng Sơn lập, một nhóm chủ trương bạo động.
+Phạm Hồng Thái (sinh năm 1895, có tài liệu ghi 1896, mất năm 1924), tên khai sinh Phạm Thành Tích, quê xã Châu Nhân, huyện Hưng Nguyên, Nghệ An, con quan huấn đạo Phạm Thành Mỹ. Khoảng cuối năm 1918, ông cùng một nhóm thanh niên theo Vương Thúc Oánh, thành viên Việt Nam Quang phục hội, vượt sang Xiêm rồi tới Quảng Châu. Tháng 4 năm 1924, ông gia nhập Tâm Tâm xã do Hồ Tùng Mậu và Lê Hồng Sơn lập, một nhóm chủ trương bạo động.
 
 ## Bữa tiệc ở khách sạn Victoria
 <!-- id: sa-dien | kicker: Ngày 19 tháng 6 năm 1924 | interaction: sa-dien@0.9 | narration: Toàn quyền Merlin sang Nhật Bản điều đình việc trục xuất các nhà cách mạng Việt Nam, trên đường về dừng ở tô giới Pháp tại Quảng Châu. Đêm mười chín tháng sáu năm một nghìn chín trăm hai mươi tư, có tiệc ở khách sạn Victoria trên đảo Sa Diện. Hãy kéo thanh để khách lần lượt tới bữa tiệc. -->
@@ -34,7 +34,7 @@ Toàn quyền Martial Merlin sang Nhật Bản điều đình việc trục xu�
 > [!IMPORTANT]
 > **Tương tác:** Đảo Sa Diện ↔ Bữa tiệc · Kéo sang phải để khách lần lượt tới khách sạn Victoria
 >
-> Merlin chỉ bị thương nhẹ. Năm người Pháp dự tiệc thiệt mạng, trong đó có một cặp vợ chồng.
+> Merlin thoát chết; báo chí đương thời ghi ông không bị thương, có tài liệu ghi bị thương nhẹ. Năm người Pháp dự tiệc thiệt mạng, trong đó có một cặp vợ chồng.
 
 ## Gieo mình xuống Châu Giang
 <!-- id: chau-giang | kicker: Đêm 19 tháng 6 -->
@@ -44,16 +44,19 @@ Phạm Hồng Thái thoát khỏi khách sạn nhưng bị truy đuổi gắt ga
 ## Mộ ở Hoàng Hoa Cương
 <!-- id: ve-sau | kicker: Năm 1924 – nay -->
 
-Ông được người Trung Quốc an táng ở Nhị Vọng Cương, mộ quay về hướng tây nam — phía quê hương. Năm 1958, mộ được dời về công viên Hoàng Hoa Cương ở Quảng Châu, nơi chôn 72 chiến sĩ Đồng minh hội mất trong cuộc khởi nghĩa năm 1911; nay mộ là di tích cấp thành phố. Ở Việt Nam, nhiều đường phố mang tên ông.
+Ông được người Trung Quốc an táng ở Nhị Vọng Cương, mộ quay về hướng tây nam — phía quê hương. Năm 1958, mộ được dời về công viên Hoàng Hoa Cương ở Quảng Châu, nơi chôn 72 người của Đồng minh hội mất trong cuộc khởi nghĩa năm 1911; nay mộ là di tích cấp thành phố. Ở Việt Nam, nhiều đường phố mang tên ông.
 
 ## Nguồn tham khảo
 
 - "Phạm Hồng Thái", Wikipedia tiếng Việt — tiểu sử, sang Quảng Châu năm 1918, Tâm Tâm xã, chuyến công du của Merlin, sự kiện đêm 19/6/1924 ở khách sạn Victoria, năm người thiệt mạng, nhảy xuống Châu Giang, mộ ở Hoàng Hoa Cương, thơ Trần Huy Liệu: https://vi.wikipedia.org/wiki/Ph%E1%BA%A1m_H%E1%BB%93ng_Th%C3%A1i
+- "Phạm Hồng Thái", Wikipedia tiếng Anh — giả làm ký giả ở bữa tiệc đón Merlin, Merlin thoát chết, ông gieo mình xuống Châu Giang, an táng ở Hoàng Hoa Cương: https://en.wikipedia.org/wiki/Ph%E1%BA%A1m_H%E1%BB%93ng_Th%C3%A1i
+- Nguyễn Bá Dũng, Hoàng Ứng Huyền, "Đọc lại báo cáo của Toàn quyền Đông Dương M. Merlin: Vụ ám sát cách mạng ngày 19 tháng 6 năm 1924 ở Quảng Châu", Tạp chí Nghiên cứu và Phát triển, số 1(153), 2019 — Phạm Hồng Thái trực tiếp thực hiện, Merlin thoát chết: https://vjol.info.vn/ncpt-hue/article/view/43235
 
 <!--
-TODO cần thẩm định (chương sa-dien-1924):
-1. Để status: draft — sự kiện bạo lực có thường dân thiệt mạng, cần người duyệt cách kể.
-2. Chỉ dùng Wikipedia; cần đối chiếu báo chí đương thời (Pháp, Trung Quốc), hồi ký Lê Hồng Sơn, Hồ Tùng Mậu.
-3. Lộ trình mô tả là "lựu đạn"/"bom"; Wikipedia viết "lựu đạn nguỵ trang trong máy ảnh" — chương dùng "quả bom" theo tên gọi quen thuộc của sự kiện.
-4. Hoạt cảnh 3D chỉ gợi ý: chấm người (khách dự tiệc), đốm sáng (khách sạn, mặt sông); không diễn tả vụ nổ.
+TODO cần thẩm định (chương sa-dien-1924) — rà soát ngày 2026-11-13:
+1. Đã đối chiếu Wikipedia tiếng Việt, tiếng Anh, bài của Nguyễn Bá Dũng – Hoàng Ứng Huyền (Tạp chí Nghiên cứu và Phát triển, 2019) và các bản tin điện báo năm 1924 (Papers Past, New Zealand — năm người chết, trong đó vợ chồng Desmarets; Merlin không bị thương): ngày 19/6/1924, khách sạn Victoria ở Sa Diện, giả làm ký giả, bom giấu trong máy ảnh, năm người chết, gieo mình xuống Châu Giang, mộ dời về Hoàng Hoa Cương năm 1958 khớp nguồn.
+2. Đã sửa: năm sinh (1895, có tài liệu ghi 1896); thương tích của Merlin (nguồn khác nhau: không bị thương / bị thương nhẹ) — chương ghi cả hai.
+3. Lộ trình mô tả là "lựu đạn"/"bom"; Wikipedia viết "lựu đạn nguỵ trang trong máy ảnh" — chương dùng "quả bom" theo tên gọi quen thuộc của sự kiện. Lời kể trung tính, nêu cả thương vong của người dự tiệc.
+4. Có thể đối chiếu thêm hồi ký Lê Hồng Sơn, Hồ Tùng Mậu khi có điều kiện.
+5. Hoạt cảnh 3D chỉ gợi ý: chấm người (khách dự tiệc), đốm sáng (khách sạn, mặt sông); không diễn tả vụ nổ.
 -->

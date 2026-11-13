@@ -5,7 +5,7 @@ year: "1627"
 sortYear: 1627
 era: Chămpa
 teaser: Năm 1627, Po Rome lên ngôi vua Panduranga; ông đắp đập, đào kênh ở đồng bằng Phan Rang, giao thương với nhiều nước — người Chăm tôn thờ ông như thần, ngọn tháp Po Rome ở Hậu Sanh là một trong những tháp Chăm muộn nhất.
-status: draft
+status: ready
 seal: [Po, Rome]
 hero-drum: false
 disclaimer: Bản thử nghiệm. Chủ đề liên quan quan hệ Việt – Chăm thế kỷ XVII; nguồn Chăm, nguồn Việt và nguồn Hà Lan khác nhau về niên đại và diễn biến. Truyền thuyết Chăm về Po Rome được ghi rõ là truyền thuyết. Cảnh 3D chỉ gợi ý bằng chấm người, đốm sáng; tháp là cột đốm sáng tượng trưng, không vẽ kiến trúc; địa hình là cách điệu. Nội dung đang chờ chuyên gia thẩm định. Giọng đọc do máy tổng hợp.
@@ -25,7 +25,7 @@ Năm 1627, Po Rome lên ngôi vua Panduranga; ông đắp đập, đào kênh �
 ## Người thủ lĩnh từ cao nguyên
 <!-- id: len-ngoi | kicker: Năm 1627 -->
 
-Po Rome (mất năm 1651) là vua Panduranga – Chămpa từ năm 1627 đến năm 1651. Theo Wikipedia tiếng Anh, ông vốn là một thủ lĩnh người Churu, quê ở vùng Đơn Dương (Lâm Đồng) ngày nay; truyền thuyết địa phương gọi tên lúc nhỏ của ông là Ja Kathaot. Ông là con rể của vua Po Klong M'hnai, được vua cha vợ truyền ngôi. Thời ông trị vì, các cộng đồng Chăm theo đạo khác nhau được ông giữ cho hòa thuận.
+Po Rome (mất năm 1651) là vua Panduranga – Chămpa từ năm 1627 đến năm 1651. Theo các nghiên cứu về Chămpa, ông vốn là một thủ lĩnh người Churu, quê ở vùng Đơn Dương (Lâm Đồng) ngày nay; truyền thuyết địa phương gọi tên lúc nhỏ của ông là Ja Kathaot. Truyền thuyết kể vua Po Klong M'hnai chọn ông nối ngôi và gả con gái là Bia Than Cih cho ông. Thời ông trị vì, các phe Chăm theo Ấn Độ giáo và Hồi giáo được ông buộc phải giữ hòa với nhau.
 
 ## Đập và kênh
 <!-- id: dap-kenh | kicker: Đồng bằng Phan Rang | interaction: dap-kenh@0.9 | narration: Vua Po Rome cho đắp đập, đào kênh để nuôi ruộng lúa ở đồng bằng Phan Rang. Thời ông, Chămpa buôn bán với Xiêm, Chân Lạp, Đại Việt, Nhật Bản, thế giới Mã Lai và cả các nước phương Tây. Hãy kéo thanh để nước theo kênh chảy vào đồng. -->
@@ -40,12 +40,12 @@ Po Rome cho đắp đập, đào kênh để nuôi nông nghiệp ở lưu vực
 ## Công nữ Ngọc Khoa
 <!-- id: ngoc-khoa | kicker: Năm 1629 – 1651 -->
 
-Năm 1629, quan trấn Phú Yên là Văn Phong nổi dậy chống chúa Nguyễn, có dùng quân Chiêm Thành; tướng Nguyễn Hữu Vinh dẹp yên, và phía Việt lấy phần đất phía bắc sông Phan Rang. Năm 1631, quan hệ hai bên hòa dịu khi Po Rome cưới công nữ Nguyễn Phúc Ngọc Khoa, con gái chúa Nguyễn Phúc Nguyên. Năm 1651, Po Rome mất trong một cuộc xung đột giữa hai bên ở Phú Yên; em ông là Po Nraup nối ngôi. Biên niên Chăm và báo cáo của người Hà Lan ghi năm 1651, còn sử Việt chép cuộc giao tranh với vua "Bà Thấm" năm 1653 — nhiều nhà nghiên cứu cho rằng đó là vua kế tiếp.
+Năm 1629, quan trấn Phú Yên là Văn Phong nổi dậy chống chúa Nguyễn, có dùng quân Chiêm Thành; tướng Nguyễn Hữu Vinh đánh bại cuộc nổi dậy, và phía Việt lấy phần đất phía bắc sông Phan Rang. Năm 1631, quan hệ hai bên hòa dịu khi Po Rome cưới công nữ Nguyễn Phúc Ngọc Khoa, con gái chúa Nguyễn Phúc Nguyên. Năm 1651, Po Rome mất trong một cuộc xung đột giữa hai bên ở Phú Yên; em ông là Po Nraup nối ngôi. Biên niên Chăm và báo cáo của người Hà Lan ghi năm 1651, còn sử Việt chép cuộc giao tranh với vua "Bà Thấm" năm 1653 — nhiều nhà nghiên cứu cho rằng đó là vua kế tiếp.
 
 ## Tháp Hậu Sanh
 <!-- id: ve-sau | kicker: Thế kỷ XVII – nay -->
 
-Người Chăm thương tiếc ông, theo truyền thống đã dựng tháp thờ — tháp Po Rome ở làng Hậu Sanh, xã Phước Hữu, tỉnh Khánh Hòa (trước thuộc Ninh Thuận), dù có học giả cho rằng tháp có thể dựng sớm hơn. Tháp vuông ba tầng, cao khoảng 8 mét, cửa mở về hướng đông, trên một trong hai quả núi nhỏ cạnh nhau; bên trong thờ tượng vua Po Rome bằng đá cao khoảng 1,2 mét, cùng tượng hoàng hậu Bia Than Can (người Ê Đê), còn bên ngoài là tượng hoàng hậu Bia Sucih. Như tháp Po Klong Garai, đây là tháp thờ một vị vua được thần hóa; người Chăm vẫn làm lễ ở tháp vào các dịp lễ, tết. Truyền thuyết Chăm về sau còn kể nhiều chuyện khác về ông, như chuyện cây kraik thiêng.
+Theo truyền thống, sau khi ông mất, người Chăm dựng tháp thờ ông — tháp Po Rome ở làng Hậu Sanh, xã Phước Hữu, tỉnh Khánh Hòa (trước thuộc Ninh Thuận), dù có học giả cho rằng tháp có thể dựng sớm hơn. Tháp vuông ba tầng, cao khoảng 8 mét, cửa mở về hướng đông, trên một trong hai quả núi nhỏ cạnh nhau; bên trong thờ tượng vua Po Rome bằng đá cao khoảng 1,2 mét, cùng tượng bán thân hoàng hậu Po Bia Sancan, tương truyền là người Ê Đê, còn bên ngoài là tượng hoàng hậu Bia Sucih. Như tháp Po Klong Garai, đây là tháp thờ một vị vua được thần hóa; người Chăm vẫn làm lễ ở tháp, như lễ hội Katê, lễ mở cửa tháp. Truyền thuyết Chăm về sau còn kể nhiều chuyện khác về ông, như chuyện cây kraik thiêng.
 
 ## Nguồn tham khảo
 
@@ -54,11 +54,10 @@ Người Chăm thương tiếc ông, theo truyền thống đã dựng tháp th�
 - "Đến Ninh Thuận không nên bỏ qua tháp Po Rome", Báo Đại biểu Nhân dân: https://daibieunhandan.vn/den-ninh-thuan-khong-nen-bo-qua-thap-po-rome-10274368.html
 
 <!--
-TODO cần thẩm định (chương po-rome-1627) — status: draft vì liên quan quan hệ Việt – Chăm và xung đột thế kỷ XVII:
-1. Gốc Churu, tên Ja Kathaot, đạo Hồi của Po Rome chỉ theo Wikipedia tiếng Anh (truyền thống Kelantan còn tranh luận) — lời kể không nói ông theo đạo Hồi.
-2. Năm mất 1651 (biên niên Chăm, báo cáo Hà Lan) khác năm 1653 trong sử Việt — lời kể ghi cả hai.
-3. Truyền thuyết Chăm (cây kraik, công nữ Bia Ut) giải thích theo cách nhìn đời sau — chỉ nhắc tên, không kể chi tiết; cần người am hiểu văn hóa Chăm duyệt.
-4. Tên hoàng hậu: Wikipedia tiếng Việt viết "Po Bia Sancan", "Sucih"; tiếng Anh viết Bia Than Can, Bia Than Cih (Bia Sucih).
-5. Cần đối chiếu Đại Nam thực lục tiền biên và nghiên cứu của Po Dharma.
-6. Hoạt cảnh 3D chỉ gợi ý: cột đốm sáng (tháp), đốm sáng (đập, kênh), chấm người (người làm thủy lợi, người dự lễ).
+TODO cần thẩm định (chương po-rome-1627) — rà soát 2026-11-13:
+1. Đã đối chiếu “Po Rome” (en), “Tháp Po Rome” (vi), Báo Đại biểu Nhân dân: trị vì 1627 – 1651, gốc Churu, đập và kênh ở Phan Rang, giao thương (cả Pháp, Bồ Đào Nha), thăm vua Chân Lạp năm 1638, Văn Phong 1629, Ngọc Khoa 1631, mất năm 1651 ở Phú Yên, Po Nraup nối ngôi, sử Việt chép “Bà Thấm” năm 1653, lịch Sakawi, tháp vuông ba tầng cao khoảng 8 m cửa hướng đông, tượng vua cao khoảng 1,2 m — khớp.
+2. Đã sửa: việc Po Klong M'hnai chọn ông nối ngôi và gả con gái là truyền thuyết (nguồn không khẳng định là sử); hòa giải giữa phe Ấn Độ giáo và Hồi giáo theo đúng ý nguồn; việc dựng tháp sau khi ông mất ghi là “theo truyền thống”; hoàng hậu Po Bia Sancan “tương truyền là người Ê Đê” (bài tiếng Anh ghi gia đình tù trưởng Ê Đê hoặc Cơ Ho); lễ ở tháp ghi cụ thể Katê, lễ mở cửa tháp.
+3. Việc Po Rome theo đạo Hồi (truyền thống Kelantan) còn tranh luận — lời kể không nêu. Truyền thuyết cây kraik, công nữ Bia Ut chỉ nhắc tên.
+4. Chưa đối chiếu trực tiếp Đại Nam thực lục tiền biên, nghiên cứu của Po Dharma.
+5. Hoạt cảnh 3D chỉ gợi ý: cột đốm sáng (tháp), đốm sáng (đập, kênh), chấm người (người làm thủy lợi, người dự lễ).
 -->

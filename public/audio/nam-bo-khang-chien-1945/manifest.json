@@ -15,12 +15,12 @@
     "hash": "effedafcd3bb2953",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   },
-  "vay-thanh": {
-    "hash": "9e24f9dbbe0c384e",
-    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
-  },
   "lan-rong": {
     "hash": "aa6e9284e381923e",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "vay-thanh": {
+    "hash": "84a327c90f038698",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   }
 }

@@ -63,7 +63,7 @@ Ban ngày, nghĩa quân tắt hết khói lửa, im lặng như không có ngư�
 > [!IMPORTANT]
 > **Tương tác:** Ban ngày ↔ Đêm xuống · Kéo sang phải để màn đêm buông
 >
-> Đêm xuống, thuyền độc mộc lặng lẽ rẽ lau sậy, đánh úp trại giặc rồi rút về đầm. Quân Lương mỏi mệt mà không sao đánh được. Người đương thời gọi Triệu Quang Phục là Dạ Trạch Vương.
+> Đêm xuống, thuyền độc mộc lặng lẽ rẽ lau sậy, đánh úp trại quân Lương rồi rút về đầm. Quân Lương mỏi mệt mà không sao đánh được. Người đương thời gọi Triệu Quang Phục là Dạ Trạch Vương.
 
 ## Giành lại Long Biên
 <!-- id: long-bien | kicker: Năm 550 -->

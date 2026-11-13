@@ -5,7 +5,7 @@ year: 187 – 226
 sortYear: 187
 era: Bắc thuộc
 teaser: Từ năm 187 đến năm 226, Thái thú Sĩ Nhiếp đóng trị sở ở Luy Lâu — đô thị bên sông Dâu vừa là trung tâm cai trị, bến buôn, vừa là trung tâm Phật giáo sớm của người Việt.
-status: draft
+status: ready
 seal: [Luy, Lâu]
 hero-drum: false
 disclaimer: Bản thử nghiệm. Sĩ Nhiếp là quan cai trị thời Bắc thuộc; sử cũ và các nhà nghiên cứu đánh giá ông khác nhau. Chương nêu các nhận định như lời của người viết sử, không phải lời của chương. Cảnh 3D chỉ gợi ý; vòng thành là cách điệu theo kích thước khảo cổ, không vẽ kiến trúc. Nội dung đang chờ chuyên gia sử học thẩm định. Giọng đọc do máy tổng hợp.
@@ -25,7 +25,7 @@ Từ năm 187 đến năm 226, Thái thú Sĩ Nhiếp đóng trị sở ở Luy 
 ## Thái thú Giao Chỉ
 <!-- id: thai-thu | kicker: Năm 187 -->
 
-Sĩ Nhiếp (137 – 226), tổ tiên người nước Lỗ, tránh loạn Vương Mãng sang Giao Châu đến ông là đời thứ sáu. Ông từng lên kinh sư học sách Tả thị Xuân Thu, rồi được bổ làm Thái thú quận Giao Chỉ, đóng trị sở ở Luy Lâu (nay thuộc Bắc Ninh). Lúc Trung Hoa loạn lạc cuối thời Đông Hán, các em ông giữ các quận Hợp Phố, Cửu Chân, Nam Hải.
+Sĩ Nhiếp (137 – 226), tổ tiên người đất Vấn Dương nước Lỗ, tránh loạn Vương Mãng sang Giao Châu; Tam quốc chí chép đến đời cha ông là Sĩ Tứ đã được sáu đời. Ông từng lên kinh sư học sách Tả thị Xuân Thu, làm huyện lệnh, rồi được thăng Thái thú quận Giao Chỉ, đóng trị sở ở Luy Lâu (nay thuộc Bắc Ninh). Lúc Trung Hoa loạn lạc cuối thời Đông Hán, các em ông giữ các quận Hợp Phố, Cửu Chân, Nam Hải.
 
 ## Thành bên sông Dâu
 <!-- id: thanh-luy-lau | kicker: Luy Lâu | interaction: thanh-luy-lau@0.9 | narration: Theo nghiên cứu khảo cổ học, thành Luy Lâu hình chữ nhật, rộng khoảng ba trăm mét, dài sáu trăm mét, bên bờ sông Dâu. Hãy kéo thanh để vòng thành và phố chợ quanh thành hiện ra. -->
@@ -45,16 +45,18 @@ Luy Lâu là nơi Sĩ Nhiếp mở trường lớp dạy chữ Hán, và cũng l
 ## Người đời sau
 <!-- id: ve-sau | kicker: Năm 226 và về sau -->
 
-Sĩ Nhiếp mất năm 226, thọ 90 tuổi. Sử thần đời sau — Lê Văn Hưu, Ngô Sĩ Liên — khen ông giữ yên Giao Châu giữa thời Tam Quốc; ông được tôn là "Nam Giao học tổ". Sau khi ông mất, con là Sĩ Huy tự xưng Thái thú; nhà Ngô sai Lữ Đại sang, bắt giết anh em Sĩ Huy.
+Sĩ Nhiếp mất năm 226, thọ 90 tuổi, sau hơn bốn mươi năm ở quận. Sử thần đời sau — Lê Văn Hưu, Ngô Sĩ Liên — khen ông giữ yên Giao Châu giữa thời Tam Quốc, Toàn thư còn chép riêng một kỷ gọi ông là Sĩ Vương; đời sau tôn ông là "Nam Giao học tổ". Cũng có những cách nhìn khác: Khâm định Việt sử thông giám cương mục bỏ kỷ Sĩ Vương vì ông là quan do triều đình phương Bắc cử, chưa từng xưng vương; Việt sử lược và một số nhà nghiên cứu hiện nay cho rằng việc học chữ ở Giao Chỉ đã có từ trước ông. Sau khi ông mất, con là Sĩ Huy tự xưng Thái thú; nhà Ngô sai Lữ Đại sang, bắt giết anh em Sĩ Huy.
 
 ## Nguồn tham khảo
 
 - "Sĩ Nhiếp", Wikipedia tiếng Việt — xuất thân, chức Thái thú, quan hệ với nhà Hán, Đông Ngô, nhận xét của Lê Văn Hưu, Ngô Sĩ Liên, năm mất, kết cục của họ Sĩ: https://vi.wikipedia.org/wiki/S%C4%A9_Nhi%E1%BA%BFp
+- Tam quốc chí, quyển 49 (Ngô thư, Sĩ Nhiếp truyện), nguyên văn chữ Hán trên Wikisource — tổ tiên ở Vấn Dương nước Lỗ, sáu đời đến cha là Sĩ Tứ, học Tả thị Xuân Thu, làm Thái thú Giao Chỉ, các em giữ Hợp Phố, Cửu Chân, Nam Hải, hơn bốn mươi năm ở quận, mất năm Hoàng Vũ thứ năm (226) thọ 90 tuổi, Sĩ Huy tự xưng Thái thú, Lữ Đại giết anh em Sĩ Huy: https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E5%BF%97/%E5%8D%B749
 - "Luy Lâu", Wikipedia tiếng Việt — vị trí, kích thước thành theo khảo cổ, kinh tế, chùa Dâu: https://vi.wikipedia.org/wiki/Luy_L%C3%A2u
 
 <!--
-TODO cần thẩm định (chương si-nhiep-187):
-1. Chỉ dùng Wikipedia tiếng Việt; cần đối chiếu Tam quốc chí (Ngô thư, Sĩ Nhiếp truyện), Đại Việt sử ký toàn thư và các nghiên cứu hiện đại về Luy Lâu.
-2. Đánh giá về Sĩ Nhiếp (danh hiệu "Nam Giao học tổ", việc "giữ yên" Giao Châu) có nhiều tranh luận trong giới sử học hiện đại — để status draft tới khi có người duyệt.
-3. Hoạt cảnh 3D chỉ gợi ý: vòng thành cách điệu, chấm người, chấm sáng (thuyền buôn), đốm sáng (chùa).
+TODO cần thẩm định (chương si-nhiep-187) — rà soát 2026-11-13:
+1. Đã đối chiếu nguyên văn Tam quốc chí (Ngô thư, Sĩ Nhiếp truyện): sửa "đến ông là đời thứ sáu" thành sáu đời đến cha ông là Sĩ Tứ; thêm bước làm huyện lệnh trước khi làm Thái thú; năm mất 226, thọ 90 tuổi, các em giữ Hợp Phố, Cửu Chân, Nam Hải, kết cục họ Sĩ — khớp.
+2. Đã nêu cả hai phía đánh giá: Lê Văn Hưu, Ngô Sĩ Liên (Toàn thư, kỷ Sĩ Vương) và Cương mục, Việt sử lược, một số nhà nghiên cứu hiện nay — theo bài Wikipedia tiếng Việt "Sĩ Nhiếp".
+3. Kích thước thành (khoảng 300 m × 600 m), sông Dâu làm hào, Văn Quan – Phương Quan – Mã Quan, trung tâm Phật giáo sớm — theo bài "Luy Lâu"; năm 187 nhận chức là mốc quy ước của sử Việt (Tam quốc chí không ghi năm).
+4. Hoạt cảnh 3D chỉ gợi ý: vòng thành cách điệu, chấm người, chấm sáng (thuyền buôn), đốm sáng (chùa).
 -->

@@ -51,7 +51,7 @@ Hồ sơ đề cử được xây dựng trong 13 năm, gồm 12 điểm di tíc
 - “Quần thể Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc được UNESCO công nhận di sản văn hoá thế giới”, báo Luật sư Việt Nam — 13 giờ 02 ngày 12/7/2025 tại kỳ họp 47, di sản thứ 9, liên tỉnh thứ 2, 12 điểm, vùng lõi 525,75 ha, vùng đệm 4.380,19 ha, các điểm tiêu biểu, ba chặng khai sáng – truyền bá – phục hưng, hồ sơ 13 năm: https://lsvn.vn/quan-the-yen-tu-vinh-nghiem-con-son-kiep-bac-duoc-unesco-cong-nhan-di-san-van-hoa-the-gioi-a160409.html
 - “Tôn vinh quần thể di sản theo chuỗi đầu tiên tại Việt Nam”, báo Thế giới & Việt Nam — lễ đón bằng tối 20/12/2025, 717 năm Trần Nhân Tông nhập niết bàn, hồ sơ di sản theo chuỗi đầu tiên: https://baoquocte.vn/ton-vinh-quan-the-di-san-theo-chuoi-dau-tien-tai-viet-nam-338390.html
 - “Công bố giá trị nổi bật toàn cầu của Di sản thế giới Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc”, báo Đại biểu Nhân dân (17/8/2025) — bốn lần gửi báo cáo giải trình trong 8 tháng (11/2024 – 6/2025): https://daibieunhandan.vn/cong-bo-gia-tri-noi-bat-toan-cau-cua-di-san-the-gioi-yen-tu-vinh-nghiem-con-son-kiep-bac-10383631.html
-- “Yên Tử”, Wikipedia tiếng Việt và tiếng Anh — cánh cung Đông Triều, đỉnh 1.068 m, Côn Sơn – Kiếp Bạc gần Lục Đầu Giang, Trần Nhân Tông xuất gia, chùa Đồng khoảng 70 tấn; trang UNESCO: https://whc.unesco.org/en/list/1732: https://vi.wikipedia.org/wiki/Y%C3%AAn_T%E1%BB%AD
+- “Yên Tử”, Wikipedia tiếng Việt và tiếng Anh — cánh cung Đông Triều, đỉnh 1.068 m, Côn Sơn – Kiếp Bạc gần Lục Đầu Giang, Trần Nhân Tông xuất gia, chùa Đồng khoảng 70 tấn: https://vi.wikipedia.org/wiki/Y%C3%AAn_T%E1%BB%AD — trang UNESCO: https://whc.unesco.org/en/list/1732
 
 <!--
 TODO cần thẩm định (chương yen-tu-2025):

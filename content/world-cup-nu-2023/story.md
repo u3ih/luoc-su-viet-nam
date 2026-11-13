@@ -49,7 +49,7 @@ Giải vô địch bóng đá nữ thế giới 2023 diễn ra từ 20 tháng 7 
 ## Nguồn tham khảo
 
 - “Đội tuyển bóng đá nữ quốc gia Việt Nam”, Wikipedia tiếng Việt — Asian Cup nữ 2022, play-off với Thái Lan (2–0) và Đài Bắc Trung Hoa (2–1), các trận ở World Cup 2023, biệt danh: https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99i_tuy%E1%BB%83n_b%C3%B3ng_%C4%91%C3%A1_n%E1%BB%AF_qu%E1%BB%91c_gia_Vi%E1%BB%87t_Nam
-- “Vietnam women's national football team”, Wikipedia tiếng Anh — thành lập năm 1990, trận đầu năm 1997, các chức vô địch Đông Nam Á, thất bại ở vòng loại World Cup 2015, cải cách bóng đá nữ, thiếu giải chuyên nghiệp: https://en.wikipedia.org/wiki/Vietnam_women's_national_football_team
+- “Vietnam women's national football team”, Wikipedia tiếng Anh — thành lập năm 1990, trận đầu năm 1997, các chức vô địch Đông Nam Á, thất bại ở vòng loại World Cup 2015, cải cách bóng đá nữ, thiếu giải chuyên nghiệp: https://en.wikipedia.org/wiki/Vietnam_women%27s_national_football_team
 - “Giải vô địch bóng đá nữ thế giới 2023”, Wikipedia tiếng Việt — thời gian, nước chủ nhà, 32 đội, tám đội lần đầu dự giải: https://vi.wikipedia.org/wiki/Gi%E1%BA%A3i_v%C3%B4_%C4%91%E1%BB%8Bch_b%C3%B3ng_%C4%91%C3%A1_n%E1%BB%AF_th%E1%BA%BF_gi%E1%BB%9Bi_2023
 
 <!--

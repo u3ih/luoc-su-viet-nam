@@ -5,7 +5,7 @@ year: "1944 – 1945"
 sortYear: 1945
 era: Thời Pháp thuộc
 teaser: Từ cuối năm 1944 đến giữa năm 1945, nạn đói lan khắp Bắc Kỳ và bắc Trung Kỳ; các ước tính số người chết từ 400.000 đến 2 triệu — Thái Bình là nơi bị nặng nhất.
-status: draft
+status: ready
 seal: [Ất, Dậu]
 disclaimer: Bản thử nghiệm. Số người chết và tầm quan trọng của từng nguyên nhân còn được các nguồn đánh giá khác nhau. Cảnh 3D chỉ gợi ý bằng chấm người, đốm sáng; không vẽ người, cảnh chết chóc hay hình ảnh tư liệu; địa hình là cách điệu. Nội dung đang chờ chuyên gia thẩm định. Giọng đọc do máy tổng hợp.
 ---
@@ -39,24 +39,25 @@ Tháng 9 năm 1944, lụt vỡ đê ở Hà Tĩnh, Nghệ An; vụ mùa ở các
 > [!IMPORTANT]
 > **Tương tác:** Làng đông người ↔ Làng thưa người · Kéo sang phải để thấy các làng thưa dần người
 >
-> Số người chết vẫn còn tranh luận: tháng 5 năm 1945, 20 tỉnh phía bắc báo cáo khoảng 380.000 người chết đói; một quan chức Pháp tháng 10 năm 1945 ước khoảng 500.000; hồi ký Toàn quyền Decoux ghi khoảng một triệu; Tuyên ngôn độc lập ngày 2 tháng 9 năm 1945 nêu con số hơn 2 triệu.
+> Số người chết vẫn còn tranh luận: tháng 5 năm 1945, 20 tỉnh phía bắc báo cáo khoảng 380.000 người chết đói và 20.000 người chết vì bệnh; một quan chức Pháp tháng 10 năm 1945 ước khoảng 500.000; hồi ký Toàn quyền Decoux ghi khoảng một triệu; Tuyên ngôn độc lập ngày 2 tháng 9 năm 1945 nêu con số hơn 2 triệu.
 
 ## Cứu đói
 <!-- id: ve-sau | kicker: Năm 1945 – 1946 -->
 
-Năm 1945, chính phủ Trần Trọng Kim tìm cách chở gạo từ Nam ra Bắc bằng xe bò, thuyền nhỏ; vụ thu hoạch tháng 5 – 6 năm 1945 giúp nạn đói dịu dần. Sau Cách mạng Tháng Tám, chính phủ lâm thời lập Hội Cứu đói (tháng 11 năm 1945), phát động tăng gia sản xuất hoa màu; từ tháng 11 năm 1945 đến tháng 5 năm 1946, thu hoạch được lượng lương thực tương đương 506.000 tấn lúa.
+Năm 1945, chính phủ Trần Trọng Kim định giá gạo, cho tư nhân buôn gạo, lập các hội cứu tế và tìm cách chở gạo từ Nam ra Bắc bằng xe bò, thuyền nhỏ, nhưng tàu lớn bị Nhật trưng dụng và đường sá bị đánh phá; vụ thu hoạch tháng 5 – 6 năm 1945 giúp nạn đói dịu dần. Sau Cách mạng Tháng Tám, ngày 2 tháng 11 năm 1945, Hội Cứu đói được lập, phát động tăng gia sản xuất hoa màu; từ tháng 11 năm 1945 đến tháng 5 năm 1946, thu hoạch được lượng lương thực tương đương 506.000 tấn lúa.
 
 ## Nguồn tham khảo
 
 - "Nạn đói năm Ất Dậu", Wikipedia tiếng Việt — thời gian tháng 10/1944 – 5/1945, ước tính 400.000 – 2 triệu người chết, nguyên nhân (trưng thu, nhổ lúa trồng đay, cấm lưu thông, Đồng minh đánh phá giao thông, lụt và mất mùa), số liệu Thái Bình theo Văn Tạo, Tuyên ngôn độc lập, các biện pháp cứu đói: https://vi.wikipedia.org/wiki/N%E1%BA%A1n_%C4%91%C3%B3i_n%C4%83m_%E1%BA%A4t_D%E1%BA%ADu
-- "Vietnamese famine of 1945", Wikipedia tiếng Anh — các ước tính (380.000 tháng 5/1945, khoảng 500.000, khoảng 1 triệu theo Decoux, 1 – 2 triệu), các nguyên nhân, cứu trợ của chính phủ Trần Trọng Kim, vụ thu hoạch tháng 5 – 6/1945: https://en.wikipedia.org/wiki/Vietnamese_famine_of_1945
+- "Vietnamese famine of 1945", Wikipedia tiếng Anh — các ước tính (380.000 tháng 5/1945, khoảng 500.000, khoảng 1 triệu theo Decoux, 1 – 2 triệu), các nguyên nhân, cứu trợ của chính phủ Trần Trọng Kim (định giá gạo, cho tư nhân buôn gạo, hội cứu tế; tàu lớn bị Nhật trưng dụng), vụ thu hoạch tháng 5 – 6/1945: https://en.wikipedia.org/wiki/Vietnamese_famine_of_1945
 - "Nạn đói năm 1945 dưới góc nhìn sử học", Báo Lào Cai — khảo sát của Nguyễn Quang Ân ở 19 địa điểm tám tỉnh, tỉ lệ chết ở các xã, thôn Quần Mục, các nguyên nhân: https://baolaocai.vn/nan-doi-nam-1945-duoi-goc-nhin-su-hoc-post878498.html
 - "Chứng nhân Ất Dậu", VnExpress — lời kể nhân chứng ở Thái Bình, Nam Định: https://vnexpress.net/chung-nhan-at-dau-4930995.html
 
 <!--
-TODO cần thẩm định (chương nan-doi-1945):
-1. Để status: draft — chủ đề nhạy cảm, số liệu tranh luận, cách quy trách nhiệm khác nhau giữa các nguồn.
-2. Các nguồn Việt Nam nhấn mạnh trách nhiệm của Pháp – Nhật; nguồn tiếng Anh nêu thêm vai trò thời tiết, giao thông, quản lý — chương trình bày các nguyên nhân cùng lúc, không xếp hạng.
-3. Cần đối chiếu Văn Tạo – Furuta Motoo, "Nạn đói năm 1945 ở Việt Nam – Những chứng tích lịch sử" (1995).
-4. Hoạt cảnh 3D chỉ gợi ý: chấm người thưa dần (dân các làng), đốm sáng (kho gạo, nơi phát chẩn); không diễn tả cái chết.
+TODO cần thẩm định (chương nan-doi-1945) — rà soát ngày 2026-11-13:
+1. Đã đối chiếu Wikipedia tiếng Việt, tiếng Anh và bài Báo Lào Cai (khảo sát của Nguyễn Quang Ân): thời gian nạn đói, khoảng ước tính 400.000 – 2 triệu và nguồn của từng con số (20 tỉnh báo cáo tháng 5/1945, tướng Pháp Mordant tháng 10/1945, hồi ký Decoux, Tuyên ngôn độc lập), các nguyên nhân (trưng thu, giá mua rẻ, nhổ lúa trồng đay, cấm lưu thông, thuế thân vẫn thu, Đồng minh đánh phá giao thông, lụt tháng 9/1944 ở Hà Tĩnh, Nghệ An, sâu rầy), 19 địa điểm ở tám tỉnh, thôn Quần Mục 1.206/2.052, Thái Bình khoảng 280.000 (Văn Tạo), Hội Cứu đói 2/11/1945, 506.000 tấn lúa — khớp nguồn.
+2. Đã sửa/bổ sung: con số báo cáo tháng 5/1945 ghi đủ (380.000 chết đói và 20.000 chết vì bệnh); các biện pháp cứu tế của chính phủ Trần Trọng Kim và trở ngại (theo Wikipedia tiếng Anh); ngày lập Hội Cứu đói.
+3. Các nguồn Việt Nam nhấn mạnh trách nhiệm của Pháp – Nhật; nguồn tiếng Anh nêu thêm vai trò thời tiết, giao thông, quản lý — chương trình bày các nguyên nhân cùng lúc, không xếp hạng, không dùng từ gán nhãn trong lời người kể.
+4. Có thể đối chiếu thêm Văn Tạo – Furuta Motoo, "Nạn đói năm 1945 ở Việt Nam – Những chứng tích lịch sử" (1995) khi có điều kiện.
+5. Hoạt cảnh 3D chỉ gợi ý: chấm người thưa dần (dân các làng), đốm sáng (kho gạo, nơi phát chẩn); không diễn tả cái chết.
 -->

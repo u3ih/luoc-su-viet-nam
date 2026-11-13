@@ -18,7 +18,7 @@ Dự án mở của cộng đồng: ai cũng có thể góp một chương, mộ
 Sách sử thường kể bằng mốc năm. Ở đây, mỗi chương là **một khoảnh khắc lịch sử dựng lại bằng hình ảnh, âm thanh và chính đôi tay người xem**:
 
 - Cuộn trang để máy quay bay qua dòng sông Bạch Đằng năm 938.
-- Kéo thanh thủy triều để thấy nước rút, bãi cọc lộ ra, thuyền giặc mắc cọc.
+- Kéo thanh thủy triều để thấy nước rút, bãi cọc lộ ra, thuyền Nam Hán mắc cọc.
 - Nghe giọng kể, tiếng trống đồng và câu đàn bầu ngũ cung.
 
 Mỗi chương có **hai phiên bản từ cùng một nguồn**:
@@ -32,7 +32,7 @@ Người viết sử chỉ cần sửa file Markdown. Web tự cập nhật theo
 
 ## Các chương
 
-Các chương xếp theo thời gian (không đánh số, để sau này chèn thêm sự kiện vào giữa).
+Hơn 370 chương, từ thời tiền sử đến nay, xếp theo thời gian (không đánh số, để sau này chèn thêm sự kiện vào giữa). Xem toàn bộ, lọc theo thời kỳ và tìm kiếm ở [trang chủ](https://luocsu.u3ih.io.vn); bản chữ của mọi chương nằm trong thư mục [`content/`](content/). Vài chương tiêu biểu:
 
 | Năm | Chương | Thời kỳ | Bản chữ | Bản trực quan |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ Các chương xếp theo thời gian (không đánh số, để sau này chèn t
 | 544 | **Vạn Xuân** | Nhà Tiền Lý | [📜 Đọc](content/van-xuan-544/story.md) | [▶ Xem](https://luocsu.u3ih.io.vn/chuong/van-xuan-544) |
 | 938 | **Bạch Đằng** | Kết thúc Bắc thuộc | [📜 Đọc](content/bach-dang-938/story.md) | [▶ Xem](https://luocsu.u3ih.io.vn/chuong/bach-dang-938) |
 
-Các sự kiện đang chờ người viết nằm trong **[lộ trình lịch sử](content/lo-trinh.md)** — xem trên bản đồ tại [luocsu.u3ih.io.vn/lo-trinh](https://luocsu.u3ih.io.vn/lo-trinh). Muốn nhận viết một chương? [Mở đề xuất chương](../../issues/new?template=de-xuat-chuong.yml).
+Mọi sự kiện, cả sự kiện đang chờ người viết hay chờ thẩm định, nằm trong **[lộ trình lịch sử](content/lo-trinh.md)** — xem trên bản đồ tại [luocsu.u3ih.io.vn/lo-trinh](https://luocsu.u3ih.io.vn/lo-trinh). Muốn nhận viết một chương? [Mở đề xuất chương](../../issues/new?template=de-xuat-chuong.yml).
 
 ## Cùng viết lịch sử 🇻🇳
 

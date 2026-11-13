@@ -84,7 +84,7 @@ Cuộc khởi nghĩa từ một vùng núi nhỏ đã trở thành cuộc chiế
 - "Hội thề Lũng Nhai", Wikipedia tiếng Việt — nguồn ghi chép, các thuyết về người dự và địa điểm: https://vi.wikipedia.org/wiki/H%E1%BB%99i_th%E1%BB%81_L%C5%A9ng_Nhai
 - "Lê Lai", Wikipedia tiếng Việt — các ghi chép khác nhau về việc Lê Lai cứu chúa: https://vi.wikipedia.org/wiki/L%C3%AA_Lai
 - "Nguyễn Trãi", Wikipedia tiếng Việt: https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Tr%C3%A3i
-- Báo Nghệ An, "Dấu xưa thành cổ Trà Lân": https://baonghean.vn/en/dau-xua-thanh-co-tra-lan-10303374.html
+- Báo Nghệ An, "Dấu xưa thành cổ Trà Lân": https://baonghean.vn/dau-xua-thanh-co-tra-lan-10303374.html
 
 <!--
 TODO cần thẩm định (chương lam-son-1418):
