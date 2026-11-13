@@ -3,10 +3,6 @@
     "hash": "7273b7c44b1d0a42",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   },
-  "hai-dao-quan": {
-    "hash": "42b205c21428b947",
-    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
-  },
   "mung-6-3": {
     "hash": "c5a641f22902c03d",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
@@ -15,12 +11,16 @@
     "hash": "d3c28121ec501f7c",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   },
+  "hai-dao-quan": {
+    "hash": "2e75d35555e4a15a",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
   "fontainebleau": {
-    "hash": "97722b27123290a6",
+    "hash": "fec05f9202ff9ee3",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   },
   "tam-uoc": {
-    "hash": "952f8bcc8b6ddd5d",
+    "hash": "37057a57ea3322ba",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   }
 }

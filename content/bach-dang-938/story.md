@@ -32,9 +32,9 @@ Từ khi nhà Triệu thôn tính Âu Lạc, đất Giao Châu lần lượt b�
 
 Dương Đình Nghệ bị nha tướng Kiều Công Tiễn giết hại để cướp quyền. Ở Ái Châu, con rể ông là Ngô Quyền, người Đường Lâm, nghe tin liền kéo quân ra Bắc hỏi tội.
 
-Thế cùng, Kiều Công Tiễn sai người sang cầu cứu nhà Nam Hán, rước giặc về nhà.
+Thế cùng, Kiều Công Tiễn sai người sang cầu cứu nhà Nam Hán, rước quân Nam Hán vào nước.
 
-## Thuyền giặc vượt biển
+## Thuyền Nam Hán vượt biển
 <!-- id: nam-han | kicker: Mùa đông năm 938 -->
 
 Vua Nam Hán là Lưu Cung muốn nhân loạn chiếm lại Giao Châu. Ông sai con trai là Lưu Hoằng Tháo, phong làm Giao Vương, cầm thủy quân vượt biển sang, còn mình đem quân đóng ở Hải Môn làm thế tiếp ứng.
@@ -61,9 +61,9 @@ Nhân lúc nước triều đang dâng, Ngô Quyền sai thuyền nhẹ ra khiê
 Hoằng Tháo hăng hái đuổi theo. Cả đoàn thuyền lớn vượt qua bãi cọc mà không hề hay biết.
 
 ## Chờ nước rút
-<!-- id: nuoc-rut | kicker: Thời khắc | interaction: drain@0.85 | narration: Chờ nước rút. Thuyền giặc đã nằm gọn trên bãi cọc. Trên hai bờ, quân ta lặng im chờ. Hãy kéo thanh thủy triều để nước rút. -->
+<!-- id: nuoc-rut | kicker: Thời khắc | interaction: drain@0.85 | narration: Chờ nước rút. Thuyền Nam Hán đã nằm gọn trên bãi cọc. Trên hai bờ, quân Ngô Quyền lặng im chờ. Hãy kéo thanh thủy triều để nước rút. -->
 
-Thuyền giặc đã nằm gọn trên bãi cọc. Trên hai bờ, quân ta lặng im chờ. Giờ chỉ còn chờ con nước.
+Thuyền Nam Hán đã nằm gọn trên bãi cọc. Trên hai bờ, quân Ngô Quyền lặng im chờ. Giờ chỉ còn chờ con nước.
 
 > [!IMPORTANT]
 > **Tương tác:** Triều lên ↔ Triều rút · Kéo sang phải để nước rút

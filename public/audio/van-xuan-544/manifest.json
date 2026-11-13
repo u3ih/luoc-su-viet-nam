@@ -23,10 +23,6 @@
     "hash": "2dd252041250ae67",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   },
-  "da-trach.xong": {
-    "hash": "60bedfc655ec6cb5",
-    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
-  },
   "long-bien": {
     "hash": "840625e2c8023fe9",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
@@ -37,6 +33,10 @@
   },
   "mong-rong": {
     "hash": "42ed073001ebeb32",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "da-trach.xong": {
+    "hash": "93a42d0acacf8574",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   }
 }

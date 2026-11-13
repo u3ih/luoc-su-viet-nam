@@ -158,7 +158,7 @@ Khi build, hệ thống báo lỗi nếu một `id` thiếu keyframe hoặc có 
 
 ## 4. `scene.ts` — dựng cảnh
 
-Hàm `setup(world)` thêm các thành phần vào cảnh. Xem `_mau/scene.ts` (tối giản) và `05-bach-dang-938/scene.ts` (đầy đủ). Hướng dẫn chi tiết cho người lập trình và AI agent nằm trong [`AGENTS.md`](../AGENTS.md).
+Hàm `setup(world)` thêm các thành phần vào cảnh. Xem `_mau/scene.ts` (tối giản) và `bach-dang-938/scene.ts` (đầy đủ). Hướng dẫn chi tiết cho người lập trình và AI agent nằm trong [`AGENTS.md`](../AGENTS.md).
 
 ## 5. Tạo chương mới
 

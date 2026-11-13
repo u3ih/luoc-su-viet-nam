@@ -5,7 +5,7 @@ year: "1945 – 1946"
 sortYear: 1945
 era: Thời hiện đại
 teaser: Rạng sáng 23 tháng 9 năm 1945, quân Pháp, được quân Anh tới giải giáp Nhật tái vũ trang, chiếm các công sở Sài Gòn; cùng sáng ấy, ở phố Cây Mai (Chợ Lớn), chính quyền Nam Bộ họp và quyết định kháng chiến.
-status: draft
+status: ready
 seal: [Nam, Bộ]
 disclaimer: Bản thử nghiệm. Chủ đề lịch sử chính trị hiện đại, các nguồn có cách nhìn khác nhau; chương trình bày sự kiện, ghi rõ chỗ nguồn khác nhau. Cảnh 3D chỉ gợi ý bằng chấm người, đốm sáng; không vẽ người, vũ khí, tàu chiến hay cảnh giao tranh; vị trí các nơi là cách điệu. Nội dung đang chờ chuyên gia thẩm định. Giọng đọc do máy tổng hợp.
 ---
@@ -29,7 +29,7 @@ Cuối tháng 8 năm 1945, Uỷ ban Hành chính Lâm thời Nam Bộ do Trần 
 ## Phố Cây Mai
 <!-- id: cay-mai | kicker: 23 tháng 9 năm 1945 | interaction: cay-mai@0.9 | narration: Rạng sáng ngày 23 tháng 9 năm 1945, lính Pháp chiếm Toà Thị chính Sài Gòn. Cùng sáng ấy, các lãnh đạo Nam Bộ họp ở phố Cây Mai, Chợ Lớn. Hãy kéo thanh để họ tụ về nơi họp. -->
 
-Rạng sáng 23 tháng 9, lính Pháp tấn công Toà Thị chính Sài Gòn, trụ sở Uỷ ban Hành chính Lâm thời Nam Bộ, và các đồn cảnh sát, bưu điện. Ngay sáng hôm ấy, các lãnh đạo Nam Bộ — Ung Văn Khiêm, Trần Văn Giàu, Phạm Ngọc Thạch, Huỳnh Văn Tiểng… — họp ở phố Cây Mai, Chợ Lớn, nhất trí điện ra Chính phủ Trung ương xin kháng chiến; Uỷ ban Kháng chiến Nam Bộ được lập, Trần Văn Giàu làm Chủ tịch.
+Rạng sáng 23 tháng 9, lính Pháp tấn công Toà Thị chính Sài Gòn, trụ sở Uỷ ban Hành chính Lâm thời Nam Bộ, và các cơ quan đầu não khác của chính quyền mới. Ngay sáng hôm ấy, các lãnh đạo Nam Bộ — Ung Văn Khiêm, Trần Văn Giàu, Nguyễn Văn Nguyễn, Phạm Ngọc Thạch, Huỳnh Văn Tiểng… — họp ở nhà số 629 phố Cây Mai, Chợ Lớn (nay là đường Nguyễn Trãi), nhất trí điện ra Chính phủ Trung ương xin kháng chiến; Uỷ ban Kháng chiến Nam Bộ được lập, Trần Văn Giàu làm Chủ tịch.
 
 > [!IMPORTANT]
 > **Tương tác:** Sài Gòn bị chiếm ↔ Cuộc họp ở Cây Mai · Kéo sang phải để các lãnh đạo Nam Bộ tụ về phố Cây Mai
@@ -39,7 +39,7 @@ Rạng sáng 23 tháng 9, lính Pháp tấn công Toà Thị chính Sài Gòn, t
 ## Sài Gòn bị vây
 <!-- id: vay-thanh | kicker: Cuối tháng 9 – tháng 10 -->
 
-Từ ngày 24 tháng 9, tự vệ và dân quân đánh sân bay Tân Sơn Nhất, đốt một tàu ở cảng, cắt điện nước; chợ Bến Thành bị cháy, chướng ngại vật dựng khắp phố, dân Sài Gòn tản cư về nông thôn. Bạo lực xảy ra với thường dân cả hai phía, người Pháp lẫn người Việt. Quân Pháp bị vây trong thành phố. Ngày 26 tháng 9, Chủ tịch Hồ Chí Minh gửi thư cho đồng bào Nam Bộ; từ miền Bắc, miền Trung, các đoàn quân Nam tiến lên đường vào Nam.
+Từ ngày 24 tháng 9, tự vệ và dân quân đánh sân bay Tân Sơn Nhất, đốt một tàu ở cảng, cắt điện nước; chợ Bến Thành bị cháy, chướng ngại vật dựng khắp phố, dân Sài Gòn tản cư về nông thôn. Bạo lực xảy ra với thường dân cả hai phía: sau ngày 23, nhiều người Việt bị lính và thường dân Pháp hành hung trên phố; đêm 24 rạng 25 tháng 9, ở khu Hérault (Tân Định), một nhóm vũ trang người Việt bắt khoảng 300 thường dân Pháp, khoảng một nửa bị giết. Quân Pháp bị vây trong thành phố. Ngày 26 tháng 9, Chủ tịch Hồ Chí Minh gửi thư cho đồng bào Nam Bộ; từ miền Bắc, miền Trung, các đoàn quân Nam tiến lên đường vào Nam.
 
 ## Chiến sự lan về đồng bằng
 <!-- id: lan-rong | kicker: Tháng 10 năm 1945 – tháng 2 năm 1946 -->
@@ -48,14 +48,15 @@ Từ ngày 24 tháng 9, tự vệ và dân quân đánh sân bay Tân Sơn Nhấ
 
 ## Nguồn tham khảo
 
-- “Nam Bộ kháng chiến”, Wikipedia tiếng Việt — Uỷ ban Hành chính Lâm thời Nam Bộ, Gracey, Cédile, thiết quân luật 21/9, tái vũ trang lính Pháp, 23/9 chiếm Toà Thị chính, hội nghị phố Cây Mai, Uỷ ban Kháng chiến Nam Bộ, các trận 24/9, thư 26/9, Nam tiến, Leclerc, thoả thuận Luân Đôn 9/10, các tỉnh bị chiếm, Nha Trang, Bến Tre 8/2/1946: https://vi.wikipedia.org/wiki/Nam_B%E1%BB%99_kh%C3%A1ng_chi%E1%BA%BFn
-- “80 năm Nam Bộ kháng chiến”, VnEconomy: https://vneconomy.vn/80-nam-nam-bo-khang-chien-tu-vung-dat-gian-kho-toi-thanh-pho-dau-tau-kinh-te.htm
+- “Nam Bộ kháng chiến”, Wikipedia tiếng Việt — Uỷ ban Hành chính Lâm thời Nam Bộ, Gracey, Cédile, thiết quân luật 21/9, tái vũ trang lính Pháp, 23/9 chiếm Toà Thị chính, hội nghị phố Cây Mai, Uỷ ban Kháng chiến Nam Bộ, các trận 24/9, thư 26/9, Nam tiến, Leclerc, thoả thuận Luân Đôn 9/10, các tỉnh bị chiếm, Nha Trang, Bến Tre 8/2/1946, vụ khu Hérault: https://vi.wikipedia.org/wiki/Nam_B%E1%BB%99_kh%C3%A1ng_chi%E1%BA%BFn
+- “War in Vietnam (1945–1946)”, Wikipedia tiếng Anh — Gracey tới ngày 13/9, thiết quân luật 21/9, tái vũ trang tù binh Pháp, cuộc chiếm quyền ngày 23/9, vụ khu Hérault (khoảng 150 thường dân Pháp bị giết, số tương tự bị bắt đi), lính Pháp cướp bóc, giết hại thường dân Việt, Leclerc tới ngày 5/10: https://en.wikipedia.org/wiki/War_in_Vietnam_(1945%E2%80%931946)
+- “80 năm Nam Bộ kháng chiến: Từ vùng đất gian khó tới thành phố đầu tàu kinh tế”, VnEconomy, 21/9/2025 — đêm 22 rạng 23/9 quân Pháp đánh chiếm các cơ quan đầu não, hội nghị ở nhà số 629 đường Cây Mai, những người dự họp, lập Uỷ ban Kháng chiến Nam Bộ do Trần Văn Giàu làm Chủ tịch: https://vneconomy.vn/80-nam-nam-bo-khang-chien-tu-vung-dat-gian-kho-toi-thanh-pho-dau-tau-kinh-te.htm
 - “August Revolution”, Wikipedia tiếng Anh — quân Anh tới Sài Gòn ngày 13/9 cùng một đơn vị Pháp: https://en.wikipedia.org/wiki/August_Revolution
 
 <!--
-TODO cần thẩm định (chương nam-bo-khang-chien-1945):
-1. Để status: draft — chiến tranh, bạo lực với thường dân cả hai phía.
-2. Số lính Pháp được tái vũ trang: bài Wikipedia tiếng Việt ghi 14.000 — chương chưa ghi số, cần đối chiếu tài liệu khác.
-3. Ngày quân Leclerc tới Sài Gòn: bài tiếng Việt ghi 3/10, tài liệu khác ghi 5/10 — chương ghi “đầu tháng 10”.
+TODO cần thẩm định (chương nam-bo-khang-chien-1945) — rà soát ngày 2026-11-13:
+1. Đã đối chiếu Wikipedia tiếng Việt (Nam Bộ kháng chiến), Wikipedia tiếng Anh (War in Vietnam 1945–1946), VnEconomy: Uỷ ban Hành chính Lâm thời Nam Bộ, Gracey tới 13/9, Cédile, thiết quân luật và cấm báo 21/9, tái vũ trang tù binh Pháp, 23/9 chiếm Toà Thị chính, hội nghị Cây Mai và những người dự, Uỷ ban Kháng chiến Nam Bộ, các trận 24/9, thư 26/9, Nam tiến, thoả thuận Luân Đôn 9/10, Mỹ Tho, Gò Công 25/10, Vĩnh Long 29/10, Cần Thơ 30/10, Nha Trang 23/10 bị vây gần hai tháng, Bến Tre 8/2/1946 — khớp nguồn.
+2. Đã sửa: bỏ "các đồn cảnh sát, bưu điện" (nguồn ghi chung "các cơ quan đầu não"); thêm Nguyễn Văn Nguyễn và địa chỉ 629 Cây Mai theo nguồn; nêu cụ thể bạo lực với thường dân cả hai phía theo nguồn (người Việt bị hành hung sau 23/9; vụ khu Hérault đêm 24 – 25/9).
+3. Số lính Pháp được tái vũ trang: Wikipedia tiếng Việt ghi 14.000, tiếng Anh ghi khoảng 1.000 — chương không ghi số. Ngày Leclerc tới Sài Gòn: tiếng Việt ghi 3/10, tiếng Anh ghi 5/10 — chương ghi "đầu tháng 10". Nhóm tấn công khu Hérault: tiếng Việt ghi Bình Xuyên, tiếng Anh ghi ban đầu bị cho là Bình Xuyên, về sau xác định là nhóm Trotskyist — chương ghi "một nhóm vũ trang người Việt".
 4. Hoạt cảnh 3D chỉ gợi ý: đốm sáng (công sở, phố Cây Mai), chấm người (tản cư, Nam tiến); không vẽ giao tranh.
 -->

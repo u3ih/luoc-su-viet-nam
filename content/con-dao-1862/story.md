@@ -5,7 +5,7 @@ year: "1862 – 1975"
 sortYear: 1862
 era: Thời Pháp thuộc
 teaser: Từ năm 1862, trên đảo Côn Sơn, chính quyền thuộc địa Pháp lập nhà tù giam những người bị coi là đặc biệt nguy hiểm; hơn một thế kỷ sau, chính quyền Việt Nam Cộng hoà tiếp tục dùng nó, cho tới khi tù nhân nổi dậy chiếm nhà tù rạng sáng 1 tháng 5 năm 1975.
-status: draft
+status: ready
 seal: [Côn, Đảo]
 disclaimer: Bản thử nghiệm. Chủ đề lịch sử chính trị hiện đại, các nguồn có cách nhìn khác nhau; chương trình bày sự kiện, ghi rõ chỗ nguồn khác nhau. Cảnh 3D chỉ gợi ý bằng chấm người, đốm sáng; không vẽ người, chuồng cọp, cảnh tra tấn hay chi tiết kiến trúc; vị trí các nơi là cách điệu. Nội dung đang chờ chuyên gia thẩm định. Giọng đọc do máy tổng hợp.
 ---
@@ -34,7 +34,7 @@ Sang thế kỷ XX, số tù chính trị ở Côn Đảo ngày càng đông. C�
 ## Chuồng cọp
 <!-- id: chuong-cop | kicker: Tháng 7 năm 1970 | interaction: chuong-cop@0.9 | narration: Tháng 7 năm 1970, đoàn khách Mỹ rời lộ trình đã định, theo tấm bản đồ do một cựu tù vẽ. Hãy kéo thanh để đoàn người tìm tới khu biệt giam. -->
 
-Từ năm 1954, nhà tù thuộc chính quyền Quốc gia Việt Nam rồi Việt Nam Cộng hoà, giam tù chính trị và tù binh. Tháng 7 năm 1970, hai nghị sĩ Mỹ tới thăm; trợ lý Tom Harkin và nhà báo Don Luce rời lộ trình đã định, theo tấm bản đồ do một cựu tù vẽ, tìm tới khu “chuồng cọp”, nơi tù nhân bị cùm trong những phòng chật hẹp. Ảnh của Harkin đăng trên tạp chí Life ngày 17 tháng 7 năm 1970 gây chấn động; sau đó hàng trăm tù nhân được chuyển khỏi khu này. Năm 1971, một khu biệt giam mới gồm 384 phòng được xây ở trại Phú Bình.
+Từ năm 1954, nhà tù thuộc chính quyền Quốc gia Việt Nam rồi Việt Nam Cộng hoà, giam tù chính trị và tù binh. Tháng 7 năm 1970, hai nghị sĩ Mỹ Augustus Hawkins và William Anderson tới thăm; trợ lý Tom Harkin và nhà báo Don Luce rời lộ trình đã định, theo tấm bản đồ do một cựu tù vẽ, tìm tới khu “chuồng cọp”, nơi tù nhân bị cùm trong những phòng chật hẹp. Ảnh của Harkin đăng trên tạp chí Life ngày 17 tháng 7 năm 1970 gây chấn động; sau đó khoảng 180 tù nam và 300 tù nữ được chuyển khỏi khu này. Năm 1971, một khu biệt giam mới gồm 384 phòng được xây ở trại Phú Bình.
 
 > [!IMPORTANT]
 > **Tương tác:** Lộ trình đã định ↔ Cánh cửa nhỏ · Kéo sang phải để đoàn khách rẽ khỏi lộ trình, theo tấm bản đồ tới khu biệt giam
@@ -44,16 +44,21 @@ Từ năm 1954, nhà tù thuộc chính quyền Quốc gia Việt Nam rồi Vi�
 ## Nghĩa trang Hàng Dương
 <!-- id: hang-duong | kicker: 1 tháng 5 năm 1975 – nay -->
 
-Rạng sáng ngày 1 tháng 5 năm 1975, tù chính trị nổi dậy chiếm nhà tù, chấm dứt hơn 113 năm hoạt động của nó. Gần nhà tù là nghĩa trang Hàng Dương, nơi chôn cất nhiều người tù đã chết trên đảo; số người chết qua các thời kỳ đến nay chưa có con số kiểm chứng. Hệ thống nhà tù Côn Đảo nằm trong danh sách 23 di tích quốc gia đặc biệt đầu tiên của Việt Nam.
+Rạng sáng ngày 1 tháng 5 năm 1975, tù chính trị nổi dậy chiếm nhà tù, chấm dứt hơn 113 năm hoạt động của nó. Gần nhà tù là nghĩa trang Hàng Dương, nơi chôn cất nhiều người tù đã chết trên đảo; số người chết qua các thời kỳ đến nay chưa có con số kiểm chứng. Ngày nay, hệ thống nhà tù Côn Đảo là di tích quốc gia đặc biệt.
 
 ## Nguồn tham khảo
 
-- “Nhà tù Côn Đảo”, Wikipedia tiếng Việt — giam tù chính trị, tử tù, chuồng cọp do Pháp xây năm 1940 (120 phòng), chuồng cọp trại Phú Bình năm 1971 (384 phòng), Don Luce, Tom Harkin, ảnh trên Life 17/7/1970, tù nhân nổi dậy rạng sáng 1/5/1975 chấm dứt 113 năm, di tích quốc gia đặc biệt: https://vi.wikipedia.org/wiki/Nh%C3%A0_t%C3%B9_C%C3%B4n_%C4%90%E1%BA%A3o
-- “Côn Đảo Prison”, Wikipedia tiếng Anh — lập năm 1861, giao cho chính quyền miền Nam năm 1954, các tù nhân nổi tiếng (Huỳnh Thúc Kháng, Phan Châu Trinh, Tôn Đức Thắng, Phạm Văn Đồng, Lê Đức Thọ, Nguyễn An Ninh mất 14/8/1943, Võ Thị Sáu 1952), nghĩa trang Hàng Dương, chuyến thăm tháng 7/1970: https://en.wikipedia.org/wiki/C%C3%B4n_%C4%90%E1%BA%A3o_Prison
+- “Nhà tù Côn Đảo”, Wikipedia tiếng Việt — giam tù chính trị, tử tù, chuồng cọp do Pháp xây năm 1940 (120 phòng), chuồng cọp trại Phú Bình năm 1971 (384 phòng), Don Luce, Tom Harkin, ảnh trên Life 17/7/1970, số tù được chuyển đi sau tháng 7/1970, tù nhân nổi dậy rạng sáng 1/5/1975 chấm dứt 113 năm, di tích quốc gia đặc biệt: https://vi.wikipedia.org/wiki/Nh%C3%A0_t%C3%B9_C%C3%B4n_%C4%90%E1%BA%A3o
+- “Côn Đảo Prison”, Wikipedia tiếng Anh — lập năm 1861, giao cho chính quyền miền Nam năm 1954, các tù nhân nổi tiếng (Huỳnh Thúc Kháng, Phan Châu Trinh, Tôn Đức Thắng, Phạm Văn Đồng, Lê Đức Thọ, Nguyễn An Ninh mất 14/8/1943, Võ Thị Sáu 1952), nghĩa trang Hàng Dương, chuyến thăm tháng 7/1970 của hai nghị sĩ Augustus Hawkins và William Anderson: https://en.wikipedia.org/wiki/C%C3%B4n_%C4%90%E1%BA%A3o_Prison
+- “Revolutionary Historical Site of Con Dao Prison”, cổng thông tin Côn Đảo (Trung tâm Cung ứng dịch vụ công đặc khu Côn Đảo, theo Sở Văn hóa và Thể thao Bà Rịa – Vũng Tàu) — đô đốc Bonard lập nhà tù ngày 1/2/1862, 113 năm hoạt động (1862 – 1975): https://condao.com.vn/en/news/news/revolutionary-historical-site-of-con-dao-prison-915.html
 
 <!--
 TODO cần thẩm định (chương con-dao-1862):
-1. Để status: draft — nhà tù, tra tấn, liên quan nhiều chế độ (Pháp, Quốc gia Việt Nam, Việt Nam Cộng hoà); cần đối chiếu tư liệu của Ban quản lý Di tích Côn Đảo.
-2. Năm thành lập (1861 hay 1/2/1862) khác nhau giữa các nguồn; số người chết ở Côn Đảo (một số trang du lịch ghi hơn 20.000) chưa được kiểm chứng — chương không ghi số.
-3. Hoạt cảnh 3D chỉ gợi ý: khối tường (mặt bằng nhà tù), chấm người, đốm sáng; không vẽ chuồng cọp, cảnh tra tấn.
+Đã kiểm (2026-11-13), đối chiếu Wikipedia tiếng Việt, tiếng Anh và trang thông tin của đặc khu Côn Đảo (theo Sở Văn hóa và Thể thao Bà Rịa – Vũng Tàu):
+- Năm thành lập: tiếng Anh ghi 1861; trang Côn Đảo và tài liệu tiếng Việt ghi 1/2/1862 (Bonard); một tài liệu tiếng Pháp ghi 1/4/1862 — lời kể nêu chỗ khác nhau (1861 / 1/2/1862).
+- Tù nhân nổi tiếng và năm (Huỳnh Thúc Kháng 1908 – 1921, Phan Châu Trinh 1908 – 1911, Nguyễn An Ninh mất 14/8/1943, Võ Thị Sáu 1952), chuồng cọp 1940 (120 phòng), Phú Bình 1971 (384 phòng), chuyến thăm tháng 7/1970 (Hawkins, Anderson, Harkin, Don Luce, bản đồ của cựu tù Cao Nguyên Lợi, Life 17/7/1970), rạng sáng 1/5/1975, 113 năm — khớp nguồn. Đã thêm tên hai nghị sĩ và số tù được chuyển đi (180 nam, 300 nữ).
+- Bỏ câu "23 di tích quốc gia đặc biệt đầu tiên" (nguồn không nói "đầu tiên"); chỉ ghi là di tích quốc gia đặc biệt.
+- Số người chết ở Côn Đảo chưa có con số kiểm chứng — chương không ghi số.
+- Ngôn từ trung lập: gọi tên các chính quyền (thuộc địa Pháp, Quốc gia Việt Nam, Việt Nam Cộng hoà), không dùng từ gán nhãn.
+Hoạt cảnh 3D chỉ gợi ý: khối tường (mặt bằng nhà tù), chấm người, đốm sáng; không vẽ chuồng cọp, cảnh tra tấn.
 -->

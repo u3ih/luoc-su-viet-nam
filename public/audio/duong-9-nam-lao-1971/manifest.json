@@ -7,10 +7,6 @@
     "hash": "7d7ce97bb4e6bde3",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   },
-  "cao-diem-31": {
-    "hash": "f05edb8bce857fc8",
-    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
-  },
   "se-pon": {
     "hash": "29ae2ec8ace0e6d9",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
@@ -19,8 +15,12 @@
     "hash": "67891cb408c1d96f",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   },
+  "cao-diem-31": {
+    "hash": "f8521ccb85e95ab3",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
   "rut-lui": {
-    "hash": "a8bad8af40bc0785",
+    "hash": "ce1c633d345c11f3",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   }
 }

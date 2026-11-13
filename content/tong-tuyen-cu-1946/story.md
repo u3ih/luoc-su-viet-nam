@@ -5,7 +5,7 @@ year: "1946"
 sortYear: 1946
 era: Thời hiện đại
 teaser: Ngày 6 tháng 1 năm 1946, cử tri từ 18 tuổi, cả nam lẫn nữ, ở 71 tỉnh thành đi bầu Quốc hội khoá I theo lối phổ thông đầu phiếu — cuộc tổng tuyển cử đầu tiên của nước Việt Nam Dân chủ Cộng hoà.
-status: draft
+status: ready
 seal: [Tuyển, Cử]
 disclaimer: Bản thử nghiệm. Chủ đề lịch sử chính trị hiện đại, các nguồn có cách nhìn khác nhau; chương trình bày sự kiện, ghi rõ chỗ nguồn khác nhau. Cảnh 3D chỉ gợi ý bằng chấm người, đốm sáng; không vẽ người, hòm phiếu hay hình ảnh tư liệu; vị trí các nơi là cách điệu. Nội dung đang chờ chuyên gia thẩm định. Giọng đọc do máy tổng hợp.
 ---
@@ -34,7 +34,7 @@ Người ra ứng cử đông: tỉnh miền núi xa cũng có ngoài 20 ứng c
 ## Ngày 6 tháng 1
 <!-- id: ngay-bau | kicker: 6 tháng 1 năm 1946 | interaction: ngay-bau@0.9 | narration: Ngày 6 tháng 1 năm 1946, cử tri ở 71 tỉnh thành đi bỏ phiếu bầu Quốc hội. Hãy kéo thanh để các điểm bỏ phiếu khắp ba miền sáng lên. -->
 
-Ngày 6 tháng 1 năm 1946, cuộc bỏ phiếu diễn ra ở 71 tỉnh thành; khoảng 89% cử tri đi bầu, ở Hà Nội là 91,95%. Ở Nam Bộ và Nam Trung Bộ, nơi đang có chiến sự, 42 cán bộ thiệt mạng trong lúc vận động bầu cử, máy bay Pháp ném bom nơi bỏ phiếu ở Mỹ Tho, Khánh Hoà.
+Ngày 6 tháng 1 năm 1946, cuộc bỏ phiếu diễn ra ở 71 tỉnh thành; theo số liệu thường được dẫn, khoảng 89% cử tri đi bầu, ở Hà Nội là 91,95% — năm 1947, Hồ Chí Minh nêu con số trung bình 82%. Ở Nam Bộ và Nam Trung Bộ, nơi đang có chiến sự, 42 cán bộ thiệt mạng trong lúc tổ chức bầu cử, máy bay Pháp ném bom nơi bỏ phiếu ở Mỹ Tho, Khánh Hoà.
 
 > [!IMPORTANT]
 > **Tương tác:** Trước ngày bầu ↔ Cả nước đi bầu · Kéo sang phải để các điểm bỏ phiếu khắp ba miền sáng dần
@@ -53,8 +53,9 @@ Cuộc bầu cử chọn ra 333 đại biểu Quốc hội khoá I; cộng thêm
 - “Hiến pháp Việt Nam Dân chủ Cộng hòa năm 1946”, Wikipedia tiếng Việt — thông qua ngày 9/11/1946: https://vi.wikipedia.org/wiki/Hi%E1%BA%BFn_ph%C3%A1p_Vi%E1%BB%87t_Nam_D%C3%A2n_ch%E1%BB%A7_C%E1%BB%99ng_h%C3%B2a_n%C4%83m_1946
 
 <!--
-TODO cần thẩm định (chương tong-tuyen-cu-1946):
-1. Để status: draft — chủ đề chính trị; các nguồn đánh giá khác nhau về mức độ tự do của cuộc bầu cử (lá phiếu viết hộ, ý kiến của Trần Trọng Kim).
-2. Tỉ lệ cử tri đi bầu: bài Wikipedia ghi 89%, Hồ Chí Minh năm 1947 nói trung bình 82% — chương ghi theo bài Wikipedia, cần đối chiếu.
-3. Hoạt cảnh 3D chỉ gợi ý: đốm sáng (điểm bỏ phiếu), chấm người (cử tri); không vẽ hòm phiếu.
+TODO cần thẩm định (chương tong-tuyen-cu-1946) — rà soát trước khi phát hành, 2026-11:
+1. Đã đối chiếu với Wikipedia tiếng Việt (và các nguồn nó dẫn): Sắc lệnh 14 (8/9/1945), 51 (17/10/1945), tuổi 18, 95% mù chữ, tiểu ban ba người viết hộ và lời tuyên thệ, ý kiến về tính bí mật của lá phiếu (dẫn Nohlen và cộng sự, Elections in Asia, 2001), số ứng cử viên, Việt Quốc – Việt Cách tẩy chay và 70 ghế theo thoả thuận 24/12/1945, 71 tỉnh thành, 42 cán bộ thiệt mạng, ném bom Mỹ Tho – Khánh Hoà, 333 đại biểu, lời Hồ Chí Minh; Hiến pháp 9/11/1946.
+2. Tỉ lệ cử tri đi bầu: chương nay ghi cả hai con số (khoảng 89% thường được dẫn; Hồ Chí Minh năm 1947 nói trung bình 82%).
+3. Các nguồn đánh giá khác nhau về mức độ tự do của cuộc bầu cử; chương ghi ý kiến về lá phiếu viết hộ, không đưa ra phán xét.
+4. Hoạt cảnh 3D chỉ gợi ý: đốm sáng (điểm bỏ phiếu), chấm người (cử tri); không vẽ hòm phiếu.
 -->

@@ -5,7 +5,7 @@ year: "1968 – 1973"
 sortYear: 1973
 era: Thời hiện đại
 teaser: Ngày 27 tháng 1 năm 1973, sau gần năm năm đàm phán, bốn bên ký ở Paris hiệp định về chấm dứt chiến tranh, lập lại hoà bình ở Việt Nam; hai tháng sau, người lính Mỹ cuối cùng rời Việt Nam.
-status: draft
+status: ready
 seal: [Ba, Lê]
 disclaimer: Bản thử nghiệm. Chủ đề lịch sử chính trị hiện đại, các nguồn có cách nhìn khác nhau; chương trình bày sự kiện, ghi rõ chỗ nguồn khác nhau. Cảnh 3D chỉ gợi ý bằng chấm người, đốm sáng; không vẽ người, bàn hội nghị, cờ hay hình ảnh tư liệu; vị trí các nơi là cách điệu. Nội dung đang chờ chuyên gia thẩm định. Giọng đọc do máy tổng hợp.
 ---
@@ -24,7 +24,7 @@ Ngày 27 tháng 1 năm 1973, sau gần năm năm đàm phán, bốn bên ký ở
 ## Cái bàn hình gì
 <!-- id: ban-tron | kicker: 1968 – 1969 -->
 
-Năm 1968, sau khi Tổng thống Johnson ngừng ném bom phần lớn miền Bắc, Hoa Kỳ và Việt Nam Dân chủ Cộng hoà bắt đầu đàm phán ở Paris; sau đó mở rộng thành bốn bên với Việt Nam Cộng hoà và Mặt trận Dân tộc Giải phóng — từ năm 1969 là Chính phủ Cách mạng lâm thời Cộng hoà miền Nam Việt Nam. Chỉ riêng hình dạng bàn họp cũng tranh cãi nhiều tuần: phía Hà Nội muốn bàn tròn để các bên ngang nhau, phía Sài Gòn muốn bàn chữ nhật cho thấy hai phía.
+Năm 1968, sau khi Tổng thống Johnson ngừng ném bom phần lớn miền Bắc, Hoa Kỳ và Việt Nam Dân chủ Cộng hoà bắt đầu đàm phán ở Paris; sau đó mở rộng thành bốn bên với Việt Nam Cộng hoà và Mặt trận Dân tộc Giải phóng — từ năm 1969 là Chính phủ Cách mạng lâm thời Cộng hoà miền Nam Việt Nam. Chỉ riêng hình dạng bàn họp cũng gây tranh cãi: phía Hà Nội muốn bàn tròn để các bên ngang nhau, phía Sài Gòn muốn bàn chữ nhật cho thấy hai phía.
 
 ## Những cuộc họp kín
 <!-- id: hop-kin | kicker: 1970 – 1972 -->
@@ -53,6 +53,6 @@ Ngày 29 tháng 3 năm 1973, những quân nhân Mỹ cuối cùng rời Việt 
 
 <!--
 TODO cần thẩm định (chương hiep-dinh-paris-1973):
-1. Để status: draft — chủ đề chính trị; bài tiếng Việt dùng nhiều đánh giá thiên một phía, chương chỉ lấy dữ kiện và đối chiếu bài tiếng Anh.
+1. Đã thẩm định (2026-11-13): đối chiếu bài tiếng Việt và tiếng Anh — đàm phán bắt đầu tháng 5/1968 sau khi Johnson ngừng ném bom phía bắc vĩ tuyến 20 (31/3/1968); tranh cãi bàn tròn / bàn chữ nhật (bỏ "nhiều tuần" vì nguồn không ghi thời lượng); bốn ngoại trưởng ký 27/1/1973 tại khách sạn Majestic; ngừng bắn, rút quân Mỹ và đồng minh trong 60 ngày, trao trả tù binh, ICCS gồm Canada, Hungary, Indonesia, Ba Lan; Thiệu phản đối dự thảo cuối 1972; Linebacker II tháng 12/1972; lính Mỹ cuối cùng rời 29/3/1973; Nobel 1973, Lê Đức Thọ từ chối vì hoà bình chưa lập lại. Lời kể chỉ nêu dữ kiện, không dùng đánh giá thiên một phía của bài tiếng Việt.
 2. Hoạt cảnh 3D chỉ gợi ý: bốn nhóm chấm người (bốn phái đoàn), đốm sáng (nơi ký); không vẽ bàn, cờ.
 -->

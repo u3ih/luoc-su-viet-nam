@@ -30,7 +30,7 @@ Theo bài tham khảo, tháng 12 năm Giáp Thân (1284), đại binh của Tho�
 ## Trước hết hãy chém đầu thần
 <!-- id: tau-vua | kicker: Hải Dương -->
 
-Vua Trần Nhân Tông thấy thế giặc mạnh, mời Hưng Đạo vương về Hải Dương, hỏi có nên chịu hàng để cứu muôn dân. Hưng Đạo vương tâu, đại ý: bệ hạ nói là lời nhân đức, nhưng còn tông miếu xã tắc; nếu bệ hạ muốn hàng, xin trước hết hãy chém đầu thần đã (diễn ý). Vua nghe vậy yên lòng.
+Vua Trần Nhân Tông thấy thế quân Nguyên mạnh, mời Hưng Đạo vương về Hải Dương, hỏi có nên chịu hàng để cứu muôn dân. Hưng Đạo vương tâu, đại ý: bệ hạ nói là lời nhân đức, nhưng còn tông miếu xã tắc; nếu bệ hạ muốn hàng, xin trước hết hãy chém đầu thần đã (diễn ý). Vua nghe vậy yên lòng.
 
 ## Vạn Kiếp
 <!-- id: van-kiep | kicker: Vạn Kiếp | interaction: van-kiep@0.9 | narration: Hưng Đạo vương trở về Vạn Kiếp, hiệu triệu quân sĩ, soạn bài hịch khuyên răn tướng sĩ học tập, rèn luyện võ nghệ. Hãy kéo thanh để các đạo quân từ khắp nơi tụ về Vạn Kiếp. -->

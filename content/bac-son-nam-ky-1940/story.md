@@ -5,7 +5,7 @@ year: "1940 – 1941"
 sortYear: 1940
 era: Thời Pháp thuộc
 teaser: Mùa thu năm 1940, quân Nhật đánh vào Lạng Sơn; giữa lúc chính quyền thuộc địa lung lay, ở Bắc Sơn, ở Nam Kỳ rồi ở đồn Chợ Rạng (Nghệ An), những cuộc nổi dậy bùng lên và đều bị trấn áp trong vài tuần đến vài tháng.
-status: draft
+status: ready
 seal: [Bắc, Sơn]
 disclaimer: Bản thử nghiệm. Chủ đề chiến tranh; số liệu thương vong giữa các nguồn khác nhau, chương ghi rõ nguồn của từng con số. Cảnh 3D chỉ gợi ý bằng chấm người, đốm sáng; không vẽ người, cờ, máy bay, súng hay cảnh bạo lực; vị trí các nơi là cách điệu. Nội dung đang chờ chuyên gia thẩm định. Giọng đọc do máy tổng hợp.
 ---
@@ -39,22 +39,25 @@ Khi tàn quân Pháp rút qua châu Bắc Sơn, người Tày, Nùng, Dao nhặt
 ## Đêm 22 tháng 11 ở Nam Kỳ
 <!-- id: nam-ky | kicker: 22 – 23 tháng 11 năm 1940 -->
 
-Xứ uỷ Nam Kỳ chuẩn bị khởi nghĩa từ đầu năm; nhiều lãnh đạo, trong đó có Nguyễn Văn Cừ, Võ Văn Tần, Nguyễn Thị Minh Khai, lần lượt bị bắt, kế hoạch bị lộ. Trung ương cử Phan Đăng Lưu vào báo hoãn, nhưng lệnh khởi nghĩa đã phát đi. Đêm 22 rạng sáng 23 tháng 11, nhiều tỉnh từ Biên Hoà đến Cà Mau nổi dậy; ở Mỹ Tho, chính quyền mới giữ được lâu nhất, 49 ngày. Ở Sài Gòn, kế hoạch lộ nên không nổ ra. Pháp dùng cả máy bay đàn áp; hàng nghìn người bị giết, bị bắt, nhiều lãnh đạo bị xử tử.
+Xứ uỷ Nam Kỳ chuẩn bị khởi nghĩa từ đầu năm; nhiều lãnh đạo, trong đó có Nguyễn Văn Cừ, Võ Văn Tần, Nguyễn Thị Minh Khai, lần lượt bị bắt, kế hoạch bị lộ. Trung ương cử Phan Đăng Lưu vào báo hoãn, nhưng lệnh khởi nghĩa đã phát đi. Đêm 22 rạng sáng 23 tháng 11, nhiều tỉnh từ Biên Hoà đến Cà Mau nổi dậy; ở Mỹ Tho, chính quyền mới giữ được lâu nhất, 49 ngày. Ở Sài Gòn, kế hoạch lộ nên không nổ ra. Pháp dùng cả máy bay ném bom các làng để đàn áp; theo nguồn Việt Nam, hàng nghìn người bị giết, bị bắt; theo nhà sử học Arthur Dommen, khoảng 50 người bị xử chém sau cuộc khởi nghĩa, trong đó có Nguyễn Thị Minh Khai.
 
 ## Binh biến Đô Lương
 <!-- id: do-luong | kicker: 13 tháng 1 năm 1941 -->
 
-Ở Nghệ An, lính người Việt bất bình vì bị đưa sang Lào đánh nhau trong chiến tranh Pháp – Thái. Ngày 13 tháng 1 năm 1941, Đội Cung (Nguyễn Văn Cung) chỉ huy lính đồn Chợ Rạng (Thanh Chương) nổi dậy; tối đó họ chiếm đồn Đô Lương rồi lên ô tô về Vinh, định cùng lính ở đây chiếm thành, nhưng kế hoạch không thành. Đội Cung bị bắt; ngày 24 tháng 4 năm 1941, ông cùng 10 người bị xử tử ở Vinh, nhiều người khác bị khổ sai, đày đi xa.
+Ở Nghệ An, lính người Việt bất bình vì bị đưa sang Lào đánh nhau trong chiến tranh Pháp – Thái. Ngày 13 tháng 1 năm 1941, Đội Cung (Nguyễn Văn Cung) chỉ huy lính đồn Chợ Rạng (Thanh Chương) nổi dậy; tối đó họ chiếm đồn Đô Lương rồi lên ô tô về Vinh, định cùng lính ở đây chiếm thành, nhưng kế hoạch không thành. Đội Cung bị bắt; cuối tháng 4 năm 1941, ông cùng 10 người bị xử tử, nhiều người khác bị khổ sai, đày đi xa.
 
 ## Nguồn tham khảo
 
 - “Khởi nghĩa Bắc Sơn”, Wikipedia tiếng Việt — thoả thuận 21/9/1940, Nhật vượt biên giới 22/9, Lạng Sơn đầu hàng, uỷ ban khởi nghĩa 27/9, khoảng 600 người chiếm đồn Mỏ Nhài, mít tinh Vũ Lăng 28/10 bị đánh úp, rút vào Bắc Sơn – Võ Nhai: https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_B%E1%BA%AFc_S%C6%A1n
 - “Chiến dịch Đông Dương (1940)”, Wikipedia tiếng Việt — mục đích cắt tuyến Hải Phòng – Vân Nam, chính phủ Vichy, đổ bộ phía nam Hải Phòng 24/9, chiếm Gia Lâm 26/9: https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_%C4%90%C3%B4ng_D%C6%B0%C6%A1ng_(1940)
-- “Khởi nghĩa Nam Kỳ”, Wikipedia tiếng Việt — các vụ bắt giữ 1940, Phan Đăng Lưu được cử vào hoãn, lệnh khởi nghĩa 22/11, các tỉnh nổi dậy, Mỹ Tho giữ 49 ngày, đàn áp bằng máy bay, các lãnh đạo bị xử tử; Binh biến Đô Lương theo “Binh biến Đô Lương”, Wikipedia tiếng Việt: https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_Nam_K%E1%BB%B3
+- “Khởi nghĩa Nam Kỳ”, Wikipedia tiếng Việt — các vụ bắt giữ 1940, Phan Đăng Lưu được cử vào hoãn, lệnh khởi nghĩa 22/11, các tỉnh nổi dậy, Mỹ Tho giữ 49 ngày, đàn áp bằng máy bay, các lãnh đạo bị xử tử: https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_Nam_K%E1%BB%B3
+- “Cochinchina uprising”, Wikipedia tiếng Anh — khởi nghĩa từ 22/11/1940, chính quyền ở Mỹ Tho tồn tại khoảng 49 ngày, ném bom và san phẳng làng, khoảng 50 người bị xử chém (theo Arthur Dommen), trong đó có Nguyễn Thị Minh Khai: https://en.wikipedia.org/wiki/Cochinchina_uprising
+- “Binh biến Đô Lương”, Wikipedia tiếng Việt — ngày 13/1/1941, Đội Cung, đồn Chợ Rạng, chiếm đồn Đô Lương, kế hoạch về Vinh không thành, Đội Cung cùng 10 người bị xử tử tháng 4/1941: https://vi.wikipedia.org/wiki/Binh_bi%E1%BA%BFn_%C4%90%C3%B4_L%C6%B0%C6%A1ng
 
 <!--
-TODO cần thẩm định (chương bac-son-nam-ky-1940):
-1. Để status: draft — bạo lực, xử tử; bài tham khảo chỉ dùng nguồn tiếng Việt — cần đối chiếu nghiên cứu nước ngoài về Bắc Sơn và Nam Kỳ 1940 (số người chết, số tỉnh nổi dậy).
-2. Bài “Binh biến Đô Lương” rất ngắn (https://vi.wikipedia.org/wiki/Binh_bi%E1%BA%BFn_%C4%90%C3%B4_L%C6%B0%C6%A1ng) — cần nguồn chuyên khảo hoặc Bảo tàng Nghệ An.
-3. Hoạt cảnh 3D chỉ gợi ý: chấm người (tàn quân, nghĩa quân), đốm sáng (đồn, tỉnh), lửa (đốt sổ sách); không vẽ súng, máy bay.
+TODO cần thẩm định (chương bac-son-nam-ky-1940) — rà soát ngày 2026-11-13:
+1. Đã đối chiếu Wikipedia tiếng Việt (Khởi nghĩa Bắc Sơn, Chiến dịch Đông Dương 1940, Khởi nghĩa Nam Kỳ, Binh biến Đô Lương) và Wikipedia tiếng Anh (Cochinchina uprising): thoả thuận 21/9/1940 (6.000 quân, bốn sân bay), Sư đoàn 5 vượt biên 9 giờ tối 22/9, lính tập vứt súng, đổ bộ 24/9, uỷ ban khởi nghĩa Hưng Vũ 27/9, khoảng 600 người chiếm đồn Mỏ Nhài, ba ngày sau Pháp chiếm lại, Vũ Lăng 28/10, Nhật không can thiệp; các vụ bắt Nguyễn Văn Cừ (1/1940), Võ Văn Tần (4/1940), Nguyễn Thị Minh Khai (7/1940), Phan Đăng Lưu được cử vào hoãn, khởi nghĩa đêm 22 – 23/11, Biên Hoà đến Cà Mau, Mỹ Tho 49 ngày, Sài Gòn không nổ ra; Đô Lương 13/1/1941 — khớp nguồn.
+2. Đã sửa: số người bị giết, bị bắt ở Nam Kỳ ghi rõ là theo nguồn Việt Nam, thêm con số khoảng 50 người bị xử chém theo Arthur Dommen (Wikipedia tiếng Anh); ngày xử tử Đội Cung — Wikipedia tiếng Việt ghi 24/4/1941, các bài Báo Nghệ An (thấy qua kết quả tìm kiếm, không mở được trang: lỗi 502/504) ghi 25/4/1941 và ghi hành quyết ở ba nơi Vinh, Chợ Rạng, Đô Lương — chương chỉ ghi "cuối tháng 4 năm 1941", bỏ địa điểm.
+3. Chưa có số liệu thương vong của nguồn nước ngoài cho Bắc Sơn; chương không nêu số.
+4. Hoạt cảnh 3D chỉ gợi ý: chấm người (tàn quân, nghĩa quân), đốm sáng (đồn, tỉnh), lửa (đốt sổ sách); không vẽ súng, máy bay.
 -->

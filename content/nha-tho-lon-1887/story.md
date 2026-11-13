@@ -5,7 +5,7 @@ year: "1887"
 sortYear: 1887
 era: Thời Pháp thuộc
 teaser: Trên nền đất xưa của chùa Báo Thiên, từ năm 1884 nhà thờ chính tòa Thánh Giuse được xây bằng gạch theo lối Gothic, khánh thành dịp Giáng sinh năm 1887 — một trong những công trình kiến trúc thời Pháp thuộc tiêu biểu của Hà Nội.
-status: draft
+status: ready
 seal: [Nhà, Thờ]
 hero-drum: false
 disclaimer: Bản thử nghiệm. Việc chuyển giao khu đất chùa Báo Thiên cho nhà thờ được các nguồn kể khác nhau; lời kể nêu theo từng nguồn. Cảnh 3D chỉ gợi ý bằng chấm người, đốm sáng; tháp chuông là cột đốm sáng tượng trưng, không vẽ kiến trúc; địa hình là cách điệu. Nội dung đang chờ chuyên gia thẩm định. Giọng đọc do máy tổng hợp.
@@ -30,7 +30,7 @@ Theo nhiều tài liệu, khu đất này xưa thuộc khuôn viên chùa Báo T
 ## Xây bằng gạch
 <!-- id: xay-dung | kicker: Năm 1884 – 1888 | interaction: xay-dung@0.9 | narration: Thay cho nhà thờ tạm bằng gỗ, từ năm một nghìn tám trăm tám mươi tư đến một nghìn tám trăm tám mươi tám, Giáo hội Công giáo xây nhà thờ bằng gạch, tốn khoảng hai trăm nghìn franc; một phần tiền quyên góp nhờ hai đợt xổ số. Hãy kéo thanh để hai tháp chuông cao dần. -->
 
-Thay cho nhà thờ tạm bằng gỗ, từ năm 1884 tới năm 1888, Giáo hội Công giáo xây nhà thờ bằng gạch, tốn khoảng 200.000 franc. Giám mục xin chính quyền bảo hộ cho mở xổ số; sau hai lần bị từ chối, được chấp thuận hai đợt (1883 và 1886), quyên được khoảng 30.000 franc, cộng các nguồn tài trợ khác thì đủ kinh phí. Lễ khánh thành tổ chức vào dịp Giáng sinh năm Đinh Hợi (1887).
+Thay cho nhà thờ tạm bằng gỗ, từ năm 1884 tới năm 1888, Giáo hội Công giáo xây nhà thờ bằng gạch, tốn khoảng 200.000 franc; người đứng ra xây là giám mục Puginier, đại diện Tông toà Tây Đàng Ngoài. Giám mục xin chính quyền bảo hộ cho mở xổ số; sau hai lần bị từ chối, được chấp thuận hai đợt (1883 và 1886), quyên được khoảng 30.000 franc, cộng các nguồn tài trợ khác thì đủ kinh phí. Theo phần nhiều tài liệu tiếng Việt, lễ khánh thành tổ chức vào dịp Giáng sinh năm Đinh Hợi (1887); có tài liệu ghi lễ cung hiến ngày 24 tháng 12 năm 1886.
 
 > [!IMPORTANT]
 > **Tương tác:** Nhà thờ gỗ ↔ Hai tháp chuông · Kéo sang phải để nhà thờ gạch và hai tháp chuông cao dần
@@ -50,11 +50,15 @@ Phải từ thập niên 1920, nhà thờ chính tòa và tòa giám mục đị
 ## Nguồn tham khảo
 
 - "Nhà thờ Lớn Hà Nội", Wikipedia tiếng Việt — khu đất chùa Báo Thiên theo các tài liệu (Từ điển đường phố Hà Nội, Tang thương ngẫu lục, Bùi Thiết, Raoul Bonnal), xây dựng 1884 – 1888, kinh phí và xổ số, khánh thành Giáng sinh 1887, tước hiệu Thánh Giuse, kiến trúc Gothic, kích thước, bộ chuông, chuyển tòa giám mục thập niên 1920, hoạt động: https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_L%E1%BB%9Bn_H%C3%A0_N%E1%BB%99i
+- "St. Joseph's Cathedral, Hanoi", Wikipedia tiếng Anh — xây trên nền chùa Báo Thiên bỏ hoang, khởi công 1884, giám mục Puginier, lễ cung hiến 24/12/1886, tháp chuông khoảng 31 m, phỏng theo Nhà thờ Đức Bà Paris: https://en.wikipedia.org/wiki/St._Joseph%27s_Cathedral,_Hanoi
 
 <!--
-TODO cần thẩm định (chương nha-tho-lon-1887) — status: draft vì liên quan tôn giáo và việc chuyển giao đất chùa thời Pháp thuộc:
-1. Chỉ dùng Wikipedia tiếng Việt; cần đối chiếu tài liệu Tổng giáo phận Hà Nội và nghiên cứu lịch sử Hà Nội (André Masson).
-2. Việc chuyển giao đất chùa: các nguồn khác nhau (chùa đã bị phá từ cuối thế kỷ XVIII theo Bùi Thiết; Bonnal kể Tổng đốc cho phá) — lời kể nêu từng nguồn, không đánh giá.
-3. Niên đại: lộ trình ghi "cuối thập niên 1880"; chương dùng 1887 (khánh thành).
-4. Hoạt cảnh 3D chỉ gợi ý: cột đốm sáng (tháp chuông), đốm sáng (nền chùa cũ, hồ Hoàn Kiếm), chấm người (thợ xây, giáo dân dự lễ).
+TODO cần thẩm định (chương nha-tho-lon-1887):
+Đã kiểm (2026-11-13), đối chiếu Wikipedia tiếng Việt (dẫn Từ điển đường phố Hà Nội, Tang thương ngẫu lục, Bùi Thiết, Raoul Bonnal) và Wikipedia tiếng Anh:
+- Khu đất chùa Báo Thiên: nêu từng nguồn, không đánh giá; khớp nguồn.
+- Xây 1884 – 1888, khoảng 200.000 franc, xổ số 1883 và 1886 (~30.000 franc), tước hiệu Thánh Giuse (1678), lối Gothic phỏng theo Nhà thờ Đức Bà Paris, 64,5 × 20,5 m, tháp 31,5 m, bộ chuông, chuyển tòa giám mục từ Sở Kiện thập niên 1920, số 1 phố Nhà Thờ, lễ rước 19/3 — khớp nguồn.
+- Năm khánh thành: tiếng Việt ghi Giáng sinh 1887 (Đinh Hợi), tiếng Anh ghi cung hiến 24/12/1886 — lời kể nêu cả hai; tiêu đề, slug giữ 1887 theo phần nhiều tài liệu tiếng Việt.
+- Thêm tên giám mục Puginier (người đứng ra xây) theo bài tiếng Anh.
+Còn lại (không chặn xuất bản): nếu có điều kiện, đối chiếu tài liệu Tổng giáo phận Hà Nội về ngày khánh thành.
+Hoạt cảnh 3D chỉ gợi ý: cột đốm sáng (tháp chuông), đốm sáng (nền chùa cũ, hồ Hoàn Kiếm), chấm người (thợ xây, giáo dân dự lễ).
 -->

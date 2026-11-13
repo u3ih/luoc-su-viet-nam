@@ -66,7 +66,7 @@ Trưng Trắc tự lập làm vua, đóng đô ở Mê Linh. Sử cũ gọi bà 
 
 Nhà Hán sai Phục Ba tướng quân Mã Viện đem quân sang đàn áp. Quân Hán tiến đến Lãng Bạc. Hai bên giao chiến ác liệt.
 
-Thế giặc mạnh, Trưng Vương lui quân về giữ Cấm Khê.
+Thế quân Hán mạnh, Trưng Vương lui quân về giữ Cấm Khê.
 
 > [!TIP]
 > **Lãng Bạc ở đâu?**

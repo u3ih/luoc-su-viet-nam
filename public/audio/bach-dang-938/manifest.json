@@ -7,24 +7,12 @@
     "hash": "391057e22c7ed002",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   },
-  "nam-937": {
-    "hash": "708798aa2c32ea0d",
-    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
-  },
-  "nam-han": {
-    "hash": "168b6b526a747f8b",
-    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
-  },
   "bai-coc": {
     "hash": "e70436d68d9af29c",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   },
   "trieu-len": {
     "hash": "7430ddd2e5694be2",
-    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
-  },
-  "nuoc-rut": {
-    "hash": "0d7e814971044abf",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   },
   "nuoc-rut.xong": {
@@ -41,6 +29,18 @@
   },
   "dau-vet": {
     "hash": "0acd7c8510b6bf9b",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "nam-937": {
+    "hash": "c4d8bbacf75c38e2",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "nam-han": {
+    "hash": "f9832d020cbb8113",
+    "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
+  },
+  "nuoc-rut": {
+    "hash": "4a726092172004be",
     "voice": "vieneu:Thiền Tâm Đức:cap0.3:gap0.45"
   }
 }

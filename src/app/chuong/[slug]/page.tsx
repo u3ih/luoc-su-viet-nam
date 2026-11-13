@@ -21,6 +21,8 @@ export async function generateMetadata({ params }: PageProps<"/chuong/[slug]">):
     description: chapter.teaser,
     keywords: [chapter.title, chapter.era, "lịch sử Việt Nam", ...chapter.beats.map((b) => b.title)],
     alternates: { canonical: path },
+    // chương chưa thẩm định (draft) vẫn mở được bằng link nhưng không cho công cụ tìm kiếm lập chỉ mục
+    ...(chapter.status === "draft" && { robots: { index: false, follow: true } }),
     openGraph: { type: "article", locale: "vi_VN", siteName: site.name, url: path, title, description: chapter.teaser, images: [{ url: image, width: 1200, height: 630, alt: title }] },
     twitter: { card: "summary_large_image", title, description: chapter.teaser, images: [image] },
   };

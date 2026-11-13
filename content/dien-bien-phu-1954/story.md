@@ -5,7 +5,7 @@ year: "1954"
 sortYear: 1954
 era: Thời hiện đại
 teaser: Từ ngày 13 tháng 3 đến 7 tháng 5 năm 1954, ở lòng chảo Mường Thanh, Quân đội Nhân dân Việt Nam vây đánh tập đoàn cứ điểm Điện Biên Phủ; quân Pháp đầu hàng, và mười tuần sau Hiệp định Genève được ký.
-status: draft
+status: ready
 seal: [Điện, Biên]
 disclaimer: Bản thử nghiệm. Chủ đề chiến tranh; số liệu thương vong giữa các nguồn khác nhau, chương ghi rõ nguồn của từng con số. Cảnh 3D chỉ gợi ý bằng chấm người, đốm sáng; không vẽ người, xe đạp thồ, pháo, máy bay hay cảnh giao tranh; vị trí các nơi là cách điệu. Nội dung đang chờ chuyên gia thẩm định. Giọng đọc do máy tổng hợp.
 ---
@@ -24,7 +24,7 @@ Từ ngày 13 tháng 3 đến 7 tháng 5 năm 1954, ở lòng chảo Mường Th
 ## Lòng chảo Mường Thanh
 <!-- id: long-chao | kicker: Tháng 11 năm 1953 -->
 
-Ngày 20 tháng 11 năm 1953, trong cuộc hành quân Castor, Pháp thả khoảng 9.000 quân xuống lòng chảo Mường Thanh có sân bay cũ thời Nhật. Đại tá de Castries dựng tập đoàn cứ điểm với các cụm đặt tên Béatrice, Gabrielle, Anne-Marie, Huguette, Dominique, Claudine, Eliane, Isabelle, tiếp tế bằng đường hàng không; quân số về sau lên tới khoảng 16.000. Phía Pháp tin đối phương không đưa được pháo lớn qua núi rừng.
+Từ ngày 20 tháng 11 năm 1953, trong cuộc hành quân Castor, trong ba ngày Pháp thả và chở khoảng 9.000 quân xuống lòng chảo Mường Thanh có sân bay cũ thời Nhật. Đại tá de Castries dựng tập đoàn cứ điểm với các cụm đặt tên Béatrice, Gabrielle, Anne-Marie, Huguette, Dominique, Claudine, Eliane, Isabelle, tiếp tế bằng đường hàng không; quân số về sau lên tới khoảng 16.000. Phía Pháp không lường được việc đối phương đưa pháo lên các sườn núi quanh lòng chảo, bắn thẳng vào cứ điểm.
 
 ## Đường lên Điện Biên
 <!-- id: keo-phao | kicker: Đông – xuân 1953 – 1954 | interaction: keo-phao@0.9 | narration: Mười lăm cây số cuối đường lên Điện Biên, pháo được kéo bằng tay qua đỉnh Pha Sông. Hơn 261 nghìn dân công chở gạo lên mặt trận. Hãy kéo thanh để đoàn dân công và đoàn kéo pháo vượt núi. -->
@@ -39,23 +39,23 @@ Ngày 20 tháng 11 năm 1953, trong cuộc hành quân Castor, Pháp thả kho�
 ## Ba đợt tiến công
 <!-- id: ba-dot | kicker: 13 tháng 3 – 6 tháng 5 -->
 
-Chiều 13 tháng 3, pháo binh mở màn, bộ binh đánh cụm Béatrice (đồi Him Lam); Gabrielle thất thủ ngày 15, phần lớn lính Thái ở Anne-Marie bỏ vị trí ngày 17 tháng 3. Sân bay bị pháo khống chế, quân Pháp chỉ còn tiếp tế bằng dù. Đợt hai giành giật các đồi phía đông như A1 (Eliane 2) hơn một tháng; bộ đội đào hào vây lấn sát cứ điểm. Đêm 6 tháng 5, khối bộc phá khoảng một tấn đặt qua đường hầm nổ trên đồi A1.
+Chiều 13 tháng 3, pháo binh mở màn, bộ binh đánh cụm Béatrice (đồi Him Lam); Gabrielle thất thủ ngày 15, phần lớn lính Thái ở Anne-Marie bỏ vị trí ngày 17 tháng 3. Sân bay bị pháo khống chế, quân Pháp chỉ còn tiếp tế bằng dù. Đợt hai giành giật các đồi phía đông như A1 (Eliane 2) hơn một tháng; bộ đội đào hào vây lấn sát cứ điểm. 20 giờ 30 ngày 6 tháng 5, khối bộc phá khoảng một tấn đặt qua đường hầm nổ trên đồi A1.
 
 ## Chiều 7 tháng 5
 <!-- id: ngay-7-5 | kicker: 7 tháng 5 năm 1954 -->
 
-Chiều 7 tháng 5 năm 1954, Quân đội Nhân dân Việt Nam tổng công kích vào khu trung tâm Mường Thanh; khoảng 17 giờ, đại đội của Tạ Quốc Luật vào hầm chỉ huy, tướng de Castries và ban tham mưu bị bắt. 11.721 người phía Liên hiệp Pháp bị bắt làm tù binh. Phía Việt Nam công bố 4.020 người hy sinh, 9.118 bị thương; phía Pháp ước tính cao hơn nhiều. Ngày 21 tháng 7, Hiệp định Genève được ký: Pháp rút quân khỏi Đông Dương, Việt Nam tạm chia ở vĩ tuyến 17, dự kiến tổng tuyển cử thống nhất vào tháng 7 năm 1956.
+Chiều 7 tháng 5 năm 1954, Quân đội Nhân dân Việt Nam tổng công kích vào khu trung tâm Mường Thanh; khoảng 17 giờ, đại đội của Tạ Quốc Luật vào hầm chỉ huy, tướng de Castries và ban tham mưu bị bắt. 11.721 người phía Liên hiệp Pháp bị bắt làm tù binh. Phía Việt Nam công bố 4.020 người hy sinh, 9.118 bị thương, 792 mất tích; phía Pháp ước khoảng 8.000 người chết, 15.000 bị thương. Ngày 21 tháng 7, Hiệp định Genève được ký: Pháp rút quân khỏi Đông Dương, Việt Nam tạm chia ở vĩ tuyến 17, dự kiến tổng tuyển cử thống nhất vào tháng 7 năm 1956; Hoa Kỳ và Quốc gia Việt Nam không chấp nhận bản tuyên bố cuối cùng của hội nghị.
 
 ## Nguồn tham khảo
 
-- “Chiến dịch Điện Biên Phủ”, Wikipedia tiếng Việt — đường Tuần Giáo – Điện Biên 82 km, kéo pháo 15 km qua Pha Sông, quyết định 26/1/1954, hậu cần (261.451 dân công, 20.991 xe đạp thồ, 11.800 bè mảng), bộc phá đồi A1 đêm 6/5, Tạ Quốc Luật và hầm de Castries, 11.721 tù binh: https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_%C4%90i%E1%BB%87n_Bi%C3%AAn_Ph%E1%BB%A7
-- “Battle of Dien Bien Phu”, Wikipedia tiếng Anh — Castor 20/11/1953 khoảng 9.000 quân, các cụm cứ điểm, Béatrice 13/3, Gabrielle, Anne-Marie 17/3, tiếp tế bằng dù, số thương vong Việt Nam công bố 4.020 chết, 9.118 bị thương và ước tính của Pháp: https://en.wikipedia.org/wiki/Battle_of_Dien_Bien_Phu
-- “1954 Geneva Conference”, Wikipedia tiếng Anh — ký 21/7/1954, vĩ tuyến 17, tổng tuyển cử tháng 7/1956: https://en.wikipedia.org/wiki/1954_Geneva_Conference
+- “Chiến dịch Điện Biên Phủ”, Wikipedia tiếng Việt — đường Tuần Giáo – Điện Biên 82 km, kéo pháo 15 km qua Pha Sông, quyết định 26/1/1954, hậu cần (261.451 dân công, 20.991 xe đạp thồ, 11.800 bè mảng), bộc phá khoảng một tấn nổ trên đồi A1 lúc 20 giờ 30 ngày 6/5, khoảng 17 giờ ngày 7/5 đơn vị Tạ Quốc Luật vào hầm de Castries, 11.721 tù binh: https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_%C4%90i%E1%BB%87n_Bi%C3%AAn_Ph%E1%BB%A7
+- “Battle of Dien Bien Phu”, Wikipedia tiếng Anh — Castor 20/11/1953 khoảng 9.000 quân trong ba ngày, Pháp bất ngờ vì pháo bắn thẳng, các cụm cứ điểm, Béatrice 13/3, Gabrielle, Anne-Marie 17/3, tiếp tế bằng dù, số thương vong chính phủ Việt Nam công bố (4.020 chết, 9.118 bị thương, 792 mất tích) và ước tính của Pháp (8.000 chết, 15.000 bị thương): https://en.wikipedia.org/wiki/Battle_of_Dien_Bien_Phu
+- “1954 Geneva Conference”, Wikipedia tiếng Anh — ký 21/7/1954, vĩ tuyến 17, tổng tuyển cử tháng 7/1956, Hoa Kỳ và Quốc gia Việt Nam không chấp nhận tuyên bố cuối cùng: https://en.wikipedia.org/wiki/1954_Geneva_Conference
 - “Hiệp định Genève 1954”, Wikipedia tiếng Việt: https://vi.wikipedia.org/wiki/Hi%E1%BB%87p_%C4%91%E1%BB%8Bnh_Gen%C3%A8ve_1954
 
 <!--
-TODO cần thẩm định (chương dien-bien-phu-1954):
-1. Để status: draft — chiến tranh; số thương vong phía Việt Nam: công bố 4.020 chết, Pháp ước 8.000 chết và 15.000 bị thương — chương nêu cả hai.
-2. Hiệp định đình chỉ chiến sự ở Việt Nam chỉ do bộ chỉ huy quân sự Pháp và Việt Minh ký; Hoa Kỳ và Quốc gia Việt Nam không ký bản tuyên bố cuối — có thể bổ sung khi mở rộng chương.
+TODO cần thẩm định (chương dien-bien-phu-1954) — rà soát trước khi phát hành, 2026-11:
+1. Đã đối chiếu với Wikipedia tiếng Việt và tiếng Anh: Castor từ 20/11/1953 (khoảng 9.000 quân trong ba ngày), sân bay cũ thời Nhật, tên các cụm cứ điểm, quân số khoảng 16.000, đường Tuần Giáo – Điện Biên 82 km, kéo pháo 15 km qua Pha Sông 1.150 m, quyết định 26/1/1954 và nhận xét của Võ Nguyên Giáp, hậu cần (261.451 dân công, 20.991 xe đạp thồ, 11.800 bè mảng), Béatrice 13/3, Gabrielle 15/3, Anne-Marie 17/3, tiếp tế bằng dù, A1 (bộc phá khoảng một tấn, nổ 20 giờ 30 ngày 6/5), khoảng 17 giờ ngày 7/5 bắt de Castries, 11.721 tù binh, Genève 21/7/1954.
+2. Thương vong phía Việt Nam: ghi cả số chính phủ Việt Nam công bố (4.020 chết, 9.118 bị thương, 792 mất tích) và ước tính của Pháp (8.000 chết, 15.000 bị thương). Câu “Pháp tin đối phương không đưa được pháo lớn” đổi thành “không lường được… bắn thẳng” cho khớp nguồn. Đã bổ sung việc Hoa Kỳ và Quốc gia Việt Nam không chấp nhận tuyên bố cuối cùng.
 3. Hoạt cảnh 3D chỉ gợi ý: đốm xanh nhạt (các cụm cứ điểm), chấm người (dân công, đơn vị vây lấn), đốm vàng (bộc phá A1 — cách điệu); không vẽ pháo, xe đạp thồ, máy bay.
 -->

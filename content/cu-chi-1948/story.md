@@ -5,7 +5,7 @@ year: "1948 – 1975"
 sortYear: 1948
 era: Thời hiện đại
 teaser: Từ những đoạn hầm ngắn đào năm 1948, người Củ Chi nối dần thành hệ thống địa đạo hơn 200 km ba tầng dưới đất đỏ pha đá ong, có chỗ ở, bếp, trạm phẫu, giếng nước — nay là di tích quốc gia đặc biệt.
-status: draft
+status: ready
 seal: [Củ, Chi]
 disclaimer: Bản thử nghiệm. Chủ đề chiến tranh; số liệu thương vong giữa các nguồn khác nhau, chương ghi rõ nguồn của từng con số. Cảnh 3D chỉ gợi ý bằng chấm người, đốm sáng; không vẽ người, vũ khí hay cảnh giao tranh; vị trí các nơi là cách điệu. Nội dung đang chờ chuyên gia thẩm định. Giọng đọc do máy tổng hợp.
 ---
@@ -29,7 +29,7 @@ Năm 1948, thời kháng chiến chống Pháp, người dân hai xã Tân Phú 
 ## Đường xương sống
 <!-- id: xuong-song | kicker: 1961 – 1965 | interaction: xuong-song@0.9 | narration: Từ năm 1961 đến năm 1965, các xã phía bắc Củ Chi đào tuyến địa đạo trục gọi là đường xương sống. Hãy kéo thanh để các nhánh địa đạo nối dần giữa các làng. -->
 
-Từ năm 1961 đến 1965, các xã phía bắc Củ Chi đào xong tuyến địa đạo trục gọi là “xương sống”; các nhánh toả ra nối các ấp, các xã, có nhánh trổ ra tận sông Sài Gòn. Đến năm 1965, đã có khoảng 200 km địa đạo. Đất ở đây là đất sét pha đá ong nên bền, ít sụt lở; trên mặt đất có giao thông hào, ụ chiến đấu, hầm chông nối với địa đạo.
+Từ năm 1961 đến 1965, các xã phía bắc Củ Chi đào xong tuyến địa đạo trục gọi là “xương sống”; các nhánh toả ra nối các ấp, các xã, có nhánh trổ ra tận sông Sài Gòn. Đến năm 1965, đã có khoảng 200 km địa đạo; về tổng chiều dài, tài liệu Việt Nam thường ghi khoảng 200 – 250 km, còn Wikipedia tiếng Anh ghi 121 km. Đất ở đây là đất sét pha đá ong nên bền, ít sụt lở; trên mặt đất có giao thông hào, ụ chiến đấu, hầm chông nối với địa đạo.
 
 > [!IMPORTANT]
 > **Tương tác:** Mặt đất ↔ Mạng địa đạo · Kéo sang phải để các nhánh địa đạo nối dần giữa các làng
@@ -44,16 +44,17 @@ Từ năm 1961 đến 1965, các xã phía bắc Củ Chi đào xong tuyến đ�
 ## Di tích Bến Dược, Bến Đình
 <!-- id: di-tich | kicker: Ngày nay -->
 
-Sau chiến tranh, địa đạo Bến Dược (xã An Nhơn Tây) được xếp hạng di tích lịch sử quốc gia ngày 29 tháng 4 năm 1979; địa đạo Bến Đình (xã Nhuận Đức), căn cứ của Huyện uỷ Củ Chi, cũng được xếp hạng. Ngày 12 tháng 2 năm 2016, khu di tích nhận bằng Di tích quốc gia đặc biệt; trong 20 năm, nơi đây đón hơn 20 triệu lượt khách.
+Sau chiến tranh, địa đạo Bến Dược (xã An Nhơn Tây) được xếp hạng di tích lịch sử quốc gia ngày 29 tháng 4 năm 1979; địa đạo Bến Đình (xã Nhuận Đức), căn cứ của Huyện uỷ Củ Chi, được xếp hạng năm 2004. Ngày 12 tháng 2 năm 2016, khu di tích nhận bằng Di tích quốc gia đặc biệt; trong 20 năm, nơi đây đón hơn 20 triệu lượt khách.
 
 ## Nguồn tham khảo
 
 - “Địa đạo Củ Chi”, Wikipedia tiếng Việt — khởi đầu năm 1948 ở Tân Phú Trung và Phước Vĩnh An, đường xương sống 1961 – 1965, khoảng 200 km năm 1965, ba tầng và độ sâu, cấu trúc, xuất phát năm 1968, Bến Dược, Bến Đình, di tích quốc gia đặc biệt 12/2/2016, 20 triệu lượt khách: https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Ba_%C4%91%E1%BA%A1o_C%E1%BB%A7_Chi
-- “48 giờ ở đất thép Củ Chi”, VnExpress: https://vnexpress.net/48-gio-o-dat-thep-cu-chi-4872613.html
-- “Củ Chi tunnels”, Wikipedia tiếng Anh: https://en.wikipedia.org/wiki/C%E1%BB%A7_Chi_tunnels
+- “48 giờ ở đất thép Củ Chi”, VnExpress — hơn 200 km, 250 km đường hầm, Bến Đình là căn cứ Huyện uỷ Củ Chi ở xã Nhuận Đức: https://vnexpress.net/48-gio-o-dat-thep-cu-chi-4872613.html
+- “Củ Chi tunnels”, Wikipedia tiếng Anh — tổng chiều dài 121 km theo bài này, căn cứ cho Tết Mậu Thân 1968, các cuộc hành quân Crimp, Cedar Falls của Mỹ: https://en.wikipedia.org/wiki/C%E1%BB%A7_Chi_tunnels
 
 <!--
-TODO cần thẩm định (chương cu-chi-1948):
-1. Để status: draft — gắn với chiến tranh; tổng chiều dài các nguồn ghi khác nhau (khoảng 200 – 250 km).
-2. Hoạt cảnh 3D chỉ gợi ý: đốm sáng nối thành mạng dưới mặt đất (cách điệu, không phải sơ đồ thật), chấm người; không vẽ giao tranh.
+TODO cần thẩm định (chương cu-chi-1948) — rà soát trước khi phát hành, 2026-11:
+1. Đã đối chiếu với Wikipedia tiếng Việt (và VnExpress, Wikipedia tiếng Anh): khởi đầu năm 1948 ở Tân Phú Trung, Phước Vĩnh An, ý kiến “tự phát”, đường xương sống 1961 – 1965, khoảng 200 km năm 1965, nhánh ra sông Sài Gòn, đất sét pha đá ong, ba tầng và độ sâu, nắp hầm như ụ mối, lỗ thông hơi trong bụi cây, các hầm chức năng, xuất phát Tết Mậu Thân 1968, Bến Dược (quyết định 54/VHQĐ ngày 29/4/1979), Bến Đình (quyết định 101/2004/QĐ-BVHTT), di tích quốc gia đặc biệt 12/2/2016, hơn 20 triệu lượt khách.
+2. Tổng chiều dài: chương ghi cả hai con số (tài liệu Việt Nam 200 – 250 km; Wikipedia tiếng Anh 121 km). Độ sâu tầng dưới: bài tiếng Việt có chỗ ghi 8 – 12 m, có chỗ ghi “hơn 12 m” — chương theo 8 – 12 m.
+3. Hoạt cảnh 3D chỉ gợi ý: đốm sáng nối thành mạng dưới mặt đất (cách điệu, không phải sơ đồ thật), chấm người; không vẽ giao tranh.
 -->
