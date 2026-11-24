@@ -1,14 +1,14 @@
-import Link from "next/link";
 import { githubLinks } from "@/core/content/links";
 import { groupChaptersByEra } from "@/core/content/eras";
 import { listChapters } from "@/core/content/load";
 import { loadRoadmap } from "@/core/content/roadmap";
 import { ldJson, siteJsonLd } from "@/core/content/seo";
-import DongSonBand from "@/core/ui/ornaments/DongSonBand";
-import DongSonDrum from "@/core/ui/ornaments/DongSonDrum";
+import { Button, DongSonBand, Icon, Kicker, Link } from "@/core/ui";
 import { ContinueButton, ReadSummary } from "@/core/ui/ReadProgress";
+import SmoothScroll from "@/core/ui/SmoothScroll";
 import { site } from "@/site.config";
 import ChapterBrowser from "./ChapterBrowser";
+import HomeDrum from "./HomeDrum";
 import css from "./page.module.scss";
 
 /** Số sự kiện chưa có chương được gợi ý ở trang chủ. */
@@ -34,10 +34,11 @@ export default function Home() {
   return (
     <div className="home">
       <script type="application/ld+json" dangerouslySetInnerHTML={ldJson(siteJsonLd(chapters))} />
+      <SmoothScroll />
       <header className="home__hero">
-        <DongSonDrum className="home__drum" />
-        <p className="kicker">Dự án cộng đồng&nbsp;· Mã nguồn mở</p>
-        <h1 className="home__title">
+        <HomeDrum />
+        <Kicker>Dự án cộng đồng&nbsp;· Mã nguồn mở</Kicker>
+        <h1 className={`home__title ${css.title}`}>
           Lược sử
           <br />
           Việt Nam
@@ -46,11 +47,15 @@ export default function Home() {
           Học lịch sử qua những câu chuyện 3D tương tác. Mỗi chương là một trận đánh, một quyết định, một bước ngoặt — kể bằng hình ảnh, âm thanh và chính đôi tay người xem.
         </p>
         <div className="home__cta">
-          <ContinueButton className="btn btn--primary" chapters={chapters.map((c) => ({ slug: c.slug, title: c.title }))} />
-          <Link className="btn" href="/lo-trinh">
+          <ContinueButton chapters={chapters.map((c) => ({ slug: c.slug, title: c.title }))} />
+          <Button href="/lo-trinh">
             Bản đồ & lộ trình lịch sử
-          </Link>
+          </Button>
         </div>
+        <Link className={css.down} href="#cac-chuong">
+          <span>Các chương</span>
+          <Icon name="down" size={16} />
+        </Link>
       </header>
 
       <section className="home__section" id="cac-chuong">
@@ -76,17 +81,17 @@ export default function Home() {
                 <h3 className="chapter-card__title">{e.title}</h3>
                 <p className="chapter-card__teaser">{e.text}</p>
                 <div className="chapter-card__actions">
-                  <a className="btn" href={`${site.repo}/issues/new?template=de-xuat-chuong.yml&title=${encodeURIComponent(`[Chương] ${e.title} (${e.year})`)}`} target="_blank" rel="noreferrer">
+                  <Button href={`${site.repo}/issues/new?template=de-xuat-chuong.yml&title=${encodeURIComponent(`[Chương] ${e.title} (${e.year})`)}`}>
                     Nhận viết chương này
-                  </a>
+                  </Button>
                 </div>
               </li>
             ))}
           </ol>
           <div className="home__cta">
-            <Link className="btn btn--primary" href="/lo-trinh">
+            <Button variant="primary" href="/lo-trinh">
               Xem toàn bộ lộ trình
-            </Link>
+            </Button>
           </div>
         </section>
       )}
@@ -108,25 +113,25 @@ export default function Home() {
             <p>Làm model bằng Blender, dựng cảnh bằng Three.js theo bộ khung có sẵn.</p>
           </div>
         </div>
-        <a className="btn btn--primary" href={`${site.repo}/blob/${site.branch}/CONTRIBUTING.md`} target="_blank" rel="noreferrer">
+        <Button variant="primary" href={`${site.repo}/blob/${site.branch}/CONTRIBUTING.md`}>
           Hướng dẫn đóng góp
-        </a>
+        </Button>
       </section>
 
       <footer className="home__footer">
         <span>{site.name}</span> · Dự án mở, phi lợi nhuận ·{" "}
-        <a href={site.repo} target="_blank" rel="noreferrer">
+        <Link href={site.repo}>
           GitHub
-        </a>
+        </Link>
         <br />
         Mã nguồn{" "}
-        <a href={`${site.repo}/blob/${site.branch}/LICENSE`} target="_blank" rel="noreferrer">
+        <Link href={`${site.repo}/blob/${site.branch}/LICENSE`}>
           {site.license.code.name}
-        </a>{" "}
+        </Link>{" "}
         · Nội dung{" "}
-        <a href={site.license.content.url} target="_blank" rel="license noreferrer">
+        <Link href={site.license.content.url} rel="license">
           {site.license.content.name}
-        </a>
+        </Link>
       </footer>
     </div>
   );

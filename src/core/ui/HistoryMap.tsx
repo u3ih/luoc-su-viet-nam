@@ -1,7 +1,7 @@
 "use client";
 
-import Link from "next/link";
 import { useEffect, useMemo, useRef, useState } from "react";
+import { Button, Chip, Kicker, Link, Star } from "@/core/ui";
 import { shortEra } from "../content/era-id";
 import type { MapView } from "../world/vietnam-map";
 import css from "./HistoryMap.module.scss";
@@ -50,13 +50,6 @@ const COMMUNE_DIST = 110;
 const COMMUNE_LABEL_DIST = 80;
 /** Giữ tối đa bấy nhiêu tỉnh đã tải ranh giới xã (bỏ tỉnh cũ nhất). */
 const MAX_PROVINCES = 3;
-
-/** Sao năm cánh đều (đỉnh hướng lên), bán kính trong / ngoài = 0,382 như sao trên quốc kỳ. */
-const STAR_POINTS = Array.from({ length: 10 }, (_, i) => {
-  const a = -Math.PI / 2 + (i * Math.PI) / 5;
-  const r = i % 2 ? 46 * 0.382 : 46;
-  return `${(Math.cos(a) * r).toFixed(2)},${(Math.sin(a) * r).toFixed(2)}`;
-}).join(" ");
 
 /** Thủ đô Hà Nội — đánh dấu bằng sao vàng năm cánh. */
 const CAPITAL: [number, number] = [21.028, 105.854];
@@ -310,22 +303,22 @@ export default function HistoryMap({ pins, eras }: { pins: MapPin[]; eras: strin
   return (
     <div className={css.map}>
       <div className={css.filters} role="group" aria-label="Lọc sự kiện theo thời kỳ">
-        <button type="button" className={`chip ${era < 0 ? "chip--on" : ""}`} aria-pressed={era < 0} onClick={() => setEra(-1)}>
+        <Chip on={era < 0} onClick={() => setEra(-1)}>
           Mọi thời kỳ
-        </button>
+        </Chip>
         {eras.map((e, i) => (
-          <button key={e} type="button" className={`chip ${era === i ? "chip--on" : ""}`} aria-pressed={era === i} onClick={() => setEra(i)} title={e}>
+          <Chip key={e} on={era === i} onClick={() => setEra(i)} title={e}>
             {shortEra(e)}
-          </button>
+          </Chip>
         ))}
       </div>
 
       <div className={css.jumps} role="group" aria-label="Đi nhanh tới">
         <span>Đi tới:</span>
         {JUMPS.map(([name, lat, lon, d]) => (
-          <button key={name} type="button" className="chip" onClick={() => view.current?.focus(lat, lon, d)} disabled={status !== "ready"}>
+          <Chip key={name} onClick={() => view.current?.focus(lat, lon, d)} disabled={status !== "ready"}>
             {name}
-          </button>
+          </Chip>
         ))}
       </div>
 
@@ -355,9 +348,7 @@ export default function HistoryMap({ pins, eras }: { pins: MapPin[]; eras: strin
 
         {status === "ready" && (
           <span className={css.star} data-star role="img" aria-label="Thủ đô Hà Nội">
-            <svg viewBox="-50 -50 100 100" width="34" height="34" aria-hidden="true">
-              <polygon points={STAR_POINTS} />
-            </svg>
+            <Star size={34} />
           </span>
         )}
 
@@ -395,23 +386,23 @@ export default function HistoryMap({ pins, eras }: { pins: MapPin[]; eras: strin
 
         {status === "ready" && (
           <p className={css.credit}>
-            Dữ liệu: <a href="https://www.naturalearthdata.com/" target="_blank" rel="noreferrer">Natural Earth</a> ·{" "}
-            <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noreferrer">
+            Dữ liệu: <Link href="https://www.naturalearthdata.com/">Natural Earth</Link> ·{" "}
+            <Link href="https://www.openstreetmap.org/copyright">
               © OpenStreetMap
-            </a>
+            </Link>
           </p>
         )}
         {status === "ready" && (
           <div className={css.zoom}>
-            <button type="button" className="chip" aria-label="Phóng to" onClick={() => view.current?.zoom(0.7)}>
+            <Chip aria-label="Phóng to" onClick={() => view.current?.zoom(0.7)}>
               +
-            </button>
-            <button type="button" className="chip" aria-label="Thu nhỏ" onClick={() => view.current?.zoom(1.4)}>
+            </Chip>
+            <Chip aria-label="Thu nhỏ" onClick={() => view.current?.zoom(1.4)}>
               −
-            </button>
-            <button type="button" className="chip" aria-label="Về toàn cảnh" onClick={() => view.current?.reset()}>
+            </Chip>
+            <Chip aria-label="Về toàn cảnh" onClick={() => view.current?.reset()}>
               ⟲
-            </button>
+            </Chip>
           </div>
         )}
 
@@ -419,7 +410,7 @@ export default function HistoryMap({ pins, eras }: { pins: MapPin[]; eras: strin
           <aside data-map-ui className={`${css.card} ${open ? css.open : ""}`} aria-live="polite">
             {active.pins.map((p) => (
               <section key={p.id} className={css.place}>
-                <p className="kicker">{p.place}</p>
+                <Kicker>{p.place}</Kicker>
                 <ol>
                   {p.events.map((e) => (
                     <li key={`${e.year}-${e.title}`}>
@@ -454,9 +445,9 @@ export default function HistoryMap({ pins, eras }: { pins: MapPin[]; eras: strin
                       <SourceLinks urls={e.sources} className={css.src} />
                       {e.slug ? (
                         <p className={css.go}>
-                          <Link className="btn btn--primary" href={`/chuong/${e.slug}`}>
+                          <Button variant="primary" href={`/chuong/${e.slug}`}>
                             ▶ Xem chương
-                          </Link>
+                          </Button>
                           <ReadBadge slug={e.slug} />
                         </p>
                       ) : (

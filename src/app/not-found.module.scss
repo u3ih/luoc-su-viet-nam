@@ -1,0 +1,51 @@
+@use "../core/ui/styles/mixins" as *;
+
+.page {
+  position: relative;
+  min-height: 100svh;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  background: var(--then);
+  background-image: var(--grain), radial-gradient(70% 55% at 50% 40%, rgba(184, 50, 42, 0.22), transparent 65%);
+}
+
+.drum {
+  position: absolute;
+  width: min(90vmin, 760px);
+  color: var(--vang);
+  opacity: 0.12;
+  pointer-events: none;
+}
+
+.body {
+  position: relative;
+  max-width: 40rem;
+  padding: 120px 16px 80px;
+  text-align: center;
+
+  :global(.kicker)::before {
+    display: none;
+  }
+}
+
+.title {
+  margin: 14px 0 18px;
+  font-family: var(--font-d);
+  font-weight: 800;
+  font-size: clamp(2.2rem, 6vw, 4rem);
+  line-height: 1.05;
+  @include gold-text;
+}
+
+.lead {
+  color: var(--giay-mo);
+}
+
+.cta {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+  margin-top: 30px;
+}

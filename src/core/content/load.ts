@@ -51,6 +51,13 @@ function nextAfter(slug: string, sortYear: number): NextUp | undefined {
   return upcoming && { title: upcoming.title, year: upcoming.year };
 }
 
+function prevBefore(slug: string, sortYear: number): NextUp | undefined {
+  const ready = listChapters().filter((c) => c.status === "ready");
+  const i = ready.findIndex((c) => c.slug === slug);
+  const prev = i >= 0 ? ready[i - 1] : ready.findLast((c) => c.sortYear < sortYear);
+  return prev && { slug: prev.slug, title: prev.title, year: prev.year };
+}
+
 export async function getChapter(slug: string): Promise<Chapter | null> {
   const r = readText(slug);
   if (!r) return null;
@@ -63,5 +70,5 @@ export async function getChapter(slug: string): Promise<Chapter | null> {
   if (missing.length) throw new ContentError(`content/${r.entry.dir}/scene.config.ts`, `thiếu keyframe cho: ${missing.join(", ")}`);
   if (extra.length) throw new ContentError(`content/${r.entry.dir}/scene.config.ts`, `keyframe không khớp phân cảnh nào: ${extra.join(", ")}`);
 
-  return { ...r.text, beats: attachAudio(slug, r.text.beats), dir: r.entry.dir, scene, next: nextAfter(slug, r.text.sortYear) };
+  return { ...r.text, beats: attachAudio(slug, r.text.beats), dir: r.entry.dir, scene, next: nextAfter(slug, r.text.sortYear), prev: prevBefore(slug, r.text.sortYear) };
 }

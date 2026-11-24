@@ -1,8 +1,8 @@
 "use client";
 
 import { useRef, useState } from "react";
+import { DongSonDrum, Kicker } from "@/core/ui";
 import { gsap, useGSAP } from "./gsap";
-import DongSonDrum from "./ornaments/DongSonDrum";
 
 /**
  * Màn mở đầu: trống đồng xoay chậm trong lúc dựng cảnh, rồi "mở màn" bằng
@@ -45,7 +45,7 @@ export default function IntroOverlay({ ready, label, title, onDone }: { ready: b
     <div ref={ref} className="intro" role="status" aria-live="polite">
       <DongSonDrum className="intro__drum" />
       <div className="intro__text">
-        <p className="kicker">{label}</p>
+        <Kicker>{label}</Kicker>
         <p className="intro__title">{title}</p>
         <p className="intro__hint">{ready ? "Mở màn" : "Đang dựng cảnh…"}</p>
       </div>

@@ -1,0 +1,136 @@
+@use "./styles/mixins" as *;
+
+.step {
+  display: grid;
+  place-items: center;
+  width: 28px;
+  height: 28px;
+  margin: 6px 0;
+  // thẳng cột với tâm chấm (19,5px từ mép phải)
+  translate: -5.5px 0;
+  border: 1px solid var(--line);
+  border-radius: 50%;
+  color: var(--vang-nhat);
+  background: rgba(18, 11, 8, 0.55);
+  transition: border-color 0.3s, opacity 0.3s, color 0.3s;
+
+  &:hover:not(:disabled) {
+    border-color: var(--vang);
+    color: var(--giay);
+  }
+
+  &:disabled {
+    opacity: 0.25;
+    cursor: default;
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--vang-nhat);
+    outline-offset: 2px;
+  }
+}
+
+.count {
+  margin-top: 6px;
+  text-align: right;
+  font-family: var(--font-d);
+  font-weight: 700;
+  font-size: 15px;
+  letter-spacing: 0.04em;
+  color: var(--vang-nhat);
+  text-shadow: 0 1px 8px rgba(0, 0, 0, 0.9);
+
+  span {
+    font-size: 11px;
+    color: var(--giay-mo);
+  }
+}
+
+.bar {
+  display: none;
+
+  @include phone {
+    position: fixed;
+    inset: auto 12px calc(10px + env(safe-area-inset-bottom)) 12px;
+    z-index: 10;
+    display: grid;
+    grid-template-columns: 44px 1fr 44px;
+    align-items: center;
+    padding: 6px 4px 4px;
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    background: rgba(18, 11, 8, 0.86);
+    box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.8);
+    opacity: 0;
+    translate: 0 16px;
+    pointer-events: none;
+    transition: opacity 0.5s, translate 0.6s var(--ease-out);
+  }
+}
+
+.shown {
+  opacity: 1;
+  translate: 0 0;
+  pointer-events: auto;
+}
+
+.segments {
+  position: absolute;
+  inset: 0 14px auto;
+  display: flex;
+  gap: 3px;
+  list-style: none;
+  translate: 0 -1px;
+
+  li {
+    flex: 1;
+    height: 2px;
+    border-radius: 2px;
+    background: rgba(241, 230, 210, 0.15);
+    transition: background 0.5s;
+  }
+}
+
+.lit {
+  background: var(--vang) !important;
+}
+
+.barBtn {
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  border-radius: 10px;
+  color: var(--vang-nhat);
+
+  &:disabled {
+    opacity: 0.25;
+  }
+
+  &:active:not(:disabled) {
+    background: rgba(212, 162, 76, 0.15);
+  }
+}
+
+.now {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  gap: 8px;
+  min-width: 0;
+  font-size: 13px;
+  color: var(--giay);
+}
+
+.nowCount {
+  flex: none;
+  font-family: var(--font-d);
+  font-weight: 700;
+  color: var(--vang-nhat);
+}
+
+.nowLabel {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

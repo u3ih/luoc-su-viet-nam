@@ -1,9 +1,9 @@
 "use client";
 
-import Link from "next/link";
-import { useMemo, useState } from "react";
+import { useMemo, useRef, useState } from "react";
 import { fold, shortEra } from "@/core/content/era-id";
-import Seal from "@/core/ui/ornaments/Seal";
+import { Link, Seal } from "@/core/ui";
+import { useTilt } from "@/core/ui/hooks/useTilt";
 import { ReadBadge } from "@/core/ui/ReadProgress";
 import css from "./ChapterBrowser.module.scss";
 
@@ -25,6 +25,8 @@ export default function ChapterBrowser({ eras }: { eras: EraBlock[] }) {
   const [era, setEra] = useState("");
   const [view, setView] = useState<View>("the");
   const [opened, setOpened] = useState<ReadonlySet<string>>(new Set());
+  const root = useRef<HTMLDivElement>(null);
+  useTilt(root, `.${css.card}`);
 
   const total = useMemo(() => eras.reduce((n, e) => n + e.cards.length, 0), [eras]);
   const q = fold(query.trim());
@@ -41,7 +43,7 @@ export default function ChapterBrowser({ eras }: { eras: EraBlock[] }) {
   const filtered = !!q || !!era;
 
   return (
-    <div className={css.root}>
+    <div className={css.root} ref={root}>
       <div className={css.bar}>
         <div className={css.row}>
           <label className={css.search}>
@@ -121,9 +123,9 @@ export default function ChapterBrowser({ eras }: { eras: EraBlock[] }) {
                         ▶ Xem trực quan
                       </span>
                       <ReadBadge slug={c.slug} />
-                      <a className={css.textLink} href={c.textUrl} target="_blank" rel="noreferrer">
+                      <Link className={css.textLink} href={c.textUrl}>
                         Bản chữ ↗
-                      </a>
+                      </Link>
                     </div>
                   </li>
                 ))}

@@ -141,6 +141,30 @@
   pointer-events: none;
   background: linear-gradient(180deg, rgba(18, 11, 8, 0.62) 0%, rgba(18, 11, 8, 0.32) 58%, rgba(18, 11, 8, 0) 100%);
 }
+.topbar__where {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  min-width: 0;
+}
+.topbar__title {
+  overflow: hidden;
+  padding-left: 14px;
+  border-left: 1px solid var(--line);
+  font-size: 13px;
+  letter-spacing: 0.06em;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  color: var(--giay-mo);
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.7);
+  opacity: 0;
+  translate: -8px 0;
+  transition: opacity 0.6s, translate 0.8s var(--ease-out);
+}
+.topbar__title.is-shown {
+  opacity: 1;
+  translate: 0 0;
+}
 .brand {
   display: inline-flex;
   align-items: center;
@@ -208,6 +232,9 @@
   top: 50%;
   transform: translateY(-50%);
   z-index: 10;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
 }
 .timeline ol {
   list-style: none;
@@ -217,7 +244,7 @@
   border-right: 1px solid var(--line);
   padding-right: 14px;
 }
-.timeline button {
+.timeline li > button {
   position: relative;
   display: flex;
   padding: 4px;
@@ -249,8 +276,8 @@
   pointer-events: none;
   text-shadow: 0 1px 8px rgba(0, 0, 0, 0.9);
 }
-.timeline button:hover .timeline__label,
-.timeline button:focus-visible .timeline__label {
+.timeline li > button:hover .timeline__label,
+.timeline li > button:focus-visible .timeline__label {
   opacity: 1;
   transform: translate(0, -50%);
 }
@@ -437,10 +464,41 @@ main {
   align-items: center;
   gap: 14px;
   margin-top: 40px;
+  padding: 12px 22px 12px 24px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: rgba(18, 11, 8, 0.45);
   font-size: 12px;
-  letter-spacing: 0.2em;
+  font-weight: 600;
+  letter-spacing: 0.24em;
   text-transform: uppercase;
+  color: var(--vang-nhat);
+  transition: border-color 0.4s, background 0.4s, color 0.4s;
+}
+.hero__scroll:hover:not(:disabled),
+.hero__scroll:focus-visible {
+  border-color: var(--vang);
+  background: rgba(74, 36, 20, 0.6);
+  color: var(--giay);
+}
+.hero__scroll:focus-visible {
+  outline: 2px solid var(--vang-nhat);
+  outline-offset: 3px;
+}
+.hero__scroll:disabled {
+  cursor: progress;
   color: var(--giay-mo);
+}
+.hero__keys {
+  font-weight: 400;
+  letter-spacing: 0.08em;
+  text-transform: none;
+  color: var(--giay-mo);
+}
+@media (hover: none) {
+  .hero__keys {
+    display: none;
+  }
 }
 .hero__line {
   width: 72px;
@@ -555,30 +613,6 @@ main {
      nới khung nhìn ra và đẩy thanh trên (nút "Nghe kể") ra ngoài màn hình */
   overflow-wrap: anywhere;
 }
-.next {
-  margin-top: 26px;
-  font-family: var(--font-d);
-  font-size: 1.4rem;
-}
-.next span {
-  display: block;
-  font-family: var(--font-b);
-  font-size: 12px;
-  letter-spacing: 0.2em;
-  text-transform: uppercase;
-  color: var(--vang);
-}
-.next em {
-  font-family: var(--font-b);
-  font-style: normal;
-  font-size: 12px;
-  margin-left: 10px;
-  padding: 2px 8px;
-  border: 1px solid var(--son);
-  border-radius: 3px;
-  color: var(--son-sang);
-  vertical-align: middle;
-}
 .contribute {
   display: flex;
   flex-wrap: wrap;
@@ -620,23 +654,6 @@ main {
   justify-content: center;
   padding: 120px clamp(16px, 8vw, 140px) 80px;
 }
-.home__drum {
-  position: absolute;
-  right: -14vw;
-  top: 50%;
-  width: min(110vh, 1000px);
-  margin-top: calc(min(110vh, 1000px) / -2);
-  color: var(--vang);
-  opacity: 0.22;
-  animation: spin 300s linear infinite reverse, drum-in 2.4s var(--ease-out) both;
-  pointer-events: none;
-}
-@keyframes drum-in {
-  from {
-    opacity: 0;
-    scale: 0.82;
-  }
-}
 @keyframes rise {
   from {
     opacity: 0;
@@ -645,7 +662,7 @@ main {
   }
 }
 /* chữ trang chủ hiện lần lượt */
-.home__hero > :not(.home__drum) {
+.home__hero > :not(.home__fx) {
   animation: rise 1.1s var(--ease-out) both;
 }
 .home__hero > .kicker {
@@ -808,7 +825,8 @@ main {
   .beat--right {
     align-items: flex-end;
     justify-content: flex-start;
-    padding: 88px 16px 9svh;
+    /* chừa chỗ cho thanh phân cảnh dưới đáy */
+    padding: 88px 16px calc(9svh + 64px);
   }
   .beat--interactive {
     min-height: 112svh;
@@ -819,7 +837,10 @@ main {
   .timeline {
     display: none;
   }
-  .chip span {
+  .chip svg + span {
+    display: none;
+  }
+  .topbar__title {
     display: none;
   }
   .chip {

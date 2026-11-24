@@ -1,12 +1,11 @@
 "use client";
 
-import Link from "next/link";
 import { useEffect, useMemo, useState, type ReactNode } from "react";
 import { fold, shortEra, slugify } from "@/core/content/era-id";
 import type { RoadmapEra, RoadmapEvent } from "@/core/content/roadmap";
+import { DongSonBand, Link } from "@/core/ui";
 import type { MapPin } from "@/core/ui/HistoryMap";
 import MapLoader from "@/core/ui/MapLoader";
-import DongSonBand from "@/core/ui/ornaments/DongSonBand";
 import { ReadBadge } from "@/core/ui/ReadProgress";
 import SourceLinks from "@/core/ui/SourceLinks";
 import { site } from "@/site.config";
@@ -186,9 +185,9 @@ export default function RoadmapExplorer({ eras, footer }: { eras: RoadmapEra[]; 
               const id = slugify(era.title);
               return (
                 <li key={id}>
-                  <a href={`#${id}`} aria-current={active === id ? "location" : undefined}>
+                  <Link href={`#${id}`} aria-current={active === id ? "location" : undefined}>
                     {shortEra(era.title)} <b>{n}</b>
-                  </a>
+                  </Link>
                 </li>
               );
             })}
@@ -233,14 +232,12 @@ export default function RoadmapExplorer({ eras, footer }: { eras: RoadmapEra[]; 
                             <ReadBadge slug={e.slug} />
                           </>
                         ) : (
-                          <a
+                          <Link
                             className={css.claim}
                             href={`${site.repo}/issues/new?template=de-xuat-chuong.yml&title=${encodeURIComponent(`[Chương] ${e.title} (${e.year})`)}`}
-                            target="_blank"
-                            rel="noreferrer"
                           >
                             Nhận viết chương này
-                          </a>
+                          </Link>
                         )}
                       </p>
                     </div>

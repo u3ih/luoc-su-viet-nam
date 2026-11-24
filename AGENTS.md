@@ -67,6 +67,7 @@ scripts/                         gen-content.mjs, build-assets.mjs, geo-osm.mjs,
 | `pnpm content` | sau khi thêm/đổi tên thư mục chương hoặc `slug` |
 | `pnpm content --check` | CI: báo lỗi nếu registry lỗi thời |
 | `pnpm typecheck` | kiểm tra kiểu |
+| `pnpm check-ui` | kiểm tra design system: không import thẳng `next/link`/`next/image`/hoa văn, không viết `<a>`, `<img>`, `<svg>`, lớp `.btn`/`.chip`/`.kicker` bằng tay (chạy tự động trước `pnpm build`) |
 | `pnpm build` | build production; **kiểm tra khớp id ↔ keyframe** và lỗi định dạng story.md |
 | `pnpm assets [ten…]` | dựng lại model từ Blender (cần Blender 5.x cài sẵn, hoặc đặt `BLENDER_BIN`) |
 | `GOOGLE_TTS_API_KEY=… pnpm tts [slug…]` | tạo giọng kể mp3 (Google Cloud TTS, giọng neural vi-VN) cho phân cảnh có chữ đã đổi → `public/audio/<slug>/`. Khoá API chỉ đặt trong biến môi trường, không commit. `pnpm tts --dry` để xem phần cần tạo |
@@ -182,9 +183,22 @@ const setup: SceneSetup = async (world) => {
 
 ## 6. Giao diện (`src/core/ui`)
 
-- Component dùng chung: `StoryShell` (khung trang chương), `Hero`, `BeatSection`, `SliderInteraction`, `IntroOverlay`, `TopBar`, `Timeline`, `ChapterEnd`, `SceneStage`, `HistoryMap` (bản đồ lộ trình), `ReadProgress` (nhãn tiến độ xem), hoa văn trong `ornaments/` (`DongSonDrum`, `DongSonBand`, `Seal`).
+- **Design system — component nền.** Mọi link, nút, ảnh, biểu tượng, hoa văn dùng component nền export từ **một cửa duy nhất** `@/core/ui` (`src/core/ui/index.ts`):
+  `import { Link, Button, Chip, Icon, Image, Kicker, DongSonBand, DongSonDrum, Seal, Star } from "@/core/ui";`
+  - `Link` (`base/Link.tsx`): mọi link. Link ngoài (`http…`) tự mở tab mới, `rel="noopener noreferrer"`; link trong trang có màn khép kiểu điện ảnh (`iris={false}` để tắt).
+  - `Button` (`.btn`, `variant="primary"` nền son), `Chip` (`.chip`, `icon`, `on` bật/tắt, `ghost`), cả hai có `href` thì thành link.
+  - `Icon name="…"`: bộ biểu tượng nét mảnh — thêm biểu tượng mới vào `base/Icon.tsx`, không viết `<svg>` rời. Hoa văn (trống, dải hoa văn, con dấu, sao) nằm trong `ornaments/`.
+  - `Image`: bọc `next/image`, bắt buộc `alt`; ảnh hiện vật ghi nguồn + giấy phép cạnh chỗ dùng.
+  - `Kicker`: dòng chữ nhỏ trên tiêu đề.
+  - **Không** import thẳng `next/link`, `next/image`, `@/core/ui/base/*`, `@/core/ui/ornaments/*`; không viết `<a>`, `<img>`, `<svg>`, `className="btn|chip|kicker"` ngoài `base/` và `ornaments/`. `pnpm check-ui` (chạy trong `prebuild`) báo lỗi nếu vi phạm. Thiếu kiểu nào thì thêm biến thể vào component nền, đừng viết tay.
+  - `index.ts` chỉ export component nền nhẹ; component tính năng (`StoryShell`, `HistoryMap`, `TopBar`…) import theo đường dẫn file để trang không kéo theo mã không dùng.
+  - Chữ tiêu đề lớn ánh vàng: mixin `gold-text` trong `styles/_mixins.scss`.
+
+- Component tính năng: `StoryShell` (khung trang chương), `Hero`, `BeatSection`, `SliderInteraction`, `IntroOverlay`, `TopBar`, `Timeline`, `ChapterEnd`, `SceneStage`, `HistoryMap` (bản đồ lộ trình), `ReadProgress` (nhãn tiến độ xem) — hoa văn lấy từ `@/core/ui` (xem trên).
 - **Bố cục khi có nhiều chương/sự kiện:** trang chủ (`src/app/ChapterBrowser.tsx`) gom chương theo thời kỳ của `lo-trinh.md` (`src/core/content/eras.ts`: chương thuộc thời kỳ có sự kiện trỏ tới nó bằng `chuong:`), có ô tìm không dấu, chip lọc thời kỳ, hai kiểu xem (thẻ / dòng thời gian); thanh công cụ dính khi cuộn, bỏ dính trên điện thoại. Thẻ chương gọn: cả thẻ là một link (tên chương phủ thẻ), "Bản chữ" là link chữ nhỏ; mỗi thời kỳ hiện sẵn 8 thẻ, còn lại sau nút "Xem thêm" (ẩn bằng `hidden`, HTML server vẫn đủ chữ). Nút chính đầu trang chủ (`ContinueButton`) mở lại chương đang xem dở theo tiến độ trong `localStorage`. Trang `/lo-trinh` (`RoadmapExplorer.tsx`) có thêm ô tìm, lọc "chỉ sự kiện đã có chương" (chỉ hiện khi còn sự kiện chưa có chương), thanh nhảy thời kỳ dính + đếm số sự kiện, mục sự kiện dùng `content-visibility: auto`; trên điện thoại ô năm, tỉnh thu vào nút "Lọc năm, tỉnh". Trang không có cảnh 3D phía sau dùng `<TopBar scrolls />` để thanh trên cuộn theo trang thay vì đè lên nội dung. Thêm thời kỳ mới thì thêm tiêu đề `##` trong `lo-trinh.md`, không sửa code.
-- Hook: `useSmoothScroll` (Lenis + ScrollTrigger), `useNarration` (giọng kể + báo đọc xong để tự cuộn), `useAmbient`, `useProgress`.
+- **Điều hướng trong chương:** `Timeline` vừa là dòng thời gian bên phải (màn rộng: nút lên/xuống + số thứ tự phân cảnh) vừa là thanh dưới đáy trên điện thoại (lùi · tên phân cảnh · tới) — trên điện thoại `.beat` chừa đáy cho thanh này. Phím tắt trong `StoryShell`: ↓/PageDown/J/Space tới, ↑/PageUp/K/Shift+Space lùi, Home/End. Nút "Bắt đầu" ở Hero cuộn sang phân cảnh 1; tên chương hiện trên `TopBar` khi đã qua phần mở đầu. Cuối chương (`ChapterEnd`): thẻ chương tiếp theo, link chương trước (`Chapter.prev`), "Xem lại từ đầu".
+- **Chuyển trang kiểu điện ảnh:** `Link` nền khép màn then từ chỗ bấm với mặt trống ở giữa, nối liền màn mở đầu của chương mới (`base/iris.ts`). Hiệu ứng 3D chỉ bằng CSS transform/GSAP: thẻ chữ xoay vào từ chiều sâu, tiêu đề lật lên (`reveal.ts`), thẻ chương nghiêng theo chuột (`useTilt`), mặt trống nghiêng 3D ở đầu trang chủ (`src/app/HomeDrum.tsx`). Mọi hiệu ứng đều tắt khi `prefers-reduced-motion`.
+- Hook: `useSmoothScroll` (Lenis + ScrollTrigger; `<SmoothScroll />` cho trang server như trang chủ), `useNarration` (giọng kể + báo đọc xong để tự cuộn), `useAmbient`, `useProgress`, `useTilt`.
 - **Giọng kể:** ưu tiên mp3 trong `public/audio/<slug>/` (`<id>.mp3`, `<id>.xong.mp3` cho lời sau tương tác), do `pnpm tts` tạo hoặc người thật thu. `core/content/audio.ts` tự gắn file vào phân cảnh nếu `manifest.json` còn khớp mã băm câu chữ; sửa `story.md` thì nhớ chạy lại `pnpm tts`, nếu không trang tự quay về giọng máy của trình duyệt (giọng "Linh" mặc định của macOS đọc rời rạc từng tiếng).
 - **Nghe kể = tự cuộn:** bật giọng kể thì kể xong phân cảnh nào trang tự cuộn sang phân cảnh sau; gặp tương tác thì chờ người xem, quá 6 s thì máy tự kéo giúp. Máy không có giọng tiếng Việt thì vẫn tự cuộn theo thời gian đọc ước lượng.
 - **Import GSAP từ `@/core/ui/gsap`**, không import thẳng từ `"gsap"`, để plugin được đăng ký đúng một lần. Viết animation trong `useGSAP` để tự dọn khi unmount. Luôn bọc bằng `gsap.matchMedia("(prefers-reduced-motion: no-preference)")`.
