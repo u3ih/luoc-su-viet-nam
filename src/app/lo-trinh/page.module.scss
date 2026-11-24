@@ -40,7 +40,7 @@
 
 .era {
   margin-top: 56px;
-  scroll-margin-top: 130px;
+  scroll-margin-top: 80px;
 }
 
 .eraTitle {
@@ -250,6 +250,62 @@
   width: min(100%, 240px);
 }
 
+// ô năm + tỉnh/thành: trên máy tính nằm chung hàng như bình thường; điện thoại thu vào sau nút "Lọc năm, tỉnh"
+.more {
+  display: contents;
+}
+
+.moreBtn {
+  display: none;
+}
+
+@include phone {
+  .searchField {
+    order: -1;
+    flex: 1 1 100%;
+  }
+
+  .searchIn {
+    width: 100%;
+  }
+
+  .more {
+    display: none;
+    flex: 1 1 100%;
+    flex-wrap: wrap;
+    gap: 14px 18px;
+  }
+
+  .moreOpen {
+    display: flex;
+  }
+
+  .moreBtn {
+    display: inline-flex;
+    align-items: center;
+    height: 38px;
+    padding: 0 14px;
+    font: inherit;
+    font-size: 14px;
+    color: var(--giay);
+    background: none;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    cursor: pointer;
+
+    &[aria-expanded="true"] {
+      color: var(--then);
+      background: var(--vang-nhat);
+      border-color: var(--vang-nhat);
+    }
+
+    &:focus-visible {
+      outline: 2px solid var(--vang-nhat);
+      outline-offset: 2px;
+    }
+  }
+}
+
 .check {
   display: flex;
   align-items: center;
@@ -269,15 +325,11 @@
 // thanh nhảy tới thời kỳ: dính ở đầu màn hình khi cuộn qua hàng trăm sự kiện
 .eraNav {
   position: sticky;
-  top: 54px;
+  top: 0;
   z-index: 6;
   margin: 0 calc(clamp(16px, 8vw, 140px) * -1);
   padding: 8px clamp(16px, 8vw, 140px);
   background: linear-gradient(180deg, var(--then) 86%, rgba(18, 11, 8, 0));
-
-  @include phone {
-    top: 48px;
-  }
 
   ul {
     display: flex;
