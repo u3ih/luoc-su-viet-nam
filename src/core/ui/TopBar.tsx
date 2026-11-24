@@ -2,10 +2,13 @@ import Link from "next/link";
 
 type Toggle = { on: boolean; toggle: () => void };
 
-/** Thanh trên: về trang chủ, bật giọng kể (kèm tự cuộn) / âm thanh, mở bản chữ trên GitHub. */
-export default function TopBar({ narration, ambient, textUrl }: { narration?: Toggle & { supported: boolean }; ambient?: Toggle; textUrl?: string }) {
+/**
+ * Thanh trên: về trang chủ, bật giọng kể (kèm tự cuộn) / âm thanh, mở bản chữ trên GitHub.
+ * `scrolls`: trang thường (không có cảnh 3D phía sau) — thanh cuộn đi cùng trang thay vì dính trên nội dung.
+ */
+export default function TopBar({ narration, ambient, textUrl, scrolls }: { narration?: Toggle & { supported: boolean }; ambient?: Toggle; textUrl?: string; scrolls?: boolean }) {
   return (
-    <header className="topbar">
+    <header className={`topbar ${scrolls ? "topbar--scrolls" : ""}`}>
       <Link href="/" className="brand">
         <span className="brand__mark" aria-hidden="true" />
         Lược sử Việt Nam

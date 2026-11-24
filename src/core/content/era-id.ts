@@ -12,3 +12,9 @@ export const slugify = (s: string) =>
 
 /** Chuỗi để so khớp khi tìm: bỏ dấu, chữ thường — gõ "tran hung dao" vẫn ra "Trần Hưng Đạo". */
 export const fold = (s: string) => s.normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/đ/gi, "d").toLowerCase();
+
+/** "Thời Lý" → "Lý", "Thời tiền sử" → "Tiền sử": chip gọn để cả hàng thời kỳ vừa màn hình. */
+export const shortEra = (t: string) => {
+  const s = t.replace(/^Thời /, "");
+  return s.charAt(0).toUpperCase() + s.slice(1);
+};

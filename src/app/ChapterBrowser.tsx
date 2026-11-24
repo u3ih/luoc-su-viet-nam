@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useMemo, useState } from "react";
-import { fold } from "@/core/content/era-id";
+import { fold, shortEra } from "@/core/content/era-id";
 import Seal from "@/core/ui/ornaments/Seal";
 import { ReadBadge } from "@/core/ui/ReadProgress";
 import css from "./ChapterBrowser.module.scss";
@@ -12,21 +12,19 @@ export type EraBlock = { id: string; title: string; intro: string; events: numbe
 
 type View = "the" | "dong";
 
-/** "Thời Lý" → "Lý", "Thời tiền sử" → "Tiền sử": chip gọn để cả hàng thời kỳ vừa màn hình. */
-const short = (t: string) => {
-  const s = t.replace(/^Thời /, "");
-  return s.charAt(0).toUpperCase() + s.slice(1);
-};
+/** Số thẻ hiện sẵn mỗi thời kỳ khi chưa lọc; phần còn lại mở bằng nút "Xem thêm" (vẫn có trong HTML, chỉ ẩn đi). */
+const PREVIEW = 8;
 
 /**
  * Danh sách chương của trang chủ khi đã có nhiều chương: chia theo thời kỳ, có thanh tìm kiếm, chip lọc thời kỳ
  * và hai kiểu xem — "Thẻ" (đọc teaser) hoặc "Dòng thời gian" (mỗi chương một dòng, quét nhanh hàng chục chương).
- * Lần render đầu chưa lọc gì nên HTML server vẫn có đủ chữ của mọi chương.
+ * Lần render đầu chưa lọc gì nên HTML server vẫn có đủ chữ của mọi chương (thẻ quá PREVIEW chỉ bị ẩn bằng `hidden`).
  */
 export default function ChapterBrowser({ eras }: { eras: EraBlock[] }) {
   const [query, setQuery] = useState("");
   const [era, setEra] = useState("");
   const [view, setView] = useState<View>("the");
+  const [opened, setOpened] = useState<ReadonlySet<string>>(new Set());
 
   const total = useMemo(() => eras.reduce((n, e) => n + e.cards.length, 0), [eras]);
   const q = fold(query.trim());
@@ -68,7 +66,7 @@ export default function ChapterBrowser({ eras }: { eras: EraBlock[] }) {
           {eras.map((e) => (
             <li key={e.id}>
               <button type="button" aria-pressed={era === e.id} onClick={() => setEra(era === e.id ? "" : e.id)}>
-                {short(e.title)} <b>{e.cards.length}</b>
+                {shortEra(e.title)} <b>{e.cards.length}</b>
               </button>
             </li>
           ))}
@@ -105,26 +103,45 @@ export default function ChapterBrowser({ eras }: { eras: EraBlock[] }) {
           </header>
           {e.intro && !filtered && <p className={css.eraIntro}>{e.intro}</p>}
           {view === "the" ? (
-            <ol className={`chapters ${css.grid}`}>
-              {e.cards.map((c) => (
-                <li key={c.slug} className={`chapter-card ${css.card}`}>
-                  <Seal lines={c.seal} />
-                  <p className="chapter-card__era">{c.era}</p>
-                  <p className={`chapter-card__year ${css.year} ${c.year.length > 5 ? css.yearLong : ""}`}>{c.year}</p>
-                  <h4 className={`chapter-card__title ${css.cardTitle}`}>{c.title}</h4>
-                  <p className={`chapter-card__teaser ${css.teaser}`}>{c.teaser}</p>
-                  <ReadBadge slug={c.slug} className={css.badge} />
-                  <div className="chapter-card__actions">
-                    <Link className="btn btn--primary" href={`/chuong/${c.slug}`}>
-                      ▶ Xem trực quan
-                    </Link>
-                    <a className="btn" href={c.textUrl} target="_blank" rel="noreferrer">
-                      Đọc bản chữ
-                    </a>
-                  </div>
-                </li>
-              ))}
-            </ol>
+            <>
+              <ol className={`chapters ${css.grid}`}>
+                {e.cards.map((c, i) => (
+                  <li key={c.slug} className={`chapter-card ${css.card}`} hidden={!filtered && !opened.has(e.id) && i >= PREVIEW}>
+                    <Seal lines={c.seal} />
+                    <p className={`chapter-card__era ${css.cardEra}`}>{c.era}</p>
+                    <p className={css.year}>{c.year}</p>
+                    <h4 className={`chapter-card__title ${css.cardTitle}`}>
+                      <Link href={`/chuong/${c.slug}`} className={css.cardLink}>
+                        {c.title}
+                      </Link>
+                    </h4>
+                    <p className={`chapter-card__teaser ${css.teaser}`}>{c.teaser}</p>
+                    <div className={css.cardFoot}>
+                      <span className={css.watch} aria-hidden="true">
+                        ▶ Xem trực quan
+                      </span>
+                      <ReadBadge slug={c.slug} />
+                      <a className={css.textLink} href={c.textUrl} target="_blank" rel="noreferrer">
+                        Bản chữ ↗
+                      </a>
+                    </div>
+                  </li>
+                ))}
+              </ol>
+              {!filtered && !opened.has(e.id) && e.cards.length > PREVIEW && (
+                <button
+                  type="button"
+                  className={css.more}
+                  onClick={() => {
+                    setOpened(new Set(opened).add(e.id));
+                    // nút biến mất sau khi bấm: chuyển tiêu điểm tới thẻ đầu tiên vừa hiện
+                    requestAnimationFrame(() => document.querySelector<HTMLElement>(`#${e.id} li:nth-child(${PREVIEW + 1}) a`)?.focus());
+                  }}
+                >
+                  Xem thêm {e.cards.length - PREVIEW} chương · {e.title}
+                </button>
+              )}
+            </>
           ) : (
             <ol className={css.rows}>
               {e.cards.map((c) => (

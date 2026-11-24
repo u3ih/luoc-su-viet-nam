@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { clearProgress, ratio } from "../story/progress";
 import { useProgress } from "./hooks/useProgress";
 import css from "./ReadProgress.module.scss";
@@ -30,5 +31,35 @@ export function ReadSummary({ slugs }: { slugs: string[] }) {
         Xoá tiến độ
       </button>
     </p>
+  );
+}
+
+/**
+ * Nút chính ở đầu trang chủ. Chưa xem gì: "Bắt đầu từ" chương đầu tiên. Đã xem: mở lại chương xem gần nhất nếu còn dở,
+ * xem hết rồi thì chương kế tiếp chưa xem. Server và lần hydrate đầu luôn hiện nút "Bắt đầu".
+ */
+export function ContinueButton({ chapters, className }: { chapters: { slug: string; title: string }[]; className?: string }) {
+  const all = useProgress();
+  const recent = chapters
+    .map((c, i) => ({ ...c, i, p: all[c.slug] }))
+    .filter((c) => c.p)
+    .sort((a, b) => b.p!.at - a.p!.at)[0];
+  let target = chapters[0];
+  let label = "Bắt đầu từ";
+  if (recent && !recent.p!.done) {
+    target = recent;
+    label = "Xem tiếp";
+  } else if (recent) {
+    const next = [...chapters.slice(recent.i + 1), ...chapters.slice(0, recent.i)].find((c) => !all[c.slug]?.done);
+    if (next) {
+      target = next;
+      label = "Chương tiếp theo";
+    }
+  }
+  if (!target) return null;
+  return (
+    <Link className={className} href={`/chuong/${target.slug}`}>
+      ▶ {label}: {target.title}
+    </Link>
   );
 }

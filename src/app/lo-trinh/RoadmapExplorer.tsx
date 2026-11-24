@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useEffect, useMemo, useState, type ReactNode } from "react";
-import { fold, slugify } from "@/core/content/era-id";
+import { fold, shortEra, slugify } from "@/core/content/era-id";
 import type { RoadmapEra, RoadmapEvent } from "@/core/content/roadmap";
 import type { MapPin } from "@/core/ui/HistoryMap";
 import MapLoader from "@/core/ui/MapLoader";
@@ -16,12 +16,6 @@ type Event = RoadmapEvent & { era: number };
 type Bound = { value: string; bc: boolean };
 
 const NO_PLACE = "__none__";
-
-/** "Thời Lý" → "Lý", "Thời tiền sử" → "Tiền sử": chip gọn để cả hàng thời kỳ vừa màn hình. */
-const short = (t: string) => {
-  const s = t.replace(/^Thời /, "");
-  return s.charAt(0).toUpperCase() + s.slice(1);
-};
 
 /** Tỉnh/thành hiện nay = đoạn cuối của địa chỉ "hiện nay" ("Xã A, Tỉnh B" → "Tỉnh B"). */
 const provinceOf = (ev: RoadmapEvent) => ev.now?.split(",").pop()?.trim();
@@ -43,6 +37,8 @@ export default function RoadmapExplorer({ eras, footer }: { eras: RoadmapEra[]; 
   const [query, setQuery] = useState("");
   const [onlyReady, setOnlyReady] = useState(false);
   const [active, setActive] = useState("");
+  /** Điện thoại: ô năm, tỉnh/thành thu vào sau nút "Lọc năm, tỉnh" để bản đồ không bị đẩy xuống quá xa. */
+  const [moreOpen, setMoreOpen] = useState(false);
 
   const all: Event[] = useMemo(() => eras.flatMap((e, i) => e.events.map((ev) => ({ ...ev, era: i }))), [eras]);
 
@@ -55,6 +51,8 @@ export default function RoadmapExplorer({ eras, footer }: { eras: RoadmapEra[]; 
     return [...count.entries()].sort((a, b) => a[0].localeCompare(b[0], "vi"));
   }, [all]);
   const unplaced = useMemo(() => all.filter((ev) => !provinceOf(ev)).length, [all]);
+  // khi mọi sự kiện đều đã có chương thì ô "chỉ sự kiện đã có chương" không lọc được gì nữa
+  const someWaiting = useMemo(() => all.some((ev) => !ev.slug), [all]);
 
   const lo = toYear(from);
   const hi = toYear(to);
@@ -138,28 +136,35 @@ export default function RoadmapExplorer({ eras, footer }: { eras: RoadmapEra[]; 
   return (
     <>
       <form className={css.filter} role="search" aria-label="Lọc sự kiện theo năm và tỉnh thành" onSubmit={(e) => e.preventDefault()}>
-        {bound("Từ năm", from, setFrom)}
-        {bound("Đến năm", to, setTo)}
-        <div className={css.field}>
-          <label htmlFor="loc-tinh">Tỉnh / thành (hiện nay)</label>
-          <select id="loc-tinh" value={place} onChange={(e) => setPlace(e.currentTarget.value)}>
-            <option value="">Mọi nơi</option>
-            {provinces.map(([p, n]) => (
-              <option key={p} value={p}>
-                {p} ({n})
-              </option>
-            ))}
-            {unplaced > 0 && <option value={NO_PLACE}>Chưa rõ vị trí ({unplaced})</option>}
-          </select>
+        <button type="button" className={css.moreBtn} aria-expanded={moreOpen} aria-controls="loc-them" onClick={() => setMoreOpen(!moreOpen)}>
+          Lọc năm, tỉnh{lo !== null || hi !== null || place ? " · đang lọc" : ""}
+        </button>
+        <div id="loc-them" className={`${css.more} ${moreOpen ? css.moreOpen : ""}`}>
+          {bound("Từ năm", from, setFrom)}
+          {bound("Đến năm", to, setTo)}
+          <div className={css.field}>
+            <label htmlFor="loc-tinh">Tỉnh / thành (hiện nay)</label>
+            <select id="loc-tinh" value={place} onChange={(e) => setPlace(e.currentTarget.value)}>
+              <option value="">Mọi nơi</option>
+              {provinces.map(([p, n]) => (
+                <option key={p} value={p}>
+                  {p} ({n})
+                </option>
+              ))}
+              {unplaced > 0 && <option value={NO_PLACE}>Chưa rõ vị trí ({unplaced})</option>}
+            </select>
+          </div>
         </div>
-        <div className={css.field}>
+        <div className={`${css.field} ${css.searchField}`}>
           <label htmlFor="loc-tu-khoa">Tìm sự kiện</label>
           <input id="loc-tu-khoa" type="search" className={css.searchIn} placeholder="tên, nhân vật, địa danh…" value={query} onChange={(e) => setQuery(e.currentTarget.value)} />
         </div>
-        <label className={css.check}>
-          <input type="checkbox" checked={onlyReady} onChange={(e) => setOnlyReady(e.currentTarget.checked)} />
-          Chỉ sự kiện đã có chương
-        </label>
+        {someWaiting && (
+          <label className={css.check}>
+            <input type="checkbox" checked={onlyReady} onChange={(e) => setOnlyReady(e.currentTarget.checked)} />
+            Chỉ sự kiện đã có chương
+          </label>
+        )}
         <p className={css.count} role="status">
           {rangeBad ? "Năm bắt đầu lớn hơn năm kết thúc." : `${events.length} / ${all.length} sự kiện`}
           {filtered && (
@@ -182,7 +187,7 @@ export default function RoadmapExplorer({ eras, footer }: { eras: RoadmapEra[]; 
               return (
                 <li key={id}>
                   <a href={`#${id}`} aria-current={active === id ? "location" : undefined}>
-                    {short(era.title)} <b>{n}</b>
+                    {shortEra(era.title)} <b>{n}</b>
                   </a>
                 </li>
               );

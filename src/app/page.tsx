@@ -6,7 +6,7 @@ import { loadRoadmap } from "@/core/content/roadmap";
 import { ldJson, siteJsonLd } from "@/core/content/seo";
 import DongSonBand from "@/core/ui/ornaments/DongSonBand";
 import DongSonDrum from "@/core/ui/ornaments/DongSonDrum";
-import { ReadSummary } from "@/core/ui/ReadProgress";
+import { ContinueButton, ReadSummary } from "@/core/ui/ReadProgress";
 import { site } from "@/site.config";
 import ChapterBrowser from "./ChapterBrowser";
 import css from "./page.module.scss";
@@ -36,7 +36,7 @@ export default function Home() {
       <script type="application/ld+json" dangerouslySetInnerHTML={ldJson(siteJsonLd(chapters))} />
       <header className="home__hero">
         <DongSonDrum className="home__drum" />
-        <p className="kicker">Dự án cộng đồng · Mã nguồn mở</p>
+        <p className="kicker">Dự án cộng đồng&nbsp;· Mã nguồn mở</p>
         <h1 className="home__title">
           Lược sử
           <br />
@@ -46,11 +46,7 @@ export default function Home() {
           Học lịch sử qua những câu chuyện 3D tương tác. Mỗi chương là một trận đánh, một quyết định, một bước ngoặt — kể bằng hình ảnh, âm thanh và chính đôi tay người xem.
         </p>
         <div className="home__cta">
-          {chapters[0] && (
-            <Link className="btn btn--primary" href={`/chuong/${chapters[0].slug}`}>
-              ▶ Bắt đầu từ {chapters[0].title}
-            </Link>
-          )}
+          <ContinueButton className="btn btn--primary" chapters={chapters.map((c) => ({ slug: c.slug, title: c.title }))} />
           <Link className="btn" href="/lo-trinh">
             Bản đồ & lộ trình lịch sử
           </Link>
@@ -64,34 +60,36 @@ export default function Home() {
         <ChapterBrowser eras={eras} />
       </section>
 
-      <section className="home__section">
-        <h2 className="home__h2">Đang chờ người viết</h2>
-        <DongSonBand className="band" />
-        <p className={css.note}>
-          {events.length} sự kiện từ thời tiền sử đến nay đã được xếp trên{" "}
-          <Link href="/lo-trinh">bản đồ lộ trình</Link>, {events.filter((e) => e.slug).length} sự kiện đã có chương. Dưới đây là mỗi thời kỳ một gợi ý; chọn một sự kiện và cùng viết tiếp.
-        </p>
-        <ol className="chapters">
-          {waiting.map((e) => (
-            <li key={`${e.sortYear}-${e.title}`} className="chapter-card chapter-card--soon">
-              <p className="chapter-card__era">{e.place ?? "Lộ trình"}</p>
-              <p className={`chapter-card__year ${e.year.length > 5 ? css.yearLong : ""}`}>{e.year}</p>
-              <h3 className="chapter-card__title">{e.title}</h3>
-              <p className="chapter-card__teaser">{e.text}</p>
-              <div className="chapter-card__actions">
-                <a className="btn" href={`${site.repo}/issues/new?template=de-xuat-chuong.yml&title=${encodeURIComponent(`[Chương] ${e.title} (${e.year})`)}`} target="_blank" rel="noreferrer">
-                  Nhận viết chương này
-                </a>
-              </div>
-            </li>
-          ))}
-        </ol>
-        <div className="home__cta">
-          <Link className="btn btn--primary" href="/lo-trinh">
-            Xem toàn bộ lộ trình
-          </Link>
-        </div>
-      </section>
+      {waiting.length > 0 && (
+        <section className="home__section">
+          <h2 className="home__h2">Đang chờ người viết</h2>
+          <DongSonBand className="band" />
+          <p className={css.note}>
+            {events.length} sự kiện từ thời tiền sử đến nay đã được xếp trên{" "}
+            <Link href="/lo-trinh">bản đồ lộ trình</Link>, {events.filter((e) => e.slug).length} sự kiện đã có chương. Dưới đây là mỗi thời kỳ một gợi ý; chọn một sự kiện và cùng viết tiếp.
+          </p>
+          <ol className="chapters">
+            {waiting.map((e) => (
+              <li key={`${e.sortYear}-${e.title}`} className="chapter-card chapter-card--soon">
+                <p className="chapter-card__era">{e.place ?? "Lộ trình"}</p>
+                <p className={`chapter-card__year ${e.year.length > 5 ? css.yearLong : ""}`}>{e.year}</p>
+                <h3 className="chapter-card__title">{e.title}</h3>
+                <p className="chapter-card__teaser">{e.text}</p>
+                <div className="chapter-card__actions">
+                  <a className="btn" href={`${site.repo}/issues/new?template=de-xuat-chuong.yml&title=${encodeURIComponent(`[Chương] ${e.title} (${e.year})`)}`} target="_blank" rel="noreferrer">
+                    Nhận viết chương này
+                  </a>
+                </div>
+              </li>
+            ))}
+          </ol>
+          <div className="home__cta">
+            <Link className="btn btn--primary" href="/lo-trinh">
+              Xem toàn bộ lộ trình
+            </Link>
+          </div>
+        </section>
+      )}
 
       <section className="home__section home__community">
         <h2 className="home__h2">Lịch sử là của chung</h2>

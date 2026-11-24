@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { useEffect, useMemo, useRef, useState } from "react";
+import { shortEra } from "../content/era-id";
 import type { MapView } from "../world/vietnam-map";
 import css from "./HistoryMap.module.scss";
 import { ReadBadge } from "./ReadProgress";
@@ -96,7 +97,6 @@ export default function HistoryMap({ pins, eras }: { pins: MapPin[]; eras: strin
   const view = useRef<MapView | null>(null);
   const [labels, setLabels] = useState<Label[]>([]);
   const [era, setEra] = useState(-1);
-  const [onlyReady, setOnlyReady] = useState(false);
   const [open, setOpen] = useState<string | null>(null);
   const [hover, setHover] = useState<string | null>(null);
   const [status, setStatus] = useState<"loading" | "ready" | "failed">("loading");
@@ -109,9 +109,9 @@ export default function HistoryMap({ pins, eras }: { pins: MapPin[]; eras: strin
   const shown = useMemo(
     () =>
       pins
-        .map((p) => ({ ...p, events: p.events.filter((e) => (era < 0 || e.era === era) && (!onlyReady || e.slug)) }))
+        .map((p) => ({ ...p, events: p.events.filter((e) => era < 0 || e.era === era) }))
         .filter((p) => p.events.length),
-    [pins, era, onlyReady],
+    [pins, era],
   );
 
   const byId = useMemo(() => new Map(shown.map((p) => [p.id, p])), [shown]);
@@ -314,13 +314,10 @@ export default function HistoryMap({ pins, eras }: { pins: MapPin[]; eras: strin
           Mọi thời kỳ
         </button>
         {eras.map((e, i) => (
-          <button key={e} type="button" className={`chip ${era === i ? "chip--on" : ""}`} aria-pressed={era === i} onClick={() => setEra(i)}>
-            {e}
+          <button key={e} type="button" className={`chip ${era === i ? "chip--on" : ""}`} aria-pressed={era === i} onClick={() => setEra(i)} title={e}>
+            {shortEra(e)}
           </button>
         ))}
-        <label className={css.toggle}>
-          <input type="checkbox" checked={onlyReady} onChange={(e) => setOnlyReady(e.currentTarget.checked)} /> Chỉ sự kiện đã có chương
-        </label>
       </div>
 
       <div className={css.jumps} role="group" aria-label="Đi nhanh tới">

@@ -17,14 +17,19 @@ $stage-h: min(78svh, 760px);
   background: radial-gradient(60% 60% at 50% 50%, #22140d, var(--then));
 }
 
+// chip thời kỳ: một hàng cuộn ngang thay vì hai, ba hàng chip dài
 .filters {
   display: flex;
-  flex-wrap: wrap;
   align-items: center;
   gap: 8px;
-  margin-bottom: 14px;
+  margin-bottom: 12px;
+  padding-bottom: 6px;
+  overflow-x: auto;
+  scrollbar-width: thin;
 
   :global(.chip) {
+    flex: none;
+    white-space: nowrap;
     cursor: pointer;
   }
 }
@@ -42,20 +47,6 @@ $stage-h: min(78svh, 760px);
     padding: 4px 12px;
     font-size: 12px;
     cursor: pointer;
-  }
-}
-
-.toggle {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  margin-left: 6px;
-  font-size: 13px;
-  color: var(--giay-mo);
-  cursor: pointer;
-
-  input {
-    accent-color: var(--son);
   }
 }
 
@@ -162,6 +153,15 @@ $stage-h: min(78svh, 760px);
   font-size: 15px;
   font-weight: 700;
   color: var(--vang-nhat);
+
+  // màn hẹp: nhãn quần đảo nằm sát mép phải khung, bỏ dòng phụ cho khỏi bị cắt
+  @include phone {
+    font-size: 13px;
+
+    small {
+      display: none;
+    }
+  }
 }
 
 .sea > span {

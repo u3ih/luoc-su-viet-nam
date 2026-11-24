@@ -24,17 +24,18 @@ export default function RoadmapPage() {
   // chương chưa sẵn sàng (draft) thì coi như chưa có chương
   const shown = eras.map((era) => ({ ...era, events: era.events.map((ev) => ({ ...ev, slug: ev.slug && ready.has(ev.slug) ? ev.slug : undefined })) }));
   const total = shown.reduce((n, e) => n + e.events.length, 0);
+  const waiting = shown.some((e) => e.events.some((ev) => !ev.slug));
 
   return (
     <div className={css.page}>
       <script type="application/ld+json" dangerouslySetInnerHTML={ldJson(roadmapJsonLd(eras))} />
-      <TopBar />
+      <TopBar scrolls />
       <header className={css.head}>
         <p className="kicker">Lược sử Việt Nam · Lộ trình</p>
         <h1 className={css.title}>Bản đồ lịch sử</h1>
         <p className={css.lead}>
           {total} sự kiện từ thời tiền sử đến nay, xếp theo thời gian và cắm mốc trên bản đồ. Rê chuột hoặc chạm vào một mốc để xem; sự kiện đã có chương thì
-          vào xem ngay. Những sự kiện còn lại đang chờ cộng đồng cùng viết.
+          vào xem ngay.{waiting && " Những sự kiện còn lại đang chờ cộng đồng cùng viết."}
         </p>
         <ReadSummary slugs={[...ready]} />
       </header>
