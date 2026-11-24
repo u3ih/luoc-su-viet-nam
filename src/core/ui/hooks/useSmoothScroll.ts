@@ -9,7 +9,7 @@ export function useSmoothScroll() {
   const lenisRef = useRef<Lenis | null>(null);
   useEffect(() => {
     if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
-    const lenis = new Lenis({ lerp: 0.075, wheelMultiplier: 0.9 });
+    const lenis = new Lenis({ lerp: 0.075, wheelMultiplier: 0.9, anchors: { offset: -16, duration: 1.6 } });
     lenisRef.current = lenis;
     lenis.on("scroll", ScrollTrigger.update);
     const tick = (time: number) => lenis.raf(time * 1000);
@@ -23,8 +23,8 @@ export function useSmoothScroll() {
   }, []);
 
   return {
-    scrollTo(top: number) {
-      if (lenisRef.current) lenisRef.current.scrollTo(top, { duration: 2.4, easing: (t) => 1 - Math.pow(1 - t, 4) });
+    scrollTo(top: number, duration = 2.4) {
+      if (lenisRef.current) lenisRef.current.scrollTo(top, { duration, easing: (t) => 1 - Math.pow(1 - t, 4) });
       else window.scrollTo({ top, behavior: "smooth" });
     },
   };

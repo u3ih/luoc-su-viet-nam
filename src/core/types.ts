@@ -72,6 +72,7 @@ export type Chapter = ChapterText & {
   scene: SceneConfig;
   /** Chương tiếp theo đã có (theo thời gian), hoặc sự kiện kế tiếp trong lộ trình đang chờ người viết. */
   next?: NextUp;
+  prev?: NextUp;
 };
 
 // ---------- phần cảnh (scene.config.ts) ----------

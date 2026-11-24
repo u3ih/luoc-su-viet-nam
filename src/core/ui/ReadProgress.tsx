@@ -1,6 +1,6 @@
 "use client";
 
-import Link from "next/link";
+import { Button } from "@/core/ui";
 import { clearProgress, ratio } from "../story/progress";
 import { useProgress } from "./hooks/useProgress";
 import css from "./ReadProgress.module.scss";
@@ -58,8 +58,8 @@ export function ContinueButton({ chapters, className }: { chapters: { slug: stri
   }
   if (!target) return null;
   return (
-    <Link className={className} href={`/chuong/${target.slug}`}>
+    <Button variant="primary" className={className} href={`/chuong/${target.slug}`}>
       ▶ {label}: {target.title}
-    </Link>
+    </Button>
   );
 }

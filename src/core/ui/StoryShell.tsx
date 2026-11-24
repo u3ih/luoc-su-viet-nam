@@ -95,9 +95,45 @@ export default function StoryShell({ chapter, textUrl, editUrl }: { chapter: Cha
   const setRef = (i: number) => (el: HTMLElement | null) => {
     sections.current[i] = el;
   };
-  const goTo = (i: number) => scroll.scrollTo(story.centers[i] - window.innerHeight / 2);
-  const complete = (key: string) => setCompleted((c) => ({ ...c, [key]: true }));
   const last = chapter.beats.length - 1;
+  // bấm liền tay thì tính tiếp từ đích đang cuộn tới, không phải từ phân cảnh máy quay đang trôi qua
+  const heading = useRef({ i: 0, at: 0 });
+  const goTo = (i: number, duration?: number) => {
+    const to = Math.max(0, Math.min(last, i));
+    heading.current = { i: to, at: performance.now() };
+    scroll.scrollTo(story.centers[to] - window.innerHeight / 2, duration);
+  };
+  const step = (d: number) => {
+    const h = heading.current;
+    const from = performance.now() - h.at < 1600 ? h.i : activeRef.current;
+    goTo(from + d, 1.5);
+  };
+  const complete = (key: string) => setCompleted((c) => ({ ...c, [key]: true }));
+
+  const stepRef = useRef(step);
+  const goToRef = useRef(goTo);
+  useEffect(() => {
+    stepRef.current = step;
+    goToRef.current = goTo;
+  });
+  useEffect(() => {
+    const onKey = (e: KeyboardEvent) => {
+      if (e.defaultPrevented || e.altKey || e.ctrlKey || e.metaKey) return;
+      const el = e.target as HTMLElement | null;
+      if (el?.closest("input, textarea, select, [contenteditable]")) return;
+      const onControl = !!el?.closest("button, a");
+      let d = 0;
+      if (e.key === "ArrowDown" || e.key === "PageDown" || e.key === "j" || (e.key === " " && !e.shiftKey && !onControl)) d = 1;
+      else if (e.key === "ArrowUp" || e.key === "PageUp" || e.key === "k" || (e.key === " " && e.shiftKey && !onControl)) d = -1;
+      else if (e.key === "Home") goToRef.current(0, 1.8);
+      else if (e.key === "End") goToRef.current(Infinity, 1.8);
+      else return;
+      e.preventDefault();
+      if (d) stepRef.current(d);
+    };
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  }, []);
 
   // Chế độ tự cuộn (bật cùng giọng kể): kể xong phân cảnh thì nghỉ một nhịp rồi cuộn sang phân cảnh sau.
   // Gặp phân cảnh tương tác: chờ người xem tự kéo; một lúc không ai kéo thì máy kéo giúp, kể lời kết rồi đi tiếp.
@@ -137,19 +173,19 @@ export default function StoryShell({ chapter, textUrl, editUrl }: { chapter: Cha
 
       <IntroOverlay ready={status !== "loading"} label={`${chapter.era} · ${chapter.year}`} title={chapter.title} onDone={() => setOpened(true)} />
 
-      <TopBar narration={narration} ambient={ambient} textUrl={textUrl} />
+      <TopBar narration={narration} ambient={ambient} textUrl={textUrl} title={active > 0 ? `${chapter.title} · ${chapter.year}` : undefined} />
       {narration.missing && (
         <p className="toast" role="status">
           Trình duyệt này chưa có giọng đọc tiếng Việt nên trang sẽ tự cuộn theo nhịp đọc thầm. Muốn nghe kể, thử Microsoft Edge, Safari
           hoặc Chrome trên Android.
         </p>
       )}
-      <Timeline items={chapter.beats.map((b, i) => (i === 0 ? chapter.year : b.kicker))} active={active} onGo={goTo} />
+      <Timeline items={chapter.beats.map((b, i) => (i === 0 ? chapter.year : b.kicker))} active={active} onGo={(i) => goTo(i, 1.8)} />
 
       <main>
         {chapter.beats.map((b, i) =>
           b.layout === "hero" ? (
-            <Hero key={b.id} chapter={chapter} beat={b} sectionRef={setRef(i)} play={opened} loading={status === "loading"} />
+            <Hero key={b.id} chapter={chapter} beat={b} sectionRef={setRef(i)} play={opened} loading={status === "loading"} onStart={() => goTo(1, 2)} />
           ) : (
             <BeatSection
               key={b.id}
@@ -160,7 +196,7 @@ export default function StoryShell({ chapter, textUrl, editUrl }: { chapter: Cha
               autoPlay={!!b.interaction && autoInteract === b.interaction.key}
               onComplete={() => b.interaction && complete(b.interaction.key)}
             >
-              {i === last && <ChapterEnd chapter={chapter} textUrl={textUrl} editUrl={editUrl} />}
+              {i === last && <ChapterEnd chapter={chapter} textUrl={textUrl} editUrl={editUrl} onRestart={() => goTo(0, 3)} />}
             </BeatSection>
           ),
         )}

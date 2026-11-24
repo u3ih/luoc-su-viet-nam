@@ -1,0 +1,18 @@
+// cùng nền, cùng mặt trống với .intro (ui.css) để nối liền màn mở đầu chương
+.iris {
+  position: fixed;
+  inset: 0;
+  z-index: 60;
+  display: grid;
+  place-items: center;
+  pointer-events: none;
+  background: var(--then);
+  background-image: var(--grain);
+  clip-path: circle(0% at 50% 50%);
+}
+
+.drum {
+  width: min(78vmin, 640px);
+  color: var(--vang);
+  opacity: 0;
+}

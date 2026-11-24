@@ -1,9 +1,9 @@
 "use client";
 
 import { useRef } from "react";
+import { DongSonBand, Kicker } from "@/core/ui";
 import type { Beat } from "../types";
 import { useGSAP } from "./gsap";
-import DongSonBand from "./ornaments/DongSonBand";
 import { revealBeat } from "./reveal";
 import SliderInteraction from "./SliderInteraction";
 
@@ -39,7 +39,7 @@ export default function BeatSection({ beat, index, sectionRef, completed, onComp
       <article className="beat__card">
         <span className="beat__corner beat__corner--tl" aria-hidden="true" />
         <span className="beat__corner beat__corner--br" aria-hidden="true" />
-        <p className="kicker">{beat.kicker}</p>
+        <Kicker>{beat.kicker}</Kicker>
         <h2 className="beat__title">{beat.title}</h2>
         <DongSonBand className="band" />
         {beat.body.map((p, k) => (

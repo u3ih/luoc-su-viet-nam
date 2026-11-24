@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { listChapters } from "@/core/content/load";
 import { loadRoadmap } from "@/core/content/roadmap";
 import { ldJson, roadmapJsonLd } from "@/core/content/seo";
+import { Kicker, Link } from "@/core/ui";
 import { ReadSummary } from "@/core/ui/ReadProgress";
 import TopBar from "@/core/ui/TopBar";
 import { site } from "@/site.config";
@@ -29,9 +30,9 @@ export default function RoadmapPage() {
   return (
     <div className={css.page}>
       <script type="application/ld+json" dangerouslySetInnerHTML={ldJson(roadmapJsonLd(eras))} />
-      <TopBar scrolls />
+      <TopBar scrolls onRoadmap />
       <header className={css.head}>
-        <p className="kicker">Lược sử Việt Nam · Lộ trình</p>
+        <Kicker>Lược sử Việt Nam · Lộ trình</Kicker>
         <h1 className={css.title}>Bản đồ lịch sử</h1>
         <p className={css.lead}>
           {total} sự kiện từ thời tiền sử đến nay, xếp theo thời gian và cắm mốc trên bản đồ. Rê chuột hoặc chạm vào một mốc để xem; sự kiện đã có chương thì
@@ -45,9 +46,9 @@ export default function RoadmapPage() {
         footer={
           <p className={css.foot}>
             Thấy thiếu sự kiện hay sai mốc năm?{" "}
-            <a href={`${site.repo}/edit/${site.branch}/content/lo-trinh.md`} target="_blank" rel="noreferrer">
+            <Link href={`${site.repo}/edit/${site.branch}/content/lo-trinh.md`}>
               Sửa content/lo-trinh.md
-            </a>{" "}
+            </Link>{" "}
             kèm nguồn. Dữ liệu bản đồ: Natural Earth (public domain, góc nhìn Việt Nam) và ranh giới tỉnh, xã/phường sau
             01/7/2025 từ © OpenStreetMap contributors (ODbL). Địa chỉ &ldquo;hiện nay&rdquo; được tính tự động từ toạ độ gần đúng nên có thể
             lệch sang xã bên cạnh.
