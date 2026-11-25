@@ -16,6 +16,13 @@ import { speakable } from "./speakable";
 const RANK = [/HoaiMy/i, /NamMinh/i, /Neural|Natural/i, /Online/i, /Premium/i, /Enhanced|nâng cao/i, /Google/i, /Linh/i, /An\b/i];
 
 let voiceURI: string | null = null;
+/** Ngôn ngữ đang kể — trang tiếng Anh (/en) đặt "en". */
+let lang: "vi" | "en" = "vi";
+
+export function setNarrationLang(l: "vi" | "en") {
+  if (l !== lang) voiceURI = null;
+  lang = l;
+}
 let audio: HTMLAudioElement | null = null;
 /** Mỗi lần speak/stop tăng lên — sự kiện của lượt đọc cũ (bị huỷ) không được báo "đã đọc xong". */
 let generation = 0;
@@ -27,6 +34,7 @@ let fallbackTimer: ReturnType<typeof setTimeout> | undefined;
 export const readingMs = (text: string) => 1200 + text.split(/\s+/).filter(Boolean).length * 380;
 
 const isVietnamese = (v: SpeechSynthesisVoice) => /^vi([-_]|$)/i.test(v.lang) || /vietnam|tiếng việt/i.test(v.name);
+const matches = (v: SpeechSynthesisVoice) => (lang === "vi" ? isVietnamese(v) : /^en([-_]|$)/i.test(v.lang));
 
 function rank(v: SpeechSynthesisVoice) {
   const i = RANK.findIndex((re) => re.test(v.name));
@@ -36,7 +44,7 @@ function rank(v: SpeechSynthesisVoice) {
 function vietnameseVoices() {
   return speechSynthesis
     .getVoices()
-    .filter(isVietnamese)
+    .filter(matches)
     .sort((a, b) => rank(a) - rank(b));
 }
 
@@ -124,11 +132,11 @@ export function speak(text: string, audioSrc?: string, onEnd?: () => void): bool
   const viaVoice = (): boolean => {
     const voice = ttsSupported() ? currentVoice() : null;
     if (!voice) return false;
-    const parts = sentences(speakable(text));
+    const parts = sentences(lang === "vi" ? speakable(text) : text);
     parts.forEach((s, i) => {
       const u = new SpeechSynthesisUtterance(s);
       u.voice = voice;
-      u.lang = "vi-VN";
+      u.lang = lang === "vi" ? "vi-VN" : "en-US";
       u.rate = 0.92;
       if (i === parts.length - 1) {
         u.onend = finish;

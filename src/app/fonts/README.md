@@ -34,3 +34,17 @@ for n in Regular Medium SemiBold; do
   .venv/bin/pyftsubset "BeVietnamPro-$n.ttf" --unicodes="$U" --no-hinting --desubroutinize --flavor=woff2 --output-file="BeVietnamPro-$n.woff2"
 done
 ```
+
+## Phông cho ảnh chia sẻ (`og/`)
+
+`src/app/anh/[slug]/route.tsx` dựng ảnh chia sẻ bằng `next/og` (Satori), vốn không đọc được woff2. `og/*.ttf` là chính các phông ở trên, giải nén sang ttf (cùng giấy phép SIL OFL 1.1); `lsvn-display-800.ttf` là bản tĩnh `wght=800` của LSVN Display.
+
+```bash
+.venv/bin/python -c "
+from fontTools.ttLib import TTFont
+from fontTools.varLib import instancer
+f = TTFont('lsvn-display.woff2'); f.flavor = None
+instancer.instantiateVariableFont(f, {'wght': 800}).save('og/lsvn-display-800.ttf')
+for w in ['SemiBold', 'Regular']:
+    g = TTFont(f'BeVietnamPro-{w}.woff2'); g.flavor = None; g.save(f'og/BeVietnamPro-{w}.ttf')"
+```

@@ -1,0 +1,244 @@
+# Nhân vật
+
+Nhân vật xuất hiện ở nhiều chương. Web dùng danh sách này để nối các chương có cùng nhân vật (mục "Cùng nhân vật" cuối chương).
+Mỗi dòng: tên thường gọi in đậm, sau dấu `·` là các tên gọi khác đúng như viết trong story.md, cách nhau bằng dấu phẩy (không bắt buộc).
+Chỉ ghi tên riêng đủ phân biệt — không ghi tên một chữ hay danh xưng chung ("vua", "Trần", "Thái Tổ").
+
+- **Lạc Long Quân**
+- **Âu Cơ**
+- **Hùng Vương** · Vua Hùng, Hùng Duệ Vương
+- **Thánh Gióng**
+- **Chử Đồng Tử**
+- **Tiên Dung**
+- **Thục Phán** · An Dương Vương
+- **Mỵ Châu**
+- **Trọng Thủy**
+- **Triệu Đà**
+- **Tần Thuỷ Hoàng**
+- **Lữ Gia**
+- **Hai Bà Trưng** · Trưng Trắc, Trưng Nhị
+- **Mã Viện**
+- **Bà Triệu** · Triệu Thị Trinh
+- **Lý Bí** · Lý Nam Đế
+- **Triệu Túc**
+- **Trần Bá Tiên**
+- **Dương Phiêu**
+- **Triệu Quang Phục** · Triệu Việt Vương
+- **Lý Phật Tử** · Hậu Lý Nam Đế
+- **Lý Tự Tiên**
+- **Đinh Kiến**
+- **Mai Thúc Loan** · Mai Hắc Đế
+- **Phùng Hưng**
+- **Dương Thanh**
+- **Cao Biền**
+- **Lưu Diên Hựu**
+- **Tào Huyền Tĩnh**
+- **Khúc Thừa Dụ**
+- **Khúc Hạo**
+- **Khúc Thừa Mỹ**
+- **Dương Đình Nghệ**
+- **Kiều Công Tiễn**
+- **Ngô Quyền**
+- **Dương Tam Kha** · Dương Bình Vương
+- **Ngô Xương Ngập**
+- **Phạm Lệnh Công**
+- **Đinh Công Trứ**
+- **Đinh Bộ Lĩnh** · Đinh Tiên Hoàng
+- **Đinh Liễn**
+- **Lê Hoàn** · Lê Đại Hành
+- **Lê Long Đĩnh**
+- **Lý Công Uẩn** · Lý Thái Tổ
+- **Lý Thái Tông**
+- **Lý Thánh Tông**
+- **Lý Thường Kiệt**
+- **Lý Nhân Tông**
+- **Từ Đạo Hạnh**
+- **Vô Ngôn Thông**
+- **Tỳ Ni Đa Lưu**
+- **Lê Văn Thịnh**
+- **Lý Anh Tông**
+- **Lý Cao Tông**
+- **Quách Bốc**
+- **Lý Huệ Tông**
+- **Lý Chiêu Hoàng**
+- **Trần Lý**
+- **Trần Thừa**
+- **Trần Tự Khánh**
+- **Trần Thị Dung**
+- **Trần Thủ Độ**
+- **Lê Phụ Trần**
+- **Trần Thái Tông**
+- **Nguyễn Hiền**
+- **Đặng Ma La**
+- **Ngột Lương Hợp Thai**
+- **Trần Thánh Tông**
+- **Trần Quang Khải**
+- **Hốt Tất Liệt**
+- **Trần Nhân Tông**
+- **Trần Hưng Đạo** · Trần Quốc Tuấn, Hưng Đạo Vương, Hưng Đạo Đại vương
+- **Trần Quốc Toản**
+- **Trần Bình Trọng**
+- **Trần Nhật Duật**
+- **Phạm Ngũ Lão**
+- **Thoát Hoan**
+- **Ô Mã Nhi**
+- **Toa Đô**
+- **Lý Quán**
+- **Trần Khánh Dư**
+- **Nguyễn Khoái**
+- **Trần Anh Tông**
+- **Chế Mân**
+- **Huyền Trân**
+- **Trần Minh Tông**
+- **Trần Hiến Tông**
+- **Chu Văn An**
+- **Chế Bồng Nga**
+- **Trần Dụ Tông**
+- **Trần Nghệ Tông**
+- **Hồ Quý Ly**
+- **Hồ Nguyên Trừng**
+- **Hồ Hán Thương**
+- **Trương Phụ**
+- **Mộc Thạnh**
+- **Đặng Dung**
+- **Nguyễn Cảnh Dị**
+- **Trần Quý Khoáng**
+- **Lê Lợi** · Lê Thái Tổ
+- **Nguyễn Trãi** · Ức Trai
+- **Trần Nguyên Hãn**
+- **Lê Ngân**
+- **Vương Thông**
+- **Lê Sát**
+- **Lê Thái Tông**
+- **Lê Nhân Tông**
+- **Nguyễn Xí**
+- **Đinh Liệt**
+- **Lê Thánh Tông** · Lê Tư Thành
+- **Thân Nhân Trung**
+- **Đỗ Nhuận**
+- **Mạc Đăng Dung**
+- **Mạc Đăng Doanh**
+- **Mạc Mậu Hợp**
+- **Nguyễn Kim**
+- **Lê Trang Tông** · Lê Duy Ninh
+- **Nguyễn Uông**
+- **Trịnh Kiểm**
+- **Nguyễn Bỉnh Khiêm**
+- **Phùng Khắc Khoan**
+- **Nguyễn Hoàng**
+- **Trịnh Tùng**
+- **Trịnh Tráng**
+- **Nguyễn Phúc Nguyên**
+- **Đào Duy Từ**
+- **Trịnh Căn**
+- **Nguyễn Hữu Cảnh**
+- **Mạc Cửu**
+- **Mạc Thiên Tứ**
+- **Nguyễn Phúc Chu**
+- **Nguyễn Hữu Cầu**
+- **Hoàng Công Chất**
+- **Hoàng Ngũ Phúc**
+- **Phạm Đình Trọng**
+- **Nguyễn Phúc Khoát**
+- **Trịnh Sâm**
+- **Trịnh Cán**
+- **Nguyễn Phúc Thuần**
+- **Trương Phúc Loan**
+- **Nguyễn Nhạc**
+- **Nguyễn Lữ**
+- **Nguyễn Huệ** · Quang Trung
+- **Nguyễn Ánh** · Gia Long, Phúc Ánh, Nguyễn Phúc Ánh
+- **Bá Đa Lộc**
+- **Võ Tánh**
+- **Vũ Văn Dũng** · Võ Văn Dũng
+- **Lê Chiêu Thống**
+- **Ngô Thì Nhậm**
+- **Trần Văn Kỷ**
+- **Trần Quang Diệu**
+- **Quang Toản** · Nguyễn Quang Toản
+- **Nguyễn Văn Trương**
+- **Nguyễn Văn Thành**
+- **Lê Văn Duyệt**
+- **Minh Mạng**
+- **Thoại Ngọc Hầu** · Nguyễn Văn Thoại
+- **Châu Thị Tế**
+- **Phan Bá Vành**
+- **Lê Văn Khôi**
+- **Thiệu Trị**
+- **Nguyễn Công Trứ**
+- **Tự Đức** · Hồng Nhậm
+- **Cao Bá Quát**
+- **Nguyễn Tri Phương**
+- **Phạm Phú Thứ**
+- **Phạm Thế Hiển**
+- **Trương Định**
+- **Nguyễn Đình Chiểu**
+- **Phan Thanh Giản**
+- **Lâm Duy Hiệp**
+- **Nguyễn Trường Tộ**
+- **Francis Garnier**
+- **Phạm Thận Duật**
+- **Hoàng Tá Viêm**
+- **Lưu Vĩnh Phúc**
+- **Henri Rivière**
+- **Nguyễn Văn Tường**
+- **Tôn Thất Thuyết**
+- **Hoàng Diệu**
+- **Đồng Khánh**
+- **Hàm Nghi**
+- **Đoàn Hữu Trưng**
+- **Nguyễn Thiện Thuật**
+- **Tống Duy Tân**
+- **Đinh Công Tráng**
+- **Phan Đình Phùng**
+- **Hoàng Hoa Thám**
+- **Lê Duy Cự**
+- **Thành Thái**
+- **Paul Doumer**
+- **Paul Beau**
+- **Albert Sarraut**
+- **Martial Merlin**
+- **Alexandre Yersin**
+- **Henri Parmentier**
+- **Louis Finot**
+- **Madeleine Colani**
+- **Phan Bội Châu**
+- **Phan Châu Trinh** · Phan Chu Trinh
+- **Huỳnh Thúc Kháng**
+- **Cường Để**
+- **Lương Văn Can**
+- **Ngô Đức Kế**
+- **Trương Vĩnh Ký**
+- **Vua Duy Tân** · vua Duy Tân
+- **Thái Phiên**
+- **Trần Cao Vân**
+- **Lương Ngọc Quyến**
+- **Khải Định**
+- **Lê Phổ**
+- **Nguyễn An Ninh**
+- **Thế Lữ**
+- **Xuân Diệu**
+- **Bảo Đại**
+- **Hồ Chí Minh** · Nguyễn Ái Quốc, Nguyễn Tất Thành
+- **Trần Huy Liệu**
+- **Trần Văn Giàu**
+- **Tôn Đức Thắng**
+- **Trường Chinh**
+- **Phạm Văn Đồng**
+- **Võ Nguyên Giáp**
+- **Quách Đình Bảo**
+- **Tôn Thất Tùng**
+- **Hồ Đắc Di**
+- **Trần Văn Khê**
+- **Ngô Đình Diệm**
+- **Everett Alvarez**
+- **Lê Duẩn**
+- **Lê Đức Thọ**
+- **Henry Kissinger**
+- **Nguyễn Văn Thiệu**
+- **Phạm Tuân**
+- **Võ Văn Kiệt**
+- **Kazimierz Kwiatkowski**
+- **Ngô Bảo Châu**
+- **Hoàng Xuân Vinh**
+- **Nguyễn Quang Hải**

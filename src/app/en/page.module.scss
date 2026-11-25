@@ -1,0 +1,93 @@
+@use "../../core/ui/styles/mixins" as *;
+
+.page {
+  min-height: 100vh;
+  padding-bottom: 80px;
+}
+
+.head {
+  display: grid;
+  gap: 14px;
+  max-width: 46rem;
+  margin: 0 auto;
+  padding: 112px 16px 28px;
+}
+
+.title {
+  font-family: var(--font-d);
+  font-weight: 800;
+  font-size: clamp(2.4rem, 7vw, 4rem);
+  line-height: 1.05;
+  @include gold-text;
+}
+
+.lead {
+  font-size: 1.1rem;
+}
+
+.note {
+  font-size: 14px;
+  color: var(--giay-mo);
+
+  a {
+    color: var(--vang-nhat);
+  }
+}
+
+.list {
+  display: grid;
+  gap: 10px;
+  max-width: 46rem;
+  margin: 28px auto 0;
+  padding: 0 16px;
+  list-style: none;
+}
+
+.item {
+  display: grid;
+  grid-template-columns: 5.5rem 1fr;
+  gap: 2px 16px;
+  padding: 14px 16px;
+  text-decoration: none;
+  color: var(--giay);
+  border: 1px solid var(--line);
+  transition: border-color 0.3s;
+
+  &:hover,
+  &:focus-visible {
+    border-color: var(--vang);
+  }
+
+  @include phone {
+    grid-template-columns: 1fr;
+  }
+}
+
+.year {
+  grid-row: span 2;
+  font-family: var(--font-d);
+  font-weight: 800;
+  font-size: 1.4rem;
+  color: var(--vang-nhat);
+
+  @include phone {
+    grid-row: auto;
+  }
+}
+
+.name {
+  font-family: var(--font-d);
+  font-weight: 700;
+  font-size: 1.3rem;
+}
+
+.teaser {
+  font-size: 14px;
+  color: var(--giay-mo);
+}
+
+.foot {
+  max-width: 46rem;
+  margin: 32px auto 0;
+  padding: 0 16px;
+}

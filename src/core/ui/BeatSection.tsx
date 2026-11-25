@@ -1,14 +1,18 @@
 "use client";
 
 import { useRef } from "react";
-import { DongSonBand, Kicker } from "@/core/ui";
-import type { Beat } from "../types";
+import { DongSonBand, Icon, Kicker, Link } from "@/core/ui";
+import { reportUrl } from "../content/links";
+import type { Beat, ChapterText } from "../types";
 import { useGSAP } from "./gsap";
+import css from "./BeatSection.module.scss";
+import { uiText } from "./i18n";
 import { revealBeat } from "./reveal";
 import SliderInteraction from "./SliderInteraction";
 
 type Props = {
   beat: Beat;
+  chapter: ChapterText;
   index: number;
   sectionRef: (el: HTMLElement | null) => void;
   completed: boolean;
@@ -20,7 +24,8 @@ type Props = {
 };
 
 /** Một phân cảnh chữ — bố cục trái/phải/giữa, ghi chú, trích dẫn, tương tác. */
-export default function BeatSection({ beat, index, sectionRef, completed, onComplete, autoPlay, children }: Props) {
+export default function BeatSection({ beat, chapter, index, sectionRef, completed, onComplete, autoPlay, children }: Props) {
+  const t = uiText(chapter.lang);
   const ref = useRef<HTMLElement | null>(null);
   useGSAP(() => {
     if (ref.current) revealBeat(ref.current);
@@ -53,7 +58,7 @@ export default function BeatSection({ beat, index, sectionRef, completed, onComp
             <blockquote>{beat.quote.paraphrase ? beat.quote.text : `“${beat.quote.text}”`}</blockquote>
             <figcaption>
               — {beat.quote.cite}
-              {beat.quote.paraphrase && <span className="quote__tag">diễn ý</span>}
+              {beat.quote.paraphrase && <span className="quote__tag">{t.quote}</span>}
             </figcaption>
           </figure>
         )}
@@ -67,12 +72,16 @@ export default function BeatSection({ beat, index, sectionRef, completed, onComp
 
         {beat.interaction && (
           <div className="beat__extra">
-            <SliderInteraction spec={beat.interaction} done={completed} onComplete={onComplete} autoPlay={autoPlay} />
+            <SliderInteraction spec={beat.interaction} done={completed} onComplete={onComplete} autoPlay={autoPlay} helping={t.helping} />
             <p className={`beat__won ${completed ? "is-shown" : ""}`} aria-live="polite">
               {completed ? beat.interaction.completeText : ""}
             </p>
           </div>
         )}
+        <Link className={css.report} href={reportUrl(chapter, beat)} title={t.reportTitle}>
+          <Icon name="flag" size={12} />
+          {t.report}
+        </Link>
         {children}
       </article>
     </section>

@@ -11,9 +11,10 @@ import type { RoadmapEra } from "./roadmap";
 
 export const abs = (path: string) => new URL(path, site.url).toString();
 
-/** Ảnh chia sẻ của chương (public/og/<slug>.jpg); chưa có thì dùng ảnh chung của site. */
+/** Ảnh chia sẻ của chương: ảnh chụp cảnh 3D (public/og/<slug>.jpg) nếu có, không thì ảnh dựng từ chữ (/anh/<slug>). */
 export function ogImage(slug?: string) {
-  return slug && existsSync(join(process.cwd(), "public", "og", `${slug}.jpg`)) ? `/og/${slug}.jpg` : "/og/lsvn.jpg";
+  if (!slug) return "/og/lsvn.jpg";
+  return existsSync(join(process.cwd(), "public", "og", `${slug}.jpg`)) ? `/og/${slug}.jpg` : `/anh/${slug}`;
 }
 
 const publisher = { "@type": "Organization", name: site.name, url: site.url, logo: abs("/icons/icon-512.png"), sameAs: [site.repo] };

@@ -114,6 +114,26 @@ Khai báo `interaction: drain@0.85` trong dòng chú thích, rồi thêm khối:
 
 Cảnh 3D đọc giá trị qua `ctx.inputs.drain` (từ 0 đến 1).
 
+### Ôn tập
+
+Đặt ngay trước mục nguồn. 2–3 câu trắc nghiệm, đáp án và giải thích **chỉ lấy từ chính lời kể của chương** (không thêm chi tiết mới). Người xem tắt được phần này; GitHub hiển thị như danh sách ô đánh dấu.
+
+```md
+## Ôn tập
+
+1. Vì sao thuyền lớn của Nam Hán vượt qua bãi cọc mà không hay biết?
+   - [ ] Cọc được ngụy trang bằng cỏ lau
+   - [x] Nước triều đang lên, bãi cọc chìm khuất dưới mặt nước
+   - [ ] Trận đánh diễn ra ban đêm
+
+   Ngô Quyền dụ địch vào trận lúc triều dâng; cọc chỉ lộ ra khi nước rút. [Xem lại](#trieu-len)
+```
+
+- 2–4 phương án, đúng một ô `[x]`; phương án thụt 3 dấu cách.
+- Dòng giải thích kết thúc bằng `[Xem lại](#<id phân cảnh>)` — nút "Xem lại phân cảnh" cuộn về đó. Build báo lỗi nếu id không có.
+- Truyền thuyết thì hỏi "Theo truyền thuyết, …"; chỗ lời kể nói còn tranh luận thì không hỏi như sự thật chắc chắn.
+- Kiểm tra nhanh: `pnpm check-story <slug>`.
+
 ### Nguồn tham khảo
 
 ```md
@@ -121,6 +141,18 @@ Cảnh 3D đọc giá trị qua `ctx.inputs.drain` (từ 0 đến 1).
 
 - Đại Việt sử ký toàn thư, phần Ngoại kỷ (Ngô Sĩ Liên và các sử thần, 1479).
 ```
+
+---
+
+### Bản dịch tiếng Anh (`story.en.md`)
+
+Không bắt buộc. Đặt cạnh `story.md`, cùng định dạng, hiện ở `/en/chapter/<slug>`:
+
+- Giữ nguyên `slug`, `sortYear` và **mọi `id` phân cảnh** (dùng chung keyframe máy quay) cùng các khoá `layout`, `interaction`; dịch `kicker`, `narration`, tiêu đề, lời kể, ghi chú, trích dẫn.
+- Tiêu đề mục: `## Review` (ôn tập), `## Sources` (nguồn); khối tương tác viết `**Interaction:** …`; trích dẫn diễn ý ghi `(paraphrased)`.
+- Tên người, địa danh Việt giữ nguyên có dấu. Tên người, địa danh Trung Hoa viết theo pinyin, lần đầu kèm âm Hán Việt trong ngoặc.
+- Đặt `disclaimer` nói rõ bản dịch chưa được duyệt cho tới khi có người duyệt. Bản tiếng Việt luôn là bản gốc.
+- Bản dịch chưa có giọng thu sẵn; trang dùng giọng tiếng Anh của trình duyệt.
 
 ---
 
@@ -168,3 +200,13 @@ cp -r content/_mau content/chieu-doi-do-1010
 pnpm content   # cập nhật registry
 pnpm dev       # xem tại http://localhost:3000/chuong/chieu-doi-do-1010
 ```
+
+## 6. Các file nội dung khác
+
+| File | Dùng cho |
+|---|---|
+| `lo-trinh.md` | lộ trình mọi sự kiện, bản đồ `/lo-trinh` (định dạng ghi trong `src/core/content/roadmap.ts`) |
+| `hanh-trinh.md` | hành trình chọn sẵn ở trang chủ: chuỗi chương theo chủ đề, cuối chương dẫn sang chương kế của hành trình |
+| `nhan-vat.md` | nhân vật xuất hiện ở nhiều chương (tên + tên gọi khác) — cuối chương tự hiện "Cùng nhân vật" |
+| `phuong-phap.md` | trang `/phuong-phap`: cách viết, chọn nguồn, giới hạn của nội dung |
+

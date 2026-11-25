@@ -124,7 +124,7 @@ export default function ChapterBrowser({ eras }: { eras: EraBlock[] }) {
                       </span>
                       <ReadBadge slug={c.slug} />
                       <Link className={css.textLink} href={c.textUrl}>
-                        Bản chữ ↗
+                        Bản chữ
                       </Link>
                     </div>
                   </li>

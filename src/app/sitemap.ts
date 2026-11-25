@@ -19,6 +19,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
   return [
     { url: site.url, lastModified: modified("lo-trinh.md"), changeFrequency: "weekly", priority: 1 },
     { url: `${site.url}/lo-trinh`, lastModified: modified("lo-trinh.md"), changeFrequency: "weekly", priority: 0.9 },
+    { url: `${site.url}/phuong-phap`, lastModified: modified("phuong-phap.md"), changeFrequency: "monthly", priority: 0.5 },
+    { url: `${site.url}/en`, lastModified: modified("lo-trinh.md"), changeFrequency: "monthly", priority: 0.5 },
     ...chapters.map((c) => ({
       url: `${site.url}/chuong/${c.slug}`,
       lastModified: modified(`${c.dir}/story.md`),

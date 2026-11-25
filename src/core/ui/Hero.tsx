@@ -2,10 +2,12 @@
 
 import { useRef } from "react";
 import { DongSonDrum, Kicker, Seal } from "@/core/ui";
-import type { Beat, ChapterText } from "../types";
+import type { Beat, ChapterText, Lang } from "../types";
 import { gsap, SplitText, useGSAP } from "./gsap";
+import { uiText } from "./i18n";
 
 type Props = {
+  lang: Lang;
   chapter: ChapterText;
   beat: Beat;
   sectionRef: (el: HTMLElement | null) => void;
@@ -15,7 +17,8 @@ type Props = {
 };
 
 /** Phân cảnh mở đầu chương: tiêu đề lớn, năm, con dấu, mặt trống đồng xoay chậm phía sau. */
-export default function Hero({ chapter, beat, sectionRef, play, loading, onStart }: Props) {
+export default function Hero({ lang, chapter, beat, sectionRef, play, loading, onStart }: Props) {
+  const t = uiText(lang);
   const ref = useRef<HTMLElement | null>(null);
   const drum = chapter.heroDrum !== false;
 
@@ -60,9 +63,9 @@ export default function Hero({ chapter, beat, sectionRef, play, loading, onStart
         </h1>
         <p className="hero__lead">{chapter.lead}</p>
         <button type="button" className="hero__scroll" onClick={onStart} disabled={loading}>
-          {loading ? "Đang dựng cảnh…" : "Bắt đầu"}
+          {loading ? t.building : t.start}
           <span className="hero__line" />
-          {!loading && <span className="hero__keys">cuộn, vuốt hoặc phím ↓</span>}
+          {!loading && <span className="hero__keys">{t.startKeys}</span>}
         </button>
       </div>
     </section>

@@ -1,0 +1,117 @@
+@use "./styles/mixins" as *;
+
+.page {
+  min-height: 100vh;
+  background: var(--then);
+}
+
+.article {
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: 112px 16px 80px;
+
+  p + p {
+    margin-top: 14px;
+  }
+}
+
+.head {
+  display: grid;
+  justify-items: start;
+  gap: 12px;
+  margin-bottom: 28px;
+}
+
+.title {
+  font-family: var(--font-d);
+  font-weight: 800;
+  font-size: clamp(2.4rem, 7vw, 3.6rem);
+  line-height: 1.05;
+  @include gold-text;
+}
+
+.lead {
+  font-size: 1.1rem;
+  font-style: italic;
+  color: var(--giay-mo);
+}
+
+.beat {
+  margin-top: 40px;
+  scroll-margin-top: 24px;
+}
+
+.h2 {
+  margin: 6px 0 12px;
+  font-family: var(--font-d);
+  font-size: 1.8rem;
+  line-height: 1.15;
+}
+
+.quote {
+  margin: 18px 0;
+  padding-left: 16px;
+  border-left: 2px solid var(--vang);
+
+  blockquote {
+    font-style: italic;
+  }
+
+  figcaption {
+    margin-top: 6px;
+    font-size: 14px;
+    color: var(--giay-mo);
+  }
+}
+
+.note {
+  margin: 18px 0;
+  padding: 14px 16px;
+  border: 1px solid var(--line);
+  background: rgba(212, 162, 76, 0.06);
+}
+
+.noteTitle {
+  font-weight: 600;
+  color: var(--vang-nhat);
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 10px 20px;
+  margin: 32px 0;
+  font-size: 15px;
+
+  a {
+    color: var(--vang-nhat);
+    text-underline-offset: 4px;
+  }
+}
+
+.sources {
+  h2 {
+    margin-bottom: 8px;
+    font-size: 1rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--vang);
+  }
+
+  ul {
+    padding-left: 18px;
+    font-size: 14px;
+    color: var(--giay-mo);
+  }
+}
+
+.small {
+  margin-top: 24px;
+  font-size: 13px;
+  color: var(--giay-mo);
+
+  a {
+    color: inherit;
+  }
+}

@@ -25,17 +25,22 @@ Web kể chuyện lịch sử Việt Nam bằng cảnh 3D tương tác. Cuộn t
 ```
 content/                         NỘI DUNG — mỗi chương một thư mục, tên thư mục = slug (KHÔNG đánh số)
   bach-dang-938/
-    story.md                     lời kể (Markdown, đọc trên GitHub) — NGUỒN DUY NHẤT của chữ
+    story.md                     lời kể (Markdown, đọc trên GitHub) — NGUỒN DUY NHẤT của chữ; cuối có "## Ôn tập"
+    story.en.md                  (tuỳ chọn) bản dịch tiếng Anh, cùng id phân cảnh → /en/chapter/<slug>
     scene.config.ts              keyframe máy quay + tham số, khớp theo id phân cảnh
     scene.ts                     SceneSetup: dựng cảnh 3D của chương
     terrain.ts, actors/*.ts      thành phần riêng của chương
   _mau/                          mẫu chương tối giản (chép để tạo chương mới)
   lo-trinh.md                    lộ trình: mọi sự kiện lịch sử theo thời gian + toạ độ, địa chỉ (trang /lo-trinh)
+  hanh-trinh.md                  hành trình chọn sẵn (chuỗi chương theo chủ đề) ở trang chủ
+  nhan-vat.md                    nhân vật xuất hiện ở nhiều chương → "Cùng nhân vật" cuối chương
+  phuong-phap.md                 trang /phuong-phap (cách viết, chọn nguồn, giới hạn)
   registry.generated.ts          TỰ SINH bởi scripts/gen-content.mjs — không sửa tay
   README.md                      đặc tả định dạng story.md (đọc trước khi sửa nội dung)
 
 src/
-  app/                           route: / (trang chủ), /chuong/[slug], /lo-trinh (bản đồ); sitemap, robots, manifest,
+  app/                           route: / (trang chủ), /chuong/[slug], /chuong/[slug]/ban-chu (bản chữ, không 3D), /lo-trinh (bản đồ),
+                                 /dong-gop (việc cần giúp), /phuong-phap, /en (bản tiếng Anh), /anh/[slug] (ảnh chia sẻ); sitemap, robots, manifest,
                                  llms.txt, llms-full.txt (GEO), icon.svg / apple-icon.png / favicon.ico
   core/                          BỘ KHUNG DÙNG CHUNG cho mọi chương
     types.ts                     kiểu dữ liệu: ChapterText, Beat, Keyframe, SceneConfig, MOOD
@@ -69,6 +74,8 @@ scripts/                         gen-content.mjs, build-assets.mjs, geo-osm.mjs,
 | `pnpm typecheck` | kiểm tra kiểu |
 | `pnpm check-ui` | kiểm tra design system: không import thẳng `next/link`/`next/image`/hoa văn, không viết `<a>`, `<img>`, `<svg>`, lớp `.btn`/`.chip`/`.kicker` bằng tay (chạy tự động trước `pnpm build`) |
 | `pnpm build` | build production; **kiểm tra khớp id ↔ keyframe** và lỗi định dạng story.md |
+| `pnpm check-story [slug…]` | kiểm tra nhanh story.md / story.en.md (định dạng, ôn tập, id bản dịch) mà không build; `--no-quiz` liệt kê chương chưa có ôn tập |
+| `pnpm check-links` | mở thử mọi link nguồn (lo-trinh.md + mục nguồn của chương); chạy hằng tuần trên GitHub Actions |
 | `pnpm assets [ten…]` | dựng lại model từ Blender (cần Blender 5.x cài sẵn, hoặc đặt `BLENDER_BIN`) |
 | `GOOGLE_TTS_API_KEY=… pnpm tts [slug…]` | tạo giọng kể mp3 (Google Cloud TTS, giọng neural vi-VN) cho phân cảnh có chữ đã đổi → `public/audio/<slug>/`. Khoá API chỉ đặt trong biến môi trường, không commit. `pnpm tts --dry` để xem phần cần tạo |
 | `pnpm geo` | tải lại ranh giới tỉnh/xã từ OpenStreetMap (cache `.geo-cache/`) và ghi lại địa chỉ hiện nay vào `lo-trinh.md`. Hiếm khi cần — chỉ khi địa giới hành chính đổi |
@@ -194,7 +201,10 @@ const setup: SceneSetup = async (world) => {
   - `index.ts` chỉ export component nền nhẹ; component tính năng (`StoryShell`, `HistoryMap`, `TopBar`…) import theo đường dẫn file để trang không kéo theo mã không dùng.
   - Chữ tiêu đề lớn ánh vàng: mixin `gold-text` trong `styles/_mixins.scss`.
 
-- Component tính năng: `StoryShell` (khung trang chương), `Hero`, `BeatSection`, `SliderInteraction`, `IntroOverlay`, `TopBar`, `Timeline`, `ChapterEnd`, `SceneStage`, `HistoryMap` (bản đồ lộ trình), `ReadProgress` (nhãn tiến độ xem) — hoa văn lấy từ `@/core/ui` (xem trên).
+- Component tính năng: `StoryShell` (khung trang chương), `Hero`, `BeatSection`, `SliderInteraction`, `IntroOverlay`, `TopBar`, `Timeline`, `ChapterEnd`, `Quiz` (ôn tập), `ReadingView` (bản chữ), `SceneStage`, `HistoryMap` (bản đồ lộ trình), `ReadProgress` (nhãn tiến độ xem) — hoa văn lấy từ `@/core/ui` (xem trên).
+- **Chữ giao diện theo ngôn ngữ** nằm trong `src/core/ui/i18n.ts` (`uiText(lang)`, `href.chapter/text/home`). Không viết cứng chữ giao diện trong component trang chương; thêm khoá vào cả `vi` và `en`.
+- **Cuối chương:** ôn tập (người xem tắt được, nhớ trong `localStorage` qua `story/prefs.ts`), chương kế theo hành trình (`?hanh-trinh=<id>`) hoặc theo thời gian, "Cùng nhân vật / Cùng nơi chốn" (`content/related.ts`). Đang nghe kể thì hết chương đếm ngược 12 s rồi sang chương sau và tự kể tiếp.
+- **Trình chiếu** (nút trên `TopBar`, chỉ màn rộng): lớp `html.is-presenting` phóng chữ, ← → hoặc bấm vào cảnh để chuyển phân cảnh, Esc thoát. **Báo sai sót:** mỗi phân cảnh có link mở mẫu issue `bao-sai-su-lieu.yml` điền sẵn chương + đoạn chữ (`reportUrl` trong `content/links.ts`). Cảnh chậm hoặc không dựng được thì hiện gợi ý đọc bản chữ.
 - **Bố cục khi có nhiều chương/sự kiện:** trang chủ (`src/app/ChapterBrowser.tsx`) gom chương theo thời kỳ của `lo-trinh.md` (`src/core/content/eras.ts`: chương thuộc thời kỳ có sự kiện trỏ tới nó bằng `chuong:`), có ô tìm không dấu, chip lọc thời kỳ, hai kiểu xem (thẻ / dòng thời gian); thanh công cụ dính khi cuộn, bỏ dính trên điện thoại. Thẻ chương gọn: cả thẻ là một link (tên chương phủ thẻ), "Bản chữ" là link chữ nhỏ; mỗi thời kỳ hiện sẵn 8 thẻ, còn lại sau nút "Xem thêm" (ẩn bằng `hidden`, HTML server vẫn đủ chữ). Nút chính đầu trang chủ (`ContinueButton`) mở lại chương đang xem dở theo tiến độ trong `localStorage`. Trang `/lo-trinh` (`RoadmapExplorer.tsx`) có thêm ô tìm, lọc "chỉ sự kiện đã có chương" (chỉ hiện khi còn sự kiện chưa có chương), thanh nhảy thời kỳ dính + đếm số sự kiện, mục sự kiện dùng `content-visibility: auto`; trên điện thoại ô năm, tỉnh thu vào nút "Lọc năm, tỉnh". Trang không có cảnh 3D phía sau dùng `<TopBar scrolls />` để thanh trên cuộn theo trang thay vì đè lên nội dung. Thêm thời kỳ mới thì thêm tiêu đề `##` trong `lo-trinh.md`, không sửa code.
 - **Điều hướng trong chương:** `Timeline` vừa là dòng thời gian bên phải (màn rộng: nút lên/xuống + số thứ tự phân cảnh) vừa là thanh dưới đáy trên điện thoại (lùi · tên phân cảnh · tới) — trên điện thoại `.beat` chừa đáy cho thanh này. Phím tắt trong `StoryShell`: ↓/PageDown/J/Space tới, ↑/PageUp/K/Shift+Space lùi, Home/End. Nút "Bắt đầu" ở Hero cuộn sang phân cảnh 1; tên chương hiện trên `TopBar` khi đã qua phần mở đầu. Cuối chương (`ChapterEnd`): thẻ chương tiếp theo, link chương trước (`Chapter.prev`), "Xem lại từ đầu".
 - **Chuyển trang kiểu điện ảnh:** `Link` nền khép màn then từ chỗ bấm với mặt trống ở giữa, nối liền màn mở đầu của chương mới (`base/iris.ts`). Hiệu ứng 3D chỉ bằng CSS transform/GSAP: thẻ chữ xoay vào từ chiều sâu, tiêu đề lật lên (`reveal.ts`), thẻ chương nghiêng theo chuột (`useTilt`), mặt trống nghiêng 3D ở đầu trang chủ (`src/app/HomeDrum.tsx`). Mọi hiệu ứng đều tắt khi `prefers-reduced-motion`.
