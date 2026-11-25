@@ -47,6 +47,29 @@ Tầng dưới là cầu đường sắt dài 5.503,3 m, rộng 17 m, có hai đ
 
 Ngày 3 tháng 1 năm 1984 thông xe kỹ thuật đường sắt phía thượng lưu; ngày 9 tháng 5 năm 1985 thông xe toàn bộ cầu Thăng Long; ngày 31 tháng 8 năm 1985 chính thức bàn giao. Đây là cây cầu có thời gian thi công lâu nhất của Hà Nội — 11 năm — và là một trong những cây cầu lớn nhất Đông Nam Á thời bấy giờ.
 
+## Ôn tập
+
+1. Cầu Thăng Long khởi công năm 1974 với viện trợ của Trung Quốc. Vì sao đến năm 1978 công trình bị bỏ dở?
+   - [ ] Lũ sông Hồng cuốn trôi các trụ cầu
+   - [x] Viện trợ chấm dứt, chuyên gia rút về
+   - [ ] Thiết kế cây cầu bị huỷ bỏ
+
+   Năm 1978 viện trợ chấm dứt, chuyên gia rút về; mới xong 9 trong 14 trụ chính giữa sông, cầu chính chưa có gì. [Xem lại](#khoi-cong)
+
+2. Từ tháng 6 năm 1979, công trình được thi công tiếp nhờ viện trợ không hoàn lại của nước nào?
+   - [ ] Nhật Bản
+   - [ ] Pháp
+   - [x] Liên Xô
+
+   Theo hiệp định ký ngày 3 tháng 11 năm 1978, Liên Xô viện trợ không hoàn lại; công nhân Việt Nam thi công, chuyên gia Liên Xô hướng dẫn, giám sát. [Xem lại](#lam-lai)
+
+3. Cầu Thăng Long có hai tầng. Mỗi tầng dành cho phương tiện nào?
+   - [x] Tầng dưới cho đường sắt, tầng trên cho ô tô
+   - [ ] Tầng dưới cho ô tô, tầng trên cho đường sắt
+   - [ ] Cả hai tầng chỉ dành cho ô tô
+
+   Tầng dưới là cầu đường sắt có hai đường sắt và hai làn xe thô sơ; tầng trên là cầu ô tô cho 4 làn xe và lối đi bộ. [Xem lại](#hai-tang)
+
 ## Nguồn tham khảo
 
 - “Chuyện cũ cầu Thăng Long (Kỳ 15): Những chuyện ít biết về cây cầu mang tên Thăng Long”, báo Pháp luật Việt Nam (theo bài của ông Nguyễn Văn Ất) — khởi công 26/11/1974, năm 1978 Trung Quốc cắt viện trợ, rút chuyên gia khi mới xong 9 trên 14 trụ chính, cầu chính chưa thi công; hiệp định với Liên Xô 3/11/1978, viện trợ không hoàn lại, thi công lại từ tháng 6/1979; công nhân Việt Nam làm, chuyên gia Liên Xô hướng dẫn, giám sát; thông xe toàn bộ 9/5/1985: https://baophapluat.vn/post-422211.html

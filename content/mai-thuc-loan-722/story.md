@@ -53,6 +53,29 @@ Năm mất của ông được ghi là 723 trong thông tin chung. Con trai th�
 
 Có đền thờ ở Nam Đàn và Vạn An; lễ hội lớn tổ chức vào rằm tháng Giêng.
 
+## Ôn tập
+
+1. Theo bài tham khảo trong chương, đâu là nguyên nhân chính của cuộc khởi nghĩa Mai Thúc Loan?
+   - [x] Sưu cao thuế nặng
+   - [ ] Chuyện cống vải cho Dương Quý Phi
+   - [ ] Quân Đường cướp mất kinh đô Vạn An
+
+   Chuyện cống vải cho Dương Quý Phi là truyền thuyết, không được coi là có thật vì thời gian và khoảng cách không khớp. [Xem lại](#hoan-chau)
+
+2. Sau khi lên ngôi, Mai Thúc Loan xưng là gì và đóng đô ở đâu?
+   - [ ] Xưng Hoàng đế, đóng đô ở Cổ Loa
+   - [ ] Xưng Thiếu Đế, đóng đô ở Nam Đàn
+   - [x] Xưng Hắc Đế, đóng đô ở Vạn An
+
+   Ông lên ngôi, xưng Hắc Đế và đóng đô ở Vạn An. [Xem lại](#khoi-nghia)
+
+3. Khi nhà Đường cử Dương Tư Húc và Quang Sở Khách đàn áp, cuộc khởi nghĩa có kết cục ra sao?
+   - [ ] Quân Đường rút lui, Vạn An được giữ vững
+   - [x] Mai Thúc Loan thất bại, thành Vạn An thất thủ
+   - [ ] Hai bên đình chiến và chia nhau cai quản Hoan Châu
+
+   Mai Thúc Loan mất khi đang lẩn trốn trong rừng. [Xem lại](#duong-danh)
+
 ## Nguồn tham khảo
 
 - "Mai Thúc Loan", Wikipedia tiếng Việt — xuất thân, niên đại tranh luận, nguyên nhân, diễn biến, quân số, tưởng nhớ: https://vi.wikipedia.org/wiki/Mai_Th%C3%BAc_Loan

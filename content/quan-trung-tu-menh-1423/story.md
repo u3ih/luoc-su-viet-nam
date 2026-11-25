@@ -46,6 +46,29 @@ Thời Hồng Đức, Trần Khắc Kiệm sưu tập lần đầu. Đầu thế
 
 Hiện còn khoảng 62 bài trong Ức Trai di tập. Nhà nghiên cứu Trần Văn Giáp tìm thêm 30 bài trong các sách Hoàng Lê hoàng các di văn, bản chép tay Ức Trai di tập năm 1856 và Hoàng triều dữ Minh nhân vãng phục thư tập, biên tập thành Ức Trai quân trung từ mệnh tập bổ biên, được đưa vào Nguyễn Trãi toàn tập.
 
+## Ôn tập
+
+1. Nguyễn Trãi soạn Quân trung từ mệnh tập theo uỷ thác và trên danh nghĩa của ai?
+   - [ ] Vương Thông
+   - [ ] Dương Bá Cung
+   - [x] Lê Lợi
+
+   Tập văn kiện chữ Hán này do Nguyễn Trãi soạn theo uỷ thác và trên danh nghĩa Lê Lợi trong khởi nghĩa Lam Sơn. [Xem lại](#thu-dau)
+
+2. Phần lớn nội dung Quân trung từ mệnh tập là gì?
+   - [x] Thư từ qua lại giữa Lê Lợi và các tướng nhà Minh, cùng thư chiêu hàng
+   - [ ] Thơ Nôm ca ngợi các chiến thắng
+   - [ ] Sổ sách quân lương của nghĩa quân
+
+   Đó vừa là văn kiện ngoại giao, vừa là văn kiện binh vận; ngoài ra còn có lệnh răn bảo tướng sĩ và chiếu khuyến dụ hào kiệt. [Xem lại](#thu-tu)
+
+3. Trong bộ Ức Trai di tập khắc in năm 1868, Quân trung từ mệnh tập nằm ở đâu?
+   - [ ] Quyển đầu tiên
+   - [x] Quyển thứ tư trong 7 quyển
+   - [ ] Quyển cuối cùng
+
+   Bộ Ức Trai di tập gồm 7 quyển, khắc in tháng 8 năm Mậu Thìn (1868); Quân trung từ mệnh tập là quyển thứ tư. [Xem lại](#bien-tap)
+
 ## Nguồn tham khảo
 
 - "Quân trung từ mệnh tập", Wikipedia tiếng Việt — định nghĩa, thư đầu tiên gửi Trần Trí ngày 6/5/1423, các tướng Minh nhận thư, lệnh gửi tướng sĩ, Trần Khắc Kiệm, Dương Bá Cung, Ức Trai di tập in năm 1868, khoảng 62 bài, 30 bài Trần Văn Giáp tìm thêm: https://vi.wikipedia.org/wiki/Qu%C3%A2n_trung_t%E1%BB%AB_m%E1%BB%87nh_t%E1%BA%ADp

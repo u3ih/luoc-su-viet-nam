@@ -60,6 +60,29 @@ Tàn quân Pháp rút vào thành. Một sĩ quan khác tạm quyền chỉ huy.
 
 Các nguồn cho biết về sau hai bên ký hiệp ước. Nhà văn Nguyễn Khuyến viết bài văn tế mỉa mai về cái chết của Garnier.
 
+## Ôn tập
+
+1. Ngày 21 tháng 12 năm 1873, quân Cờ Đen phối hợp với lực lượng nào để tiến gần cổng thành Hà Nội?
+   - [ ] Quân Pháp
+   - [x] Quân triều đình
+   - [ ] Quân Hai Sông
+
+   Ngày 21 tháng 12, quân Cờ Đen và quân triều đình phối hợp tiến đến gần cổng thành Hà Nội. [Xem lại](#co-den)
+
+2. Điều gì xảy ra với Garnier ở Cầu Giấy?
+   - [ ] Ông bị bắt sống và đem về Sơn Tây
+   - [ ] Ông rút về thành an toàn cùng toàn bộ quân
+   - [x] Ông ngã xuống một hố và bị giết cùng nhiều sĩ quan khác
+
+   Quân Cờ Đen đặt phục binh ở khu Cầu Giấy; khi quân Pháp đuổi theo, Garnier ngã xuống một hố và bị giết. [Xem lại](#cau-giay)
+
+3. Khoảng một tháng sau trận Cầu Giấy, sĩ quan Philastre đã làm gì?
+   - [ ] Mở cuộc tiến công lên Sơn Tây
+   - [ ] Chiếm thêm các tỉnh ở Bắc Kỳ
+   - [x] Cho rút quân khỏi Hà Nội và trả Bắc Kỳ lại cho triều Nguyễn
+
+   Khoảng một tháng sau, sĩ quan Philastre cho rút quân khỏi Hà Nội và trả Bắc Kỳ lại cho triều Nguyễn. [Xem lại](#sau-tran)
+
 ## Nguồn tham khảo
 
 - "Trận Cầu Giấy (1873)", Wikipedia tiếng Việt — bối cảnh, diễn biến, kết quả: https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_C%E1%BA%A7u_Gi%E1%BA%A5y_%281873%29

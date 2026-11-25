@@ -124,6 +124,29 @@ Nơi từng sát biển nay nằm trong đất liền. Theo một tổng quan kh
 
 Mẫu vật sẽ được xác định tuổi bằng carbon phóng xạ. Các nhà khảo cổ dự kiến khai quật rộng hơn sau đó.
 
+## Ôn tập
+
+1. Cồn vỏ sò (đống rác bếp) của văn hoá Quỳnh Văn là gì?
+   - [ ] Nơi người xưa nuôi trai lấy ngọc
+   - [x] Đống vỏ nhuyễn thể do người xưa ăn xong bỏ lại ngay nơi sinh sống
+   - [ ] Bờ đê ngăn nước biển do người xưa đắp
+
+   Lớp vỏ sò điệp ở Quỳnh Văn dày khoảng năm đến sáu mét, xen lẫn bếp, công cụ và mộ. [Xem lại](#con-so)
+
+2. Cư dân Quỳnh Văn kiếm sống chủ yếu bằng cách nào?
+   - [ ] Trồng lúa nước và nuôi trâu
+   - [ ] Đánh bắt cá biển bằng lưới
+   - [x] Thu lượm nhuyễn thể biển như sò điệp, ngao, hàu, cùng săn một số thú rừng
+
+   Theo các bài của Nguyễn Khắc Sử, chưa có dấu hiệu trực tiếp của trồng trọt hay chăn nuôi; xương cá biển rất hiếm. [Xem lại](#nhuyen-the)
+
+3. Các nhà khảo cổ nhận thấy gì về mộ táng của người Quỳnh Văn?
+   - [x] Họ chôn người mất ngay nơi cư trú, trong huyệt tròn đào xuống lớp vỏ sò
+   - [ ] Họ chôn người mất trong nghĩa địa riêng cách xa nơi ở
+   - [ ] Họ không chôn cất người mất
+
+   Người mất thường được đặt ở tư thế ngồi co, hai tay ôm gối, chôn theo công cụ và đồ trang sức bằng vỏ nhuyễn thể. [Xem lại](#mo-tang)
+
 ## Nguồn tham khảo
 
 - Nguyễn Khắc Sử, "Vietnam's Middle and Late Neolithic marine cultures", Tạp chí VMOST về Khoa học xã hội và Nhân văn 64(1), 2022, tr. 112–128 (ba giai đoạn, 24 địa điểm, địa tầng vỏ sò dày 7 m, 31 ngôi mộ, đồ đá, gốm, thành phần nhuyễn thể). https://vmostscience.vjst.vn/index.php/vmost_jossh/article/download/270/253/1040

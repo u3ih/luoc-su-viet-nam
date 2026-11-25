@@ -46,6 +46,29 @@ Sáng 20 tháng 12, từ hang Trầm (Chương Mỹ), Đài Tiếng nói Việt 
 
 Ngày 6 tháng 1 năm 1947, các đơn vị giữ khu phố cổ được gộp thành Trung đoàn Liên khu 1, từ ngày 12 tháng 1 gọi là Trung đoàn Thủ đô; nhà các phố được đục thông tường để đi lại. Ngày 15 tháng 2, chỉ huy quyết định rút khỏi Hà Nội. Từ 17 giờ ngày 17 tháng 2, tiểu đội liên lạc Hồng Hà dẫn trung đoàn chia thành từng toán nhỏ, cùng người dân Liên khu 1 lặng lẽ đi dưới gầm cầu Long Biên, lội qua khúc sông cạn sang bãi giữa; dân làng ven sông huy động thuyền đưa bộ đội qua sông Hồng trong đêm. Sáng 18 tháng 2, trung đoàn đã sang tới bờ bắc, ra vùng tự do.
 
+## Ôn tập
+
+1. Cuối tháng 11 năm 1946, giao tranh ở Hải Phòng bắt nguồn từ việc gì?
+   - [ ] Việc đóng quân của quân Trung Hoa Dân quốc
+   - [x] Tranh chấp quyền thu thuế quan
+   - [ ] Việc ký Tạm ước Việt – Pháp
+
+   Cuối tháng 11, tranh chấp quyền thu thuế quan ở Hải Phòng thành giao tranh; ngày 23 tháng 11, chiến hạm Pháp nã pháo vào thành phố. [Xem lại](#hoa-hoan)
+
+2. Lúc 20 giờ 3 phút ngày 19 tháng 12 năm 1946, ở Hà Nội đã xảy ra việc gì?
+   - [x] Công nhân nhà máy điện Yên Phụ cắt điện, pháo đài Láng nổ súng lệnh
+   - [ ] Đài Tiếng nói Việt Nam phát Lời kêu gọi toàn quốc kháng chiến
+   - [ ] Trung đoàn Thủ đô rút qua sông Hồng
+
+   Công nhân nhà máy điện Yên Phụ cắt điện, pháo đài Láng nổ súng lệnh; quân đội và tự vệ đồng loạt đánh các vị trí quân Pháp. [Xem lại](#dem-19-12)
+
+3. Đêm 17 tháng 2 năm 1947, Trung đoàn Thủ đô rút khỏi Hà Nội bằng cách nào?
+   - [ ] Đi thành đoàn lớn trên đường phố, có xe kéo pháo
+   - [ ] Đi theo đường sắt lên phía bắc
+   - [x] Chia thành từng toán nhỏ, lặng lẽ đi dưới gầm cầu Long Biên, qua sông Hồng nhờ thuyền của dân làng
+
+   Trung đoàn chia thành từng toán nhỏ, lặng lẽ đi dưới gầm cầu Long Biên, sang bãi giữa rồi qua sông Hồng bằng thuyền dân làng huy động; sáng 18 tháng 2 đã tới bờ bắc. [Xem lại](#vuot-song)
+
 ## Nguồn tham khảo
 
 - “Toàn quốc kháng chiến”, Wikipedia tiếng Việt — Hiệp định sơ bộ, Tạm ước, 15.000 quân Pháp, Hải Phòng 23/11 và con số của Paul Mus, tối hậu thư 18/12, hội nghị Vạn Phúc, 20 giờ 3 phút 19/12, Yên Phụ, pháo đài Láng, Trung đoàn Liên khu 1 – Trung đoàn Thủ đô, rút quân 17 – 18/2/1947: https://vi.wikipedia.org/wiki/To%C3%A0n_qu%E1%BB%91c_kh%C3%A1ng_chi%E1%BA%BFn

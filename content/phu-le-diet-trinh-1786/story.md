@@ -47,6 +47,30 @@ Quân Tây Sơn tiến ra Bắc Hà, Nguyễn Hữu Chỉnh dẫn một cánh đ
 
 Hôm sau, Nguyễn Huệ vào yết kiến vua Lê Hiển Tông ở điện Vạn Thọ, dâng sổ sách binh và dân, tỏ ý nhà vua nhất thống; vua Lê phong Nguyễn Huệ làm Uy quốc công. Anh em Tây Sơn sau đó rút quân về Nam, vì Nguyễn Nhạc không chủ ý chiếm đóng Bắc Hà.
 
+## Ôn tập
+
+1. Trước khi tiến ra Thăng Long, Nguyễn Huệ chiếm thành nào?
+   - [ ] Thành Gia Định
+   - [x] Thành Phú Xuân
+   - [ ] Thành Hoa Lư
+
+   Nguyễn Huệ đem quân thủy bộ ra đánh Phú Xuân; đêm 20 tháng 5 âm lịch năm 1786, thành Phú Xuân mất. [Xem lại](#phu-xuan)
+
+2. Ai dẫn một cánh quân đi trước khi quân Tây Sơn tiến ra Bắc Hà?
+   - [ ] Hoàng Đình Thể
+   - [ ] Trịnh Khải
+   - [x] Nguyễn Hữu Chỉnh
+   - [ ] Nguyễn Nhạc
+
+   Nguyễn Hữu Chỉnh, người chạy vào Nam theo Tây Sơn, dẫn một cánh quân đi trước. [Xem lại](#ra-bac)
+
+3. Hôm sau khi vào kinh thành, Nguyễn Huệ yết kiến vua Lê Hiển Tông và được phong tước gì?
+   - [x] Uy quốc công
+   - [ ] Quan nội hầu
+   - [ ] Trình Quốc công
+
+   Nguyễn Huệ dâng sổ sách binh và dân, tỏ ý nhà vua nhất thống; vua Lê phong ông làm Uy quốc công. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Chiến tranh Tây Sơn – Chúa Trịnh", Wikipedia tiếng Việt — bối cảnh, chiếm Phú Xuân 1786, Vị Hoàng, Thăng Long, yết kiến vua Lê, rút quân: https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_T%C3%A2y_S%C6%A1n_%E2%80%93_Ch%C3%BAa_Tr%E1%BB%8Bnh

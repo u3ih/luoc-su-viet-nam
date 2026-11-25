@@ -46,6 +46,30 @@ Ngày 8 tháng 9 năm 1945, Nha Bình dân học vụ được thành lập; kho
 
 Cuối năm 1946, Bộ Quốc gia giáo dục báo cáo gần 75.000 lớp với hơn 95.000 giáo viên; riêng Bắc Bộ và Trung Bộ có hơn 2,5 triệu người biết đọc, biết viết. Tới năm 1948 có 6 triệu, năm 1952 có 10 triệu người thoát nạn mù chữ. Năm 2025, Bảo tàng Lịch sử quốc gia mở trưng bày "Bình dân học vụ – thắp sáng tương lai" với gần 160 hình ảnh, tài liệu, hiện vật.
 
+## Ôn tập
+
+1. Năm 1945, khoảng bao nhiêu phần trăm người Việt Nam không biết chữ?
+   - [ ] Gần 2%
+   - [ ] Khoảng 50%
+   - [x] Hơn 90%
+
+   Thời Pháp thuộc trường học rất thiếu; năm 1945, hơn 90% người Việt Nam không biết chữ. [Xem lại](#mu-chu)
+
+2. Vì sao phong trào Bình dân học vụ phải dựa vào sức dân?
+   - [ ] Vì người dân không muốn đến trường chính thức
+   - [x] Vì ngân quỹ chỉ đủ trả lương cho khoảng 1.000 giáo viên trong khi cần ít nhất 100.000
+   - [ ] Vì chưa có chữ quốc ngữ để dạy
+
+   Người học không mất tiền, người dạy không nhận lương; lớp mở trong nhà dân, đình chùa, miếu mạo. [Xem lại](#lop-hoc)
+
+3. Theo báo cáo cuối năm 1946, riêng Bắc Bộ và Trung Bộ có bao nhiêu người biết đọc, biết viết?
+   - [ ] Hơn 500.000 người
+   - [ ] Gần 30.000 người
+   - [x] Hơn 2,5 triệu người
+   - [ ] 10 triệu người
+
+   Đó là báo cáo của Bộ Quốc gia giáo dục cuối năm 1946; con số 10 triệu là của năm 1952. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Bình dân học vụ", Wikipedia tiếng Việt — bối cảnh, tỉ lệ mù chữ, phiên họp ngày 3/9/1945, Nha Bình dân học vụ, giáo viên không lương, lớp học trong đình chùa, câu vần chữ cái, cổng mù, số lớp và người biết chữ năm 1945, 1946, 1948, 1952: https://vi.wikipedia.org/wiki/B%C3%ACnh_d%C3%A2n_h%E1%BB%8Dc_v%E1%BB%A5

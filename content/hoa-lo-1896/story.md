@@ -46,6 +46,29 @@ Khoảng 11 giờ đêm 9 tháng 3 năm 1945, trong cuộc đảo chính Pháp, 
 
 Sau năm 1954, Hoả Lò là trại giam của Việt Nam Dân chủ Cộng hoà. Từ năm 1964 đến 1973, nơi đây giam các phi công Mỹ bị bắn rơi — người đầu tiên là Everett Alvarez, bị bắn rơi ngày 5 tháng 8 năm 1964 — trong đó có John McCain. Các tù binh Mỹ kể đã bị tra tấn, biệt giam; phía Việt Nam bác bỏ các cáo buộc tra tấn. Hai bên đến nay vẫn kể khác nhau. Năm 1993 – 1994, phần lớn nhà tù bị phá để xây cao ốc; khoảng hơn 2.000 mét vuông còn lại thành khu di tích, được công nhận năm 1997.
 
+## Ôn tập
+
+1. Người Pháp xây nhà tù Hoả Lò trên khu đất của làng nghề nào?
+   - [ ] Làng đúc đồng
+   - [x] Làng chuyên nặn ấm đất và hoả lò
+   - [ ] Làng dệt lụa
+
+   Năm 1896, người Pháp bắt đầu xây nhà tù trên khu đất làng Hoả Lò, làng chuyên nặn ấm đất, hoả lò bán khắp kinh kỳ. [Xem lại](#maison-centrale)
+
+2. Nhiều tù chính trị thoát khỏi Hoả Lò tháng 3 năm 1945 về sau đã làm gì?
+   - [ ] Bị quân Nhật đưa đi Sơn La
+   - [x] Về các địa phương, tham gia cuộc giành chính quyền tháng 8 năm 1945
+   - [ ] Sang Trung Quốc lánh nạn
+
+   Trong cuộc đảo chính Pháp, các tù chính trị thoát ra; nhiều người về các địa phương tham gia cuộc giành chính quyền tháng 8 năm 1945. [Xem lại](#vuot-nguc)
+
+3. Về việc đối xử với các phi công Mỹ bị giam ở Hoả Lò từ năm 1964 đến 1973, lời kể cho biết điều gì?
+   - [ ] Hai bên thống nhất hoàn toàn về cách đối xử
+   - [ ] Không có ai kể lại
+   - [x] Tù binh Mỹ kể bị tra tấn, phía Việt Nam bác bỏ; hai bên đến nay vẫn kể khác nhau
+
+   Các tù binh Mỹ kể đã bị tra tấn, biệt giam; phía Việt Nam bác bỏ các cáo buộc tra tấn. [Xem lại](#hanoi-hilton)
+
 ## Nguồn tham khảo
 
 - “Nhà tù Hỏa Lò”, Wikipedia tiếng Việt — xây năm 1896 trên đất làng Hoả Lò, 12.908 m², Maison Centrale, bốn khu A – D, tường cao 4 m, đưa vào dùng năm 1899, Nguyễn Văn Viên, vượt ngục tháng 3/1945 (đêm 12 – 20/3), giam phi công Mỹ 1964 – 1973, các lời kể trái ngược về tra tấn, phá dỡ năm 1993, khu di tích hơn 2.000 m², công nhận di tích 1997: https://vi.wikipedia.org/wiki/Nh%C3%A0_t%C3%B9_H%E1%BB%8Fa_L%C3%B2

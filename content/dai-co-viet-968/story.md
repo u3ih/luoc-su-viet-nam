@@ -81,6 +81,30 @@ Năm 979, Đinh Tiên Hoàng và con trai là Đinh Liễn bị hại. Theo Toà
 
 Triều đình rối ren, vua kế vị còn nhỏ tuổi. Nhà Tống nghe tin, cho đây là thời cơ để đưa quân sang. Chuyện tiếp theo là cuộc kháng chiến của Lê Hoàn.
 
+## Ôn tập
+
+1. Sau khi Ngô Quyền mất năm 944, đất nước rơi vào tình trạng nào?
+   - [ ] Nhà Tống đưa quân sang chiếm đóng ngay
+   - [x] Các thủ lĩnh địa phương chiếm giữ từng vùng, đánh lẫn nhau — loạn mười hai sứ quân
+   - [ ] Đinh Bộ Lĩnh lên ngôi hoàng đế ngay
+
+   Triều đình tranh giành quyền lực, chính quyền trung ương suy yếu. [Xem lại](#loan)
+
+2. Năm 968, Đinh Bộ Lĩnh đặt quốc hiệu và chọn kinh đô nào?
+   - [ ] Đại Việt, đóng đô ở Thăng Long
+   - [ ] Đại Cồ Việt, đóng đô ở Cổ Loa
+   - [x] Đại Cồ Việt, đóng đô ở Hoa Lư
+   - [ ] Đại Việt, đóng đô ở Hoa Lư
+
+   Hoa Lư có núi non che chắn và sông ngòi đi lại; đến năm 1054 nhà Lý mới đổi quốc hiệu thành Đại Việt. [Xem lại](#xung-de)
+
+3. Theo truyền thuyết, thuở nhỏ Đinh Bộ Lĩnh cùng đám trẻ chăn trâu làm gì?
+   - [ ] Đặt vạc lớn ở sân để răn kẻ phạm tội
+   - [x] Lấy bông lau làm cờ, bày trận đánh nhau và được các bạn tôn làm "trưởng"
+   - [ ] Dựng thành luỹ riêng và đánh lẫn nhau
+
+   Đây là truyền thuyết dân gian, không nên coi là sử liệu về tuổi thơ của ông. [Xem lại](#co-lau)
+
 ## Nguồn tham khảo
 
 - Đại Việt sử ký toàn thư (Ngô Sĩ Liên và các sử thần, 1479), Bản kỷ — phần Tiền Ngô vương, Đinh Tiên Hoàng: https://vi.wikisource.org/wiki/%C4%90%E1%BA%A1i_Vi%E1%BB%87t_s%E1%BB%AD_k%C3%BD_to%C3%A0n_th%C6%B0

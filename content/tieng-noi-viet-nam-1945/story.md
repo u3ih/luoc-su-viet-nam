@@ -46,6 +46,30 @@ Lúc 11 giờ 30 trưa ngày 7 tháng 9 năm 1945, buổi phát thanh đầu ti�
 
 Ngày 1 tháng 6 năm 1946, Đài Tiếng nói Nam Bộ ra đời. Ngày 20 tháng 10 năm 1954, Đài lại chính thức phát sóng từ Hà Nội. Năm 1968, có chương trình dành cho người Việt ở nước ngoài. Từ năm 1990, Đài lần lượt mở thêm nhiều kênh: âm nhạc, văn hoá – xã hội, đối ngoại, kênh cho đồng bào dân tộc thiểu số, rồi các kênh giao thông, tiếng Anh. Ngày 7 tháng 9 hằng năm là ngày thành lập Đài.
 
+## Ôn tập
+
+1. Buổi phát thanh đầu tiên của Đài Tiếng nói Việt Nam diễn ra ngày nào?
+   - [ ] Ngày 2 tháng 9 năm 1945
+   - [x] Ngày 7 tháng 9 năm 1945
+   - [ ] Ngày 1 tháng 6 năm 1946
+   - [ ] Ngày 20 tháng 10 năm 1954
+
+   Lúc 11 giờ 30 trưa ngày 7 tháng 9 năm 1945; ngày 7 tháng 9 hằng năm là ngày thành lập Đài. [Xem lại](#phat-song)
+
+2. Bài nhạc nào được dùng làm nền cho buổi phát thanh đầu tiên và vẫn là nhạc hiệu của Đài đến nay?
+   - [ ] "Tiến quân ca"
+   - [x] "Diệt phát xít" của Nguyễn Đình Thi
+   - [ ] "Giải phóng miền Nam"
+
+   Buổi phát thanh mở đầu bằng câu: "Đây là Tiếng nói Việt Nam, phát thanh từ Hà Nội…". [Xem lại](#phat-song)
+
+3. Trước năm 1945, tình hình phát thanh ở Đông Dương thế nào?
+   - [ ] Đã có đài phát thanh quốc gia của người Việt
+   - [ ] Mỗi tỉnh đều có một đài phát thanh
+   - [x] Việc phát thanh do chính quyền thuộc địa nắm; chưa có đài phát thanh quốc gia
+
+   Đài đầu tiên, Radio Saigon, được lập cuối thập niên 1920. [Xem lại](#truoc-1945)
+
 ## Nguồn tham khảo
 
 - "Đài Tiếng nói Việt Nam", Wikipedia tiếng Việt — bối cảnh trước 1945, chỉ thị lập đài, Xuân Thủy, buổi phát thanh đầu tiên 11:30 ngày 7/9/1945 và lời xướng, nhạc "Diệt phát xít" của Nguyễn Đình Thi, Đài Tiếng nói Nam Bộ 1/6/1946, phát sóng từ Hà Nội 20/10/1954, các kênh VOV1 – VOV6: https://vi.wikipedia.org/wiki/%C4%90%C3%A0i_Ti%E1%BA%BFng_n%C3%B3i_Vi%E1%BB%87t_Nam

@@ -46,6 +46,29 @@ Ngay trong đêm ông mất, một uỷ ban gồm nhiều nhân sĩ, trí thức
 
 Bất chấp sự ngăn cản của chính quyền thuộc địa, lễ truy điệu Phan Châu Trinh được tổ chức rộng rãi khắp Bắc, Trung, Nam, trở thành một sự kiện chính trị nổi bật lúc bấy giờ. Khu mộ ông nay ở Tân Bình, Thành phố Hồ Chí Minh, được xếp hạng di tích lịch sử quốc gia; tên Phan Châu Trinh hay Phan Chu Trinh được đặt cho nhiều đường phố, trường học.
 
+## Ôn tập
+
+1. Ngày 4 tháng 4 năm 1926, có bao nhiêu người đưa linh cữu Phan Châu Trinh ra nghĩa trang?
+   - [ ] Hơn sáu nghìn người
+   - [x] Hơn sáu vạn người
+   - [ ] Khoảng sáu trăm người
+
+   Đoàn người không phân biệt chính trị, đảng phái, tôn giáo, đưa linh cữu ông tới nghĩa trang của hội Gò Công tương tế. [Xem lại](#dam-tang)
+
+2. Phan Châu Trinh khởi xướng cuộc vận động nào vào năm 1906?
+   - [ ] Cần Vương
+   - [ ] Đông Du
+   - [x] Duy Tân
+
+   Ông đỗ phó bảng năm 1901, khởi xướng cuộc vận động Duy Tân năm 1906 và bị đày Côn Đảo năm 1908. [Xem lại](#ve-nuoc)
+
+3. Lễ truy điệu Phan Châu Trinh được tổ chức như thế nào?
+   - [x] Rộng khắp Bắc, Trung, Nam, bất chấp sự ngăn cản của chính quyền thuộc địa
+   - [ ] Chỉ tổ chức riêng ở Sài Gòn
+   - [ ] Do chính quyền thuộc địa chính thức tổ chức
+
+   Lễ truy điệu trở thành một sự kiện chính trị nổi bật lúc bấy giờ. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Phan Châu Trinh", Wikipedia tiếng Việt — quê quán, đỗ phó bảng năm 1901, đày Côn Đảo năm 1908, sang Pháp năm 1911, về nước năm 1925, hai bài diễn thuyết, qua đời ngày 24/3/1926, uỷ ban tổ chức tang lễ, hơn 6 vạn người đưa tang ngày 4/4/1926, truy điệu khắp ba kỳ, khu mộ: https://vi.wikipedia.org/wiki/Phan_Ch%C3%A2u_Trinh

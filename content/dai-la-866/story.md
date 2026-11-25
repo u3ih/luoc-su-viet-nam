@@ -46,6 +46,29 @@ Dân gian kể — theo Nam Hải dị nhân liệt truyện của Phan Kế Bí
 
 Năm 931 Dương Đình Nghệ, năm 938 Ngô Quyền lần lượt đánh chiếm thành Đại La. Năm 1010, Lý Thái Tổ ban Chiếu dời đô, khen Đại La "ở giữa khu vực trời đất, được thế rồng cuộn hổ ngồi", rồi dời kinh đô về đây, đổi tên là Thăng Long. Thời Lý, Đại La trở thành vòng thành ngoài cùng của kinh thành ba lớp. Ở khu khảo cổ 18 Hoàng Diệu, tầng dưới cùng là dấu tích phía đông của thành Đại La thời Đường, bên trên là cung điện Lý, Trần, Lê và thành Hà Nội thế kỷ XIX.
 
+## Ôn tập
+
+1. Đầu năm 863, ai vây và chiếm Tống Bình, giữ thủ phủ suốt ba năm?
+   - [ ] Quân Chiêm Thành
+   - [ ] Quân nhà Tống
+   - [x] Quân Nam Chiếu
+
+   Quân Nam Chiếu ở Vân Nam vây và chiếm Tống Bình năm 863; năm 866 Cao Biền hạ được thành. [Xem lại](#tong-binh)
+
+2. Theo sử cũ, ngoài thành Đại La, Cao Biền còn cho đắp thêm gì?
+   - [x] Một vòng đê dài khoảng 7,1 km
+   - [ ] Một con kênh dài nối sang Vân Nam
+   - [ ] Một tòa tháp ở giữa thành
+
+   Sử cũ chép thành Đại La chu vi khoảng 6,6 km, ngoài thành đắp thêm vòng đê dài khoảng 7,1 km. [Xem lại](#dap-thanh)
+
+3. Năm 1010, Lý Thái Tổ làm gì với thành Đại La?
+   - [ ] Cho phá bỏ vòng thành
+   - [x] Ban Chiếu dời đô về đây và đổi tên là Thăng Long
+   - [ ] Đổi tên thành Tĩnh Hải quân
+
+   Lý Thái Tổ ban Chiếu dời đô, khen Đại La "ở giữa khu vực trời đất", rồi dời kinh đô về đây, đổi tên là Thăng Long. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Thành Đại La", Wikipedia tiếng Việt — Tống Bình thời Đường, Nam Chiếu chiếm thành năm 863, Cao Biền chiếm lại năm 866, đổi tên Đại La, Dương Đình Nghệ, Ngô Quyền, Chiếu dời đô năm 1010, vòng thành thứ ba thời Lý, tầng khảo cổ: https://vi.wikipedia.org/wiki/Th%C3%A0nh_%C4%90%E1%BA%A1i_La

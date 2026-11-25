@@ -47,6 +47,29 @@ Theo các tài liệu về di tích, trên đường hồi kinh, nhà vua làm h
 
 Bia Lê Lợi được xếp hạng di tích lịch sử quốc gia năm 1981; tên xã Lê Lợi ở Lai Châu cũng xuất phát từ tấm bia. Năm 2012, vì nằm trong vùng ngập lòng hồ thủy điện Sơn La, khối đá khắc bia được di dời lên khu đền thờ vua Lê Thái Tổ, cách vị trí cũ khoảng 500 mét. Ngày 22 tháng 12 năm 2016, bia được Thủ tướng Chính phủ công nhận là Bảo vật quốc gia.
 
+## Ôn tập
+
+1. Theo Đại Việt thông sử, sau khi quan quân đánh được Mường Lễ năm 1432, châu này được đổi tên là gì?
+   - [x] Phục Lễ
+   - [ ] Ninh Viễn
+   - [ ] Mường Muỗi
+
+   Mùa xuân năm Nhâm Tý (1432), quan quân đánh được Mường Lễ, Kha Lại bị giết, Đèo Cát Hãn chạy trốn; châu Mường Lễ đổi tên là Phục Lễ. [Xem lại](#than-chinh)
+
+2. Bài thơ khắc ở Pú Huổi Chỏ có câu "Sơn xuyên nhập bản đồ". Câu ấy có nghĩa là gì?
+   - [ ] Núi cao sông dài che chở đất nước
+   - [x] Sông núi từ nay vào bản đồ
+   - [ ] Quân đi qua sông núi trong một đêm
+
+   Bài thơ có câu "Sơn xuyên nhập bản đồ" — sông núi từ nay vào bản đồ — và kết bằng ý đề thơ vào đá để trấn giữ phía tây nước Việt. [Xem lại](#khac-da)
+
+3. Năm 2012, vì sao khối đá khắc bia được di dời lên khu đền thờ vua Lê Thái Tổ?
+   - [ ] Vì bia bị nứt vỡ theo thời gian
+   - [ ] Vì bia được chuyển về trưng bày ở kinh đô
+   - [x] Vì vị trí cũ nằm trong vùng ngập lòng hồ thủy điện Sơn La
+
+   Khối đá được dời đến vị trí cách chỗ cũ khoảng 500 mét; năm 2016 bia được công nhận là Bảo vật quốc gia. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Bia Lê Lợi", Wikipedia tiếng Việt — châu Mường Lễ, họ Đèo, Đèo Cát Hãn, chiến dịch 1431 – 1432 theo Đại Việt thông sử, hai bài thơ khắc đá, kích thước và số chữ, Toàn Việt thi lục, xếp hạng 1981, di dời 2012, Bảo vật quốc gia 2016: https://vi.wikipedia.org/wiki/Bia_L%C3%AA_L%E1%BB%A3i

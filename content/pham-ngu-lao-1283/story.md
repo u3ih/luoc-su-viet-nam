@@ -47,6 +47,29 @@ Năm 1285, Phạm Ngũ Lão cùng Trần Quang Khải đánh Chương Dương, H
 
 Ông nhiều lần đem quân ra biên giới phía tây (1294, 1297, 1301) và vào phía nam (1312, 1318), làm tới Điện súy Thượng tướng quân, tước Quan nội hầu. Toàn thư chép ông "thích đọc sách, ngâm thơ"; nay còn bài Thuật hoài và bài viếng Hưng Đạo Đại vương. Ngô Sĩ Liên viết: học vấn của Hưng Đạo Vương tỏ ra ở bài hịch, của Phạm Điện súy tỏ ra ở câu thơ. Ông mất ngày 1 tháng 11 năm 1320; vua Trần Minh Tông nghỉ chầu năm ngày. Dân Phù Ủng dựng đền thờ ông trên nền nhà cũ.
 
+## Ôn tập
+
+1. Theo giai thoại, khi Hưng Đạo Vương đi qua làng Phù Ủng, Phạm Ngũ Lão đang làm gì?
+   - [ ] Đang cày ruộng bên đường
+   - [x] Đang ngồi đan sọt, mải nghĩ về binh thư
+   - [ ] Đang luyện võ ở gò lớn ngoài đồng
+
+   Phạm Ngũ Lão ngồi đan sọt bên đường, mải nghĩ về binh thư nên không biết quan quân trảy đến. [Xem lại](#dan-sot)
+
+2. Năm 1285, Phạm Ngũ Lão cùng ai đánh Chương Dương, Hàm Tử?
+   - [ ] Lý Quán
+   - [ ] Thoát Hoan
+   - [x] Trần Quang Khải
+
+   Năm 1285, ông cùng Trần Quang Khải đánh Chương Dương, Hàm Tử, rồi phục ở Vạn Kiếp. [Xem lại](#danh-nguyen)
+
+3. Ngoài việc cầm quân, Phạm Ngũ Lão để lại tác phẩm nào?
+   - [ ] Một bài hịch kêu gọi tướng sĩ
+   - [ ] Một bài phú về sông Bạch Đằng
+   - [x] Bài thơ Thuật hoài
+
+   Toàn thư chép ông thích đọc sách, ngâm thơ; nay còn bài Thuật hoài và bài viếng Hưng Đạo Đại vương. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Phạm Ngũ Lão", Wikipedia tiếng Việt — quê Phù Ủng, chuyện không đi mừng tiến sĩ, giai thoại ngồi đan sọt và đấu sức, các trận 1285 – 1288, các cuộc hành quân 1294 – 1318, chức tước, thơ Thuật hoài, nhận định của Ngô Sĩ Liên, mất năm 1320, đền Phù Ủng: https://vi.wikipedia.org/wiki/Phạm_Ngũ_Lão

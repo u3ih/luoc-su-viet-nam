@@ -46,6 +46,31 @@ Chú và em đều sớm lâm bệnh qua đời. Được thổ hào Ngô Hưng 
 
 Năm 1769, Trịnh Sâm dụ hàng không được, bèn huy động ba đạo quân Thanh Hoá, Hưng Hoá, Nghệ An; sau thêm danh tướng Hoàng Ngũ Phúc. Không đánh được đồn luỹ, Hoàng Ngũ Phúc bắt mẹ của con rể Lê Duy Mật là Lại Thế Thiều, buộc viết thư gọi con; Thế Thiều sai người mở cửa đồn cho quân Trịnh vào. Biết không thoát được, Lê Duy Mật cùng vợ con chết trong lửa, khép lại cuộc khởi nghĩa hơn ba mươi năm.
 
+## Ôn tập
+
+1. Tháng 12 năm 1738, Lê Duy Mật cùng chú và em định làm gì để khởi sự?
+   - [ ] Đem quân vây phủ chúa Nguyễn
+   - [x] Đốt kinh thành Thăng Long, nhưng mưu bị lộ
+   - [ ] Cầu viện nhà Thanh
+   - [ ] Xin chúa Trịnh trả quyền cho vua Lê
+
+   Ông bất bình trước việc chúa Trịnh Giang phế lập, giết hại công thần; mưu lộ nên cả ba phải bỏ trốn. [Xem lại](#chinh-bien)
+
+2. Năm 1763, Lê Duy Mật dựng căn cứ ở đâu?
+   - [ ] Ngọc Lâu, huyện Thạch Thành
+   - [ ] Cổ Nam, Nghệ An
+   - [x] Núi Trình Quang, vùng Trấn Ninh
+   - [ ] Lang Chánh, Thanh Hoá
+
+   Theo Khâm định Việt sử thông giám cương mục, căn cứ có 16 đồn luỹ trên núi, thành cao hào sâu. [Xem lại](#trinh-quang)
+
+3. Quân Trịnh vào được đồn luỹ ở Trấn Ninh năm 1770 bằng cách nào?
+   - [ ] Phá cổng đồn bằng đại bác
+   - [ ] Đốt rừng quanh núi Trình Quang
+   - [x] Lại Thế Thiều sai người mở cửa đồn, sau khi Hoàng Ngũ Phúc bắt mẹ ông và buộc viết thư gọi con
+
+   Biết không thoát được, Lê Duy Mật cùng vợ con chết trong lửa, khép lại cuộc khởi nghĩa hơn ba mươi năm. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Lê Duy Mật", Wikipedia tiếng Việt — xuất thân, chính biến năm 1738, Ngô Hưng Tạo, căn cứ Ngọc Lâu, ba lần tiến ra bắc, Cổ Nam, Lang Chánh, núi Trình Quang theo Cương mục, thư gửi Nguyễn Phúc Khoát, năm 1767, Hoàng Ngũ Phúc, Lại Thế Thiều, kết cục năm 1770: https://vi.wikipedia.org/wiki/L%C3%AA_Duy_M%E1%BA%ADt

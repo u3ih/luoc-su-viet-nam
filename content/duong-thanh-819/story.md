@@ -46,6 +46,29 @@ Nhà Đường sai Quế Trọng Vũ đem quân sang, dùng kế ly gián, mua c
 
 Đại Việt sử ký toàn thư chép khác: Dương Thanh không bị giết mà còn chống quân Đường tới năm 828, qua tay nhiều viên đô hộ — Quế Trọng Vũ, Bùi Hành Lập, Vương Thừa Điển, Lý Nguyên Hỷ — mà không ai dẹp được. Năm 824, Lý Nguyên Hỷ dời phủ trị về huyện Long Đỗ, Tô Lịch, đắp một thành nhỏ gọi là La Thành. Dù theo cách chép nào, cuộc nổi dậy của Dương Thanh vẫn là một trong những cuộc khởi nghĩa lớn của thời Bắc thuộc, sau Mai Thúc Loan và Phùng Hưng.
 
+## Ôn tập
+
+1. Vì sao viên đô hộ Lý Tượng Cổ điều Dương Thanh về phủ thành Tống Bình làm nha tướng?
+   - [ ] Để giao cho ông chỉ huy toàn bộ quân đô hộ
+   - [x] Ông không ưa Dương Thanh, muốn điều về để dễ kiềm chế
+   - [ ] Để ông đánh dẹp vùng Hoàng Động
+
+   Dương Thanh dòng dõi hào trưởng lâu đời; Lý Tượng Cổ không ưa ông nên điều về phủ thành để dễ kiềm chế. [Xem lại](#hao-truong)
+
+2. Năm 819, được giao 3.000 quân đi đánh Hoàng Động, Dương Thanh đã làm gì?
+   - [ ] Tiến vào Hoàng Động và đánh thắng
+   - [ ] Rút về Hoan Châu cố thủ
+   - [x] Kéo quân về chiếm phủ thành Tống Bình, Lý Tượng Cổ bị giết
+
+   Ông cùng con là Dương Chí Liệt và thủ hạ Đỗ Sĩ Giao kêu gọi binh sĩ quay về chống Lý Tượng Cổ; An Nam đô hộ phủ rúng động. [Xem lại](#quay-quan)
+
+3. Nhà Đường sai Quế Trọng Vũ sang đàn áp, người này đã dùng cách nào để cô lập Dương Thanh?
+   - [x] Dùng kế ly gián, mua chuộc một số tướng dưới quyền ông
+   - [ ] Phong cho ông làm đô hộ An Nam
+   - [ ] Bỏ qua Tống Bình, rút quân về nước
+
+   Theo bài tổng hợp từ sử Trung Hoa, đầu năm 820 Quế Trọng Vũ chiếm lại Tống Bình; các nguồn chép khác nhau về số phận của Dương Thanh. [Xem lại](#that-bai)
+
 ## Nguồn tham khảo
 
 - "Dương Thanh", Wikipedia tiếng Việt — xuất thân, bị điều về Tống Bình, năm 819 quay quân, giết Lý Tượng Cổ, phong thứ sử Quỳnh Châu, Quế Trọng Vũ ly gián, kết cục theo hai nguồn, La Thành năm 824: https://vi.wikipedia.org/wiki/D%C6%B0%C6%A1ng_Thanh

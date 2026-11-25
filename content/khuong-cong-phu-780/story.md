@@ -46,6 +46,29 @@ Năm Canh Tý 780, cả hai anh em cùng đỗ kỳ thi tuyển hiền tài củ
 
 Vì can vua chôn cất công chúa quá hậu, trái ý vua, ông bị giáng làm quan dạy thái tử, năm 792 bị đưa đi Tuyền Châu, sống ẩn dưới chân núi Cửu Nhật nhiều năm; đời Đường Thuận Tông được cử làm thứ sử Cát Châu nhưng mất trước khi tới nơi. Ở Tuyền Châu nay còn đền và mộ ông; ở làng Tường Vân, Thanh Hoá, đền thờ Khương Công Phụ được xếp hạng di tích quốc gia năm 2001, hằng năm dâng hương ngày 10 tháng 3 âm lịch.
 
+## Ôn tập
+
+1. Bài phú "Bạch vân chiếu xuân hải" của Khương Công Phụ được giới nghiên cứu văn học sử xem là gì?
+   - [x] Bài phú sớm nhất hiện còn của người Việt
+   - [ ] Bài thơ chữ Nôm đầu tiên của người Việt
+   - [ ] Bộ sử đầu tiên của người Việt
+
+   Bài phú nay còn 318 chữ, được xem là tác phẩm mở đầu nền văn học chữ Hán Việt Nam. [Xem lại](#do-dau)
+
+2. Khi kinh sư có loạn Chu Thử, Khương Công Phụ đã làm gì khiến sau đó được thăng làm tể tướng?
+   - [ ] Tự dẫn quân dẹp loạn
+   - [x] Giữ ngựa can vua đừng nương nhờ quân lính vốn là bộ hạ Chu Thử, rồi khuyên gọi quân vào thành phòng bị
+   - [ ] Xin vua dời đô về phương nam
+
+   Quân Chu Thử kéo đến đúng như lời ông; vua thăng ông làm Đồng trung thư môn hạ bình chương sự, tức tể tướng. [Xem lại](#can-gian)
+
+3. Quê hương Sơn Ổi, Ái Châu của Khương Công Phụ nay thuộc tỉnh nào?
+   - [ ] Hà Nội
+   - [ ] Hải Dương
+   - [x] Thanh Hoá
+
+   Ông quê ở Sơn Ổi, huyện Nhật Nam, Ái Châu, nay là làng Tường Vân, xã Định Hoà, tỉnh Thanh Hoá. [Xem lại](#que-huong)
+
 ## Nguồn tham khảo
 
 - "Khương Công Phụ", Wikipedia tiếng Việt — quê quán, gia thế theo tộc phả, kỳ thi năm 780, các chức vụ, đoạn Đại Việt sử ký toàn thư về loạn Chu Thử, bị giáng năm 792, bài phú 318 chữ, đền thờ ở Tuyền Châu và Thanh Hoá: https://vi.wikipedia.org/wiki/Kh%C6%B0%C6%A1ng_C%C3%B4ng_Ph%E1%BB%A5

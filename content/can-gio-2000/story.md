@@ -46,6 +46,29 @@ Ngày 21 tháng 1 năm 2000, Chương trình Con người và Sinh quyển (MAB)
 
 Rừng Cần Giờ được ví là “lá phổi” và “quả thận” của Thành phố Hồ Chí Minh, lọc không khí và nước thải từ thượng nguồn sông Đồng Nai – Sài Gòn trước khi đổ ra biển. Năm 2000, khu du lịch sinh thái Vàm Sát được lập trong vùng lõi. Rừng được giao cho chính người dân nơi đây chăm sóc và quản lý.
 
+## Ôn tập
+
+1. Cần Giờ được UNESCO công nhận là gì vào ngày 21 tháng 1 năm 2000?
+   - [ ] Di sản thế giới đầu tiên của Việt Nam
+   - [x] Khu dự trữ sinh quyển đầu tiên của Việt Nam
+   - [ ] Vườn quốc gia đầu tiên của Việt Nam
+
+   Chương trình Con người và Sinh quyển (MAB) của UNESCO công nhận Cần Giờ là khu dự trữ sinh quyển đầu tiên của Việt Nam. [Xem lại](#sinh-quyen)
+
+2. Vì sao phải trồng lại rừng ngập mặn Cần Giờ từ năm 1979?
+   - [ ] Rừng bị cháy trong một mùa khô kéo dài
+   - [ ] Rừng bị chặt để lấy đất làm khu du lịch
+   - [x] Rừng bị tàn phá nặng nề trong chiến tranh
+
+   Năm 1979 Thành phố Hồ Chí Minh phát động chiến dịch trồng lại rừng, lập Lâm trường Duyên Hải để khôi phục hệ sinh thái ngập mặn. [Xem lại](#trong-lai)
+
+3. Rừng Cần Giờ được ví là gì của Thành phố Hồ Chí Minh?
+   - [x] “Lá phổi” và “quả thận”
+   - [ ] “Trái tim” và “bộ não”
+   - [ ] “Lá chắn” và “cánh cửa”
+
+   Rừng lọc không khí và nước thải từ thượng nguồn sông Đồng Nai – Sài Gòn trước khi đổ ra biển. [Xem lại](#la-phoi)
+
 ## Nguồn tham khảo
 
 - “Khu dự trữ sinh quyển rừng ngập mặn Cần Giờ”, Wikipedia tiếng Việt — vị trí, diện tích các vùng, tàn phá trong chiến tranh, sáp nhập 1978, chiến dịch trồng rừng 1979 và Lâm trường Duyên Hải, diện tích rừng trồng và tái sinh, công nhận ngày 21/1/2000, số loài (gồm khảo sát Phạm Văn Ngọt 2007), khu du lịch Vàm Sát, giao rừng cho dân: https://vi.wikipedia.org/wiki/Khu_d%E1%BB%B1_tr%E1%BB%AF_sinh_quy%E1%BB%83n_r%E1%BB%ABng_ng%E1%BA%ADp_m%E1%BA%B7n_C%E1%BA%A7n_Gi%E1%BB%9D

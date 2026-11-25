@@ -102,6 +102,30 @@ Văn hoá Đông Sơn giao lưu rộng với các nền văn hoá lân cận. �
 
 Theo Trình Năng Chung, những đợt giao lưu sớm diễn ra khoảng thế kỷ II–III trước Công nguyên, lúc văn hoá Đông Sơn cực thịnh. Ông nhận xét rằng cư dân Đông Sơn vẫn giữ được bản sắc riêng trong quá trình ấy.
 
+## Ôn tập
+
+1. Văn hoá Đông Sơn được đặt tên theo nơi nào, nơi người nông dân thấy đồ đồng lộ ra năm 1924?
+   - [ ] Làng Vạc, Nghệ An
+   - [ ] Làng Cả, Phú Thọ
+   - [x] Làng Đông Sơn, bên sông Mã, Thanh Hoá
+   - [ ] Cổ Loa, Hà Nội
+
+   Từ năm 1924 đến 1932, L. Pajot điều khiển các cuộc khai quật đầu tiên; năm 1934, R. Heine-Geldern đề nghị gọi nền văn hoá ấy là văn hoá Đông Sơn. [Xem lại](#phat-hien)
+
+2. Hiện vật nào ở Luy Lâu, Bắc Ninh, là bằng chứng cư dân Việt cổ đã tự đúc trống đồng?
+   - [ ] Thạp đồng có vỏ trấu và hạt thóc
+   - [x] Mảnh khuôn đúc trống, mảnh khuôn đúc trống duy nhất tìm được cho đến nay
+   - [ ] Trống đồng Ngọc Lũ
+
+   Người Đông Sơn là những thợ luyện kim giỏi, dùng ít nhất 11 loại hợp kim, chọn loại hợp với từng đồ vật. [Xem lại](#dong)
+
+3. Việc nối văn hoá Đông Sơn với nhà nước Văn Lang được lời kể trình bày thế nào?
+   - [ ] Đã được khảo cổ học chứng minh đầy đủ
+   - [x] Là sự diễn giải của nhiều nhà nghiên cứu, dựa thêm vào thư tịch cổ và truyền thuyết
+   - [ ] Không có nhà nghiên cứu nào nhắc tới
+
+   Khảo cổ học ghi nhận nền văn hoá; cách nối với Văn Lang chỉ được nêu như một diễn giải, không khẳng định như sự thật đã có tư liệu đầy đủ. [Xem lại](#trung-tam)
+
 ## Nguồn tham khảo
 
 - Trình Năng Chung, "Văn hóa Đông Sơn: 90 năm phát hiện và nghiên cứu", Tạp chí Khoa học xã hội Việt Nam, số 5 (78), 2014 — https://hcmussh.edu.vn/static/document/vanhoadongson.90namphathienvanghiencuu.pdf

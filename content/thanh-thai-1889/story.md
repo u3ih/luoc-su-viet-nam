@@ -46,6 +46,29 @@ Thành Thái dần bộc lộ tinh thần chống Pháp; một số tài liệu 
 
 Ông bị quản thúc ở Bạch Dinh, Vũng Tàu; năm 1916 bị đày sang đảo Réunion cùng con là vua Duy Tân, sống chật vật nhiều năm ở Saint-Denis, dạy các con tiếng Việt và nhạc cụ dân tộc. Năm 1947 ông được về nước, sống ở Vũng Tàu. Ông mất ngày 20 tháng 3 năm 1954 ở Sài Gòn, an táng trong khuôn viên lăng Dục Đức ở Huế, cạnh vua cha.
 
+## Ôn tập
+
+1. Thành Thái lên ngôi năm 1889 trong hoàn cảnh nào?
+   - [ ] Ông được vua cha là Đồng Khánh truyền ngôi
+   - [x] Ông mới mười tuổi, được chọn lên ngôi sau khi vua Đồng Khánh mất, lễ đăng quang không có ấn truyền quốc và di chiếu
+   - [ ] Ông lên ngôi sau khi đánh bại một cuộc nổi dậy
+
+   Thành Thái, tên Nguyễn Phúc Bửu Lân, là con thứ bảy vua Dục Đức; lễ làm ở điện Thái Hoà ngày 2 tháng 2 năm 1889. [Xem lại](#len-ngoi)
+
+2. Điều nào cho thấy Thành Thái là ông vua gần dân, khác các vua trước?
+   - [ ] Ông chỉ học chữ Nho, không bao giờ rời Đại Nội
+   - [ ] Ông giao toàn bộ việc triều chính cho Khâm sứ
+   - [x] Ông học cả chữ Nho lẫn chữ Pháp, cắt tóc ngắn, mặc âu phục và thường đi vi hành
+
+   Dưới triều ông, nhiều công trình được xây ở Huế như bệnh viện, trường Quốc học, chợ Đông Ba, cầu Tràng Tiền. [Xem lại](#gan-dan)
+
+3. Sau khi bị ép thoái vị năm 1907, Thành Thái bị đưa đi đâu?
+   - [ ] Sang Hồng Kông cùng vua Dục Đức
+   - [ ] Về Nghệ An ở ẩn
+   - [x] Bị quản thúc ở Vũng Tàu, năm 1916 bị đày sang đảo Réunion cùng con là vua Duy Tân
+
+   Năm 1947 ông được về nước, sống ở Vũng Tàu, và mất năm 1954 ở Sài Gòn. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Thành Thái", Wikipedia tiếng Việt — thân thế, lên ngôi ngày 2/2/1889, tính cách, vi hành, công trình ở Huế, tinh thần chống Pháp, đội nữ binh và chuyện giả điên theo một số tài liệu, truất quyền ngày 29/7/1907, chiếu thoái vị ngày 3/9/1907, quản thúc ở Vũng Tàu, đày sang Réunion năm 1916, về nước năm 1947, mất năm 1954: https://vi.wikipedia.org/wiki/Th%C3%A0nh_Th%C3%A1i

@@ -46,6 +46,30 @@ Những người cùng phe với Lý Tự Tiên là Đinh Kiến, Lý Tư Thận
 
 Sau đó, Tư mã Quế Châu là Tào Huyền Tĩnh đem quân vào An Nam, bắt Lý Tư Thận cùng những người cầm đầu, đem chém cả dưới thành An Nam; nhà sử học K. W. Taylor ghi Đinh Kiến bị giết trong lần ấy. Đây là một trong những biến động lớn đầu tiên của An Nam đô hộ phủ; vài chục năm sau, năm 722, nổ ra cuộc khởi nghĩa của Mai Thúc Loan.
 
+## Ôn tập
+
+1. Năm 679, nhà Đường lập đô hộ phủ nào và đặt trị sở ở đâu?
+   - [ ] Giao Châu đô hộ phủ, đặt ở Quảng Châu
+   - [x] An Nam đô hộ phủ, đặt ở Tống Bình
+   - [ ] An Nam đô hộ phủ, đặt ở Quế Châu
+
+   Năm 679, nhà Đường lập An Nam đô hộ phủ thay cho Giao Châu đô hộ phủ, đặt trị sở ở Tống Bình, khu vực Hà Nội ngày nay. [Xem lại](#an-nam)
+
+2. Vì sao người dân dưới quyền Lý Tự Tiên chống lại năm 687?
+   - [ ] Viên đô hộ cấm họ ra khỏi làng
+   - [x] Viên đô hộ Lưu Diên Hựu bỏ lệ cũ nộp nửa mức thuế, bắt nộp đủ thuế
+   - [ ] Viên đô hộ bắt họ đi lính xa nhà
+
+   Lưu Diên Hựu bỏ lệ cũ, bắt nộp đủ thuế; người dân dưới quyền Lý Tự Tiên không chịu theo. [Xem lại](#thue)
+
+3. Ai giết Lưu Diên Hựu khi phủ thành An Nam ở Tống Bình bị vây?
+   - [ ] Lý Tự Tiên
+   - [ ] Đinh Kiến
+   - [x] Lý Tư Thận
+   - [ ] Tào Huyền Tĩnh
+
+   Quân nổi dậy hạ được phủ thành; Lưu Diên Hựu bị Lý Tư Thận giết. [Xem lại](#tong-binh)
+
 ## Nguồn tham khảo
 
 - “Lý Tự Tiên”, Wikipedia tiếng Việt — An Nam đô hộ phủ lập năm 679, Lưu Diên Hựu bắt nộp đủ thuế thay vì một nửa, Lý Tự Tiên bị giết, Đinh Kiến tiếp tục và giết Lưu Diên Hựu, quê quán chưa rõ (dẫn Nguyễn Khắc Thuần, Danh tướng Việt Nam, tập 4): https://vi.wikipedia.org/wiki/L%C3%BD_T%E1%BB%B1_Ti%C3%AAn

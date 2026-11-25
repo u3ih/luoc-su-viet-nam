@@ -46,6 +46,30 @@ Ngày 14 tháng 3, ở Cam Ranh, Tổng thống Thiệu ra lệnh rút toàn b�
 
 Cùng lúc, ở phía bắc, tỉnh Quảng Trị bị chiếm chiều 19 tháng 3. Ngày 24 – 25 tháng 3, các trung đoàn từ phía nam đánh vào Huế; chiều 25, các mục tiêu chính trong thành phố, cả Đại Nội, đổi chủ, quân phòng giữ rút ra biển qua cửa Thuận An, Tư Hiền. Đà Nẵng, thành phố gần một triệu dân và căn cứ quân sự lớn nhất miền Nam, chìm trong hỗn loạn khi binh sĩ, dân chúng tìm đường xuống tàu. Sáng 29 tháng 3, các chốt trên đèo Hải Vân bị tràn ngập; trong ngày, Đà Nẵng bị chiếm. Một tháng sau là ngày 30 tháng 4.
 
+## Ôn tập
+
+1. Ngày 12 tháng 12 năm 1974, Quân đoàn 4 Quân đội Nhân dân Việt Nam đánh Phước Long nhằm mục đích gì?
+   - [ ] Mở đường nối Tây Nguyên với biển
+   - [x] Thử phản ứng của Mỹ và thử sức chiến đấu của quân đội Sài Gòn
+   - [ ] Chặn đường rút lui của quân đội Sài Gòn
+
+   Hà Nội muốn thử xem Mỹ có giữ lời hứa trả đũa của Nixon hay không, và thử sức chiến đấu của quân đội Sài Gòn. [Xem lại](#phuoc-long)
+
+2. Chiến dịch Tây Nguyên (mật danh 275) dựa chủ yếu vào yếu tố nào?
+   - [ ] Tiến công đồng loạt trên mọi mặt trận
+   - [ ] Cố thủ lâu dài ở Pleiku và Kon Tum
+   - [x] Nghi binh và bất ngờ
+   - [ ] Chờ viện trợ từ nước ngoài
+
+   Chiến dịch dựa trên nghi binh và bất ngờ: các đòn đánh vào Pleiku, Kon Tum kéo quân Việt Nam Cộng hoà lên phía bắc, rồi Buôn Ma Thuột bị đánh. [Xem lại](#buon-ma-thuot)
+
+3. Ngày 14 tháng 3 năm 1975, Tổng thống Thiệu ra lệnh gì?
+   - [x] Rút toàn bộ quân khỏi Tây Nguyên về giữ duyên hải
+   - [ ] Tăng thêm quân cho Tây Nguyên để giữ Pleiku
+   - [ ] Đàm phán đình chiến ở Cam Ranh
+
+   Tổng thống Thiệu ra lệnh rút quân khỏi Tây Nguyên về giữ duyên hải; cuộc rút quân theo đường số 7 được lên kế hoạch vội vã. [Xem lại](#duong-so-7)
+
 ## Nguồn tham khảo
 
 - “Battle of Phước Long”, Wikipedia tiếng Anh — 12/12/1974 – 6/1/1975, Quân đoàn 4, cách Sài Gòn khoảng 120 km, ba mục tiêu (thử phản ứng của Mỹ), Quốc hội Mỹ bác viện trợ của Ford: https://en.wikipedia.org/wiki/Battle_of_Ph%C6%B0%E1%BB%9Bc_Long

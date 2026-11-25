@@ -47,6 +47,29 @@ Luy Lâu là nơi Sĩ Nhiếp mở trường lớp dạy chữ Hán, và cũng l
 
 Sĩ Nhiếp mất năm 226, thọ 90 tuổi, sau hơn bốn mươi năm ở quận. Sử thần đời sau — Lê Văn Hưu, Ngô Sĩ Liên — khen ông giữ yên Giao Châu giữa thời Tam Quốc, Toàn thư còn chép riêng một kỷ gọi ông là Sĩ Vương; đời sau tôn ông là "Nam Giao học tổ". Cũng có những cách nhìn khác: Khâm định Việt sử thông giám cương mục bỏ kỷ Sĩ Vương vì ông là quan do triều đình phương Bắc cử, chưa từng xưng vương; Việt sử lược và một số nhà nghiên cứu hiện nay cho rằng việc học chữ ở Giao Chỉ đã có từ trước ông. Sau khi ông mất, con là Sĩ Huy tự xưng Thái thú; nhà Ngô sai Lữ Đại sang, bắt giết anh em Sĩ Huy.
 
+## Ôn tập
+
+1. Sĩ Nhiếp giữ chức gì và đóng trị sở ở đâu?
+   - [ ] Thái thú quận Cửu Chân, đóng ở Cổ Loa
+   - [x] Thái thú quận Giao Chỉ, đóng trị sở ở Luy Lâu
+   - [ ] Thứ sử Giao Châu, đóng ở Phong Châu
+
+   Luy Lâu nay thuộc Bắc Ninh. [Xem lại](#thai-thu)
+
+2. Luy Lâu nằm ở vị trí nào?
+   - [ ] Ven biển, cạnh cửa sông Bạch Đằng
+   - [ ] Trên núi cao ở vùng Tây Bắc
+   - [x] Giữa vùng giao nhau của sông Dâu và sông Đuống, trong đồng bằng Bắc Bộ
+
+   Thành hình chữ nhật, trước mặt là sông Dâu làm hào tự nhiên; thuyền buôn các nước thường xuyên có mặt. [Xem lại](#thanh-luy-lau)
+
+3. Luy Lâu còn nổi tiếng là nơi nào?
+   - [x] Trung tâm Phật giáo lớn, sớm nhất của người Việt, với trung tâm là chùa Dâu
+   - [ ] Nơi đúc trống đồng lớn nhất
+   - [ ] Nơi đặt kinh đô nhà Lý
+
+   Sĩ Nhiếp cũng mở trường lớp dạy chữ Hán ở đây. [Xem lại](#chua-dau)
+
 ## Nguồn tham khảo
 
 - "Sĩ Nhiếp", Wikipedia tiếng Việt — xuất thân, chức Thái thú, quan hệ với nhà Hán, Đông Ngô, nhận xét của Lê Văn Hưu, Ngô Sĩ Liên, năm mất, kết cục của họ Sĩ: https://vi.wikipedia.org/wiki/S%C4%A9_Nhi%E1%BA%BFp

@@ -47,6 +47,29 @@ Bài thơ thất ngôn bát cú gồm 56 chữ Hán, khắc liền một mạch 
 
 Năm 1729, chúa Trịnh Cương đem quân tuần qua, đọc bài thơ cũ, họa lại một bài thất ngôn bát cú theo vần bài trước; bài này khắc lối chữ hành trên vách đá nghiêng nên đến nay còn rõ. Năm 1910, Tuần phủ Quảng Yên Nguyễn Cẩn khắc thêm một bài; đầu thế kỷ XX còn chín bài nữa — cả thảy mười hai bài thơ trên vách đá. Ngày 31 tháng 8 năm 1992, cụm di tích núi Bài Thơ được xếp hạng di tích lịch sử, danh thắng quốc gia.
 
+## Ôn tập
+
+1. Năm 1468, Lê Thánh Tông cho đóng sáu quân dưới chân núi nào rồi mài đá khắc thơ?
+   - [ ] Núi Bài Thơ
+   - [x] Núi Truyền Đăng
+   - [ ] Núi Rọi Đèn Nam
+
+   Truyền Đăng sơn có tên Nôm là núi Rọi Đèn; về sau núi mang tên núi Bài Thơ vì bài thơ khắc trên vách đá. [Xem lại](#tuan-du)
+
+2. Bài thơ khắc trên vách đá núi Truyền Đăng có thể thức và độ dài thế nào?
+   - [ ] Thất ngôn tứ tuyệt, 28 chữ Hán
+   - [x] Thất ngôn bát cú, 56 chữ Hán
+   - [ ] Ngũ ngôn bát cú, 40 chữ Hán
+
+   Trước bài thơ là 49 chữ đề tựa; nay nhiều chữ đã mờ nhưng nhờ thư tịch cổ chép lại mà đọc được. [Xem lại](#khac-tho)
+
+3. Theo tương truyền, vì sao núi có tên Truyền Đăng?
+   - [ ] Vì có ngọn đèn biển do triều đình dựng
+   - [x] Vì xưa lính thú gác trên núi, hễ có giặc thì đốt lửa báo về kinh thành
+   - [ ] Vì vua từng thắp đèn đọc thơ ở đây
+
+   Núi Bài Thơ là ngọn núi đá vôi ven biển ở phường Hồng Gai, thuộc khu di sản vịnh Hạ Long. [Xem lại](#truyen-dang)
+
 ## Nguồn tham khảo
 
 - "Núi Bài Thơ", Wikipedia tiếng Việt — vị trí, độ cao, tên Truyền Đăng, lời đề tựa và bài thơ năm 1468, số chữ còn đọc được, bài họa của Trịnh Cương năm 1729, bài của Nguyễn Cẩn năm 1910, mười hai bài thơ, xếp hạng năm 1992: https://vi.wikipedia.org/wiki/N%C3%BAi_B%C3%A0i_Th%C6%A1

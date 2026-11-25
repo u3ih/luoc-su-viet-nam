@@ -46,6 +46,29 @@ Ngày 18 tháng 12 năm 1906, tuyến thứ tư khánh thành. Tuyến Thuỵ Kh
 
 Những năm 1984 – 1985, Công ty Xe điện Hà Nội thử làm tàu điện bánh hơi, chạy bằng lốp, lái bằng vô lăng, không cần đường ray; dư luận khen chê đều có. Thiếu vốn nâng cấp, việc thử nghiệm không thành công lắm. Năm 1991, cả tàu điện bánh sắt lẫn bánh hơi đều dừng hoạt động sau chín mươi năm.
 
+## Ôn tập
+
+1. Ba tuyến tàu điện đầu tiên cùng xuất phát từ đâu?
+   - [ ] Từ ga Hà Nội
+   - [ ] Từ cầu Long Biên
+   - [x] Từ quảng trường Cocotier bên bờ hồ
+
+   Ba tuyến đi làng Bạch Mai, làng Giấy và làng Kinh Lược (Thái Hà ấp). [Xem lại](#do-an)
+
+2. Tuyến tàu điện nào được đưa vào khai thác ngày 10 tháng 11 năm 1901?
+   - [x] Tuyến bờ hồ đi Cầu Giấy
+   - [ ] Tuyến Yên Phụ – Đồng Lầm
+   - [ ] Tuyến đi Bạch Mai
+
+   Tàu đã chạy thử tuyến này từ ngày 13 tháng 9 năm 1900. [Xem lại](#khanh-thanh)
+
+3. Tàu điện Hà Nội dừng hoạt động hẳn khi nào?
+   - [ ] Năm 1943, khi nối tới nhà thương Bạch Mai
+   - [ ] Năm 1954
+   - [x] Năm 1991, sau chín mươi năm
+
+   Cả tàu điện bánh sắt lẫn bánh hơi đều dừng hoạt động. [Xem lại](#dung-lai)
+
 ## Nguồn tham khảo
 
 - “Tàu điện Hà Nội (1901–1991)”, Wikipedia tiếng Việt — đồ án Krug, nghị định ngày 24/1/1896, ba tuyến công bố ngày 4/5/1899, chạy thử 13/9/1900, khai thác 10/11/1901, tuyến 4 ngày 18/12/1906, kéo dài tới chợ Bưởi, Hà Đông năm 1915, tuyến Yên Phụ năm 1929 và 1943, năm tuyến 30,4 km, giá vé năm 1902, tàu điện bánh hơi 1984 – 1985, dừng năm 1991: https://vi.wikipedia.org/wiki/T%C3%A0u_%C4%91i%E1%BB%87n_H%C3%A0_N%E1%BB%99i_(1901%E2%80%931991)

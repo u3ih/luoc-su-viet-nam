@@ -47,6 +47,29 @@ Cồng chiêng gắn với mọi lễ hội trong năm: lễ thổi tai cho tr�
 
 Ngày 25 tháng 11 năm 2005, tại trụ sở UNESCO ở Paris, hồ sơ Không gian văn hóa Cồng chiêng Tây Nguyên được thông qua và công nhận là kiệt tác truyền khẩu và di sản văn hóa phi vật thể nhân loại. Năm 2008, di sản được đưa vào danh sách di sản văn hóa phi vật thể đại diện của nhân loại.
 
+## Ôn tập
+
+1. Cồng khác chiêng ở điểm nào?
+   - [x] Cồng có núm ở giữa, chiêng có mặt phẳng không núm
+   - [ ] Cồng có mặt phẳng không núm, chiêng có núm ở giữa
+   - [ ] Cồng và chiêng đều có núm ở giữa
+
+   Không gian văn hóa Cồng chiêng gồm cồng (loại có núm ở giữa) và chiêng (loại mặt phẳng không núm). [Xem lại](#cong-chieng)
+
+2. Ê Đê và Gia Rai thuộc ngữ hệ nào trong số 17 cộng đồng của di sản?
+   - [ ] Nam Á
+   - [x] Nam Đảo
+   - [ ] Hán – Tạng
+
+   Di sản gồm 17 cộng đồng thuộc hai ngữ hệ: Nam Á (Ba Na, Xơ Đăng, Cơ Ho…) và Nam Đảo (Ê Đê, Gia Rai, Raglai, Chu Ru…). [Xem lại](#buon-lang)
+
+3. Ngày 25 tháng 11 năm 2005, UNESCO công nhận Không gian văn hóa Cồng chiêng Tây Nguyên là gì?
+   - [ ] Di sản văn hóa vật thể của nhân loại
+   - [ ] Di sản thiên nhiên thế giới
+   - [x] Kiệt tác truyền khẩu và di sản văn hóa phi vật thể của nhân loại
+
+   Hồ sơ được thông qua tại trụ sở UNESCO ở Paris; năm 2008, di sản được đưa vào danh sách di sản văn hóa phi vật thể đại diện của nhân loại. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Không gian văn hóa cồng chiêng Tây Nguyên", Wikipedia tiếng Việt — thành phần di sản, 17 cộng đồng, các tỉnh, lễ hội, tín ngưỡng, giả thuyết nguồn gốc, UNESCO 2005 và 2008: https://vi.wikipedia.org/wiki/Kh%C3%B4ng_gian_v%C4%83n_h%C3%B3a_c%E1%BB%93ng_chi%C3%AAng_T%C3%A2y_Nguy%C3%AAn

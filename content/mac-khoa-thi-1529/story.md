@@ -47,6 +47,29 @@ Năm 1532 mở khoa thi, lấy Nguyễn Thiến, Bùi Vinh, Ngô Sơn Khoái… 
 
 Tên các tiến sĩ đỗ dưới triều Mạc cũng được khắc trên bia đá ở Văn Miếu – Quốc Tử Giám. Năm 2010, 82 tấm bia tiến sĩ Văn Miếu – Quốc Tử Giám được UNESCO ghi danh là di sản tư liệu thế giới.
 
+## Ôn tập
+
+1. Sau khoa thi năm 1529, nhà Mạc tổ chức thi theo nhịp nào?
+   - [ ] Mỗi năm một khoa
+   - [x] Ba năm một khoa
+   - [ ] Mười năm một khoa
+
+   Các năm 1532, 1535, 1538 đều mở khoa thi, tức ba năm một khoa. [Xem lại](#cac-khoa)
+
+2. Năm 1535, ai đỗ đầu khoa thi của nhà Mạc?
+   - [ ] Giáp Hải
+   - [ ] Đỗ Tông
+   - [x] Nguyễn Bỉnh Khiêm
+
+   Khoa năm 1535 lấy Nguyễn Bỉnh Khiêm đỗ đầu, tổng cộng 32 người; khoa năm 1538 lấy Giáp Hải đỗ đầu. [Xem lại](#cac-khoa)
+
+3. Tên các tiến sĩ đỗ dưới triều Mạc được ghi lại ở đâu?
+   - [x] Khắc trên bia đá ở Văn Miếu – Quốc Tử Giám
+   - [ ] Bị xoá khỏi các bia tiến sĩ
+   - [ ] Chỉ ghi trong sổ sách của triều đình
+
+   Tên các tiến sĩ triều Mạc cũng được khắc trên bia đá ở Văn Miếu – Quốc Tử Giám. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Mạc Đăng Dung", Wikipedia tiếng Việt — định lại phép tắc năm 1528, khoa thi lấy Đỗ Tông và 27 người, truyền ngôi năm 1529, các khoa 1532, 1535, 1538: https://vi.wikipedia.org/wiki/M%E1%BA%A1c_%C4%90%C4%83ng_Dung

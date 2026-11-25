@@ -46,6 +46,30 @@ Pháp cho binh đoàn của trung tá Le Page từ Thất Khê đánh lên, đó
 
 Theo các nguồn tiếng Anh, trong hơn 6.000 lính và thường dân đi theo cuộc rút quân, chỉ khoảng 700 người về tới phòng tuyến Pháp; các sử gia phương Tây ước quân Pháp mất khoảng 4.800 người chết và mất tích, còn phía Việt Nam công bố khoảng 1.000 người hy sinh, 1.550 bị thương. Ngày 17 tháng 10, quân Pháp bỏ Lạng Sơn, rồi các đồn phía nam trên đường số 4. Chiến dịch kết thúc ngày 14 tháng 10; Việt Nam Dân chủ Cộng hoà làm chủ phần lớn tuyến biên giới, mở đường nhận viện trợ từ các nước xã hội chủ nghĩa.
 
+## Ôn tập
+
+1. Chiến dịch Biên giới 1950 diễn ra chủ yếu dọc con đường nào?
+   - [ ] Đường số 1
+   - [ ] Đường số 5
+   - [x] Đường số 4
+
+   Quân Pháp đặt các đồn Đồng Đăng, Na Sầm, Thất Khê, Đông Khê, Cao Bằng dọc đường số 4 để cắt Việt Bắc khỏi biên giới. [Xem lại](#duong-so-4)
+
+2. Trận mở màn của chiến dịch đánh vào cứ điểm nào?
+   - [ ] Cao Bằng
+   - [ ] Lạng Sơn
+   - [ ] Thất Khê
+   - [x] Đông Khê
+
+   Ngày 16 tháng 9 năm 1950, trung đoàn 174 và 209 mở màn đánh cứ điểm Đông Khê; ngày 18 tháng 9 Đông Khê thất thủ, Cao Bằng bị cô lập. [Xem lại](#dong-khe)
+
+3. Kết quả của chiến dịch về mặt biên giới là gì?
+   - [x] Việt Nam Dân chủ Cộng hoà làm chủ phần lớn tuyến biên giới, mở đường nhận viện trợ
+   - [ ] Quân Pháp giữ vững toàn bộ các đồn trên đường số 4
+   - [ ] Biên giới vẫn bị cắt khỏi Việt Bắc như trước
+
+   Chiến dịch kết thúc ngày 14 tháng 10; quân Pháp bỏ Lạng Sơn rồi các đồn phía nam trên đường số 4. [Xem lại](#khai-thong)
+
 ## Nguồn tham khảo
 
 - “Chiến dịch Biên giới 1950”, Wikipedia tiếng Việt — thời gian 16/9 – 14/10/1950, bối cảnh công nhận ngoại giao, hệ thống đồn trên đường số 4 dài 116 km, Hồ Chí Minh ra mặt trận 2/9, Đông Khê 16/9 (khoảng 350 quân giữ, thất thủ sau 54 giờ), các binh đoàn Le Page và Charton (Charton rời Cao Bằng sáng 3/10): https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Bi%C3%AAn_gi%E1%BB%9Bi_1950

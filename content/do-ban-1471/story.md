@@ -66,6 +66,30 @@ Năm 1474, nhà Minh cử Trần Tuấn đến tìm hiểu sự việc và tìm 
 
 Bài tham khảo cũng ghi các nước Lan Xang, Ayutthaya, Campuchia lo sợ trước nguy cơ chiến tranh với Đại Việt; sau đó Đại Việt đánh Lan Xang trong những năm 1478–1480.
 
+## Ôn tập
+
+1. Ai thân chinh dẫn quân Đại Việt vây thành Đồ Bàn năm 1471?
+   - [ ] Đinh Liệt
+   - [x] Lê Thánh Tông
+   - [ ] Phạm Văn Hiển
+
+   Ngày 16 tháng 11 âm lịch năm 1470, Lê Thánh Tông thân hành đốc suất mười lăm vạn thuỷ quân; Đinh Liệt và Lê Niệm dẫn quân đi trước. [Xem lại](#xuat-quan)
+
+2. Theo bài tham khảo, sự kiện nào xảy ra năm 1470 trước khi Đại Việt xuất quân?
+   - [x] Vua Chiêm Thành là Trà Toàn đem quân đánh úp châu Hoá
+   - [ ] Nhà Minh cử Trần Tuấn đến tìm hiểu sự việc
+   - [ ] Bố Trì Trì được phong vương
+
+   Phạm Văn Hiển giữ thành, không địch nổi, đóng cửa thành và cho người cấp báo về kinh đô. Việc nhà Minh cử Trần Tuấn là năm 1474. [Xem lại](#nguyen-nhan)
+
+3. Sau năm 1471, phần phía bắc của Chiêm Thành, từ đèo Hải Vân – Đà Nẵng đến đèo Cù Mông – Phú Yên, thuộc về ai?
+   - [ ] Nhà Minh
+   - [ ] Vương quốc Lan Xang
+   - [x] Được sáp nhập vào Đại Việt
+   - [ ] Vương quốc của Bố Trì Trì
+
+   Đất Đại Chiêm và Cổ Luỹ do quan Đại Việt quản lý; phần còn lại của Chiêm Thành chia thành ba tiểu quốc. [Xem lại](#hau-qua)
+
 ## Nguồn tham khảo
 
 - "Chiến tranh Việt – Chiêm (1471)", Wikipedia tiếng Việt — nguyên nhân, diễn biến, hậu quả, phản ứng các nước: https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Vi%E1%BB%87t_%E2%80%93_Chi%C3%AAm_%281471%29

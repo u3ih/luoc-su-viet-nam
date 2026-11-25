@@ -46,6 +46,29 @@ Trong khoảng mười năm, Thơ mới có những gương mặt như Thế L�
 
 Năm 1942, hai anh em Hoài Thanh và Hoài Chân in Thi nhân Việt Nam, hợp tuyển đầu tiên của Thơ mới: 169 bài của 46 nhà thơ trong khoảng 1932 – 1941, dành "ghế danh dự" cho Tản Đà. Bài mở đầu, "Một thời đại trong thi ca", bàn về nguồn gốc, cuộc tranh luận thơ mới – thơ cũ và tinh thần của Thơ mới. Nhà phê bình Vũ Ngọc Phan coi Phan Khôi là người khởi xướng trước nhất.
 
+## Ôn tập
+
+1. Ai đăng bài thơ "Tình già" dịp Tết Nhâm Thân 1932, đề xuất một lối thơ mới không theo niêm luật?
+   - [ ] Xuân Diệu
+   - [x] Phan Khôi
+   - [ ] Hoài Thanh
+
+   Ông đăng bài "Một lối thơ mới trình chánh giữa làng thơ" trên báo Đông Tây, cho rằng niêm luật làm bó buộc việc diễn đạt. [Xem lại](#tinh-gia)
+
+2. Đặc điểm nào đúng với lối thơ mới?
+   - [ ] Viết bằng chữ Hán, theo niêm luật chặt chẽ
+   - [ ] Chỉ gồm những bài thơ theo thể song thất lục bát
+   - [x] Viết bằng chữ quốc ngữ, bỏ niêm luật chặt chẽ, dùng lời ăn tiếng nói hằng ngày, chịu ảnh hưởng thơ Pháp
+
+   Thơ mới cũng đem vào thơ Việt cái "tôi" cá nhân và nhiều thể thơ tự do. [Xem lại](#tranh-luan)
+
+3. Năm 1942, hai anh em Hoài Thanh và Hoài Chân làm gì?
+   - [x] In Thi nhân Việt Nam, hợp tuyển đầu tiên của Thơ mới
+   - [ ] Lập báo Phong Hóa để đăng Thơ mới
+   - [ ] Đăng bài "Tình già" trên Phụ nữ tân văn
+
+   Hợp tuyển gồm 169 bài của 46 nhà thơ trong khoảng 1932 – 1941, dành "ghế danh dự" cho Tản Đà. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Tình già", Wikipedia tiếng Việt — bài "Một lối thơ mới trình chánh giữa làng thơ" trên báo Đông Tây Tết Nhâm Thân 1932, Phụ nữ tân văn ngày 10/3/1932, nội dung bài thơ, Thượng Minh (17/2/1932), Phan Khôi đáp (12/3/1932), Phong Hóa đăng lại năm 1933, nhận xét của Vũ Ngọc Phan: https://vi.wikipedia.org/wiki/T%C3%ACnh_gi%C3%A0

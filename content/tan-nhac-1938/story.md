@@ -46,6 +46,29 @@ Tháng 3 năm 1938, Nguyễn Văn Tuyên nói chuyện ở Hội Trí Tri Hà N�
 
 Từ đầu năm 1939, bản nhạc được bày bán ở các hiệu sách; tân nhạc Việt Nam chính thức hình thành. Nhiều nhóm nhạc ra đời, nhiều ca khúc trữ tình lãng mạn với lời ca giàu chất văn học; dòng nhạc này thường được gọi là “nhạc tiền chiến”. Giới trẻ, sinh viên, trí thức đón nhận nồng nhiệt, nhưng cũng có người chỉ trích lối nhạc mới.
 
+## Ôn tập
+
+1. Ai từ Sài Gòn ra Huế, Hà Nội, Hải Phòng, Nam Định để hát và giới thiệu "âm nhạc cải cách" năm 1938?
+   - [ ] Lê Thương
+   - [ ] Nguyễn Xuân Khoát
+   - [x] Nguyễn Văn Tuyên
+
+   Thống đốc Nam Kỳ Pagès tài trợ cho chuyến đi này. [Xem lại](#nguyen-van-tuyen)
+
+2. Đầu thập niên 1930, thanh niên thành thị làm gì với các bài hát Pháp họ yêu thích?
+   - [x] Chuyển lời Việt cho các bài hát ấy
+   - [ ] Chuyển các bài hát ấy sang chữ Hán
+   - [ ] Chỉ hát trong nhà thờ
+
+   Âm nhạc phương Tây vào Việt Nam trước hết qua thánh ca trong nhà thờ; các nghệ sĩ còn thu đĩa "bài ta theo điệu tây". [Xem lại](#chuan-bi)
+
+3. Dòng ca khúc trữ tình lãng mạn xuất hiện từ năm 1939 thường được gọi là gì?
+   - [ ] Thánh ca
+   - [x] Nhạc tiền chiến
+   - [ ] Nhạc cung đình
+
+   Từ đầu năm 1939, bản nhạc được bày bán ở các hiệu sách và tân nhạc Việt Nam chính thức hình thành. [Xem lại](#tien-chien)
+
 ## Nguồn tham khảo
 
 - “Tân nhạc Việt Nam”, Wikipedia tiếng Việt — thánh ca, phong trào chuyển lời bài hát Pháp, Ái Liên và Kim Thoa, nhóm Tricéa, các ca khúc 1935 – 1937, nhận định của Phạm Duy, Nguyễn Văn Tuyên và hội Hiếu nhạc, Nguyễn Văn Cổn, thống đốc Pagès, các buổi nói chuyện ở Hội Trí Tri Hà Nội và Hải Phòng, rạp Palace và “Bông cúc vàng”, báo Ngày nay số 121, 122 năm 1938, bản nhạc bán từ đầu 1939, nhạc tiền chiến: https://vi.wikipedia.org/wiki/T%C3%A2n_nh%E1%BA%A1c_Vi%E1%BB%87t_Nam

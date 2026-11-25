@@ -47,6 +47,29 @@ N'Trang Lơng tạm lánh vào vùng nguồn Đắk Huich, nơi phong trào ch�
 
 Đầu tháng 8 năm 1914, N'Trang Lơng nhắn sẽ thương thuyết với Henri Maitre ở làng Bou Pou Sra. Sáng 5 tháng 8 năm 1914, trong buổi gặp, ông cùng các thủ lĩnh R'Dinh, R'Ong, Bơ Ning, Bơ Rơi giết chết Maitre; nghĩa quân bên ngoài tiêu diệt toán lính hộ vệ. Cuộc nổi dậy kéo dài đến năm 1935, năm ông mất. Di tích N'Trang Lơng ở Đắk Nông nay là di tích lịch sử – văn hóa cấp quốc gia.
 
+## Ôn tập
+
+1. N'Trang Lơng là tù trưởng của dân tộc nào?
+   - [ ] Ê Đê
+   - [ ] Rơhong
+   - [x] M'Nông
+
+   Ông sinh năm 1870, mất năm 1935; tên ông có nhiều cách ghi, năm 2009 tỉnh Đắk Nông thống nhất ghi là N'Trang Lơng. [Xem lại](#ten-goi)
+
+2. Sau khi đồn Pu Sra bị nghĩa quân xoá sổ, Henri Maitre làm gì?
+   - [ ] Rút khỏi cao nguyên M'Nông
+   - [x] Trở lại để trả đũa, đưa quân hành quân, đốt phá khắp vùng
+   - [ ] Mời N'Trang Lơng sang Pháp
+
+   Trong mấy tháng mùa khô năm 1913, nghĩa quân bị dồn vào cảnh đói khổ trong rừng núi. [Xem lại](#pu-sra)
+
+3. Cuộc nổi dậy do N'Trang Lơng lãnh đạo kéo dài đến năm nào?
+   - [ ] 1914
+   - [ ] 1920
+   - [x] 1935
+
+   Sáng 5 tháng 8 năm 1914, ông cùng các thủ lĩnh giết chết Maitre ở làng Bou Pou Sra; cuộc nổi dậy kéo dài đến năm ông mất. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "N'Trang Lơng", Wikipedia tiếng Việt — tên gọi, đồn Pu Sra, Henri Maitre, Đắk Huich, Bu Luk Amprah, trận Bu Nor ngày 5 tháng 8 năm 1914, di tích: https://vi.wikipedia.org/wiki/N%27Trang_L%C6%A1ng

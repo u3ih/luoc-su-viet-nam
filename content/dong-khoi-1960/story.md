@@ -46,6 +46,29 @@ Từ Mỏ Cày, phong trào sang Giồng Trôm do bà Nguyễn Thị Định lã
 
 Tháng 6 năm 1960, phong trào được phát động trên toàn miền Nam; đến cuối năm, nhiều làng xã ở đồng bằng sông Cửu Long, Tây Nguyên, duyên hải Trung Bộ đã thoát khỏi chính quyền Việt Nam Cộng hoà ở cơ sở. Ngày 20 tháng 12 năm 1960, Mặt trận Dân tộc Giải phóng miền Nam Việt Nam được thành lập ở Tây Ninh. Chính quyền Việt Nam Cộng hoà và Hoa Kỳ coi Mặt trận là công cụ của miền Bắc; nhiều tài liệu về sau xác nhận Mặt trận hoạt động dưới sự lãnh đạo chính trị, quân sự của miền Bắc. Ngày 17 tháng 1 được Bến Tre lấy làm ngày kỷ niệm Đồng khởi.
 
+## Ôn tập
+
+1. Rạng sáng 17 tháng 1 năm 1960, người dân ba xã Định Thuỷ, Phước Hiệp, Bình Khánh nổi dậy. Ba xã này thuộc huyện nào của Bến Tre?
+   - [x] Mỏ Cày
+   - [ ] Ba Tri
+   - [ ] Thạnh Phú
+
+   Ban lãnh đạo tỉnh quyết định một tuần lễ đồng khởi từ ngày 17 đến 25 tháng 1; ba xã ở huyện Mỏ Cày nổi dậy trước, rồi phong trào lan ra các xã khác. [Xem lại](#mo-cay)
+
+2. Cái tên “đội quân tóc dài” về sau dùng để chỉ ai?
+   - [ ] Trung đội giải phóng quân đầu tiên của Bến Tre
+   - [ ] Lực lượng hành quân vào ba xã Mỏ Cày
+   - [x] Những đoàn phụ nữ đấu tranh chính trị
+
+   Tháng 3 năm 1960, hơn 7.000 phụ nữ Giồng Trôm kéo đến phản đối các cuộc hành quân; những đoàn phụ nữ như thế về sau được gọi là “đội quân tóc dài”. [Xem lại](#toc-dai)
+
+3. Ngày 20 tháng 12 năm 1960, ở Tây Ninh có sự kiện nào?
+   - [ ] Ban lãnh đạo tỉnh Bến Tre họp và quyết định đồng khởi
+   - [x] Mặt trận Dân tộc Giải phóng miền Nam Việt Nam được thành lập
+   - [ ] Trung đội giải phóng quân đầu tiên của Bến Tre được lập
+
+   Từ Bến Tre, phong trào lan ra toàn miền Nam; cuối năm 1960, Mặt trận Dân tộc Giải phóng miền Nam Việt Nam được thành lập ở Tây Ninh. [Xem lại](#mat-tran)
+
 ## Nguồn tham khảo
 
 - “Đồng Khởi Movement”, Wikipedia tiếng Anh — Hội nghị 15 (1/1959), Luật 10/59 ngày 6/5/1959, Bác Ái, Trà Bồng, hội nghị Tân Trung 2/1/1960, ba xã Mỏ Cày 17/1/1960, trung đội đầu tiên ở Bình Khánh, 47 xã trong một tuần, Nguyễn Thị Định, các cuộc hành quân tháng 2 – 3, hơn 7.000 phụ nữ Giồng Trôm, phát động toàn miền tháng 6, Mặt trận 20/12/1960: https://en.wikipedia.org/wiki/%C4%90%E1%BB%93ng_Kh%E1%BB%9Fi_Movement

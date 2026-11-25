@@ -46,6 +46,30 @@ Tín ngưỡng thờ Mẫu thể hiện rõ nhất qua nghi lễ hầu đồng: 
 
 Lúc 21 giờ 15 ngày 1 tháng 12 năm 2016 (giờ Việt Nam), tại phiên họp lần thứ 11 của Uỷ ban Liên chính phủ về bảo vệ di sản văn hoá phi vật thể ở Addis Ababa, Ethiopia, di sản "Thực hành Tín ngưỡng thờ Mẫu Tam phủ của người Việt" ở 14 tỉnh được ghi danh vào Danh sách di sản văn hoá phi vật thể đại diện của nhân loại.
 
+## Ôn tập
+
+1. Tín ngưỡng thờ Mẫu tôn thờ hình tượng nào?
+   - [ ] Các vị vua khai quốc
+   - [x] Người Mẹ, với quyền năng sinh sôi, bảo trợ, che chở con người
+   - [ ] Các vị tổ nghề thủ công
+
+   Đây là tín ngưỡng bản địa lâu đời của người Việt, bắt nguồn từ tục thờ nữ thần rất xa xưa. [Xem lại](#nu-than)
+
+2. Nghi lễ nào thể hiện rõ nhất tín ngưỡng thờ Mẫu?
+   - [ ] Lễ rước kiệu quanh làng
+   - [ ] Lễ cầu mưa
+   - [x] Hầu đồng, với hát văn của cung văn
+
+   Người thực hành hoá trang thành các vị thánh và múa theo lời hát văn; mỗi giá hầu có trang phục riêng. [Xem lại](#hau-dong)
+
+3. UNESCO ghi danh Thực hành Tín ngưỡng thờ Mẫu Tam phủ của người Việt ở đâu và vào năm nào?
+   - [ ] Paris (Pháp), năm 2010
+   - [ ] Addis Ababa (Ethiopia), năm 2012
+   - [x] Addis Ababa (Ethiopia), năm 2016
+   - [ ] Paris (Pháp), năm 2016
+
+   Ngày 1 tháng 12 năm 2016, tại phiên họp lần thứ 11 của Uỷ ban Liên chính phủ, di sản ở 14 tỉnh được ghi danh. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Thờ Mẫu", Wikipedia tiếng Việt — định nghĩa tín ngưỡng thờ Mẫu, nguồn gốc từ tục thờ nữ thần, các Quốc mẫu, Vương mẫu, Thánh mẫu, Tam phủ – Tứ phủ định hình từ khoảng thế kỷ XV, Thánh Mẫu Liễu Hạnh, Mẫu Thượng Ngàn, Mẫu Thoải, vị trí Mẫu đệ nhất Thượng Thiên, đền ở cửa sông cửa biển, Phủ Dầy, nghi lễ hầu đồng và hát văn, UNESCO ghi danh tối 1/12/2016 ở Addis Ababa, 14 tỉnh: https://vi.wikipedia.org/wiki/Th%E1%BB%9D_M%E1%BA%ABu

@@ -46,6 +46,29 @@ Chiều 13 tháng 3, pháo binh mở màn, bộ binh đánh cụm Béatrice (đ�
 
 Chiều 7 tháng 5 năm 1954, Quân đội Nhân dân Việt Nam tổng công kích vào khu trung tâm Mường Thanh; khoảng 17 giờ, đại đội của Tạ Quốc Luật vào hầm chỉ huy, tướng de Castries và ban tham mưu bị bắt. 11.721 người phía Liên hiệp Pháp bị bắt làm tù binh. Phía Việt Nam công bố 4.020 người hy sinh, 9.118 bị thương, 792 mất tích; phía Pháp ước khoảng 8.000 người chết, 15.000 bị thương. Ngày 21 tháng 7, Hiệp định Genève được ký: Pháp rút quân khỏi Đông Dương, Việt Nam tạm chia ở vĩ tuyến 17, dự kiến tổng tuyển cử thống nhất vào tháng 7 năm 1956; Hoa Kỳ và Quốc gia Việt Nam không chấp nhận bản tuyên bố cuối cùng của hội nghị.
 
+## Ôn tập
+
+1. Đại tá de Castries dựng tập đoàn cứ điểm ở đâu?
+   - [x] Lòng chảo Mường Thanh
+   - [ ] Đồi Him Lam
+   - [ ] Đỉnh Pha Sông
+
+   Pháp thả và chở khoảng 9.000 quân xuống lòng chảo Mường Thanh có sân bay cũ thời Nhật, rồi dựng tập đoàn cứ điểm. [Xem lại](#long-chao)
+
+2. Ngày 26 tháng 1 năm 1954, tướng Võ Nguyên Giáp đổi phương châm như thế nào?
+   - [ ] Từ "đánh chắc tiến chắc" sang "đánh nhanh thắng nhanh"
+   - [x] Từ "đánh nhanh thắng nhanh" sang "đánh chắc tiến chắc"
+   - [ ] Từ phòng ngự sang rút quân
+
+   Ông hoãn trận đánh đã định và cho kéo pháo ra, đặt lại vào các hầm trên sườn núi. [Xem lại](#keo-phao)
+
+3. Điều gì xảy ra chiều 7 tháng 5 năm 1954?
+   - [ ] Hiệp định Genève được ký
+   - [x] Tướng de Castries và ban tham mưu bị bắt ở khu trung tâm Mường Thanh
+   - [ ] Pháo binh mở màn trận đánh
+
+   Chiều 7 tháng 5, Quân đội Nhân dân Việt Nam tổng công kích khu trung tâm; hầm chỉ huy bị chiếm. [Xem lại](#ngay-7-5)
+
 ## Nguồn tham khảo
 
 - “Chiến dịch Điện Biên Phủ”, Wikipedia tiếng Việt — đường Tuần Giáo – Điện Biên 82 km, kéo pháo 15 km qua Pha Sông, quyết định 26/1/1954, hậu cần (261.451 dân công, 20.991 xe đạp thồ, 11.800 bè mảng), bộc phá khoảng một tấn nổ trên đồi A1 lúc 20 giờ 30 ngày 6/5, khoảng 17 giờ ngày 7/5 đơn vị Tạ Quốc Luật vào hầm de Castries, 11.721 tù binh: https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_%C4%90i%E1%BB%87n_Bi%C3%AAn_Ph%E1%BB%A7

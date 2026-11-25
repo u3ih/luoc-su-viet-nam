@@ -62,6 +62,29 @@ Trong năm 1887, các thủ lĩnh lần lượt mất: Phạm Bành mất, Hoàn
 
 Phía Pháp coi Ba Đình là trận đánh quan trọng nhất ở vùng này lúc ấy. Năm 1945, vườn hoa ở Hà Nội mang tên Ba Đình.
 
+## Ôn tập
+
+1. Ba Đình thuộc huyện Nga Sơn của tỉnh nào?
+   - [ ] Nghệ An
+   - [x] Thanh Hoá
+   - [ ] Ninh Bình
+
+   Các thủ lĩnh Cần Vương giao cho Phạm Bành, Đinh Công Tráng và Hoàng Bật Đạt xây căn cứ ở Ba Đình, huyện Nga Sơn, tỉnh Thanh Hoá. [Xem lại](#dong-bien)
+
+2. Căn cứ Ba Đình gồm những làng nào?
+   - [ ] Đồng Biên, Mã Cao và Ba Đình
+   - [ ] Thượng Thọ, Đồng Biên và Mỹ Khê
+   - [x] Thượng Thọ, Mậu Thịnh và Mỹ Khê
+
+   Căn cứ gồm ba làng Thượng Thọ, Mậu Thịnh và Mỹ Khê; mỗi làng có một đồn. [Xem lại](#chien-luy)
+
+3. Sau khi quân Pháp chiếm được Ba Đình ngày 21 tháng 1 năm 1887, nghĩa quân làm gì?
+   - [x] Phá vây, rút về căn cứ Mã Cao
+   - [ ] Cố thủ ở Ba Đình thêm một tháng
+   - [ ] Đầu hàng toàn bộ
+
+   Nghĩa quân phá vây, rút về căn cứ Mã Cao; ngày 2 tháng 2 năm 1887 quân Pháp phá căn cứ này. [Xem lại](#mat-ba-dinh)
+
 ## Nguồn tham khảo
 
 - "Khởi nghĩa Ba Đình", Wikipedia tiếng Việt — hội ở Đồng Biên, căn cứ ba làng, vây hãm, mất Ba Đình, Mã Cao (bài có gắn thẻ thiếu chú thích nguồn): https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_Ba_%C4%90%C3%ACnh

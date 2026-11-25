@@ -46,6 +46,29 @@ Năm 1946, khi chiến tranh lan rộng, bảo tàng bị cướp phá, thư kh�
 
 Bảo tàng giữ hơn 2.000 hiện vật, trưng bày gần 400 tác phẩm có niên đại từ khoảng thế kỷ V đến thế kỷ XV, tìm thấy ở các đền tháp, thành luỹ Chăm từ Quảng Bình tới Bình Thuận và Tây Nguyên. Các phòng được xếp theo nơi tìm thấy hiện vật: Trà Kiệu, Mỹ Sơn, Đồng Dương, Tháp Mẫm và các vùng khác; tầng hai có phòng văn hoá Chăm đương đại.
 
+## Ôn tập
+
+1. Ai là người đề xuất dự án xây nhà bảo tàng cho cổ vật Chăm vào năm 1902?
+   - [ ] Charles Lemire
+   - [x] Henri Parmentier
+   - [ ] J. Y. Claeys
+
+   Năm 1902, nhà khảo cổ Henri Parmentier đề xuất dự án, do hai kiến trúc sư Delaval và Auclair thực hiện. [Xem lại](#suu-tap)
+
+2. Bảo tàng bên sông Hàn được khánh thành năm nào?
+   - [ ] 1902
+   - [ ] 1936
+   - [x] 1919
+
+   Khởi công năm 1915, đến năm 1919 công trình hoàn tất và khánh thành với 160 tác phẩm điêu khắc. [Xem lại](#xay-dung)
+
+3. Các tác phẩm trưng bày ở bảo tàng ngày nay có niên đại khoảng từ thế kỷ nào?
+   - [x] Từ thế kỷ V đến thế kỷ XV
+   - [ ] Từ thế kỷ I đến thế kỷ V
+   - [ ] Từ thế kỷ XV đến thế kỷ XIX
+
+   Bảo tàng giữ hơn 2.000 hiện vật, trưng bày gần 400 tác phẩm có niên đại từ khoảng thế kỷ V đến thế kỷ XV. [Xem lại](#ngay-nay)
+
 ## Nguồn tham khảo
 
 - “Bảo tàng Điêu khắc Chăm Đà Nẵng”, Wikipedia tiếng Việt — Charles Lemire, khai quật năm 1900, dự án của Henri Parmentier năm 1902 (Delaval, Auclair), khởi công 1915, khánh thành 1919 với 160 cổ vật, mở rộng 1927 – 1936 và tên Musée Henri Parmentier, cướp phá năm 1946 và thu hồi 150 món năm 1948, Nguyễn Bá Lăng, canh giữ trong chiến tranh nhờ Bảo tàng Guimet, mất cắp cuối thập niên 1980, nhà mới năm 2002, hơn 2.000 hiện vật và gần 400 tác phẩm trưng bày, cách bố trí các phòng: https://vi.wikipedia.org/wiki/B%E1%BA%A3o_t%C3%A0ng_%C4%90i%C3%AAu_kh%E1%BA%AFc_Ch%C4%83m_%C4%90%C3%A0_N%E1%BA%B5ng

@@ -46,6 +46,29 @@ Từ năm 1961 đến 1965, các xã phía bắc Củ Chi đào xong tuyến đ�
 
 Sau chiến tranh, địa đạo Bến Dược (xã An Nhơn Tây) được xếp hạng di tích lịch sử quốc gia ngày 29 tháng 4 năm 1979; địa đạo Bến Đình (xã Nhuận Đức), căn cứ của Huyện uỷ Củ Chi, được xếp hạng năm 2004. Ngày 12 tháng 2 năm 2016, khu di tích nhận bằng Di tích quốc gia đặc biệt; trong 20 năm, nơi đây đón hơn 20 triệu lượt khách.
 
+## Ôn tập
+
+1. Những đoạn hầm đầu tiên ở Củ Chi được đào vào năm nào, nhằm mục đích gì?
+   - [ ] Năm 1965, để chuẩn bị đánh vào Sài Gòn
+   - [x] Năm 1948, để ẩn nấp, cất giấu tài liệu, vũ khí khi quân Pháp càn quét
+   - [ ] Năm 1961, để làm đường giao thông giữa các xã
+
+   Mỗi làng đào hầm riêng, rồi vì cần đi lại giữa các làng, hầm được nối dần với nhau. [Xem lại](#ham-dau)
+
+2. Địa đạo Củ Chi có mấy tầng?
+   - [ ] Hai tầng
+   - [x] Ba tầng
+   - [ ] Bốn tầng
+
+   Tầng trên sâu khoảng 3 m, tầng giữa sâu 5 – 8 m, tầng dưới sâu 8 – 12 m. [Xem lại](#ba-tang)
+
+3. Ngày 12 tháng 2 năm 2016, khu di tích địa đạo Củ Chi nhận danh hiệu nào?
+   - [ ] Di sản thế giới của UNESCO
+   - [ ] Di tích lịch sử quốc gia
+   - [x] Di tích quốc gia đặc biệt
+
+   Trước đó, địa đạo Bến Dược được xếp hạng di tích quốc gia năm 1979 và địa đạo Bến Đình năm 2004. [Xem lại](#di-tich)
+
 ## Nguồn tham khảo
 
 - “Địa đạo Củ Chi”, Wikipedia tiếng Việt — khởi đầu năm 1948 ở Tân Phú Trung và Phước Vĩnh An, đường xương sống 1961 – 1965, khoảng 200 km năm 1965, ba tầng và độ sâu, cấu trúc, xuất phát năm 1968, Bến Dược, Bến Đình, di tích quốc gia đặc biệt 12/2/2016, 20 triệu lượt khách: https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Ba_%C4%91%E1%BA%A1o_C%E1%BB%A7_Chi

@@ -47,6 +47,29 @@ Hưng Đạo vương trở về Vạn Kiếp hiệu triệu quân sĩ, soạn b�
 
 Theo bài tham khảo, thuở ấy bài hịch được soạn để răn dạy tướng tá trong thái ấp của Hưng Đạo vương; nhờ được chép trong Đại Việt sử ký toàn thư mà hậu thế biết đến. Về sau, bài hịch được coi là một áng hùng văn; có nhiều dị bản khác cổ bản.
 
+## Ôn tập
+
+1. Theo bài tham khảo, khi vua Trần Nhân Tông hỏi có nên chịu hàng không, Hưng Đạo vương tâu đại ý thế nào?
+   - [ ] Nên hàng để cứu muôn dân
+   - [ ] Nên rút quân về Chi Lăng chờ thời
+   - [x] Nếu bệ hạ muốn hàng thì xin trước hết hãy chém đầu thần
+
+   Hưng Đạo vương nhắc đến tông miếu xã tắc; vua nghe vậy yên lòng. [Xem lại](#tau-vua)
+
+2. Hưng Đạo vương soạn Dụ chư tỳ tướng hịch văn ở đâu?
+   - [x] Vạn Kiếp
+   - [ ] Chi Lăng
+   - [ ] Hải Dương
+
+   Ông trở về Vạn Kiếp, hiệu triệu quân sĩ và soạn bài hịch. [Xem lại](#van-kiep)
+
+3. Bài hịch khuyên các tướng làm gì để chuẩn bị cho cuộc kháng chiến lần thứ hai chống quân Nguyên?
+   - [ ] Rút về Hải Dương chờ lệnh vua
+   - [x] Học tập, rèn luyện võ nghệ, học trận pháp theo sách Binh thư yếu lược
+   - [ ] Chia nhau về các thái ấp cố thủ
+
+   Theo bài tham khảo, bài hịch được soạn để răn dạy tướng tá trong thái ấp của Hưng Đạo vương. [Xem lại](#van-kiep)
+
 ## Nguồn tham khảo
 
 - "Hịch tướng sĩ", Wikipedia tiếng Việt — hoàn cảnh soạn hịch, Chi Lăng, Vạn Kiếp, đối đáp với vua, nội dung đại ý, lưu truyền: https://vi.wikipedia.org/wiki/H%E1%BB%8Bch_t%C6%B0%E1%BB%9Bng_s%C4%A9

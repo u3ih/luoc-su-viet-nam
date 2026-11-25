@@ -47,6 +47,29 @@ Ngày 12 tháng 8 năm 2009, Thủ tướng Chính phủ quyết định xếp h
 
 20 giờ 30 ngày 31 tháng 7 năm 2010 theo giờ Brasil (6 giờ 30 ngày 1 tháng 8 theo giờ Việt Nam), Ủy ban Di sản thế giới thông qua nghị quyết công nhận Khu trung tâm Hoàng thành Thăng Long – Hà Nội là di sản văn hóa thế giới — năm Thăng Long tròn một nghìn năm.
 
+## Ôn tập
+
+1. Các tầng văn hoá lộ ra ở khu trung tâm Hoàng thành Thăng Long trải dài qua bao nhiêu thế kỷ?
+   - [ ] Khoảng 5 thế kỷ
+   - [ ] Khoảng 20 thế kỷ
+   - [x] 13 thế kỷ
+
+   Cuộc khai quật tháng 12 năm 2002 là cuộc khai quật khảo cổ học lớn nhất Việt Nam; các tầng văn hóa xếp chồng lên nhau từ thế kỷ VII đến các triều Lý, Trần, Lê, Mạc, Nguyễn. [Xem lại](#khai-quat)
+
+2. Trong Hoàng thành, ngọn núi nào là nơi nhà Lý dựng điện Kính Thiên?
+   - [x] Núi Nùng
+   - [ ] Núi Bạch Mã
+   - [ ] Núi Nam Giới
+
+   Hoàng thành là quần thể di tích gắn với lịch sử kinh thành Thăng Long – Hà Nội, do các triều vua xây dựng qua nhiều giai đoạn. [Xem lại](#nghin-nam)
+
+3. Năm 2010, Ủy ban Di sản thế giới công nhận Khu trung tâm Hoàng thành Thăng Long – Hà Nội là gì?
+   - [ ] Di sản thiên nhiên thế giới
+   - [x] Di sản văn hóa thế giới
+   - [ ] Di sản tư liệu thế giới
+
+   Quyết định được thông qua ngày 31 tháng 7 năm 2010 theo giờ Brasil, đúng năm Thăng Long tròn một nghìn năm. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Hoàng thành Thăng Long", Wikipedia tiếng Việt — khai quật 2002, tầng văn hóa, xếp hạng 2009, UNESCO 2010, núi Nùng, điện Kính Thiên, cung thành thời Lê: https://vi.wikipedia.org/wiki/Ho%C3%A0ng_th%C3%A0nh_Th%C4%83ng_Long

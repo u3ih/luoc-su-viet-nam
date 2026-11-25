@@ -54,6 +54,30 @@ Theo bài tham khảo, Hoàng Công Chất rất được lòng dân bản đị
 
 Hoàng Công Chất mất năm 1769; con ông là Hoàng Công Toản tiếp tục cầm quân. Đầu năm 1769, quân Trịnh do Nguyễn Phục chỉ huy đánh Nậm Cô, rồi đánh úp, đốt thành Bản Phủ. Công Toản bỏ chạy; Đại Nam nhất thống chí chép ông chạy sang Vân Nam, Minh đô sử chép chạy vào Trấn Ninh. Trong di tích thành Bản Phủ ở Điện Biên nay còn miếu thờ Hoàng Công Chất và sáu viên tướng của ông.
 
+## Ôn tập
+
+1. Từ năm 1751, Hoàng Công Chất lên vùng nào để lập căn cứ?
+   - [ ] Thanh Hoá
+   - [ ] Sơn Nam
+   - [x] Mường Thanh (Điện Biên)
+   - [ ] Hưng Hoá
+
+   Tháng 6 năm 1751, ông rút lên động Mãnh Thiên, tức Mường Thanh (Điện Biên). Hưng Hoá chỉ là chặng đường núi trước đó. [Xem lại](#muong-thanh)
+
+2. Ở Mường Thanh, Hoàng Công Chất đã làm những gì?
+   - [x] Đánh tan giặc cướp, chia ruộng cho dân nghèo, kết thân với các thủ lĩnh châu mường
+   - [ ] Giao thành cho quân Trịnh để đổi lấy hoà bình
+   - [ ] Dời toàn bộ dân bản về đồng bằng Sơn Nam
+
+   Nhờ vậy ông rất được lòng dân bản địa và phát triển lực lượng ra khắp miền Tây Bắc. [Xem lại](#muong-thanh)
+
+3. Điều gì xảy ra với thành Bản Phủ đầu năm 1769?
+   - [ ] Quân khởi nghĩa đánh xuống chiếm lại trấn Sơn Nam
+   - [x] Quân Trịnh đánh Nậm Cô rồi đánh úp, đốt thành
+   - [ ] Hoàng Công Toản dựng thêm tường thành mới
+
+   Hoàng Công Chất mất năm 1769; quân Trịnh do Nguyễn Phục chỉ huy đánh úp và đốt thành Bản Phủ. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Hoàng Công Chất", Wikipedia tiếng Việt — xuất thân, hoạt động ở Sơn Nam, lên Mường Thanh, thành Tam Vạn và Bản Phủ, câu hát, kết cục, di tích: https://vi.wikipedia.org/wiki/Ho%C3%A0ng_C%C3%B4ng_Ch%E1%BA%A5t

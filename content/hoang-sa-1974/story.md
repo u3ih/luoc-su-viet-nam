@@ -46,6 +46,30 @@ Sáng 19 tháng 1, biệt hải Việt Nam Cộng hoà đổ bộ lên đảo Qu
 
 Từ đó Trung Quốc kiểm soát toàn bộ quần đảo Hoàng Sa. Việt Nam Cộng hoà phản đối, tìm cách đưa vụ việc ra Hội đồng Bảo an Liên Hợp Quốc nhưng không thành; Hoa Kỳ không can thiệp. Cuối tháng 1, đầu tháng 2 năm 1974, Việt Nam Cộng hoà đưa quân ra đóng thêm một số đảo ở Trường Sa. Bộ Ngoại giao Việt Nam nhiều lần khẳng định chủ quyền của Việt Nam đối với quần đảo Hoàng Sa đã được xác lập ít nhất từ thế kỷ XVII, và việc dùng vũ lực chiếm quần đảo năm 1974 không tạo ra danh nghĩa chủ quyền; hằng năm, những người lính tử trận trong trận đánh được tưởng niệm.
 
+## Ôn tập
+
+1. Trận hải chiến năm 1974 diễn ra giữa những lực lượng nào, ở nhóm đảo nào?
+   - [ ] Hải quân Việt Nam Cộng hoà và Hải quân Trung Quốc, ở nhóm An Vĩnh
+   - [x] Hải quân Việt Nam Cộng hoà và Hải quân Trung Quốc, ở nhóm Lưỡi Liềm
+   - [ ] Hải quân Việt Nam Cộng hoà và Hải quân Hoa Kỳ, ở nhóm Lưỡi Liềm
+
+   Ngày 19 tháng 1 năm 1974, hai bên giao chiến ở nhóm đảo Lưỡi Liềm (Nguyệt Thiềm), quần đảo Hoàng Sa. [Xem lại](#mo-dau)
+
+2. Trong trận đánh sáng 19 tháng 1, tàu nào của Việt Nam Cộng hoà bị đánh chìm?
+   - [ ] Lý Thường Kiệt
+   - [ ] Trần Khánh Dư
+   - [x] Nhật Tảo
+   - [ ] Trần Bình Trọng
+
+   Tàu Nhật Tảo trúng đạn, bốc cháy; hạm trưởng Ngụy Văn Thà tử trận cùng tàu. [Xem lại](#ngay-19-1)
+
+3. Sau năm 1974, Trung Quốc kiểm soát toàn bộ quần đảo Hoàng Sa. Lập trường của Bộ Ngoại giao Việt Nam được ghi trong chương là gì?
+   - [x] Chủ quyền của Việt Nam đối với Hoàng Sa đã được xác lập ít nhất từ thế kỷ XVII, và việc dùng vũ lực năm 1974 không tạo ra danh nghĩa chủ quyền
+   - [ ] Việt Nam chỉ khẳng định chủ quyền từ sau hội nghị San Francisco năm 1951
+   - [ ] Việt Nam không đưa ra lập trường nào về quần đảo này
+
+   Bộ Ngoại giao Việt Nam nhiều lần khẳng định lập trường này; hằng năm những người lính tử trận được tưởng niệm. [Xem lại](#sau-1974)
+
 ## Nguồn tham khảo
 
 - “Hải chiến Hoàng Sa 1974”, Wikipedia tiếng Việt — hai nhóm đảo, Trung Quốc chiếm nhóm An Vĩnh năm 1956, quan điểm của các bên, tuyên bố tại San Francisco 1951, tuyên bố của Bộ Ngoại giao Trung Quốc 11/1/1974, họp báo của Vương Văn Bắc 16/1, bốn chiến hạm, Ngụy Văn Thà, số người tử trận (74 – 75), 48 – 49 người bị bắt cùng cố vấn Mỹ, thương vong phía Trung Quốc theo tài liệu Trung Quốc, trao trả tù binh qua Hồng Kông, phản ứng của Việt Nam Cộng hoà: https://vi.wikipedia.org/wiki/H%E1%BA%A3i_chi%E1%BA%BFn_Ho%C3%A0ng_Sa_1974

@@ -46,6 +46,29 @@ Khởi nghĩa giành được Huế ngày 23 tháng 8, Sài Gòn ngày 25 tháng
 
 Ngày 2 tháng 9 năm 1945, trên lễ đài bằng gỗ dựng vội ở quảng trường Ba Đình, Chủ tịch Chính phủ lâm thời Hồ Chí Minh đọc Tuyên ngôn độc lập, khai sinh nước Việt Nam Dân chủ Cộng hoà. Cùng ngày, Nhật ký văn kiện đầu hàng trên chiến hạm Missouri ở vịnh Tokyo. Nhà nước mới khi ấy chưa được nước nào công nhận; các nước Đồng Minh vẫn coi Đông Dương thuộc chủ quyền Pháp, và theo thoả thuận Potsdam, quân Anh vào phía nam, quân Trung Hoa Dân quốc vào phía bắc vĩ tuyến 16 để giải giáp quân Nhật.
 
+## Ôn tập
+
+1. Quốc dân Đại hội ngày 16 tháng 8 năm 1945 họp ở đâu?
+   - [ ] Quảng trường Nhà hát Lớn
+   - [x] Đình Tân Trào
+   - [ ] Ngọ Môn
+
+   Hơn 60 đại biểu họp Quốc dân Đại hội ở đình Tân Trào, lập Uỷ ban Dân tộc giải phóng do Hồ Chí Minh làm Chủ tịch. [Xem lại](#tan-trao)
+
+2. Ngày 30 tháng 8 năm 1945, trước Ngọ Môn, Bảo Đại trao ấn và kiếm cho đại diện chính phủ lâm thời là ai?
+   - [x] Trần Huy Liệu
+   - [ ] Hồ Chí Minh
+   - [ ] Đại sứ Nhật
+
+   Bảo Đại trao ấn “Hoàng đế chi bảo” và thanh kiếm cho Trần Huy Liệu, khép lại triều Nguyễn. [Xem lại](#ngo-mon)
+
+3. Khi mới ra đời, nhà nước Việt Nam Dân chủ Cộng hoà ở tình thế nào?
+   - [ ] Được các nước Đồng Minh công nhận ngay
+   - [ ] Được quân Nhật bảo trợ
+   - [x] Chưa được nước nào công nhận
+
+   Các nước Đồng Minh vẫn coi Đông Dương thuộc chủ quyền Pháp; theo thoả thuận Potsdam, quân Anh vào phía nam, quân Trung Hoa Dân quốc vào phía bắc vĩ tuyến 16 để giải giáp quân Nhật. [Xem lại](#ba-dinh)
+
 ## Nguồn tham khảo
 
 - “Cách mạng Tháng Tám”, Wikipedia tiếng Việt — Hội nghị Tân Trào 13/8, khởi nghĩa Hà Nội 19/8 và điện của Đại sứ Nhật, Huế 23/8, Sài Gòn 25/8, các tỉnh do đảng phái khác nắm, Bảo Đại thoái vị và câu nói trong chiếu, lễ đài Ba Đình: https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_Th%C3%A1ng_T%C3%A1m

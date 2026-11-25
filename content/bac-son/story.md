@@ -123,6 +123,29 @@ Về sau, các hang ở Lạng Sơn vẫn có người ở: văn hoá Mai Pha, t
 >
 > Báo Lạng Sơn dẫn Trình Năng Chung: 51 di tích trước năm 2000, thêm 23 di tích từ năm 2000 đến 2020, tổng cộng 74. Bài viết năm 2023 của chính tác giả nêu 76 di tích, trong đó 46 ở Lạng Sơn. Con số còn thay đổi theo từng lần thống kê.
 
+## Ôn tập
+
+1. Trong các di vật đá ở hang Thẩm Khoách, điều gì khác với công cụ đá mài toàn phần đã biết?
+   - [ ] Có những chiếc rìu mài nhẵn toàn thân
+   - [x] Có những chiếc rìu chỉ mài hạn chế ở phần lưỡi
+   - [ ] Có những công cụ làm bằng kim loại
+
+   Trong số di vật đá có những chiếc rìu chỉ mài hạn chế ở phần lưỡi, khác với công cụ đá mài toàn phần đã biết. [Xem lại](#phat-hien)
+
+2. Với rìu mài lưỡi của người Bắc Sơn, phần nào được mài cho sắc?
+   - [ ] Toàn bộ thân rìu
+   - [ ] Phần cán rìu
+   - [x] Chỉ phần lưỡi, còn thân rìu vẫn là hòn cuội ghè đẽo
+
+   Với rìu mài lưỡi, chỉ phần lưỡi được mài cho sắc; thân rìu vẫn là hòn cuội ghè đẽo. [Xem lại](#riu-mai-luoi)
+
+3. Nguồn sống chính của cư dân Bắc Sơn là gì?
+   - [ ] Trồng lúa nước
+   - [ ] Chăn nuôi gia súc
+   - [x] Săn bắt và hái lượm
+
+   Nguồn sống chính của cư dân Bắc Sơn vẫn là săn bắt và hái lượm; theo Trình Năng Chung, họ bước đầu đã biết đến nông nghiệp. [Xem lại](#lam-ray)
+
 ## Nguồn tham khảo
 
 - Trình Năng Chung, "Bắc Sơn Culture: New Research Findings", Vietnam Social Sciences, số 1 (207), 2022 (bản tiếng Anh của bài đăng trên Tạp chí Khảo cổ học, số 3, 2020) — về niên đại, hai giai đoạn, mẫu carbon-14, nguồn gốc, bếp, xương thú, mộ táng: https://www.vjol.info.vn/index.php/VSS/article/view/74630

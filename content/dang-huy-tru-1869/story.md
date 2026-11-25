@@ -47,6 +47,29 @@ Ngày 14 tháng 3 năm 1869, ông mở hiệu ảnh Cảm Hiếu Đường ở p
 
 Năm 1874, vua Tự Đức ký Hòa ước Giáp Tuất trong khi kế hoạch của ông còn dở dang. Ông mất năm Giáp Tuất (1874) ở xã Cao Lăng, tỉnh Hà Đông (nay thuộc Hà Nội). Theo bài tham khảo, con đường canh tân của ông bị bỏ dở sau khi ông mất.
 
+## Ôn tập
+
+1. Ngày 14 tháng 3 năm 1869, Đặng Huy Trứ mở hiệu ảnh nào, ở đâu?
+   - [ ] Lạc Sinh, ở Huế
+   - [ ] Ty Bình Chuẩn, ở Hội An
+   - [x] Cảm Hiếu Đường, ở phố Thanh Hà, Hà Nội
+
+   Ông được xem là một trong những người có công đầu đưa nhiếp ảnh vào Việt Nam. [Xem lại](#hieu-anh)
+
+2. Năm 1865, ông đi Hương Cảng và đem về gì?
+   - [ ] Một chiếc máy ảnh đầu tiên
+   - [x] Một cuốn sách kỹ thuật về máy hơi nước, tự ông dịch sang chữ Hán
+   - [ ] Hạt giống cây trồng của phương Tây
+
+   Chuyến đi nhằm xem xét tình hình phương Tây. [Xem lại](#huong-cang)
+
+3. Vì sao Đặng Huy Trứ bị cấm thi trọn đời sau khoa thi năm 1847?
+   - [ ] Ông bị bắt quả tang mang tài liệu vào phòng thi
+   - [x] Bài thi Đình của ông phạm húy
+   - [ ] Ông từ chối làm quan cho triều đình
+
+   Ông đã qua thi Hương, thi Hội nhưng đến thi Đình thì bị đánh hỏng. [Xem lại](#pham-huy)
+
 ## Nguồn tham khảo
 
 - "Đặng Huy Trứ", Wikipedia tiếng Việt — tiểu sử, khoa thi 1847, chức vụ, chuyến đi Hương Cảng 1865, Trung Quốc 1867, hiệu ảnh Cảm Hiếu Đường 1869, thương điếm, năm mất: https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B7ng_Huy_Tr%E1%BB%A9

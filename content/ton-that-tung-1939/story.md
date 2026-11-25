@@ -46,6 +46,29 @@ Một lần, ông thấy trong gan một người bệnh có giun chui vào đư
 
 Sau năm 1945, ông cùng giáo sư Hồ Đắc Di xây dựng Trường Đại học Y Hà Nội. Từ năm 1954 ông làm Giám đốc Bệnh viện Việt Đức; năm 1958 ông là người đầu tiên mổ tim ở Việt Nam. Những năm 1960, ông nghiên cứu thành công phương pháp “cắt gan có kế hoạch”, thường gọi là “mổ gan khô” hay “phương pháp Tôn Thất Tùng”. Ông để lại 123 công trình khoa học, mất ngày 7 tháng 5 năm 1982. Từ năm 2000 có Giải thưởng Tôn Thất Tùng về y học; ngày 10 tháng 5 năm 2022, Google làm biểu trưng tưởng nhớ ông.
 
+## Ôn tập
+
+1. Năm 1938, Tôn Thất Tùng đấu tranh đòi tổ chức kỳ thi nội trú vì sinh viên y khoa bản xứ thời ấy bị hạn chế điều gì?
+   - [x] Chỉ được thực tập ngoại trú, không được dự thi nội trú
+   - [ ] Không được học ở Hà Nội
+   - [ ] Không được phẫu tích tử thi
+
+   Kỳ thi được mở; ông là người duy nhất trúng tuyển khoá nội trú đầu tiên, mở đường cho các bác sĩ nội trú người Việt. [Xem lại](#noi-tru)
+
+2. Từ năm 1935 đến năm 1939, Tôn Thất Tùng phẫu tích hơn 200 lá gan để làm gì?
+   - [ ] Để tìm cách chữa bệnh giun
+   - [x] Để lần theo các mạch máu, rồi vẽ thành sơ đồ đối chiếu
+   - [ ] Để làm mô hình giảng dạy
+
+   Ông chỉ dùng một con dao nạo; luận án năm 1939 "Cách phân chia mạch máu của gan" là tiền đề cho các công trình nổi tiếng sau này. [Xem lại](#la-gan)
+
+3. Phương pháp nào thường được gọi là "phương pháp Tôn Thất Tùng"?
+   - [ ] Ghép thận
+   - [ ] Phẫu thuật mắt
+   - [x] Cắt gan có kế hoạch, còn gọi là "mổ gan khô"
+
+   Những năm 1960, ông nghiên cứu thành công phương pháp này; năm 1958 ông là người đầu tiên mổ tim ở Việt Nam. [Xem lại](#mo-gan-kho)
+
 ## Nguồn tham khảo
 
 - “Tôn Thất Tùng”, Wikipedia tiếng Việt — ngày sinh, gia đình, trường Bưởi 1931, Trường Y Dược Đông Dương 1935, chế độ ngoại trú và kỳ thi nội trú 1938, phẫu tích hơn 200 lá gan 1935 – 1939, luận án và Huy chương Bạc, Trường Đại học Y Hà Nội, Bệnh viện Việt Đức 1954, mổ tim 1958, phương pháp cắt gan có kế hoạch (thập niên 1960), 123 công trình, ngày mất, Giải thưởng Tôn Thất Tùng, Google Doodle 2022: https://vi.wikipedia.org/wiki/T%C3%B4n_Th%E1%BA%A5t_T%C3%B9ng

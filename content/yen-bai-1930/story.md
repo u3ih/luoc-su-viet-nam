@@ -59,6 +59,29 @@ Phần mở đầu của bài tham khảo ghi mười ba người bị xử sán
 >
 > Bảng thông tin của bài ghi khoảng một trăm nghĩa quân và khoảng sáu trăm quân Pháp, nhưng không nêu nguồn cụ thể. Bài cũng ghi Yên Bái "nay là Lào Cai", cần kiểm tra thêm.
 
+## Ôn tập
+
+1. Ai là người lãnh đạo cuộc khởi nghĩa Yên Bái năm 1930, thuộc tổ chức nào?
+   - [ ] Phó Đức Chính, thuộc Hội Việt Nam Cách mạng Thanh niên
+   - [x] Nguyễn Thái Học, thuộc Việt Nam Quốc dân Đảng
+   - [ ] Aimé Le Tacon, thuộc quân đội Pháp
+
+   Phái chủ chiến, gồm Nguyễn Thái Học và Nguyễn Khắc Nhu, chiếm ưu thế trong đảng. [Xem lại](#boi-canh)
+
+2. Hội nghị Mỹ Xá ngày 26 tháng 1 năm 1930 thông qua điều gì?
+   - [x] Kế hoạch tổng khởi nghĩa, với ngày khởi sự là 9 tháng 2 năm 1930
+   - [ ] Quyết định giải thể Việt Nam Quốc dân Đảng
+   - [ ] Quyết định chỉ hoạt động ngoại giao, không khởi nghĩa
+
+   Các mục tiêu được chọn gồm Yên Bái, Sơn Tây, Hải Dương, Hà Nội. [Xem lại](#boi-canh)
+
+3. Diễn biến ở Yên Bái trong đêm 9 rạng 10 tháng 2 năm 1930 là gì?
+   - [ ] Nghĩa quân giữ được trại và nhà ga suốt nhiều tuần
+   - [ ] Cuộc tấn công bị phát hiện trước khi bắt đầu
+   - [x] Một giờ sáng nghĩa quân tấn công, chiếm kho vũ khí và nhà ga; sáng ngày 10 quân Pháp phản công và chiếm lại trại
+
+   Ở nhiều nơi khác, khởi nghĩa phần lớn thất bại hoặc tự giải tán. [Xem lại](#dem-yen-bai)
+
 ## Nguồn tham khảo
 
 - "Khởi nghĩa Yên Bái", Wikipedia tiếng Việt — bối cảnh, diễn biến, kết quả, các phiên toà, chỗ số liệu chưa thống nhất: https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_Y%C3%AAn_B%C3%A1i

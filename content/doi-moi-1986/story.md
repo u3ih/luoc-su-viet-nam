@@ -46,6 +46,29 @@ Từ ngày 15 đến 18 tháng 12 năm 1986, Đại hội VI họp ở Hà Nội
 
 Luật Đầu tư nước ngoài ban hành năm 1987. Nghị quyết 10 năm 1988 (Khoán 10) thừa nhận hộ nông dân là đơn vị kinh tế tự chủ, đưa Việt Nam từ nước thiếu lương thực thành nước xuất khẩu gạo hàng đầu thế giới. Năm 1990 có Luật Công ty và Luật Doanh nghiệp tư nhân. Bốn mươi năm sau, Việt Nam thành nước thu nhập trung bình; các nguồn cũng chỉ ra những bất cập như năng suất lao động thấp, chất lượng thể chế chưa cao.
 
+## Ôn tập
+
+1. Đại hội VI (tháng 12 năm 1986) khởi xướng công cuộc Đổi mới, chuyển nền kinh tế từ đâu sang đâu?
+   - [ ] Từ kinh tế thị trường sang kinh tế kế hoạch hoá tập trung
+   - [x] Từ kinh tế kế hoạch hoá tập trung sang kinh tế thị trường định hướng xã hội chủ nghĩa
+   - [ ] Từ kinh tế nông nghiệp sang kinh tế quốc doanh hoàn toàn
+
+   Báo cáo chính trị do Tổng Bí thư Trường Chinh trình bày "nhìn thẳng vào sự thật", thừa nhận sai lầm trong quản lý kinh tế. [Xem lại](#dai-hoi-vi)
+
+2. Điều gì làm lạm phát tràn lan, cuối năm 1986 lên tới 774%?
+   - [ ] Việc ban hành Luật Đầu tư nước ngoài
+   - [ ] Việc khoán sản phẩm trong nông nghiệp
+   - [x] Cuộc cải cách giá – lương – tiền năm 1985
+
+   Thời bao cấp, sản xuất đình trệ, hàng hoá khan hiếm; thu nhập bình quân đầu người chỉ khoảng 125 – 200 USD một năm. [Xem lại](#bao-cap)
+
+3. Nghị quyết 10 năm 1988 (Khoán 10) có tác dụng gì với nông nghiệp?
+   - [ ] Thu lại ruộng đất về cho hợp tác xã
+   - [x] Thừa nhận hộ nông dân là đơn vị kinh tế tự chủ, đưa Việt Nam từ nước thiếu lương thực thành nước xuất khẩu gạo hàng đầu thế giới
+   - [ ] Cấm nông dân bán lúa gạo ra nước ngoài
+
+   Cùng thời kỳ, Luật Đầu tư nước ngoài được ban hành năm 1987, Luật Công ty và Luật Doanh nghiệp tư nhân năm 1990. [Xem lại](#khoan-10)
+
 ## Nguồn tham khảo
 
 - “Đổi Mới”, Wikipedia tiếng Việt — bối cảnh kế hoạch hoá tập trung, lạm phát 774% năm 1986, thu nhập 125 – 200 USD, Nghị quyết 6 khoá IV, Chỉ thị 100, Quyết định 25/26-CP, ba chương trình kinh tế, Khoán 10 năm 1988, Luật Đầu tư nước ngoài 1987, Luật Công ty và Luật Doanh nghiệp tư nhân 1990, thành tựu và bất cập: https://vi.wikipedia.org/wiki/%C4%90%E1%BB%95i_M%E1%BB%9Bi

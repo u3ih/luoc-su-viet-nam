@@ -88,6 +88,30 @@ Văn hoá Đồng Đậu có ba giai đoạn, đi từ Phùng Nguyên muộn –
 
 Chuỗi Phùng Nguyên – Đồng Đậu – Gò Mun là mắt xích dẫn tới văn hoá Đông Sơn. Các nhà khảo cổ coi đó là bằng chứng cho nguồn gốc bản địa của Đông Sơn.
 
+## Ôn tập
+
+1. Theo lời kể, nghề thủ công nào của cư dân Đồng Đậu phát triển mạnh và trở thành quan trọng nhất?
+   - [ ] Chế tác đá
+   - [ ] Làm gốm
+   - [ ] Dệt vải
+   - [x] Đúc đồng
+
+   So với văn hoá Phùng Nguyên, nghề đúc đồng phát triển mạnh, với các trung tâm lớn như Đồng Đậu, Thành Dền. [Xem lại](#kinh-te)
+
+2. Điều gì chứng tỏ cư dân Đồng Đậu đã đúc đồng ngay tại chỗ?
+   - [ ] Họ chôn rìu đồng nhập từ nơi khác theo người chết
+   - [x] Dấu vết lò nấu đồng nhỏ, mảnh khuôn đúc, xỉ đồng, nồi nấu và muôi rót đồng
+   - [ ] Các bản chữ khắc ghi lại cách đúc đồng
+
+   Bộ công cụ và vũ khí bằng đồng của họ gồm 20 loại hình. [Xem lại](#duc-dong)
+
+3. Các nhà khảo cổ coi chuỗi Phùng Nguyên – Đồng Đậu – Gò Mun là bằng chứng cho điều gì?
+   - [ ] Văn hoá Đông Sơn du nhập từ nơi khác
+   - [ ] Văn hoá Đồng Đậu có trước văn hoá Phùng Nguyên
+   - [x] Nguồn gốc bản địa của văn hoá Đông Sơn
+
+   Chuỗi này là mắt xích dẫn tới văn hoá Đông Sơn. [Xem lại](#noi-tiep)
+
 ## Nguồn tham khảo
 
 - Bùi Văn Liêm, mục từ "Văn hóa Đồng Đậu" (tài liệu đăng trên cổng thông tin storage-vnportal.vnpt.vn, thư mục vass; dẫn Hà Văn Tấn chủ biên, Khảo cổ học Việt Nam, tập II, Thời đại Kim khí, NXB Khoa học xã hội, 1999; Bùi Hữu Tiến, luận án tiến sĩ về văn hoá Đồng Đậu, 2016; Lê Xuân Diệm, Tạp chí Khảo cổ học, số 7–8, 1970) — https://storage-vnportal.vnpt.vn/vass/6475/FileQuanTriTinTuc/296.V%C4%82N%20H%C3%93A%20%C4%90%E1%BB%92NG%20%C4%90%E1%BA%ACU%20-%20B%C3%99I%20V%C4%82N%20LI%C3%8AM.docx

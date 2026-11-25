@@ -46,6 +46,29 @@ Cuối năm 1929, Quốc tế Cộng sản gửi thư yêu cầu lập một đ�
 
 Ngày 8 tháng 2 năm 1930, các đại biểu về nước; ở Sài Gòn, Ngô Gia Tự làm Bí thư Ban lâm thời Chấp uỷ Nam Kỳ. Ngày 24 tháng 2, Đông Dương Cộng sản Liên đoàn được nhận vào đảng. Quốc tế Cộng sản chủ trương chỉ có một đảng cho cả Đông Dương; tháng 10 năm 1930, hội nghị ở Hương Cảng do Trần Phú chủ trì đổi tên thành Đảng Cộng sản Đông Dương. Theo nhà sử học Vũ Quang Hiển và nhà nghiên cứu Sophie Quinn-Judge, khi đó quan điểm của Nguyễn Ái Quốc khác với chủ trương của Quốc tế Cộng sản và bị một số người trong Quốc tế Cộng sản phê phán.
 
+## Ôn tập
+
+1. Việt Nam Thanh niên Cách mạng Đồng chí Hội ra đời vào tháng 6 năm 1925 ở đâu?
+   - [ ] Hà Nội
+   - [x] Quảng Châu
+   - [ ] Sài Gòn
+
+   Cuối năm 1924, Nguyễn Ái Quốc tới Quảng Châu; tháng 6 năm 1925, Hội ra đời, với tờ báo Thanh Niên làm phương tiện tuyên truyền. [Xem lại](#quang-chau)
+
+2. Trước hội nghị đầu năm 1930, tình hình các tổ chức cộng sản trong nước ra sao?
+   - [x] Có ba tổ chức riêng rẽ, tranh giành ảnh hưởng và công kích lẫn nhau
+   - [ ] Đã hợp nhất trong một đảng duy nhất
+   - [ ] Chỉ có một tổ chức là Hội Thanh niên
+
+   Năm 1929 lần lượt ra đời Đông Dương Cộng sản Đảng, An Nam Cộng sản Đảng và Đông Dương Cộng sản Liên đoàn. [Xem lại](#ba-to-chuc)
+
+3. Ai triệu tập hội nghị bí mật ở Cửu Long, Hương Cảng, từ ngày 6 tháng 1 năm 1930?
+   - [ ] Trần Phú
+   - [ ] Trịnh Đình Cửu
+   - [x] Nguyễn Ái Quốc
+
+   Nguyễn Ái Quốc, với tư cách phái viên của Quốc tế Cộng sản, triệu tập hội nghị; hội nghị hợp nhất hai tổ chức thành Đảng Cộng sản Việt Nam. [Xem lại](#cuu-long)
+
 ## Nguồn tham khảo
 
 - “Hội nghị thành lập Đảng Cộng sản Việt Nam”, Wikipedia tiếng Việt — hội nghị 6/1 – 7/2/1930 ở Cửu Long, Hương Cảng, các đại biểu, Chính cương vắn tắt, Trịnh Đình Cửu, Liên đoàn gia nhập 24/2, Ban lâm thời Chấp uỷ Nam Kỳ: https://vi.wikipedia.org/wiki/H%E1%BB%99i_ngh%E1%BB%8B_th%C3%A0nh_l%E1%BA%ADp_%C4%90%E1%BA%A3ng_C%E1%BB%99ng_s%E1%BA%A3n_Vi%E1%BB%87t_Nam

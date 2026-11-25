@@ -107,6 +107,29 @@ Năm 1962, Bộ Văn hoá xếp núi Đọ vào một trong 62 di tích được
 
 Còn tuổi chính xác của những mảnh đá ấy thì đến nay vẫn là câu hỏi để ngỏ.
 
+## Ôn tập
+
+1. Loại hiện vật nào nhiều nhất ở núi Đọ, chiếm khoảng 95% số di vật tìm thấy?
+   - [x] Mảnh tước
+   - [ ] Rìu tay
+   - [ ] Hài cốt người tối cổ
+
+   Mảnh tước là mảnh vỡ của đá bazan; các nhà khảo cổ cho rằng đó là những công cụ đầu tiên, dùng để cắt hoặc nạo. Các tài liệu tham khảo không nhắc tới hài cốt người ở núi Đọ. [Xem lại](#da-bazan)
+
+2. Vì sao cách định niên đại khoảng 300.000 năm cho công cụ núi Đọ chưa thật thuyết phục?
+   - [ ] Vì ở núi Đọ không có đá bazan
+   - [ ] Vì toàn bộ hiện vật đã bị thất lạc
+   - [x] Vì công cụ nằm trên sườn núi, không thuộc tầng văn hoá nào, lại thiếu chứng cứ địa tầng và cổ sinh
+
+   Đa số các nhà khảo cổ xếp các công cụ vào sơ kỳ đá cũ, nhưng tuổi chính xác của chúng đến nay vẫn là câu hỏi để ngỏ. [Xem lại](#bao-nhieu-tuoi)
+
+3. Cuối năm 1960, nhà khảo cổ nước ngoài nào cùng các nhà khảo cổ Việt Nam nghiên cứu núi Đọ?
+   - [ ] Russell Ciochon
+   - [x] Giáo sư P. I. Boriskovski, người Liên Xô
+   - [ ] John Olsen
+
+   Họ cho rằng nơi đây từng có một nền văn hoá thuộc sơ kỳ thời đại đá cũ. [Xem lại](#phat-hien)
+
 ## Nguồn tham khảo
 
 - Vũ Duy Mền (chủ biên), Lịch sử Việt Nam, tập 1, NXB Khoa học xã hội, 2013, tr. 26 — về đá bazan, mảnh tước, nhận định niên đại; được dẫn lại trong mục "Núi Đọ", Wikipedia tiếng Việt: https://vi.wikipedia.org/wiki/N%C3%BAi_%C4%90%E1%BB%8D

@@ -46,6 +46,30 @@ Theo nhà nghiên cứu Vương Hồng Sển, đêm 16 tháng 11 năm 1918, tu�
 
 Năm 1922, tuồng “Trang Tử thử vợ” và “Kim Vân Kiều” diễn ở rạp Mỹ Tho rồi lên rạp Chợ Lớn, rạp Modern Sài Gòn; theo Vương Hồng Sển, lúc này cải lương mới thật sự thành hình. Những năm 1920 – 1930 nhiều gánh hát ra đời, nổi tiếng nhất là Phước Cương và Trần Đắc. Từ 1930 đến 1934, cải lương lan ra Bắc, với những nghệ sĩ như Năm Phỉ, Phùng Há, Bảy Nhiêu, Năm Châu.
 
+## Ôn tập
+
+1. Ban đầu, các nhóm đờn ca tài tử ở Nam Kỳ chơi nhạc ở đâu và để làm gì?
+   - [ ] Diễn trên sân khấu rạp hát để bán vé
+   - [x] Chơi cho vui, trong đám giỗ, đám cưới, đám tang
+   - [ ] Biểu diễn trong cung đình
+
+   Họ chưa diễn trên sân khấu; về sau ban tài tử ở Mỹ Tho mới được mời ca đờn ở rạp chiếu bóng Casino. [Xem lại](#tai-tu)
+
+2. Lối "ca ra bộ" khác đờn ca tài tử ở điểm nào?
+   - [ ] Chỉ đờn mà không ca
+   - [ ] Chỉ diễn xiếc mà không ca
+   - [x] Người ca vừa ca vừa làm điệu bộ
+   - [ ] Người ca đứng sau tấm màn, không ra mặt
+
+   Ông Phó Mười Hai ở Vĩnh Long cho người ca đứng trên bộ ván ngựa vừa ca vừa làm điệu bộ; lối này sinh ra khoảng năm 1915 – 1916. [Xem lại](#ca-ra-bo)
+
+3. Theo Vương Hồng Sển, đêm 16 tháng 11 năm 1918 ở Nhà hát Tây Sài Gòn đánh dấu điều gì?
+   - [ ] Hai chữ "cải lương" lần đầu hiện trên bảng hiệu gánh hát
+   - [x] Thời kỳ phôi thai của cải lương
+   - [ ] Cải lương lan ra miền Bắc
+
+   Đêm đó tuồng "Pháp – Việt nhứt gia" được diễn; hai chữ "cải lương" lên bảng hiệu năm 1920, còn cải lương lan ra Bắc từ 1930 đến 1934. [Xem lại](#dem-1918)
+
 ## Nguồn tham khảo
 
 - “Cải lương”, Wikipedia tiếng Việt — đờn ca tài tử, ban Tư Triều ở Mỹ Tho và rạp Casino, ca ra bộ ở Vĩnh Long (khoảng 1915 – 1916), Lương Khắc Ninh và André Thận năm 1917, đêm 16/11/1918 ở Nhà hát Tây Sài Gòn (theo Vương Hồng Sển), Năm Tú và Trương Duy Toản, câu đối gánh Tân Thịnh năm 1920, các tuồng năm 1922, các gánh và nghệ sĩ 1920 – 1934 (dẫn Từ điển bách khoa Việt Nam), lời giải nghĩa của Trần Văn Khê: https://vi.wikipedia.org/wiki/C%E1%BA%A3i_l%C6%B0%C6%A1ng

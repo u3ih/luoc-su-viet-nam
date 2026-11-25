@@ -47,6 +47,29 @@ Ngày 16 tháng 9 năm 1869, nghị định của Chuẩn đô đốc Ohier giao
 
 Bài tham khảo ghi Gia Định báo chấm dứt năm 1897; theo nhà nghiên cứu Lê Nguyễn, báo còn tồn tại đến ngày 31 tháng 12 năm 1909. Tờ báo góp phần cổ động việc học chữ Quốc ngữ và lối học mới, mở đường cho các thể loại văn xuôi in bằng chữ Quốc ngữ.
 
+## Ôn tập
+
+1. Gia Định báo được cho là tờ báo đầu tiên viết bằng loại chữ nào?
+   - [ ] Chữ Hán
+   - [ ] Chữ Nôm
+   - [x] Chữ Quốc ngữ
+
+   Ngày 15 tháng 4 năm 1865, ở Sài Gòn, Gia Định báo ra số đầu — tờ báo được cho là đầu tiên viết bằng chữ Quốc ngữ. [Xem lại](#mo-dau)
+
+2. Nghị định ngày 1 tháng 4 năm 1865 cho phép xuất bản báo được ký cho ai?
+   - [ ] Trương Vĩnh Ký
+   - [ ] Huỳnh Tịnh Của
+   - [x] Ernest Potteaux
+
+   Nghị định không ký cho Trương Vĩnh Ký mà cho Ernest Potteaux, một viên thông ngôn làm việc tại Soái phủ Nam Kỳ. [Xem lại](#nghi-dinh)
+
+3. Ngày 16 tháng 9 năm 1869, ai được giao Gia Định báo với chức "chánh tổng tài"?
+   - [ ] Huỳnh Tịnh Của
+   - [x] Trương Vĩnh Ký
+   - [ ] Chuẩn đô đốc Roze
+
+   Nghị định của Chuẩn đô đốc Ohier giao Gia Định báo cho Trương Vĩnh Ký làm "chánh tổng tài", Huỳnh Tịnh Của làm chủ bút. [Xem lại](#truong-vinh-ky)
+
 ## Nguồn tham khảo
 
 - "Gia Định báo", Wikipedia tiếng Việt — nghị định 1/4/1865, số đầu 15/4/1865, Ernest Potteaux, Trương Vĩnh Ký 1869, Huỳnh Tịnh Của, khổ báo, nội dung, năm đình bản: https://vi.wikipedia.org/wiki/Gia_%C4%90%E1%BB%8Bnh_b%C3%A1o

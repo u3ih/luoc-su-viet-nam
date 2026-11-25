@@ -46,6 +46,29 @@ Theo An Nam chí lược, Khúc Hạo đổi các hương ở các huyện làm 
 
 Họ Lưu ở Quảng Châu ngày càng mạnh. Khúc Hạo sai con là Khúc Thừa Mỹ sang Quảng Châu, bề ngoài để kết hoà hiếu, bề trong để dò xét tình hình. Năm 917, Lưu Nham xưng đế, lập nước về sau gọi là Nam Hán. Cũng năm ấy, theo Lê Tung, Khúc Hạo mất; Khúc Thừa Mỹ nối nghiệp. An Nam chí lược thì chép ông giữ chức được bốn năm.
 
+## Ôn tập
+
+1. Năm 907, Khúc Hạo nối nghiệp ai làm Tiết độ sứ?
+   - [ ] Lưu Ẩn
+   - [x] Cha là Khúc Thừa Dụ
+   - [ ] Con là Khúc Thừa Mỹ
+
+   Khúc Thừa Dụ được dân suy tôn làm Tiết độ sứ hai năm trước, qua đời; con là Khúc Hạo kế nghiệp, đóng ở La Thành. [Xem lại](#ke-nghiep)
+
+2. Theo An Nam chí lược, Khúc Hạo cải cách hành chính như thế nào?
+   - [ ] Đổi các giáp thành hương, mỗi hương đặt một thái thú
+   - [x] Đổi các hương làm giáp, mỗi giáp đặt một quản giáp và một phó tri giáp để giữ việc thu thuế
+   - [ ] Bỏ hết đơn vị làng xã, dồn dân về La Thành
+
+   Sử gia Lê Tung nhận xét Khúc Hạo đã định ra hộ tịch và các chức quản giáp. [Xem lại](#giap)
+
+3. Đường lối chính sự của Khúc Hạo được tóm lại như thế nào?
+   - [ ] Tăng thuế ruộng để nuôi quân
+   - [ ] Bắt dân đi phu để xây thành luỹ
+   - [x] Khoan dung, giản dị: bình quân thuế ruộng, tha bỏ lực dịch, lập sổ hộ khẩu
+
+   Sổ hộ khẩu kê rõ quê quán, giao cho quản giáp trông coi. [Xem lại](#thue)
+
 ## Nguồn tham khảo
 
 - "Khúc Hạo", Wikipedia tiếng Việt — kế nghiệp năm 907, La Thành, lời chép của Toàn thư, An Nam chí lược (đổi hương làm giáp, quản giáp, phó tri giáp), An Nam chí nguyên (thêm 150 giáp, 314 giáp), nhận xét của Lê Tung, nghiên cứu hiện đại về cải cách, Khúc Thừa Mỹ sang Quảng Châu, Nam Hán năm 917: https://vi.wikipedia.org/wiki/Kh%C3%BAc_H%E1%BA%A1o

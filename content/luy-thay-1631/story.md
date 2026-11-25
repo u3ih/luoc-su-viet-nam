@@ -55,6 +55,29 @@ Theo các bài tham khảo, hệ thống luỹ giúp quân Nguyễn cầm cự t
 
 Đào Duy Từ mất ở Phú Xuân; bài ghi ngày 7 tháng 12 năm 1634 ở phần mở đầu nhưng năm 1633 ở phần thân bài. Thời Minh Mạng ông được truy tặng tước Hoằng quốc công.
 
+## Ôn tập
+
+1. Ai là mưu sĩ bày kế đắp luỹ cho chúa Nguyễn Phúc Nguyên?
+   - [ ] Trần Đức Hoà
+   - [ ] Trịnh Tráng
+   - [x] Đào Duy Từ
+
+   Ông quê ở Hoa Trai, Lương Sơn (nay thuộc Hoà Bình), được chúa Nguyễn trọng dụng sau khi thử thách. [Xem lại](#dao-duy-tu)
+
+2. Hệ thống luỹ được đắp để làm gì?
+   - [ ] Để ngăn lũ sông Gianh
+   - [x] Để chặn quân Trịnh từ phía bắc
+   - [ ] Để làm đường cho voi và ngựa vào Nam
+
+   Luỹ đắp bằng đất và đá, có nhiều ụ súng và vọng gác. [Xem lại](#ke-sach)
+
+3. Luỹ Thầy được công nhận là di tích quốc gia vào năm nào?
+   - [ ] Năm 1630
+   - [x] Năm 1992
+   - [ ] Năm 1634
+
+   Theo các bài tham khảo, hệ thống luỹ giúp quân Nguyễn cầm cự trước quân Trịnh đông hơn. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Đào Duy Từ", Wikipedia tiếng Anh — thân thế, gặp chúa Nguyễn, khay đáy kép, các năm ghi khác nhau: https://en.wikipedia.org/wiki/%C4%90%C3%A0o_Duy_T%E1%BB%AB

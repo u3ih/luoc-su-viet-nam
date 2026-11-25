@@ -46,6 +46,29 @@ Năm 1082, Lý Thường Kiệt thôi chức Thái úy, được cử về trấ
 
 Năm 1101, vua Lý Nhân Tông vời ông về triều; khi ấy ông 82 tuổi. Ông vẫn cầm quân dẹp Lý Giác ở Diễn Châu (1103), đánh quân Chiêm ở Bố Chính (1104), và sắp xếp lại quân đội. Tháng 6 năm Ất Dậu (1105), ông mất, thọ 86 tuổi; vua truy phong Việt quốc công, thực ấp một vạn hộ. Việc ông có phải hoạn quan hay không vẫn còn tranh luận; sử gia Hoàng Xuân Hãn cho là có.
 
+## Ôn tập
+
+1. Vì sao Lý Thường Kiệt mang họ Lý?
+   - [ ] Ông sinh ra trong gia đình họ Lý
+   - [x] Năm 1069 ông được vua ban quốc tính
+   - [ ] Ông đổi họ khi trấn giữ Thanh Hóa
+
+   Theo lời kể, họ gốc của ông còn tranh cãi; sau khi theo vua Lý Thánh Tông đánh Chiêm Thành, ông được ban quốc tính. [Xem lại](#ba-trieu)
+
+2. Năm 1082, sau khi thôi chức Thái úy, ông làm gì?
+   - [ ] Về hưu ở quê nhà
+   - [x] Về trấn Thanh Hóa và làm việc ở đây suốt mười chín năm
+   - [ ] Sang Chiêm Thành làm sứ
+
+   Bia chùa Báo Ân núi An Hoạch và bia chùa Linh Xứng núi Ngưỡng Sơn đều có lời ca ngợi ông. [Xem lại](#thanh-hoa)
+
+3. Sau khi mất năm 1105, ông được vua truy phong là gì?
+   - [ ] Thái úy
+   - [x] Việt quốc công
+   - [ ] Kinh phỏng sứ
+
+   Ông mất tháng 6 năm Ất Dậu (1105), thọ 86 tuổi, được thực ấp một vạn hộ. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Lý Thường Kiệt", Wikipedia tiếng Việt — quê phường Thái Hòa, hai thuyết họ Quách / họ Ngô (bia thời Lý 1100, 1159; thần phổ đời Nguyễn), năm 1041, Kinh phỏng sứ Thanh Hóa – Nghệ An năm 1061, ban quốc tính năm 1069, phụ chính, đánh Tống 1075 – 1077, trấn Thanh Hóa 1082 – 1101, về triều năm 82 tuổi, Lý Giác 1103, Bố Chính 1104, mất tháng 6 năm Ất Dậu 1105, truy phong Việt quốc công, các bia ca ngợi, tranh luận về hoạn quan: https://vi.wikipedia.org/wiki/L%C3%BD_Th%C6%B0%E1%BB%9Dng_Ki%E1%BB%87t

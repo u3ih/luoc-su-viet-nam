@@ -60,6 +60,29 @@ Năm 1894, nghĩa quân đánh thắng một trận lớn trên sông. Sách ghi
 
 Cuối tháng 12 năm 1895, Phan Đình Phùng mất; các nguồn kể về cái chết của ông không giống nhau. Đầu năm 1896, cuộc khởi nghĩa kết thúc.
 
+## Ôn tập
+
+1. Tháng 10 năm 1885, ai giao cho Phan Đình Phùng tổ chức phong trào kháng chiến ở Hà Tĩnh?
+   - [ ] Nguyễn Thân và quân Pháp
+   - [x] Vua Hàm Nghi và Tôn Thất Thuyết
+   - [ ] Cao Thắng
+
+   Sau chiếu Cần Vương, vua Hàm Nghi và Tôn Thất Thuyết giao cho Phan Đình Phùng nhiệm vụ này. [Xem lại](#giao-viec)
+
+2. Phan Đình Phùng và Cao Thắng dựng căn cứ ở vùng núi rừng nào?
+   - [ ] Tam Điệp
+   - [ ] Tân Trào
+   - [x] Vụ Quang, Hà Tĩnh
+
+   Họ dựng căn cứ ở núi rừng Vụ Quang, Hà Tĩnh, kháng chiến suốt mười năm trong phong trào Cần Vương. [Xem lại](#mo-dau)
+
+3. Cuộc khởi nghĩa Hương Khê kết thúc vào lúc nào?
+   - [x] Đầu năm 1896
+   - [ ] Cuối năm 1885
+   - [ ] Năm 1892
+
+   Năm 1895, Nguyễn Thân cùng quân Pháp siết vòng vây quanh căn cứ; cuối tháng 12 năm 1895 Phan Đình Phùng mất, đầu năm 1896 cuộc khởi nghĩa kết thúc. [Xem lại](#vay-ep)
+
 ## Nguồn tham khảo
 
 - "Khởi nghĩa Hương Khê", Wikipedia tiếng Việt — các mốc thời gian, Cao Thắng, vòng vây, kết thúc, các cách kể khác nhau: https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_H%C6%B0%C6%A1ng_Kh%C3%AA

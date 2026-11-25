@@ -67,6 +67,30 @@ Ngày 2 tháng 2 năm 1859, Rigault de Genouilly để lại khoảng một ngh�
 
 Nhiều tháng sau, Đà Nẵng vẫn còn người Pháp đóng; trận Đà Nẵng 1859 – 1860 là một bài viết riêng.
 
+## Ôn tập
+
+1. Sau khi đồn Sơn Trà bị liên quân chiếm, quân triều Nguyễn lập phòng tuyến mới ở đâu?
+   - [ ] Gia Định
+   - [x] Liêu Trì
+   - [ ] Thất Khê
+
+   Quân triều Nguyễn lui về phía tây, lập phòng tuyến mới ở Liêu Trì. [Xem lại](#son-tra)
+
+2. Triều đình cử ai làm Tổng thống quân vụ ở mặt trận Đà Nẵng?
+   - [ ] Lê Đình Lý
+   - [ ] Phạm Thế Hiển
+   - [x] Nguyễn Tri Phương
+   - [ ] Rigault de Genouilly
+
+   Sau khi Lê Đình Lý bị trọng thương rồi mất, triều đình cử Nguyễn Tri Phương làm Tổng thống quân vụ, Phạm Thế Hiển làm Tham tán. [Xem lại](#lieu-tri)
+
+3. Ngày 2 tháng 2 năm 1859, phần lớn đội tàu liên quân làm gì?
+   - [ ] Ở lại Đà Nẵng để tiến sâu vào đất liền
+   - [ ] Rút về nước
+   - [x] Đi vào phía nam, mở mặt trận ở Gia Định
+
+   Rigault de Genouilly chỉ để lại khoảng một nghìn quân và sáu tàu dưới quyền Faucon. [Xem lại](#vao-nam)
+
 ## Nguồn tham khảo
 
 - "Trận Đà Nẵng (1858–1859)", Wikipedia tiếng Việt — diễn biến theo ngày, các số liệu khác nhau, trích Đại Nam thực lục: https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_%C4%90%C3%A0_N%E1%BA%B5ng_%281858%E2%80%931859%29

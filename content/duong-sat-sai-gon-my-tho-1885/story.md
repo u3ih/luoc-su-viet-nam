@@ -46,6 +46,29 @@ Ngày 20 tháng 7 năm 1885, chuyến tàu đầu tiên rời ga Sài Gòn, qua 
 
 Từ ngày 1 tháng 10 năm 1888, chính quyền thuộc địa bồi thường cho nhà thầu để thu lại quyền khai thác; tuyến nhiều lần đổi đơn vị quản lý. Vương Hồng Sển ghi lại câu vè “Mười giờ tàu lại Bến Thành, xúp lê vội thổi, bộ hành lao xao”. Đến thập niên 1950, xe hơi và đường bộ phát triển, tàu vắng khách, thua lỗ; năm 1958 tuyến ngừng chạy, kết thúc 73 năm.
 
+## Ôn tập
+
+1. Chuyến tàu đầu tiên rời ga Sài Gòn đi Mỹ Tho vào ngày nào?
+   - [ ] Ngày 12 tháng 11 năm 1880
+   - [ ] Ngày 1 tháng 10 năm 1888
+   - [x] Ngày 20 tháng 7 năm 1885
+
+   Ngày ấy được coi là ngày ra đời của ngành đường sắt Việt Nam; tuyến có tất cả 15 ga. [Xem lại](#chuyen-dau)
+
+2. Vì sao các toa tàu phải lên phà để qua sông?
+   - [ ] Vì lòng sông quá cạn để tàu chạy
+   - [x] Vì cầu sắt Bến Lức và Tân An chưa xong khi tàu đã chạy
+   - [ ] Vì đường ray bị nước cuốn trôi
+
+   Toa tàu được tách rời, đưa lên phà hơi nước chở qua sông rồi nối lại; đến tháng 5 năm 1886 tàu mới chạy được trên cầu. [Xem lại](#qua-pha)
+
+3. Vì sao tuyến đường sắt Sài Gòn – Mỹ Tho ngừng chạy năm 1958?
+   - [ ] Vì chiến tranh phá hỏng đường ray
+   - [x] Vì xe hơi và đường bộ phát triển, tàu vắng khách và thua lỗ
+   - [ ] Vì nhà thầu Joret rút khỏi tuyến
+
+   Tuyến chạy suốt 73 năm, từ 1885 đến 1958. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - “Đường sắt Sài Gòn – Mỹ Tho”, Wikipedia tiếng Việt — nhượng quyền ngày 12/11/1880 cho Joret, khởi công 1881, hơn 11.000 lao động, chi phí, vật liệu, cầu Bến Lức và Tân An (hãng Eiffel), phà chở tàu đến tháng 5/1886, chuyến tàu ngày 20/7/1885, 15 ga, thời gian và tốc độ, đầu máy năm 1896, thu hồi quyền khai thác năm 1888, câu vè do Vương Hồng Sển ghi, ngừng hoạt động năm 1958: https://vi.wikipedia.org/wiki/%C4%90%C6%B0%E1%BB%9Dng_s%E1%BA%AFt_S%C3%A0i_G%C3%B2n_%E2%80%93_M%E1%BB%B9_Tho

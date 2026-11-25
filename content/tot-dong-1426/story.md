@@ -67,6 +67,30 @@ Từ đó, quân Minh ở Đông Quan chỉ còn cố thủ trong thành.
 
 Từ dinh Bồ Đề, Nguyễn Trãi viết nhiều thư gửi các tướng Minh, khuyên họ ra hàng. Nhiều thành lần lượt ra hàng.
 
+## Ôn tập
+
+1. Vì sao quân Minh của Vương Thông bị thua nặng ở Tốt Động, Chúc Động?
+   - [ ] Quân Lam Sơn đông hơn quân Minh rất nhiều
+   - [x] Họ tiến vào vùng đồng trũng bùn lầy, nơi phục binh Lam Sơn đã chờ sẵn
+   - [ ] Quân Minh hết lương trước khi giao chiến
+
+   Quân đông khó dàn trận ở nơi đường hẹp, bùn lầy, càng khó rút lui; Vương Thông bị thương, chạy về Đông Quan. [Xem lại](#mai-phuc)
+
+2. Sau trận Tốt Động, quân Minh ở Đông Quan chỉ còn làm gì?
+   - [ ] Tiến thẳng vào Nghệ An
+   - [ ] Đề nghị Lê Lợi ra lệnh đình chiến
+   - [x] Cố thủ trong thành
+
+   Theo Toàn thư, quân Minh có khoảng năm vạn người chết, một vạn người bị bắt; các sách Trung Quốc ghi con số thấp hơn. [Xem lại](#ket-qua)
+
+3. Sau khi được tin thắng trận, Lê Lợi đóng đại bản doanh ở đâu để vây thành Đông Quan?
+   - [ ] Cao Bộ
+   - [ ] Chương Mỹ
+   - [x] Bồ Đề, bên kia sông Hồng
+   - [ ] Lam Sơn
+
+   Từ dinh Bồ Đề, Nguyễn Trãi viết nhiều thư gửi các tướng Minh khuyên ra hàng; nhiều thành lần lượt ra hàng. [Xem lại](#vay-thanh)
+
 ## Nguồn tham khảo
 
 - Đại Việt sử ký toàn thư (Ngô Sĩ Liên và các sử thần, 1479), Bản kỷ — phần Thái Tổ Cao Hoàng đế: https://vi.wikisource.org/wiki/%C4%90%E1%BA%A1i_Vi%E1%BB%87t_s%E1%BB%AD_k%C3%BD_to%C3%A0n_th%C6%B0

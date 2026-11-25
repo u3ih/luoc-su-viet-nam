@@ -46,6 +46,29 @@ Triều đình một mặt xuống chiếu khuyến khích nhà giàu bỏ thóc
 
 Kéo dài từ năm 1344 tới năm 1360, lan khắp vùng Đông Triều – Chí Linh, cuộc nổi dậy của Ngô Bệ được xem là cuộc khởi nghĩa nông dân lớn nhất đời Trần — nổ ra giữa lúc xã hội suy kém, dân đói khổ vì hạn hán. Ngày nay, tên ông được đặt cho một con đường ở Thành phố Hồ Chí Minh.
 
+## Ôn tập
+
+1. Khi dựng cờ khởi nghĩa ở Yên Phụ năm 1358, Ngô Bệ yết bảng với nội dung nào?
+   - [ ] "Diệt Trịnh phù Lê"
+   - [ ] "Bình Ngô"
+   - [x] "Chẩn cứu dân nghèo"
+
+   Đầu năm ấy có hạn hán, dân tình đói khổ; Ngô Bệ chiêu tập dân nghèo và tự xưng vương. [Xem lại](#chan-cuu)
+
+2. Triều đình nhà Trần đối phó với cuộc khởi nghĩa của Ngô Bệ bằng cách nào?
+   - [ ] Chỉ dùng quân đàn áp, không làm gì khác
+   - [x] Xuống chiếu khuyến khích nhà giàu bỏ thóc cứu đói, đồng thời sai quân đánh dẹp
+   - [ ] Nhường vùng Đông Triều – Chí Linh cho nghĩa quân
+
+   Tháng 3 năm 1360, đại quân triều đình kéo tới; Ngô Bệ bị bắt, đưa về kinh xử tử cùng 30 đồng đảng. [Xem lại](#trieu-dinh)
+
+3. Vì sao cuộc nổi dậy của Ngô Bệ được xem là lớn nhất đời Trần trong các cuộc khởi nghĩa nông dân?
+   - [ ] Vì nghĩa quân đánh chiếm được kinh thành
+   - [x] Vì kéo dài từ năm 1344 tới 1360 và lan khắp vùng Đông Triều – Chí Linh
+   - [ ] Vì nghĩa quân đánh thắng quân triều đình đến cùng
+
+   Cuộc nổi dậy nổ ra giữa lúc xã hội suy kém, dân đói khổ vì hạn hán. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Ngô Bệ", Wikipedia tiếng Việt — quê quán, núi Yên Phụ năm 1344, bị đánh năm 1345, hạn hán và dựng cờ năm 1358, bảng "Chẩn cứu dân nghèo", vùng Đông Triều – Chí Linh, chiếu khuyến khích nhà giàu bỏ thóc, bị bắt và xử tử năm 1360: https://vi.wikipedia.org/wiki/Ng%C3%B4_B%E1%BB%87

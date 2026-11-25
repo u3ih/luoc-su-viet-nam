@@ -51,6 +51,29 @@ Tháng Giêng năm Nhâm Tuất (3 tháng 2 năm 1802), Nguyễn Quang Thùy đ�
 
 Cùng năm 1802, Bùi Thị Xuân bị bắt và bị xử tử.
 
+## Ôn tập
+
+1. Khi vua Tây Sơn toan rút quân ở lũy Trấn Ninh, ai không chịu và xin ra đốc quân?
+   - [x] Bùi Thị Xuân
+   - [ ] Trần Quang Diệu
+   - [ ] Nguyễn Quang Thùy
+
+   Theo các sách đời sau, bà cưỡi voi xông xáo trên chiến trường từ sáng sớm đến chiều tối, tự tay thúc trống. [Xem lại](#luy-tran-ninh)
+
+2. Vì sao quân Tây Sơn mất tinh thần và tan vỡ?
+   - [ ] Vì lũy Trấn Ninh bị phá ngay từ buổi sáng
+   - [x] Vì tin thủy quân bị đánh tan ở cửa Nhật Lệ, tướng giữ cửa đầu hàng
+   - [ ] Vì quân Tây Sơn hết lương thực
+
+   Thủy quân của Nguyễn Văn Trương đánh tan thủy quân Tây Sơn ở cửa Nhật Lệ; tướng giữ cửa là Nguyễn Văn Kiên đầu hàng. [Xem lại](#nhat-le)
+
+3. Trận Trấn Ninh có ý nghĩa gì trong cuộc chiến giữa Tây Sơn và quân Nguyễn?
+   - [ ] Là trận mở đầu của cuộc chiến
+   - [ ] Là trận Tây Sơn giành thắng lợi quyết định
+   - [x] Là trận kịch chiến cuối cùng; sử gia Phạm Văn Sơn viết "Nhà Tây Sơn mạt vận ở lũy Trấn Ninh"
+
+   Cùng năm 1802, Bùi Thị Xuân bị bắt và bị xử tử. [Xem lại](#nhat-le)
+
 ## Nguồn tham khảo
 
 - "Trận Trấn Ninh (1802)", Wikipedia tiếng Việt — chuẩn bị, ba mũi tiến công, diễn biến, nhận định của Phạm Văn Sơn: https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_Tr%E1%BA%A5n_Ninh_(1802)

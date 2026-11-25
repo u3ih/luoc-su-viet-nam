@@ -46,6 +46,29 @@ Ngày 2 tháng 12 năm 2005, công trình khởi công. So với phương án ba
 
 Ngày 7 tháng 1 năm 2011, tổ máy số 1 phát điện; ngày 26 tháng 9 năm 2012, tổ máy thứ sáu hoà lưới. Ngày 23 tháng 12 năm 2012, nhà máy khánh thành: tổng công suất 2.400 MW, điện lượng bình quân hơn 10 tỷ kWh mỗi năm — gần một phần mười sản lượng điện Việt Nam năm 2012. Cùng với thuỷ điện Hoà Bình ở hạ lưu, sông Đà thành bậc thang thuỷ điện lớn nhất nước.
 
+## Ôn tập
+
+1. Ba tỉnh nào đã hoàn thành việc di chuyển toàn bộ dân ra khỏi vùng lòng hồ thuỷ điện Sơn La?
+   - [x] Sơn La, Điện Biên, Lai Châu
+   - [ ] Sơn La, Hòa Bình, Lào Cai
+   - [ ] Sơn La, Hà Giang, Cao Bằng
+
+   Đến tháng 4 năm 2010, tổng cộng 17.996 hộ đã dời khỏi vùng lòng hồ. [Xem lại](#tai-dinh-cu)
+
+2. Đập dâng của thuỷ điện Sơn La được đổ bằng công nghệ nào?
+   - [ ] Đắp đất
+   - [x] Bê tông đầm lăn
+   - [ ] Xếp đá khan
+
+   Đập dùng tro bay của nhiệt điện Phả Lại; đập chính xong ngày 25 tháng 8 năm 2010. [Xem lại](#dap)
+
+3. Tổng công suất của nhà máy thuỷ điện Sơn La khi khánh thành là bao nhiêu?
+   - [ ] 400 MW
+   - [ ] 1.200 MW
+   - [x] 2.400 MW
+
+   Nhà máy có sáu tổ máy, mỗi tổ 400 MW, khánh thành ngày 23 tháng 12 năm 2012. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Nhà máy thủy điện Sơn La", Wikipedia tiếng Việt — vị trí, công suất, khởi công 2/12/2005, khánh thành 23/12/2012, thông số, các lần khảo sát, tranh luận ở Quốc hội năm 2001, các mốc phê duyệt, 17.996 hộ tái định cư, bê tông đầm lăn, các mốc tổ máy, kích thước đập: https://vi.wikipedia.org/wiki/Nh%C3%A0_m%C3%A1y_th%E1%BB%A7y_%C4%91i%E1%BB%87n_S%C6%A1n_La

@@ -47,6 +47,29 @@ Tháng 3 năm Mậu Thân (1248), vua Trần Thái Tông sai quan các lộ đ�
 
 Thời Lê trung hưng, năm 1664 triều đình định lệ đắp đê vào tháng 10 âm lịch, ngay sau mùa lũ; năm 1767 định việc khám đê qua ba lần trong các tháng 8, 9, 11. Đến năm 1833, tổng chiều dài đê ở miền Bắc đo được 333.616 trượng, khoảng 1.300 km. Phá hoại đê là tội nặng.
 
+## Ôn tập
+
+1. Đê Cơ Xá được đắp năm 1108 dưới thời vua nào?
+   - [ ] Trần Thái Tông
+   - [x] Lý Nhân Tông
+   - [ ] Lê Thánh Tông
+
+   Tháng 3 âm lịch năm Mậu Tý (1108), vua Lý Nhân Tông cho đắp đê Cơ Xá, con đê đầu tiên được sử sách ghi lại. [Xem lại](#dap-de)
+
+2. Đê Cơ Xá được đắp nhằm mục đích gì?
+   - [ ] Ngăn quân giặc tiến vào kinh thành
+   - [ ] Dẫn nước sông Hồng vào ruộng
+   - [x] Bảo vệ kinh thành Thăng Long khỏi ngập lụt
+
+   Kinh thành nằm bên sông Hồng; mỗi mùa nước lên, lũ đe dọa tràn vào phố phường và đồng ruộng. [Xem lại](#mua-lu)
+
+3. Năm 1248, vua Trần Thái Tông cho đắp đê như thế nào?
+   - [ ] Chỉ đắp một đoạn quanh kinh thành Thăng Long
+   - [ ] Phá đê cũ để nước tràn vào ruộng
+   - [x] Đắp đê hai bên bờ sông Hồng từ đầu nguồn ra tới biển
+
+   Đê này gọi là đê quai vạc; nhà nước còn đặt hai viên Hà đê chánh phó sứ để coi việc đê. [Xem lại](#de-quai-vac)
+
 ## Nguồn tham khảo
 
 - "Kinh nghiệm phòng chống bão lụt hàng nghìn năm của cha ông ta", Znews — đê Cơ Xá tháng 3 năm 1108, đê quai vạc 1248, Hà đê chánh phó sứ, lệ đắp đê 1664, khám đê 1767, chiều dài đê 1809 và 1833: https://znews.vn/kinh-nghiem-phong-chong-bao-lut-hang-nghin-nam-cua-cha-ong-ta-post1598552.html

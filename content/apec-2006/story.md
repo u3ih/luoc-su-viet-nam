@@ -46,6 +46,29 @@ Tháng 11 năm 2006, lãnh đạo 21 nền kinh tế thành viên APEC gặp nha
 
 Hội nghị thông qua Kế hoạch hành động Hà Nội, triển khai "Lộ trình Busan" hướng tới "Mục tiêu Bogor" — mục tiêu tự do hoá thương mại và đầu tư trong khu vực. Hai tháng sau, ngày 11 tháng 1 năm 2007, Việt Nam chính thức trở thành thành viên Tổ chức Thương mại Thế giới.
 
+## Ôn tập
+
+1. Năm 2006, Việt Nam lần đầu đảm nhận vai trò gì đối với APEC?
+   - [ ] Thành viên quan sát
+   - [x] Nước chủ nhà của diễn đàn
+   - [ ] Nước khởi xướng diễn đàn
+
+   Năm 2006, Việt Nam lần đầu làm chủ nhà Diễn đàn Hợp tác Kinh tế châu Á – Thái Bình Dương (APEC). [Xem lại](#mo-dau)
+
+2. Hội nghị Bộ trưởng Thương mại APEC năm 2006 họp ở đâu?
+   - [ ] Hà Nội
+   - [ ] Huế
+   - [x] Thành phố Hồ Chí Minh
+
+   Hội nghị Bộ trưởng Thương mại APEC họp ở Thành phố Hồ Chí Minh ngày 1 – 2 tháng 6. [Xem lại](#hoi-nghi)
+
+3. Kế hoạch hành động Hà Nội triển khai "Lộ trình Busan" hướng tới mục tiêu nào?
+   - [x] Mục tiêu Bogor, tức tự do hoá thương mại và đầu tư trong khu vực
+   - [ ] Mục tiêu thành lập một đồng tiền chung của khu vực
+   - [ ] Mục tiêu xây dựng một liên minh quân sự
+
+   Kế hoạch hành động Hà Nội triển khai "Lộ trình Busan" hướng tới "Mục tiêu Bogor" — mục tiêu tự do hoá thương mại và đầu tư trong khu vực. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "APEC 2006", Wikipedia tiếng Việt — các hội nghị quan chức cao cấp và Bộ trưởng Thương mại, Uỷ ban Quốc gia về APEC 2006, chi phí hơn 350 tỷ đồng, hơn 800 sinh viên, Kế hoạch hành động Hà Nội, Lộ trình Busan, Mục tiêu Bogor: https://vi.wikipedia.org/wiki/APEC_2006

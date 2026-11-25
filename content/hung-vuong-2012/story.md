@@ -46,6 +46,30 @@ Những người gìn giữ và thực hành tín ngưỡng là cộng đồng n
 
 Ngày 6 tháng 12 năm 2012, tại kỳ họp lần thứ 7 của Uỷ ban liên chính phủ về bảo vệ di sản văn hoá phi vật thể ở Paris, UNESCO ghi danh tín ngưỡng thờ cúng Hùng Vương ở Phú Thọ là di sản văn hoá phi vật thể đại diện của nhân loại.
 
+## Ôn tập
+
+1. Theo truyền thuyết, các vua Hùng là con của ai?
+   - [ ] An Dương Vương và Mỵ Châu
+   - [x] Lạc Long Quân và Âu Cơ
+   - [ ] Lê Hoàn và Dương Vân Nga
+
+   Theo truyền thuyết và lịch sử truyền miệng, các vua Hùng là những người con đầu tiên của Lạc Long Quân và Âu Cơ, có công lập nên nước Văn Lang. [Xem lại](#nghia-linh)
+
+2. Lễ hội lớn nhất của tín ngưỡng thờ cúng Hùng Vương là gì, diễn ra quanh ngày nào?
+   - [ ] Lễ hội Đền Hùng vào rằm tháng Giêng
+   - [ ] Lễ hội rước kiệu vào mùng 1 Tết
+   - [x] Giỗ Tổ Hùng Vương quanh ngày mùng 10 tháng 3 âm lịch
+   - [ ] Lễ cầu mùa vào mùng 10 tháng 10 âm lịch
+
+   Giỗ Tổ Hùng Vương kéo dài khoảng một tuần quanh ngày mùng 10 tháng 3 âm lịch. [Xem lại](#gio-to)
+
+3. Ngày 6 tháng 12 năm 2012, UNESCO ghi danh tín ngưỡng thờ cúng Hùng Vương ở Phú Thọ là gì?
+   - [ ] Di sản thiên nhiên thế giới
+   - [x] Di sản văn hoá phi vật thể đại diện của nhân loại
+   - [ ] Công viên địa chất toàn cầu
+
+   UNESCO ghi danh tín ngưỡng này là di sản văn hoá phi vật thể đại diện của nhân loại tại kỳ họp ở Paris. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Tín ngưỡng thờ cúng Hùng Vương", Wikipedia tiếng Việt — truyền thuyết các vua Hùng, giỗ Tổ mùng 10 tháng 3, lễ vật, rước kiệu, phạm vi ở Phú Thọ, 109 làng, ban tổ chức và ban nghi lễ, ba làng giữ đền, truyền khẩu, ghi danh ngày 6/12/2012 ở Paris: https://vi.wikipedia.org/wiki/T%C3%ADn_ng%C6%B0%E1%BB%A1ng_th%E1%BB%9D_c%C3%BAng_H%C3%B9ng_V%C6%B0%C6%A1ng

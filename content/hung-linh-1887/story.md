@@ -46,6 +46,29 @@ Trước sức mạnh đại bác, nghĩa quân lui về Vạn Lại (Thọ Xuâ
 
 Đến năm 1892, bên Tống Duy Tân và Cao Điển chỉ còn chưa tới 100 người, vì dân bị khủng bố nên không dám theo. Khoảng tháng 9 năm 1892, ông tuyên bố giải tán lực lượng để tránh thêm thương vong, ẩn ở hang Niên Kỷ (Bá Thước). Ngày 4 tháng 10 năm 1892, do có người mật báo, ông bị bắt; không chịu hàng, ông bị xử chết ở Thanh Hoá, năm 55 tuổi. Cầm Bá Thước còn hoạt động tới năm 1895. Các nhà sử học xem năm 1892 là năm kết thúc khởi nghĩa Hùng Lĩnh.
 
+## Ôn tập
+
+1. Sau khi Ba Đình thất thủ, Tống Duy Tân đưa quân lên đâu để lập trung tâm kháng chiến mới?
+   - [x] Hùng Lĩnh, vùng thượng nguồn sông Mã
+   - [ ] Phi Lai, thuộc Hà Trung
+   - [ ] Mã Cao
+
+   Ba Đình rồi Mã Cao lần lượt thất thủ; Tống Duy Tân đưa quân lên Hùng Lĩnh lập trung tâm kháng chiến mới. [Xem lại](#sau-ba-dinh)
+
+2. Cùng Tống Duy Tân và Cao Điển mở rộng địa bàn hai bên bờ sông Mã là vị tù trưởng người Thái nào?
+   - [ ] Đinh Công Tráng
+   - [x] Cầm Bá Thước
+   - [ ] Trần Xuân Soạn
+
+   Đầu năm 1889, Tống Duy Tân cùng Đề đốc Cao Điển và tù trưởng người Thái Cầm Bá Thước mở rộng địa bàn hai bên bờ sông Mã. [Xem lại](#tro-ve)
+
+3. Vì sao khoảng tháng 9 năm 1892 Tống Duy Tân tuyên bố giải tán lực lượng?
+   - [ ] Vì nhận được lệnh bãi binh từ triều đình
+   - [ ] Vì đã giành được thắng lợi cuối cùng
+   - [x] Để tránh thêm thương vong, khi lực lượng chỉ còn chưa tới 100 người
+
+   Dân bị khủng bố nên không dám theo; ông tuyên bố giải tán lực lượng để tránh thêm thương vong, rồi ẩn ở hang Niên Kỷ. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Khởi nghĩa Hùng Lĩnh", Wikipedia tiếng Việt — lãnh đạo, căn cứ Phi Lai, Ba Đình thất thủ, giai đoạn một và hai, trận Đa Bút, Vạn Lại, Yên Lược, làng Kẽm, giải tán năm 1892, Tống Duy Tân bị bắt và xử chết, tổ chức hương binh: https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_H%C3%B9ng_L%C4%A9nh

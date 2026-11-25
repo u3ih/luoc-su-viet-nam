@@ -47,6 +47,29 @@ Nét độc đáo của quần thể là nhà thờ Công giáo được xây ho
 
 Nhà thờ lớn hiện là nhà thờ chính tòa của Giáo phận Phát Diệm. Tỉnh Ninh Bình cùng các nhà nghiên cứu Nhật Bản đang hoàn thiện hồ sơ kiến trúc nhà thờ Phát Diệm để đề nghị UNESCO công nhận là di sản văn hóa thế giới.
 
+## Ôn tập
+
+1. Ai chủ trì xây quần thể nhà thờ đá Phát Diệm?
+   - [ ] Linh mục Trần Lục
+   - [ ] Phạm Phạn Chi
+   - [x] Linh mục Phêrô Trần Lục
+
+   Quần thể được xây từ năm 1875 đến năm 1899 bằng đá và gỗ theo dáng đình, chùa Việt. [Xem lại](#mo-dau)
+
+2. Công trình đầu tiên ở Phát Diệm, khởi dựng năm 1875, là núi đá nhân tạo nhằm mục đích gì?
+   - [ ] Làm đài quan sát ven biển
+   - [x] Thử độ lún của nền đất mới bồi trước khi xây các công trình nặng
+   - [ ] Làm nơi thờ cúng chính
+
+   Phát Diệm là vùng đất mới bồi ven biển, nay thuộc Ninh Bình. [Xem lại](#dat-moi-boi)
+
+3. Nhà thờ lớn khánh thành năm 1891 có đặc điểm nào?
+   - [ ] Xây hoàn toàn bằng gạch nung
+   - [ ] Mái bằng bê tông, không có cột
+   - [x] Có 48 cột gỗ lim nguyên khối, mỗi cột nặng khoảng 10 tấn ở hai hàng cột giữa
+
+   Nhà thờ dài 74 m, rộng 21 m, cao 15 m. [Xem lại](#xay-dung)
+
 ## Nguồn tham khảo
 
 - "Nhà thờ chính tòa Phát Diệm", Wikipedia tiếng Việt — thời gian xây 1875 – 1899, linh mục Trần Lục, núi Táng Xác, nhà thờ đá 1883, nhà thờ lớn 1891, các nhà nguyện, phương đình, kích thước, hồ sơ UNESCO: https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_ch%C3%ADnh_t%C3%B2a_Ph%C3%A1t_Di%E1%BB%87m

@@ -60,6 +60,28 @@ Tháng 3 năm 1908, phong trào chống sưu thuế ở Quảng Nam bị dẹp, 
 
 Tháng 9 năm 1908, Pháp và Nhật ký thoả thuận, theo đó Nhật không cho người cách mạng và du học sinh Việt Nam ở lại. Tháng 3 năm 1909, Cường Để và Phan Bội Châu bị buộc rời Nhật Bản. Phong trào tan vỡ.
 
+## Ôn tập
+
+1. Sau khi sang Nhật Bản năm 1905, Phan Bội Châu chuyển từ “cầu viện” sang “cầu học” vì sao?
+   - [ ] Vì Lương Khải Siêu khuyên ông chờ quân đội nước ngoài giúp
+   - [x] Vì các chính khách Nhật không viện trợ quân sự mà gợi ý đưa thanh niên sang học
+   - [ ] Vì Cường Để đã sang Nhật du học
+
+   Lương Khải Siêu cũng khuyên ông không nên trông chờ quân đội nước ngoài. [Xem lại](#sang-nhat)
+
+2. Giữa năm 1907, Phan Bội Châu lập tổ chức nào để tổ chức du học sinh?
+   - [ ] Duy Tân hội
+   - [x] Việt Nam Cống hiến hội
+
+   Từ đó du học sinh có một tổ chức chung để học tập và hoạt động ở Nhật Bản. [Xem lại](#cong-hien-hoi)
+
+3. Vì sao phong trào Đông Du tan vỡ?
+   - [ ] Vì du học sinh tự nguyện trở về nước
+   - [ ] Vì Phan Bội Châu bị bắt ở Quảng Nam
+   - [x] Vì Pháp và Nhật ký thoả thuận, Nhật không cho du học sinh ở lại, rồi buộc Phan Bội Châu và Cường Để rời Nhật Bản
+
+   Thoả thuận ký tháng 9 năm 1908; tháng 3 năm 1909 Cường Để và Phan Bội Châu bị buộc rời Nhật Bản. [Xem lại](#tan-ro)
+
 ## Nguồn tham khảo
 
 - "Phong trào Đông Du", Wikipedia tiếng Việt — các mốc từ 1903 đến 1909: https://vi.wikipedia.org/wiki/Phong_tr%C3%A0o_%C4%90%C3%B4ng_Du

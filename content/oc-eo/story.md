@@ -47,6 +47,29 @@ Cư dân Óc Eo ăn lúa gạo, sống trong nhà sàn bằng gỗ ven các sôn
 
 Bên cạnh tín ngưỡng truyền thống, Hindu giáo với các vị thần Vishnu, Shiva, Brahma và Phật giáo theo đường biển du nhập vào vùng đồng bằng sông Cửu Long từ những thế kỷ đầu Công nguyên. Nhiều tượng thần bằng đá, gỗ, đồng được tìm thấy trên các gò đất cao — nơi cư dân Óc Eo dựng những trung tâm tôn giáo.
 
+## Ôn tập
+
+1. Văn hóa Óc Eo hình thành và phát triển ở đâu, vào thời gian nào?
+   - [ ] Ở Bắc Bộ, từ thế kỷ VII đến thế kỷ XII
+   - [ ] Ở miền Trung, từ thế kỷ I trước Công nguyên đến thế kỷ I
+   - [x] Ở Nam Bộ, từ thế kỷ I đến thế kỷ VII, gắn với vương quốc Phù Nam
+
+   Những di chỉ đầu tiên được tìm thấy năm 1944 trên một gò đất phía đông nam núi Ba Thê. [Xem lại](#go-oc-eo)
+
+2. Cư dân Óc Eo sống như thế nào?
+   - [ ] Ở nhà trệt xây bằng đá, đi lại chủ yếu bằng ngựa
+   - [x] Ở nhà sàn bằng gỗ ven sông rạch, đi lại chủ yếu bằng thuyền
+   - [ ] Sống du mục trên núi cao
+
+   Họ ăn lúa gạo, biết nấu thủy tinh và làm đồ kim hoàn. [Xem lại](#nha-san)
+
+3. Điều gì cho thấy Óc Eo từng là một cảng thị quan trọng?
+   - [ ] Nơi đây có nhiều trống đồng Đông Sơn
+   - [ ] Nơi đây có nhiều tượng đá của người Chăm
+   - [x] Tìm thấy gốm Ấn Độ, gương đồng thời Hậu Hán và đồng tiền vàng La Mã
+
+   Những di vật ấy cho thấy đây từng là một cảng thị quan trọng bậc nhất trong khu vực. [Xem lại](#cang-thi)
+
 ## Nguồn tham khảo
 
 - "Văn hóa Óc Eo", Wikipedia tiếng Việt — phát hiện năm 1944, niên đại, cư trú, thủ công, giao thương, tôn giáo: https://vi.wikipedia.org/wiki/V%C4%83n_h%C3%B3a_%C3%93c_Eo

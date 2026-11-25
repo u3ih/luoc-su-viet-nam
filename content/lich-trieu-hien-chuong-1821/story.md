@@ -47,6 +47,29 @@ Năm 1820, Phan Huy Chú được gọi vào kinh đô Huế, giữ chức Biên
 
 Sách được dịch và xuất bản ở miền Bắc năm 1960, ở Sài Gòn năm 1971 – 1973, nhiều lần tái bản. Dương Quảng Hàm nhận xét bộ sách "đã thu thập một cách có phương pháp các tài liệu ở các sách vở cũ về hiến chương, chế độ của nước ta trước đời Nguyễn, rất tiện cho việc kê cứu".
 
+## Ôn tập
+
+1. Năm 1821, Phan Huy Chú dâng bộ Lịch triều hiến chương loại chí lên vị vua nào?
+   - [ ] Gia Long
+   - [x] Minh Mạng
+   - [ ] Thiệu Trị
+
+   Năm 1820 ông được gọi vào kinh đô Huế, giữ chức Biên tu; năm 1821 ông dâng sách lên vua Minh Mạng. [Xem lại](#dang-sach)
+
+2. Bộ Lịch triều hiến chương loại chí gồm bao nhiêu quyển, chia làm bao nhiêu phần?
+   - [x] 49 quyển, 10 phần
+   - [ ] 10 quyển, 49 phần
+   - [ ] 100 quyển, 5 phần
+
+   Sách chép điển chương các triều từ thời Hồng Bàng đến cuối thời Lê, gồm các phần như Dư địa, Nhân vật, Quan chức, Lễ nghi, Khoa mục, Bang giao. [Xem lại](#soan-sach)
+
+3. Sau hai lần thi Hương (1807 và 1819), Phan Huy Chú đạt kết quả nào và chọn con đường gì?
+   - [ ] Đỗ đầu rồi vào Huế làm quan
+   - [ ] Trượt cả hai lần rồi về quê làm ruộng
+   - [x] Chỉ đỗ tú tài, rồi thôi thi cử để chuyên tâm nghiên cứu và trước tác
+
+   Vì thế người ta gọi ông là "Kép Thầy". [Xem lại](#kep-thay)
+
 ## Nguồn tham khảo
 
 - "Lịch triều hiến chương loại chí", Wikipedia tiếng Việt — thời gian soạn, dâng sách năm 1821, 49 quyển, 10 phần, xuất bản, nhận xét: https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_tri%E1%BB%81u_hi%E1%BA%BFn_ch%C6%B0%C6%A1ng_lo%E1%BA%A1i_ch%C3%AD

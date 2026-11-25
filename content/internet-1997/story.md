@@ -46,6 +46,29 @@ Ngày 19 tháng 11 năm 1997, Việt Nam chính thức hoà vào mạng Internet
 
 Năm 2010, Hiệp hội Internet Việt Nam được thành lập. Cuối tháng 7 năm 2011, số người dùng Internet ở Việt Nam đã vượt 31 triệu; đến tháng 7 năm 2021, con số lên khoảng 68,7 triệu người, với hơn 18 triệu thuê bao băng rộng cố định và hơn 68 triệu thuê bao băng rộng di động.
 
+## Ôn tập
+
+1. Ngày 19 tháng 11 năm 1997 có sự kiện gì?
+   - [x] Việt Nam chính thức hoà vào mạng Internet toàn cầu
+   - [ ] Lá thư điện tử đầu tiên được gửi ra nước ngoài
+   - [ ] Hiệp hội Internet Việt Nam được thành lập
+
+   Ngày 19 tháng 11 năm 1997, VNPT, NetNam và ba công ty khác trở thành những nhà cung cấp dịch vụ Internet đầu tiên. [Xem lại](#hoa-mang)
+
+2. Năm 1991, giáo sư Rob Hurle mang sang Việt Nam thiết bị nào để thử nghiệm kết nối máy tính qua đường dây điện thoại?
+   - [ ] Một trạm vệ tinh
+   - [ ] Một tuyến cáp quang
+   - [x] Một chiếc modem
+
+   Cùng ông Trần Bá Thái ở Viện Công nghệ thông tin, ông kết nối máy tính ở Úc và Việt Nam; năm 1992 viện có hộp thư điện tử riêng. [Xem lại](#thu-dien-tu)
+
+3. Năm 1994, Viện Công nghệ thông tin qua công ty NetNam cung cấp dịch vụ thư điện tử dưới tên miền quốc gia nào?
+   - [ ] .com
+   - [x] .vn
+   - [ ] .org
+
+   Cùng thời gian, Internet được thử nghiệm ở bốn nơi, trong đó có mạng Varenet, mạng HCMCNET và công ty VDC của VNPT. [Xem lại](#thu-nghiem)
+
 ## Nguồn tham khảo
 
 - "Internet tại Việt Nam", Wikipedia tiếng Việt — ngày 19/11/1997, Rob Hurle và chiếc modem năm 1991, Trần Bá Thái và Viện Công nghệ thông tin, hộp thư điện tử năm 1992, NetNam năm 1994 và tên miền .vn, bốn nơi thử nghiệm (Varenet, Toolnet, HCMCNET, VDC), các nhà cung cấp dịch vụ đầu tiên tháng 11/1997, Hiệp hội Internet Việt Nam năm 2010, số người dùng năm 2011 và 2021: https://vi.wikipedia.org/wiki/Internet_t%E1%BA%A1i_Vi%E1%BB%87t_Nam

@@ -46,6 +46,29 @@ Tháng 9 năm 1944, lụt vỡ đê ở Hà Tĩnh, Nghệ An; vụ mùa ở các
 
 Năm 1945, chính phủ Trần Trọng Kim định giá gạo, cho tư nhân buôn gạo, lập các hội cứu tế và tìm cách chở gạo từ Nam ra Bắc bằng xe bò, thuyền nhỏ, nhưng tàu lớn bị Nhật trưng dụng và đường sá bị đánh phá; vụ thu hoạch tháng 5 – 6 năm 1945 giúp nạn đói dịu dần. Sau Cách mạng Tháng Tám, ngày 2 tháng 11 năm 1945, Hội Cứu đói được lập, phát động tăng gia sản xuất hoa màu; từ tháng 11 năm 1945 đến tháng 5 năm 1946, thu hoạch được lượng lương thực tương đương 506.000 tấn lúa.
 
+## Ôn tập
+
+1. Vì sao gạo từ Nam Kỳ không ra được Bắc trong những năm chiến tranh?
+   - [ ] Nam Kỳ cũng bị mất mùa liên tiếp
+   - [ ] Gạo bị cấm bán ra ngoài Nam Kỳ theo lệnh nhà vua
+   - [x] Máy bay Đồng minh đánh phá đường sắt, đường biển
+
+   Đông Dương khi ấy dưới sự cai trị của Pháp và sự chiếm đóng của Nhật, cả hai trưng thu thóc gạo cho nhu cầu chiến tranh. [Xem lại](#nguyen-nhan)
+
+2. Theo khảo sát của nhà sử học Nguyễn Quang Ân, có xã mất bao nhiêu phần dân số chỉ trong vài tháng đầu năm 1945?
+   - [ ] Khoảng 4 – 5%
+   - [x] Khoảng 40 – 50%
+   - [ ] Gần như toàn bộ dân số
+
+   Ở thôn Quần Mục (Hải Phòng), 1.206 trong 2.052 người chết. [Xem lại](#nan-doi)
+
+3. Sau Cách mạng Tháng Tám, ngày 2 tháng 11 năm 1945, tổ chức nào được lập để cứu đói?
+   - [x] Hội Cứu đói
+   - [ ] Hội Khuyến nông
+   - [ ] Hội Chữ thập đỏ
+
+   Hội Cứu đói phát động tăng gia sản xuất hoa màu; từ tháng 11 năm 1945 đến tháng 5 năm 1946 thu hoạch được lượng lương thực tương đương 506.000 tấn lúa. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Nạn đói năm Ất Dậu", Wikipedia tiếng Việt — thời gian tháng 10/1944 – 5/1945, ước tính 400.000 – 2 triệu người chết, nguyên nhân (trưng thu, nhổ lúa trồng đay, cấm lưu thông, Đồng minh đánh phá giao thông, lụt và mất mùa), số liệu Thái Bình theo Văn Tạo, Tuyên ngôn độc lập, các biện pháp cứu đói: https://vi.wikipedia.org/wiki/N%E1%BA%A1n_%C4%91%C3%B3i_n%C4%83m_%E1%BA%A4t_D%E1%BA%ADu

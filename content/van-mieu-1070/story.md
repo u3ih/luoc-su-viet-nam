@@ -56,6 +56,29 @@ Văn Miếu – Quốc Tử Giám ngày nay ở Hà Nội. Hai vườn bia tiế
 >
 > Năm 1247: một phần bài ghi Lê Văn Hưu đỗ thám hoa, mười tám tuổi, và Đặng Ma La đỗ bảng nhãn, mười bốn tuổi; phần thống kê lại ghi ngược lại. Bài tham khảo cũng không xác nhận được việc Quốc Tử Giám mở cho con quan năm 1076.
 
+## Ôn tập
+
+1. Năm 1070, Văn Miếu được dựng ở Thăng Long để làm gì?
+   - [ ] Để làm nơi ở của vua
+   - [ ] Để làm trường dạy võ
+   - [x] Để thờ Khổng Tử và các bậc hiền triết
+
+   Sáu năm sau, năm 1076, Quốc Tử Giám được lập bên cạnh Văn Miếu. [Xem lại](#van-mieu)
+
+2. Quốc Tử Giám được xem là gì của nước ta?
+   - [ ] Kho lưu trữ sách đầu tiên
+   - [x] Trường đại học đầu tiên
+   - [ ] Nơi đúc tiền đầu tiên
+
+   Quốc Tử Giám được lập dưới thời Lý Nhân Tông. [Xem lại](#van-mieu)
+
+3. Khoa thi Nho học năm 1075 dưới triều Lý có đặc điểm gì?
+   - [ ] Thi bốn trường, chọn một trăm người
+   - [x] Thi ba trường, chọn mười người, thủ khoa là Lê Văn Thịnh
+   - [ ] Thi một trường, thủ khoa là Nguyễn Hiền
+
+   Khoa này còn gọi là khoa Minh kinh bác học. [Xem lại](#khoa-thi)
+
 ## Nguồn tham khảo
 
 - "Văn Miếu – Quốc Tử Giám", Wikipedia tiếng Việt — Văn Miếu 1070, Quốc Tử Giám 1076, vườn bia: https://vi.wikipedia.org/wiki/V%C4%83n_Mi%E1%BA%BFu_%E2%80%93_Qu%E1%BB%91c_T%E1%BB%AD_Gi%C3%A1m

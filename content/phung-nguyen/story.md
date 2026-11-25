@@ -98,6 +98,29 @@ Phùng Nguyên là văn hoá đầu tiên trong chuỗi văn hoá tiền Đông 
 
 Nhiều nhà khảo cổ cho rằng chuỗi liên tục ấy cho thấy văn hoá Đông Sơn hình thành tại chỗ, từ chính lưu vực các dòng sông này.
 
+## Ôn tập
+
+1. Văn hoá Phùng Nguyên được đặt tên theo gì?
+   - [ ] Tên một dòng sông lớn ở Phú Thọ
+   - [x] Tên làng nơi các nhà khảo cổ phát hiện di chỉ đầu tiên
+   - [ ] Tên một vị vua thời cổ
+
+   Di chỉ ở làng Phùng Nguyên, xã Kinh Kệ, huyện Lâm Thao, tỉnh Phú Thọ; các nhà khảo cổ lấy tên làng đặt cho cả nền văn hoá. [Xem lại](#phat-hien)
+
+2. Dấu vết nào cho thấy cư dân Phùng Nguyên đã luyện đồng ngay tại chỗ?
+   - [x] Xỉ đồng tìm thấy ở Gò Bông
+   - [ ] Sưu tập nha chương ở Bảo tàng Hùng Vương
+   - [ ] Các ngôi mộ ở Mán Bạc
+
+   Đồ đồng đã xuất hiện trong văn hoá Phùng Nguyên nhưng còn ít; cư dân biết làm hợp kim đồng với thiếc. [Xem lại](#dong)
+
+3. Phùng Nguyên đứng ở vị trí nào trong chuỗi văn hoá tiền Đông Sơn ở châu thổ sông Hồng?
+   - [ ] Văn hoá cuối cùng, nối tiếp sau Đông Sơn
+   - [ ] Văn hoá thứ hai, nối tiếp sau Đồng Đậu
+   - [x] Văn hoá đầu tiên, rồi đến Đồng Đậu, Gò Mun và Đông Sơn
+
+   Nhiều nhà khảo cổ cho rằng chuỗi liên tục ấy cho thấy văn hoá Đông Sơn hình thành tại chỗ. [Xem lại](#noi-tiep)
+
 ## Nguồn tham khảo
 
 - Bảo tàng Lịch sử quốc gia, "Các văn hóa Tiền Đông Sơn: Phùng Nguyên, Đồng Đậu, Gò Mun, khoảng 4.000 - 2.500 năm cách ngày nay" — https://baotanglichsu.vn/vi/Articles/4016/cac-van-hoa-tien-djong-son-phung-nguyen-djong-djau-go-mun-khoang-4-000-2-500-nam-cach-ngay-nay

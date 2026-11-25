@@ -46,6 +46,30 @@ Ngày 11 tháng 3, vua Bảo Đại tuyên bố huỷ các hiệp ước bảo h
 
 Ngày 12 tháng 8, Thống sứ Nhật bàn giao Bắc Kỳ cho Khâm sai Phan Kế Toại; Nam Kỳ cũng được giao lại. Nhưng Nhật đầu hàng Đồng Minh, phong trào Việt Minh lên cao. Ngày 20 tháng 8, Trần Trọng Kim tuyên bố sứ mệnh nội các đã xong; theo lời Bộ trưởng Phan Anh, các thành viên nội các đều ủng hộ chính phủ mới của Hồ Chí Minh. Trong chiếu thoái vị công bố ngày 25 tháng 8, vua Bảo Đại viết muốn “làm dân một nước độc lập, hơn làm vua một nước bị trị”; ngày 30 tháng 8, ông trao ấn kiếm ở Ngọ Môn. Đế quốc Việt Nam chấm dứt sau khoảng năm tháng.
 
+## Ôn tập
+
+1. Đêm 9 tháng 3 năm 1945, quân Nhật làm gì ở Đông Dương?
+   - [ ] Rút quân khỏi Đông Dương
+   - [x] Gửi tối hậu thư cho Toàn quyền Decoux rồi đồng loạt đánh các doanh trại Pháp
+   - [ ] Trao quyền cai trị cho Toàn quyền Decoux
+
+   Chỉ trong ít ngày, bộ máy cai trị của Pháp ở Đông Dương bị xoá bỏ, Toàn quyền Decoux bị bắt. [Xem lại](#dem-9-3)
+
+2. Ở Ba Tơ (Quảng Ngãi), cuộc khởi nghĩa do lực lượng nào lãnh đạo?
+   - [ ] Quân Nhật đóng ở địa phương
+   - [x] Chi bộ của những đảng viên cộng sản bị an trí ở đây, thành lập Uỷ ban Khởi nghĩa
+   - [ ] Nội các Trần Trọng Kim
+
+   Tối 10 tháng 3, chi bộ lập Uỷ ban Khởi nghĩa; chiều 11 tháng 3 đoàn biểu tình vây đồn Ba Tơ. [Xem lại](#ba-to)
+
+3. Ngày 11 tháng 3 năm 1945, vua Bảo Đại tuyên bố điều gì?
+   - [ ] Thoái vị và trao ấn kiếm
+   - [ ] Lập nội các do Trần Trọng Kim đứng đầu
+   - [ ] Việt Nam đặt dưới quyền bảo hộ của Pháp
+   - [x] Huỷ các hiệp ước bảo hộ với Pháp, Việt Nam độc lập và cộng tác với Nhật
+
+   Nội các Trần Trọng Kim ra đời sau đó, ngày 17 tháng 4; việc thoái vị diễn ra vào tháng 8. [Xem lại](#de-quoc)
+
 ## Nguồn tham khảo
 
 - “Nhật đảo chính Pháp tại Đông Dương”, Wikipedia tiếng Việt — bối cảnh 1944 – 1945, tối hậu thư cho Decoux, trận Lạng Sơn (544 lính Âu, 1.832 lính khố đỏ thiệt mạng), khoảng 15.000 lính Pháp bị bắt, gần 4.200 người chết, hơn 3.000 người rút sang Trung Hoa, tuyên bố độc lập 11/3: https://vi.wikipedia.org/wiki/Nh%E1%BA%ADt_%C4%91%E1%BA%A3o_ch%C3%ADnh_Ph%C3%A1p_t%E1%BA%A1i_%C4%90%C3%B4ng_D%C6%B0%C6%A1ng

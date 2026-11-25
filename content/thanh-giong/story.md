@@ -47,6 +47,29 @@ Gióng đuổi giặc tới chân núi Sóc Sơn thì dừng, cởi áo giáp, p
 
 Hằng năm, hội Gióng ở đền Phù Đổng (Gia Lâm) mở từ mồng 6 đến 12 tháng 4 âm lịch, với ông Hiệu Cờ tượng trưng Thánh Gióng, 120 phù giá và 28 cô gái đóng vai tướng giặc; hội Gióng đền Sóc (Sóc Sơn) mở ngày mồng 6 tháng Giêng. Năm 2010, hội Gióng ở đền Phù Đổng và đền Sóc được UNESCO ghi danh là di sản văn hóa phi vật thể của nhân loại.
 
+## Ôn tập
+
+1. Theo truyền thuyết, cậu bé làng Phù Đổng thế nào cho đến khi có tin giặc?
+   - [ ] Nói rất sớm và rất giỏi võ nghệ
+   - [x] Hơn ba tuổi nhưng không biết nói cười
+   - [ ] Được vua nuôi trong cung
+
+   Khi có tin nguy cấp, đứa trẻ bỗng nói được, xin gươm, áo giáp sắt và ngựa để đánh giặc. [Xem lại](#vuon-vai)
+
+2. Theo truyền thuyết, sau khi đánh tan giặc, Gióng làm gì?
+   - [ ] Về làng cũ sống cùng mẹ
+   - [ ] Được vua phong làm quan trong triều
+   - [x] Cởi áo giáp, phi ngựa lên trời ở chân núi Sóc Sơn
+
+   Vua sai sửa vườn nhà cũ của cậu để lập đền thờ. [Xem lại](#ve-troi)
+
+3. Năm 2010, UNESCO ghi danh điều gì liên quan đến Thánh Gióng?
+   - [ ] Đền Phù Đổng là di tích quốc gia đặc biệt
+   - [x] Hội Gióng ở đền Phù Đổng và đền Sóc là di sản văn hoá phi vật thể của nhân loại
+   - [ ] Núi Sóc Sơn là di sản thiên nhiên thế giới
+
+   Hội Gióng đền Phù Đổng (Gia Lâm) mở từ mồng 6 đến 12 tháng 4 âm lịch; hội đền Sóc (Sóc Sơn) mở ngày mồng 6 tháng Giêng. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Thánh Gióng", Wikipedia tiếng Việt — các bản chép trong Việt điện u linh tập, Lĩnh Nam chích quái, Đại Việt sử ký toàn thư; Lý Thái Tổ phong Xung Thiên Thần vương: https://vi.wikipedia.org/wiki/Th%C3%A1nh_Gi%C3%B3ng

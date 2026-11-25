@@ -63,6 +63,29 @@ Năm 1774, chúa Trịnh Sâm sai Hoàng Ngũ Phúc đem quân từ phía bắc 
 
 Quân Tây Sơn giữ vùng Quy Nhơn, rồi mở rộng thêm. Năm 1778, Nguyễn Nhạc xưng hoàng đế, niên hiệu Thái Đức. Chương này dừng ở đây; những trận đánh lớn của Nguyễn Huệ sẽ kể ở các chương sau.
 
+## Ôn tập
+
+1. Theo sử cũ, quyền thần nào đổi di chiếu để đưa người con thứ mười sáu của chúa Nguyễn Phúc Khoát lên làm chúa?
+   - [x] Trương Phúc Loan
+   - [ ] Hoàng Ngũ Phúc
+   - [ ] Nguyễn Phúc Dương
+
+   Năm 1765, chúa Nguyễn Phúc Khoát mất; người con mười hai tuổi lên làm chúa, tức Định vương. [Xem lại](#chua-suy)
+
+2. Chương xếp chuyện Nguyễn Nhạc ngồi vào cũi để lấy thành Quy Nhơn vào loại nào?
+   - [ ] Sự kiện đã được xác nhận từng chi tiết
+   - [ ] Truyền thuyết thời Hùng Vương
+   - [x] Giai thoại, chưa rõ có đúng từng chi tiết hay không
+
+   Điều chắc chắn hơn là Quy Nhơn trở thành căn cứ vững chắc của Tây Sơn. [Xem lại](#quy-nhon)
+
+3. Năm 1778, Nguyễn Nhạc xưng hoàng đế với niên hiệu nào?
+   - [ ] Cảnh Hưng
+   - [x] Thái Đức
+   - [ ] Quang Trung
+
+   Chương dừng ở đây; những trận đánh lớn của Nguyễn Huệ được kể ở các chương sau. [Xem lại](#ba-ben)
+
 ## Nguồn tham khảo
 
 - Trần Trọng Kim, Việt Nam sử lược, Quyển II, Phần IV, Chương VIII "Vận trung suy của chúa Nguyễn" — Trương Phúc Loan, gia thế anh em Tây Sơn, đồn trại Tây Sơn năm 1771, chuyện cái cũi, quân Trịnh vào Nam: https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_II/T%E1%BB%B1_ch%E1%BB%A7_th%E1%BB%9Di_%C4%91%E1%BA%A1i/Ch%C6%B0%C6%A1ng_VIII

@@ -51,6 +51,29 @@ Năm 270, cháu ngoại Khu Liên là Phạm Hùng lên làm vua, mở đất t�
 
 Lâm Ấp tồn tại tới khoảng đầu thế kỷ VII, được xem là giai đoạn khởi đầu cho lịch sử Chăm Pa độc lập. Theo sử nhà Nguyễn, sau nhiều đời vua, nước ấy bỏ đất Lâm Ấp, dời về phía nam, gọi là Chiêm Thành. Các bia ký Chăm sau này ghi tên nước là Campa.
 
+## Ôn tập
+
+1. Vì sao vùng cực nam quận Nhật Nam, huyện Tượng Lâm, trở nên khó trị từ nửa cuối thế kỷ II?
+   - [ ] Vì nhà Hán rút hết quan lại về nước
+   - [x] Vì cư dân bản địa liên tục nổi lên chống chính quyền đô hộ nhà Hán
+   - [ ] Vì vùng này bị thiên tai liên tiếp
+
+   Huyện Tượng Lâm thành nơi tranh chấp thường xuyên; năm 137, người nổi dậy ở Tây Quyển bị quan đô hộ gọi là “rợ Khu Liên”. [Xem lại](#tuong-lam)
+
+2. Năm 192, Khu Liên đã làm gì ở huyện Tượng Lâm?
+   - [ ] Được nhà Hán phong làm thứ sử
+   - [ ] Dâng đất Tượng Lâm cho nhà Hán
+   - [x] Giết huyện lệnh, cắt huyện để lập nước riêng
+
+   Sử Trung Hoa về sau gọi nước ấy là Lâm Ấp. [Xem lại](#lap-nuoc)
+
+3. Lâm Ấp được xem là giai đoạn nào của lịch sử Chăm Pa?
+   - [x] Giai đoạn khởi đầu của lịch sử Chăm Pa độc lập
+   - [ ] Giai đoạn kết thúc của Chăm Pa
+   - [ ] Giai đoạn Chăm Pa còn là một quận của nhà Hán
+
+   Lâm Ấp tồn tại tới khoảng đầu thế kỷ VII; theo sử nhà Nguyễn, sau đó nước ấy dời về phía nam, gọi là Chiêm Thành. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Lâm Ấp", Wikipedia tiếng Việt — Tượng Lâm khó trị, năm 190 giết thứ sử Chu Phù, năm 192 Khu Liên lập nước, lãnh thổ ban đầu, Phạm Hùng, Phạm Dật, Phạm Văn, thành Khu Lật, chữ Phạn, đoạn trích sử nhà Nguyễn: https://vi.wikipedia.org/wiki/L%C3%A2m_%E1%BA%A4p

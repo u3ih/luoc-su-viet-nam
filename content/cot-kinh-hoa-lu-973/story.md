@@ -46,6 +46,31 @@ Năm 1963, cột kinh đầu tiên được phát hiện; tháng 6 năm 1964, kh
 
 Cách đó không xa, ở chùa Nhất Trụ, còn một cột kinh lớn hơn nhiều, cao 4,16 m, khắc khoảng 2.500 chữ, do vua Lê Đại Hành cho dựng năm 995 — đó là cột kinh khác, không phải của Đinh Liễn. Năm 2024, sưu tập cột kinh Phật thời Đinh ở Bảo tàng Ninh Bình được công nhận là bảo vật quốc gia. Đây là nguồn tư liệu thành văn hiếm hoi còn lại từ chính thời nhà Đinh, cho thấy ảnh hưởng của Phật giáo Mật tông ở Đại Cồ Việt.
 
+## Ôn tập
+
+1. Ai cho dựng những cột kinh khắc bài Phật đỉnh tôn thắng đà la ni ở Hoa Lư, cầu siêu cho người em bị giết?
+   - [ ] Đinh Bộ Lĩnh
+   - [ ] Lê Đại Hành
+   - [x] Đinh Liễn
+   - [ ] Đinh Hạng Lang
+
+   Đinh Liễn sai người giết em là Hạng Lang rồi dựng cột kinh; phần lạc khoản là lời sám hối. [Xem lại](#sam-hoi)
+
+2. Các cột kinh thời Đinh được các nhà khảo cổ tìm thấy ở đâu?
+   - [ ] Trên đỉnh núi quanh Hoa Lư
+   - [x] Dưới đáy sông Hoàng Long và trong lòng đất Hoa Lư
+   - [ ] Trong cung điện của vua Đinh
+   - [ ] Trong chùa Nhất Trụ
+
+   Cột kinh đầu tiên được phát hiện năm 1963; Bảo tàng Ninh Bình cùng các nhà khảo cổ tìm được gần 20 cột. [Xem lại](#tim-thay)
+
+3. Cột kinh lớn cao 4,16 m ở chùa Nhất Trụ do ai cho dựng?
+   - [x] Vua Lê Đại Hành, năm 995
+   - [ ] Đinh Liễn, năm 979
+   - [ ] Đinh Bộ Lĩnh, năm 968
+
+   Đó là cột kinh khác, không phải của Đinh Liễn. [Xem lại](#bao-vat)
+
 ## Nguồn tham khảo
 
 - “Đinh Liễn”, Wikipedia tiếng Việt — Nam Việt vương, đi sứ nhà Tống năm 972, giết Hạng Lang đầu năm 979, dựng cột kinh khắc Phật đỉnh tôn thắng đà la ni để cầu siêu, lạc khoản sám hối, tên Khuông Liễn, gần 20 cột kinh tìm thấy, bị sát hại cuối năm 979: https://vi.wikipedia.org/wiki/%C4%90inh_Li%E1%BB%85n

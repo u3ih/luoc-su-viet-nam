@@ -60,6 +60,29 @@ Gia Long xin nhà Thanh công nhận quốc hiệu Nam Việt. Nhà Thanh không
 
 Năm 1804, sứ nhà Thanh tới Thăng Long làm lễ tuyên phong. Tên Việt Nam khi ấy đã có trong văn bản từ trước thế kỷ XIX; từ năm 1804 nó trở thành quốc hiệu chính thức.
 
+## Ôn tập
+
+1. Sử chép quân Nguyễn Ánh đánh hạm đội Tây Sơn ở cửa Thị Nại bằng cách nào?
+   - [x] Dùng hoả công đốt phần lớn thuyền Tây Sơn
+   - [ ] Đặt bãi cọc ngầm dưới lòng sông
+   - [ ] Vây hãm lâu ngày cho đến khi hạm đội đầu hàng
+
+   Thuỷ quân Nguyễn Ánh tiến vào cửa Thị Nại, nơi có hạm đội Tây Sơn do Võ Văn Dũng chỉ huy; sử chép quân Nguyễn dùng hoả công. Số quân, số thuyền và thiệt hại các nguồn ghi rất khác nhau. [Xem lại](#thi-nai)
+
+2. Năm 1802, Nguyễn Ánh lên ngôi hoàng đế ở đâu và đặt niên hiệu gì?
+   - [ ] Ở Thăng Long, niên hiệu Quang Trung
+   - [x] Ở Phú Xuân, niên hiệu Gia Long
+   - [ ] Ở Quy Nhơn, niên hiệu Gia Long
+
+   Năm Nhâm Tuất 1802, ông lên ngôi hoàng đế ở Phú Xuân, đặt niên hiệu Gia Long. [Xem lại](#len-ngoi)
+
+3. Vì sao nhà Thanh không chấp thuận quốc hiệu Nam Việt mà Gia Long xin?
+   - [ ] Vì Gia Long chưa lên ngôi hoàng đế
+   - [ ] Vì tên này chưa từng xuất hiện trong văn bản nào
+   - [x] Vì tên này trùng với nước Nam Việt thời họ Triệu
+
+   Nhà Thanh đề nghị đảo lại thành Việt Nam; năm 1804, sứ nhà Thanh tới Thăng Long làm lễ tuyên phong, từ đó Việt Nam là quốc hiệu chính thức. [Xem lại](#quoc-hieu)
+
 ## Nguồn tham khảo
 
 - "Gia Long", Wikipedia tiếng Việt — lên ngôi, thống nhất, quốc hiệu, trích dẫn Đại Nam thực lục: https://vi.wikipedia.org/wiki/Gia_Long

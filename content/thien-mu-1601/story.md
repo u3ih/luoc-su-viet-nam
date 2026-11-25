@@ -47,6 +47,29 @@ Năm 1710, chúa Nguyễn Phúc Chu (chúa Quốc) cho đúc chuông lớn nặn
 
 Năm 1844, nhân lễ mừng thọ tám mươi của bà Thuận Thiên Cao Hoàng hậu, vua Thiệu Trị cho xây thêm tháp bát giác Từ Nhân (sau đổi là Phước Duyên) cao 21 m, bảy tầng, cùng đình Hương Nguyện và hai tấm bia. Tháp Phước Duyên nay là biểu tượng gắn liền với chùa Thiên Mụ và với Huế.
 
+## Ôn tập
+
+1. Theo truyền thuyết, người địa phương kể ban đêm thường có ai hiện ra trên đồi Hà Khê và nói sẽ có người đến dựng chùa?
+   - [x] Một bà lão
+   - [ ] Một vị sư già
+   - [ ] Một con rồng
+
+   Truyền thuyết còn kể thế đất của ngọn đồi như con rồng quay đầu nhìn lại. [Xem lại](#ha-khe)
+
+2. Năm Tân Sửu (1601), ai chính thức cho lập chùa trên đồi Hà Khê?
+   - [ ] Chúa Nguyễn Phúc Chu
+   - [x] Chúa Tiên Nguyễn Hoàng
+   - [ ] Vua Thiệu Trị
+
+   Nguyễn Hoàng là vị chúa Nguyễn đầu tiên ở Đàng Trong; chùa ở tả ngạn sông Hương. [Xem lại](#khoi-lap)
+
+3. Ai cho xây tháp bát giác Từ Nhân (sau đổi là Phước Duyên) vào năm 1844?
+   - [ ] Chúa Nguyễn Hoàng
+   - [ ] Chúa Nguyễn Phúc Chu
+   - [x] Vua Thiệu Trị
+
+   Nhân lễ mừng thọ tám mươi của bà Thuận Thiên Cao Hoàng hậu, vua cho xây tháp cao 21 m, bảy tầng. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Chùa Thiên Mụ", Wikipedia tiếng Việt — khởi lập 1601, truyền thuyết, Đại Hồng Chung 1710, trùng tu 1714, tháp Phước Duyên 1844: https://vi.wikipedia.org/wiki/Ch%C3%B9a_Thi%C3%AAn_M%E1%BB%A5

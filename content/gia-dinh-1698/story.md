@@ -51,6 +51,29 @@ Từ năm 1699 đến năm 1700, ông đưa quân vào Chân Lạp, và vua Nặ
 
 Có đền thờ ông ở Campuchia, Đồng Nai và An Giang.
 
+## Ôn tập
+
+1. Năm 1698, phủ Gia Định do Nguyễn Hữu Cảnh đặt gồm những gì?
+   - [x] Hai huyện (Phước Long, Tân Bình) và hai dinh (Trấn Biên, Phiên Trấn)
+   - [ ] Ba huyện và một dinh
+   - [ ] Bảy xã thôn ven biển
+
+   Ông được sai vào Đồng Nai, đặt phủ Gia Định gồm hai huyện Phước Long, Tân Bình và hai dinh Trấn Biên, Phiên Trấn. [Xem lại](#lap-phu)
+
+2. Những người Hoa đến định cư thời Nguyễn Hữu Cảnh lập nên những làng nào?
+   - [ ] Phước Long và Tân Bình
+   - [ ] Trấn Biên và Phiên Trấn
+   - [x] Thanh Hà và Minh Hương
+
+   Ông chiêu mộ dân từ phía bắc vào; những người Hoa đến định cư lập các làng Thanh Hà và Minh Hương. [Xem lại](#lap-phu)
+
+3. Từ năm 1692 đến năm 1694, Nguyễn Hữu Cảnh chỉ huy chiến dịch ở vùng nào?
+   - [ ] Vùng Quảng Bình, quê ông
+   - [x] Vùng Chiêm Thành cũ, nay là Ninh Thuận và Bình Thuận
+   - [ ] Vùng Chân Lạp
+
+   Chiến dịch ở vùng Chiêm Thành cũ góp phần lập phủ Thuận Thành; sau đó ông được thăng chưởng cơ, làm trấn thủ Bình Khang. [Xem lại](#nam-tien)
+
 ## Nguồn tham khảo
 
 - "Nguyễn Hữu Cảnh", Wikipedia tiếng Việt — tiểu sử, chiến dịch 1692–1694, lập phủ Gia Định 1698, Chân Lạp, qua đời, tên gọi: https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_H%E1%BB%AFu_C%E1%BA%A3nh

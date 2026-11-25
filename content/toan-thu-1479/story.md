@@ -47,6 +47,29 @@ Hoàn thành rồi nhưng bộ sử chưa được khắc in, mà tiếp tục �
 
 Năm Đinh Sửu, Chính Hòa thứ 18 (1697), đời vua Lê Hy Tông, bộ sử được khắc in toàn bộ và phát hành lần đầu, chép từ năm 2879 TCN theo truyền thuyết đến năm 1675. Bản in Nội các quan bản hiện lưu ở thư viện Viện Viễn Đông Bác cổ (Paris); bản dịch phổ biến do Nhà xuất bản Khoa học Xã hội phát hành lần đầu năm 1993.
 
+## Ôn tập
+
+1. Ai hoàn tất bộ Đại Việt sử ký toàn thư 15 quyển năm 1479, dựa trên hai bộ Đại Việt sử ký trước đó?
+   - [ ] Lê Văn Hưu
+   - [ ] Phan Phu Tiên
+   - [x] Ngô Sĩ Liên
+
+   Lê Văn Hưu và Phan Phu Tiên là tác giả hai bộ sử trước đó mà Ngô Sĩ Liên chỉnh lý, bổ sung. [Xem lại](#muoi-lam-quyen)
+
+2. Bản in năm 1697 chép lịch sử từ khi nào đến khi nào?
+   - [x] Từ năm 2879 TCN theo truyền thuyết đến năm 1675
+   - [ ] Từ Ngô Quyền đến khi Lê Lợi lên ngôi
+   - [ ] Từ năm 1428 đến năm 1662
+
+   Bộ sử được khắc in toàn bộ và phát hành lần đầu năm 1697, đời vua Lê Hy Tông. [Xem lại](#ve-sau)
+
+3. Phần Ngoại kỷ của bộ sử năm 1479 chép từ thời nào đến thời nào?
+   - [ ] Từ Ngô Quyền đến khi Lê Lợi lên ngôi
+   - [x] Từ thời Hồng Bàng đến hết thời Bắc thuộc (938)
+   - [ ] Từ năm 1428 đến năm 1662
+
+   Phần Bản kỷ gồm 10 quyển, chép từ Ngô Quyền đến khi Lê Lợi lên ngôi (1428). [Xem lại](#muoi-lam-quyen)
+
 ## Nguồn tham khảo
 
 - "Đại Việt sử ký toàn thư", Wikipedia tiếng Việt — hoàn thành 1479, cấu trúc, các lần bổ sung, khắc in 1697, Nội các quan bản: https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_Vi%E1%BB%87t_s%E1%BB%AD_k%C3%BD_to%C3%A0n_th%C6%B0

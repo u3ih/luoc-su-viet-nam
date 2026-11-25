@@ -46,6 +46,29 @@ VINASAT-1 được phóng bằng tên lửa Ariane 5 ECA từ bãi phóng Kourou
 
 VINASAT-1 phủ sóng toàn lãnh thổ Việt Nam và nhiều nước trong khu vực, cung cấp đường truyền cho truyền hình, điện thoại, Internet, truyền tin cho ngư dân trên biển, liên lạc khi thiên tai và cho vùng sâu, vùng xa, hải đảo. Việt Nam trở thành nước thứ sáu ở Đông Nam Á có vệ tinh riêng. Năm 2024, khi vệ tinh đã hết tuổi thọ thiết kế, Bộ Thông tin và Truyền thông yêu cầu chuẩn bị phương án phóng vệ tinh thay thế.
 
+## Ôn tập
+
+1. Việt Nam phải đàm phán với 27 quốc gia và vùng lãnh thổ để có được điều gì?
+   - [ ] Quyền xây trạm mặt đất ở nước ngoài
+   - [x] Vị trí 132 độ Đông trên quỹ đạo địa tĩnh
+   - [ ] Quyền phóng vệ tinh bằng tên lửa riêng
+
+   Việt Nam đàm phán với 27 quốc gia và vùng lãnh thổ để có vị trí 132 độ Đông trên quỹ đạo địa tĩnh. [Xem lại](#chuan-bi)
+
+2. VINASAT-1 được phóng từ bãi phóng nào?
+   - [ ] Quế Dương, Hà Tây
+   - [ ] Bình Dương
+   - [x] Kourou, Guyane thuộc Pháp
+
+   VINASAT-1 được phóng bằng tên lửa Ariane 5 ECA từ bãi phóng Kourou, Guyane thuộc Pháp. [Xem lại](#phong)
+
+3. Ở quỹ đạo địa tĩnh, vệ tinh có đặc điểm gì?
+   - [x] Đứng yên so với mặt đất, luôn ở cùng một chỗ trên bầu trời
+   - [ ] Quay quanh Trái Đất vài chục vòng mỗi ngày
+   - [ ] Chỉ nhìn thấy được vào ban đêm
+
+   Ở quỹ đạo địa tĩnh, cách mặt đất khoảng 35.768 km, vệ tinh đứng yên so với mặt đất. [Xem lại](#phong)
+
 ## Nguồn tham khảo
 
 - "VINASAT-1", Wikipedia tiếng Việt — dự án khởi động năm 1998, đàm phán với 27 quốc gia và vùng lãnh thổ cho vị trí 132° Đông, quyết định năm 2005 giao VNPT làm chủ đầu tư, tổng vốn, trạm mặt đất Quế Dương và Bình Dương, thông số kỹ thuật, tên lửa Ariane 5 ECA, bãi phóng Kourou, phóng cùng Star One C2, lịch phóng bị hoãn, vùng phủ sóng và ứng dụng, nước thứ sáu ở Đông Nam Á: https://vi.wikipedia.org/wiki/VINASAT-1

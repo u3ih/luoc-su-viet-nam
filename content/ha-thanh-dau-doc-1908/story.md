@@ -47,6 +47,29 @@ Chưa đến 21 giờ, khi các toán bên trong và nghĩa quân bên ngoài ch
 
 Ngày 8 tháng 7 năm 1908, ba người đầu tiên — Đội Nhân (Đặng Đình Nhân), Tư Bình (Nguyễn Trị Bình), Dương Bé (Nguyễn Văn Cốc) — bị xử tử trước cột cờ Hà Nội. Tổng cộng 13 người bị xử chém, 6 người khác bị tuyên án tử hình vắng mặt.
 
+## Ôn tập
+
+1. Tối 27 tháng 6 năm 1908, những người bồi bếp và lính người Việt đã làm gì để mở đầu cuộc binh biến?
+   - [ ] Đốt kho thóc của thành
+   - [x] Bỏ cà độc dược vào bữa ăn của lính Pháp
+   - [ ] Mở cổng thành cho nghĩa quân vào
+
+   Khoảng 20 giờ, khoảng 200 lính Pháp ăn phải cà độc dược, bị trúng độc và bất tỉnh. [Xem lại](#bua-toi)
+
+2. Kế hoạch chiếm thành Hà Nội bị lộ như thế nào?
+   - [ ] Quân Pháp bắt được thư từ của nghĩa quân Hoàng Hoa Thám
+   - [x] Một người trong nhóm đến nhà thờ xưng tội với một cố đạo người Pháp
+   - [ ] Lính Pháp phát hiện thuốc độc trong bữa ăn
+
+   Chưa đến 21 giờ, quân Pháp kịp đề phòng nên cuộc binh biến không thành. [Xem lại](#bi-lo)
+
+3. Giờ hẹn khởi sự của cuộc binh biến là mấy giờ?
+   - [ ] 20 giờ
+   - [ ] 22 giờ
+   - [x] 21 giờ
+
+   20 giờ là lúc lính Pháp bị trúng độc; giờ hẹn khởi sự là 21 giờ. [Xem lại](#bua-toi)
+
 ## Nguồn tham khảo
 
 - "Hà Thành đầu độc", Wikipedia tiếng Việt — bối cảnh, lực lượng, diễn biến tối 27 tháng 6 năm 1908, bị lộ, các án tử: https://vi.wikipedia.org/wiki/H%C3%A0_Th%C3%A0nh_%C4%91%E1%BA%A7u_%C4%91%E1%BB%99c

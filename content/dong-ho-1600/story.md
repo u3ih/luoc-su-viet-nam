@@ -47,6 +47,29 @@ Màu tranh lấy từ tự nhiên: đen từ than gỗ xoan, rơm nếp hay than
 
 Xưa kia tranh bán ra chủ yếu dịp Tết Nguyên Đán; người dân nông thôn mua về dán tường, hết năm lại thay tranh mới. Nghề làm tranh dân gian Đông Hồ được UNESCO ghi danh là Di sản văn hóa phi vật thể cần bảo vệ khẩn cấp, đồng thời là Di sản văn hóa phi vật thể cấp quốc gia.
 
+## Ôn tập
+
+1. Giấy điệp để in tranh Đông Hồ được làm từ gì?
+   - [ ] Bột gạo nghiền mịn phủ lên giấy bản
+   - [x] Vỏ con điệp nghiền nát, trộn hồ bột gạo, quét lên giấy dó
+   - [ ] Vỏ trai trộn nhựa cây quét lên lá tre
+
+   Vỏ điệp cho màu trắng lấp lánh dưới ánh sáng; chổi lá thông để lại những vệt quét trên mặt giấy. [Xem lại](#giay-diep)
+
+2. Màu đen của tranh Đông Hồ lấy từ đâu?
+   - [ ] Hoa dành dành
+   - [ ] Gỗ vang
+   - [x] Than gỗ xoan, rơm nếp hay than lá tre ngâm kỹ
+
+   Màu vàng từ hoa dành dành, hoa hòe; màu đỏ từ gỗ vang và sỏi son núi Thiên Thai. [Xem lại](#in-mau)
+
+3. Xưa kia tranh Đông Hồ được bán chủ yếu vào dịp nào?
+   - [ ] Tết Trung thu
+   - [ ] Mùa gặt
+   - [x] Tết Nguyên Đán
+
+   Người dân nông thôn mua tranh về dán tường, hết năm lại thay tranh mới. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Tranh Đông Hồ", Wikipedia tiếng Việt — xuất xứ, giấy điệp, màu tự nhiên, ván khắc, tranh Tết, UNESCO: https://vi.wikipedia.org/wiki/Tranh_%C4%90%C3%B4ng_H%E1%BB%93

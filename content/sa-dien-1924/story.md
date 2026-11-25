@@ -46,6 +46,29 @@ Phạm Hồng Thái thoát khỏi khách sạn nhưng bị truy đuổi gắt ga
 
 Ông được người Trung Quốc an táng ở Nhị Vọng Cương, mộ quay về hướng tây nam — phía quê hương. Năm 1958, mộ được dời về công viên Hoàng Hoa Cương ở Quảng Châu, nơi chôn 72 người của Đồng minh hội mất trong cuộc khởi nghĩa năm 1911; nay mộ là di tích cấp thành phố. Ở Việt Nam, nhiều đường phố mang tên ông.
 
+## Ôn tập
+
+1. Ngày 19 tháng 6 năm 1924, bữa tiệc ở khách sạn Victoria trên đảo Sa Diện được tổ chức để đón ai?
+   - [ ] Vua Nguyên Vũ Tông
+   - [x] Toàn quyền Đông Dương Merlin
+   - [ ] Vương Thúc Oánh
+
+   Merlin trên đường từ Nhật Bản về, dừng ở khu tô giới Pháp trên đảo Sa Diện, Quảng Châu. [Xem lại](#sa-dien)
+
+2. Phạm Hồng Thái đã vào khách sạn bằng cách nào?
+   - [ ] Giả làm bồi bàn của khách sạn
+   - [ ] Đi cùng đoàn tuỳ tùng của Toàn quyền
+   - [x] Giả làm ký giả, mang quả bom nguỵ trang trong chiếc máy ảnh
+
+   Ông viết sẵn một bản cáo trạng gửi dư luận thế giới. [Xem lại](#sa-dien)
+
+3. Phạm Hồng Thái kết thúc như thế nào sau vụ ném bom?
+   - [ ] Bị bắt ngay tại bàn tiệc
+   - [x] Thoát khỏi khách sạn nhưng bị truy đuổi, nhảy xuống sông Châu Giang
+   - [ ] Trở về Nghệ An an toàn
+
+   Ông bị nước cuốn trôi vì kiệt sức; về sau mộ ông được dời về công viên Hoàng Hoa Cương ở Quảng Châu. [Xem lại](#chau-giang)
+
 ## Nguồn tham khảo
 
 - "Phạm Hồng Thái", Wikipedia tiếng Việt — tiểu sử, sang Quảng Châu năm 1918, Tâm Tâm xã, chuyến công du của Merlin, sự kiện đêm 19/6/1924 ở khách sạn Victoria, năm người thiệt mạng, nhảy xuống Châu Giang, mộ ở Hoàng Hoa Cương, thơ Trần Huy Liệu: https://vi.wikipedia.org/wiki/Ph%E1%BA%A1m_H%E1%BB%93ng_Th%C3%A1i

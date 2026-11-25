@@ -47,6 +47,28 @@ Khi Nguyễn Cừ bị bắt, Nguyễn Hữu Cầu dẫn quân về Đồ Sơn v
 
 Nguyễn Hữu Cầu bị tướng Phạm Đình Trọng bắt và bị xử tử ở Thăng Long vào tháng 3 năm 1751.
 
+## Ôn tập
+
+1. Nguyễn Hữu Cầu ban đầu theo cuộc nổi dậy do ai cầm đầu?
+   - [ ] Phạm Đình Trọng
+   - [x] Nguyễn Cừ
+
+   Ông theo cuộc nổi dậy do Nguyễn Cừ cầm đầu và trở thành một tướng giỏi. [Xem lại](#nguyen-cu)
+
+2. Khi Nguyễn Cừ bị bắt, Nguyễn Hữu Cầu dẫn quân về đâu?
+   - [x] Đồ Sơn và Vân Đồn
+   - [ ] Lôi Động
+   - [ ] Thanh Hoá
+
+   Theo mô tả trong lộ trình của dự án, nghĩa quân đánh khắp Kinh Bắc và Sơn Nam, từng uy hiếp Thăng Long. [Xem lại](#do-son)
+
+3. Kết cục của Nguyễn Hữu Cầu vào năm 1751 là gì?
+   - [ ] Chiếm được Thăng Long và lên ngôi
+   - [ ] Mất vì bệnh ở Vân Đồn
+   - [x] Bị tướng Phạm Đình Trọng bắt và xử tử ở Thăng Long
+
+   Việc này diễn ra vào tháng 3 năm 1751. [Xem lại](#bi-bat)
+
 ## Nguồn tham khảo
 
 - "Nguyễn Hữu Cầu", Wikipedia tiếng Anh — xuất thân, theo Nguyễn Cừ, các vùng nổi dậy, bị bắt và xử tử 1751: https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_H%E1%BB%AFu_C%E1%BA%A7u

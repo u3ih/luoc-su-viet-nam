@@ -47,6 +47,29 @@ Hà Thiện Hán viết lời tựa, tương truyền Nguyễn Bỉnh Khiêm (th
 
 Sách có nhiều bản dịch ra chữ Quốc ngữ, trong đó bản dịch của Trúc Khê năm 1943 được coi là đặc sắc nhất. "Chuyện người con gái Nam Xương" về sau trở nên quen thuộc với nhiều thế hệ người đọc.
 
+## Ôn tập
+
+1. Truyền kỳ mạn lục gồm bao nhiêu truyện và viết bằng chữ gì?
+   - [ ] 10 truyện, viết bằng chữ Nôm
+   - [ ] 100 truyện, viết bằng chữ Quốc ngữ
+   - [x] 20 truyện, viết bằng chữ Hán theo thể truyền kỳ
+
+   Sách xen biền văn và thơ ca, cuối mỗi truyện có lời bình. [Xem lại](#viet-sach)
+
+2. Vì sao Nguyễn Dữ về ở núi rừng Thanh Hóa?
+   - [x] Bất mãn thời cuộc, ông lấy cớ nuôi mẹ, xin rời quan trường
+   - [ ] Bị triều đình đày lên vùng núi
+   - [ ] Để tránh chiến tranh với quân Minh
+
+   Ông từng làm Tri huyện Thanh Tuyền, chỉ được một năm. [Xem lại](#roi-quan)
+
+3. Tiến sĩ Vũ Khâm Lân khen Truyền kỳ mạn lục là gì?
+   - [ ] "Đệ nhất kỳ thư"
+   - [ ] "Thiên hạ đệ nhất văn"
+   - [x] "Thiên cổ kỳ bút"
+
+   Lê Quý Đôn, Phan Huy Chú cho rằng sách phỏng theo Tiễn đăng tân thoại của Cù Hựu đời Minh. [Xem lại](#danh-gia)
+
 ## Nguồn tham khảo
 
 - "Truyền kỳ mạn lục", Wikipedia tiếng Việt — tác giả, lời tựa 1547, 20 truyện, đánh giá, quan hệ với Tiễn đăng tân thoại, bản dịch: https://vi.wikipedia.org/wiki/Truy%E1%BB%81n_k%E1%BB%B3_m%E1%BA%A1n_l%E1%BB%A5c

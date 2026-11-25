@@ -60,6 +60,29 @@ Sau đó, Đại Việt sử ký không còn chép gì về công chúa. Theo d�
 
 Dân quanh vùng lập đền thờ bà. Ngày mất của công chúa nay là ngày lễ hội ở đền Huyền Trân trên núi Ngũ Phong, Huế.
 
+## Ôn tập
+
+1. Ai hứa gả công chúa Huyền Trân cho Chế Mân trong chuyến vân du vào Chiêm Thành?
+   - [x] Thái thượng hoàng Trần Nhân Tông
+   - [ ] Vua Trần Anh Tông
+   - [ ] Văn Túc vương Trần Đạo Tái
+
+   Khi về, Thượng hoàng hứa gả con gái cho Chế Mân, lúc ấy đã có hai vương hậu. [Xem lại](#van-du)
+
+2. Chế Mân dâng lễ vật gì để vua Trần Anh Tông đồng ý gả công chúa?
+   - [ ] Hai châu Bố Chính và Thuận Hoá
+   - [x] Hai châu Ô, Lý
+   - [ ] Một đoàn thuyền buôn
+
+   Hai châu được đổi thành châu Thuận và châu Hóa của Đại Việt. [Xem lại](#hon-le)
+
+3. Sau khi Chế Mân mất năm 1307, ai đưa công chúa về nước bằng đường biển?
+   - [ ] Trần Đạo Tái
+   - [ ] Chế Đa Đa
+   - [x] Hành khiển Trần Khắc Chung
+
+   Vua Anh Tông sai Trần Khắc Chung sang viếng tang và đón công chúa về. [Xem lại](#tro-ve)
+
 ## Nguồn tham khảo
 
 - "Huyền Trân Công chúa", Wikipedia tiếng Việt — chuyến vân du 1301, bàn cãi trong triều, hôn lễ 1306, Chế Mân mất, trở về, nhận định về giai thoại, cuối đời theo dã sử: https://vi.wikipedia.org/wiki/Huy%E1%BB%81n_Tr%C3%A2n

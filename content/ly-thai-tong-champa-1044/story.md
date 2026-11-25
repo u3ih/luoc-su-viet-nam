@@ -46,6 +46,29 @@ Tháng 7, quân Lý vào kinh đô Phật Thệ, bắt vương phi Mỵ Ê cùng
 
 Tháng 8 vua thu quân. Toàn thư chép khi thuyền về tới Ly Nhân, vua gọi Mỵ Ê sang hầu; bà không chịu, nhảy xuống sông tự vẫn, sau được phong làm Hiệp Chính Hựu Thiện phu nhân. Về tới kinh đô, triều thần đổi niên hiệu thành Thiên Cảm Thánh Vũ. Theo một tổng quan tiếng Anh, các cuộc chiến Việt – Chăm kéo dài nhiều thế kỷ sau đó, với những cuộc tấn công qua lại của cả hai bên, trước khi Chămpa suy yếu dần.
 
+## Ôn tập
+
+1. Theo Đại Việt sử ký toàn thư, vì sao vua Lý Thái Tông đóng chiến thuyền đánh Chămpa?
+   - [ ] Chămpa đem quân vào kinh đô Thăng Long
+   - [x] Chămpa mười sáu năm không triều cống, và thuyền Chăm cướp phá dân ven biển phía nam năm 1043
+   - [ ] Chămpa chiếm đất của nhà Tống
+
+   Sử thần nhà Nguyễn trong Cương mục lại cho rằng việc dùng binh không phải là bất đắc dĩ. [Xem lại](#khong-trieu-cong)
+
+2. Quân Lý đánh quân Chăm ở đâu vào đầu năm 1044?
+   - [ ] Sông Bạch Đằng
+   - [x] Sông Ngũ Bồ, gần cửa biển Tư Khách
+   - [ ] Sông Như Nguyệt
+
+   Quân Chăm dàn trận phía nam sông Ngũ Bồ; quân Lý đổ bộ bờ bắc rồi vượt sông đánh. [Xem lại](#ngu-bo)
+
+3. Về vị trí kinh đô Phật Thệ và tên vua Chăm tử trận, chương này cho biết điều gì?
+   - [ ] Các nguồn hoàn toàn thống nhất về cả hai điều này
+   - [ ] Chỉ có sử Việt ghi lại, không có nguồn nào khác
+   - [x] Các nhà nghiên cứu xác định vị trí khác nhau, và tên vua được ghi khác nhau giữa sử Việt và các nghiên cứu về Chămpa
+
+   Sử Việt gọi vua Chăm là Sạ Đẩu; các nghiên cứu về Chămpa dựa trên sử nhà Tống gọi là Jaya Simhavarman thứ hai. [Xem lại](#phat-the)
+
 ## Nguồn tham khảo
 
 - “Lý Thái Tông”, Wikipedia tiếng Việt — chép theo Đại Việt sử ký toàn thư: 16 năm không triều cống, cướp biển tháng 4/1043, đóng chiến thuyền, thân chinh tháng 1/1044, cửa Tư Khách, trận sông Ngũ Bồ (hơn 3 vạn người chết, bắt 5.000 người, 30 voi), Quách Gia Di giết vua Sạ Đẩu, lệnh cấm giết bậy, kinh đô Phật Thệ tháng 7, Mỵ Ê, nhận xét của Ngô Sĩ Liên và của Khâm định Việt sử: https://vi.wikipedia.org/wiki/L%C3%BD_Th%C3%A1i_T%C3%B4ng

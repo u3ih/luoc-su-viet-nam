@@ -76,6 +76,29 @@ Hơn sáu thế kỷ sau, nhiều đoạn tường đá và bốn cửa thành v
 
 Năm 2011, Thành nhà Hồ được UNESCO ghi vào danh sách Di sản thế giới, như một toà thành đá hiếm có ở Đông Nam Á thời ấy.
 
+## Ôn tập
+
+1. Năm 1397, Hồ Quý Ly buộc vua Trần dời kinh đô từ Thăng Long vào đâu?
+   - [ ] Đa Bang
+   - [x] Tây Đô, thành đá mới ở Thanh Hoá
+   - [ ] Hàm Tử
+
+   Thăng Long từ đó được gọi là Đông Đô. [Xem lại](#doi-do)
+
+2. Đầu năm 1400, nhà Hồ đặt quốc hiệu là gì?
+   - [ ] Đại Việt
+   - [x] Đại Ngu
+   - [ ] Giao Chỉ
+
+   Hồ Quý Ly phế vua Trần, tự lên ngôi, lập ra nhà Hồ; một năm sau ông nhường ngôi cho con là Hồ Hán Thương nhưng vẫn nắm quyền. [Xem lại](#doi-do)
+
+3. Năm 1396, Hồ Quý Ly cho in loại tiền nào thay tiền đồng?
+   - [ ] Tiền kẽm
+   - [ ] Tiền vàng
+   - [x] Tiền giấy Thông bảo hội sao
+
+   Ông còn hạn chế số ruộng và số nô tỳ của quý tộc, sửa đổi thi cử, đề cao chữ Nôm. [Xem lại](#cai-cach)
+
 ## Nguồn tham khảo
 
 - Đại Việt sử ký toàn thư (Ngô Sĩ Liên và các sử thần, 1479), Bản kỷ — phần Trần Thuận Tông, Thiếu Đế và nhà Hồ: https://vi.wikisource.org/wiki/%C4%90%E1%BA%A1i_Vi%E1%BB%87t_s%E1%BB%AD_k%C3%BD_to%C3%A0n_th%C6%B0

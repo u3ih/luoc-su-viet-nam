@@ -46,6 +46,29 @@ Trên đường số 6 từ Xuân Mai lên Hoà Bình, các trận phục kích 
 
 Ngày 11 tháng 1 năm 1952, tướng de Lattre qua đời vì ung thư ở Pháp; người kế nhiệm là Salan quyết định rút. 17 giờ ngày 22 tháng 2, năm tiểu đoàn Pháp lặng lẽ vượt sông Đà; khoảng 20.000 quân cùng hơn 1.000 người Mường theo đường số 6 về Hà Nội, có máy bay và pháo che chở; pháo Việt Nam ở bến Ngọc bắn vào đội hình khi quân đang qua sông. Phía Việt Nam tuyên bố loại khỏi vòng chiến hơn 21.000 quân Pháp và đồng minh trên cả hai hướng; theo sử gia Tucker, Pháp có 436 người chết, 458 người mất tích, còn quân Việt Minh thương vong khoảng 12.000 người; sử gia Davidson ước mỗi bên thương vong khoảng 5.000 người trở lên. Cả hai bên đều tổn thất nặng.
 
+## Ôn tập
+
+1. Quân Pháp chiếm Hoà Bình cuối năm 1951 nhằm mục đích gì?
+   - [x] Nối lại "hành lang Đông – Tây", cắt đường giữa Việt Bắc với Liên khu 3, Liên khu 4
+   - [ ] Rút quân khỏi Đông Dương
+   - [ ] Mở đường ra biển cho quân tiếp viện
+
+   Tướng de Lattre cần một thắng lợi nên chiếm Hoà Bình để nối "hành lang Đông – Tây". [Xem lại](#nhay-du)
+
+2. Để giữ đường số 6 lên Hoà Bình, Pháp phải dùng tới bao nhiêu tiểu đoàn?
+   - [ ] 6 tiểu đoàn
+   - [ ] 60 tiểu đoàn
+   - [x] 16 tiểu đoàn
+
+   Các trận phục kích trên đường số 6 chặn đánh từng đoàn xe; Pháp phải dùng tới 16 tiểu đoàn chỉ để giữ con đường. [Xem lại](#duong-so-6)
+
+3. Quân Pháp rút khỏi Hoà Bình khi nào, và rút theo đường nào?
+   - [ ] Giữa tháng 11 năm 1951, ngay sau khi chiếm
+   - [x] Cuối tháng 2 năm 1952, vượt sông Đà rồi theo đường số 6 về Hà Nội
+   - [ ] Tháng 12 năm 1952, theo đường sông về Việt Bắc
+
+   Người kế nhiệm de Lattre là Salan quyết định rút; ngày 22 tháng 2 năm 1952 quân Pháp vượt sông Đà, theo đường số 6 về Hà Nội. [Xem lại](#rut-lui)
+
 ## Nguồn tham khảo
 
 - “Chiến dịch Hòa Bình”, Wikipedia tiếng Việt — kế hoạch của de Lattre, chiến dịch Tulipe 10/11 và Lotus 14/11/1951, ý kiến cố vấn Trung Quốc, trận Tu Vũ 10 – 11/12, phục kích trên sông Đà, Cầu Dụ, Giang Mỗ, Cù Chính Lan, 16 tiểu đoàn giữ đường số 6, trận Xóm Pheo 7/1/1952, rút quân 22 – 23/2, số liệu phía Việt Nam: https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_H%C3%B2a_B%C3%ACnh

@@ -46,6 +46,29 @@ Tuyến bắt đầu ở chợ Bến Thành, đi ngầm 2,6 km qua ga Bến Thà
 
 10 giờ ngày 22 tháng 12 năm 2024, tuyến 1 chính thức chạy thương mại; hành khách được miễn phí vé đến ngày 20 tháng 1 năm 2025. Tuyến khánh thành ngày 9 tháng 3 năm 2025. Theo quy hoạch, tuyến sẽ được kéo dài từ Bến Thành về phía tây tới An Hạ, và nối với tuyến đi Bình Dương.
 
+## Ôn tập
+
+1. Tuyến metro số 1 của Thành phố Hồ Chí Minh nối hai ga đầu cuối nào?
+   - [ ] Bến Thành – An Hạ
+   - [x] Bến Thành – Suối Tiên
+   - [ ] Ba Son – Long Bình
+
+   Tuyến dài 19,7 km, 14 nhà ga, đi ngầm 2,6 km rồi lên cao 17,1 km. [Xem lại](#tuyen)
+
+2. Phần lớn vốn đầu tư của dự án tuyến 1 sau điều chỉnh năm 2011 là vốn vay của tổ chức nào?
+   - [ ] Ngân hàng Thế giới
+   - [x] Cơ quan Hợp tác quốc tế Nhật Bản (JICA)
+   - [ ] Quỹ viện trợ AusAID
+
+   Hơn 41.800 tỷ đồng trong tổng mức hơn 47.000 tỷ đồng là vốn vay JICA, còn lại là ngân sách thành phố. [Xem lại](#du-an)
+
+3. Điều gì khiến dự án metro số 1 kéo dài mười sáu năm từ ngày khởi công?
+   - [ ] Nhà thầu rút khỏi dự án giữa chừng
+   - [ ] Thành phố đổi hướng tuyến nhiều lần
+   - [x] Vướng giải phóng mặt bằng, thiếu vốn và phải xử lý các sai sót kỹ thuật
+
+   Theo kế hoạch ban đầu, tuyến chạy thương mại năm 2018; thực tế chở khách từ ngày 22 tháng 12 năm 2024. [Xem lại](#cham-tre)
+
 ## Nguồn tham khảo
 
 - “Tuyến 1 (Đường sắt đô thị Thành phố Hồ Chí Minh)”, Wikipedia tiếng Việt — phê duyệt 2007, khởi công 2008, mức đầu tư 2007 và 2011, vốn JICA, kế hoạch 2017 – 2018, tiến độ 70% năm 2018, thiếu vốn và tạm ứng, sai sót kỹ thuật phát hiện năm 2020, đoàn tàu đầu tiên về depot 10/10/2020, hướng tuyến và nhà ga, đoàn tàu Hitachi, tốc độ, vận hành ngày 22/12/2024, miễn phí vé đến 20/1/2025, khánh thành 9/3/2025, quy hoạch kéo dài: https://vi.wikipedia.org/wiki/Tuy%E1%BA%BFn_1_(%C4%90%C6%B0%E1%BB%9Dng_s%E1%BA%AFt_%C4%91%C3%B4_th%E1%BB%8B_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh)

@@ -46,6 +46,29 @@ Lý Phật Tử cho con trai là Nhã Lang xin lấy con gái Triệu Việt Vư
 
 Nhà Tuỳ thống nhất Trung Quốc năm 589, nhiều lần đòi Lý Phật Tử sang chầu. Năm 602, Tuỳ Văn Đế sai Lưu Phương đem 27 doanh quân sang đánh. Lý Phật Tử cho Lý Đại Quyền giữ Long Biên, Lý Phổ Đỉnh giữ Ô Diên, còn mình đóng ở Cổ Loa. Quân Tuỳ đánh tan quân Lý ở núi Đô Long rồi tiến tới sát dinh; Lý Phật Tử xin hàng, bị đưa về phương bắc. Dân lập đền thờ ông ở cửa biển Tiểu Nha, đối với đền thờ Triệu Việt Vương.
 
+## Ôn tập
+
+1. Lý Phật Tử có quan hệ thế nào với Lý Nam Đế?
+   - [ ] Là con trai
+   - [x] Là cháu họ
+   - [ ] Là em ruột
+
+   Lý Phật Tử là cháu họ của Lý Nam Đế. [Xem lại](#da-nang)
+
+2. Năm 571, Lý Phật Tử đã làm gì với Triệu Việt Vương?
+   - [ ] Cầu hoà rồi dâng đất cho Triệu Việt Vương
+   - [ ] Cùng Triệu Việt Vương đánh quân Tuỳ
+   - [x] Đem quân đánh úp, khiến Triệu Việt Vương thua chạy rồi nhảy xuống biển
+
+   Sau đó Lý Phật Tử làm vua cả nước, đóng đô ở Phong Châu, đời sau gọi là Hậu Lý Nam Đế. [Xem lại](#danh-up)
+
+3. Năm 602, nước Vạn Xuân kết thúc như thế nào?
+   - [ ] Lý Phật Tử nhường ngôi cho Triệu Việt Vương
+   - [x] Quân Tuỳ đánh tan quân Lý ở núi Đô Long, Lý Phật Tử xin hàng
+   - [ ] Quân Lương kéo sang chiếm Cổ Loa
+
+   Tuỳ Văn Đế sai Lưu Phương đem quân sang; Lý Phật Tử xin hàng và bị đưa về phương bắc. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Hậu Lý Nam Đế" (Lý Phật Tử), Wikipedia tiếng Việt — quê quán, động Dã Năng, Đào Lang Vương, đánh Triệu Việt Vương năm 557, chia đất ở bãi Quân Thần, Nhã Lang – Cảo Nương, đánh úp năm 571, đóng đô Phong Châu, quân Tuỳ năm 602, đền thờ: https://vi.wikipedia.org/wiki/L%C3%BD_Ph%E1%BA%ADt_T%E1%BB%AD

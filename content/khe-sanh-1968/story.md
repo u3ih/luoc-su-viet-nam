@@ -46,6 +46,29 @@ Trận mở màn nổ ra ngày 20 tháng 1 năm 1968 trên cao điểm 881 Nam; 
 
 Ngay sau khi giải vây, chỉ huy Mỹ quyết định không giữ Khe Sanh nữa. Từ ngày 19 tháng 6, họ vừa rút vừa phá huỷ căn cứ dưới pháo kích; căn cứ chính thức đóng cửa ngày 5 tháng 7. Phía Mỹ tính trận vây kéo dài 77 ngày, coi việc giữ căn cứ là thành công và rút vì không cần nữa, dù có sử gia Mỹ nhận xét đây là lần duy nhất quân Mỹ bỏ một căn cứ lớn vì sức ép của đối phương; phía Việt Nam tính 170 ngày đêm và tuyên bố thắng lợi. Phía Mỹ ghi 274 lính Mỹ chết, 2.541 người bị thương ở căn cứ, các ước tính cho cả vùng chiến sự cao hơn nhiều; phía Việt Nam công bố loại khỏi vòng chiến khoảng 11.900 quân, trong đó khoảng 9.000 lính Mỹ. Số liệu của Việt Nam ghi Quân đội Nhân dân Việt Nam có 2.469 người hy sinh; một báo cáo mật của Bộ Chỉ huy Viện trợ Quân sự Mỹ ước tính khoảng 5.550 người chết tính đến cuối tháng 3, các ước tính khác của Mỹ còn cao hơn.
 
+## Ôn tập
+
+1. Căn cứ Khe Sanh nằm gần biên giới nước nào?
+   - [ ] Campuchia
+   - [ ] Trung Quốc
+   - [x] Lào
+
+   Khe Sanh là quận lỵ Hướng Hoá, cách biên giới Lào khoảng 11 km trên đường số 9. [Xem lại](#ta-con)
+
+2. Để giữ căn cứ, phía Mỹ mở chiến dịch ném bom nào?
+   - [ ] Pegasus
+   - [x] Niagara
+   - [ ] CQ-88
+
+   Chiến dịch Pegasus là chiến dịch mở thông đường 9 tới căn cứ vào tháng 3 – tháng 4. [Xem lại](#niagara)
+
+3. Căn cứ Khe Sanh chính thức đóng cửa vào ngày nào?
+   - [ ] 20 tháng 1 năm 1968
+   - [ ] 7 tháng 2 năm 1968
+   - [x] 5 tháng 7 năm 1968
+
+   Từ ngày 19 tháng 6, quân Mỹ vừa rút vừa phá huỷ căn cứ dưới pháo kích. [Xem lại](#pha-bo)
+
 ## Nguồn tham khảo
 
 - “Battle of Khe Sanh”, Wikipedia tiếng Anh — vị trí trên đường 9, cách biên giới Lào 11 km, mục đích căn cứ theo Westmoreland, vây từ 21/1/1968, Làng Vây 6 – 7/2 (PT-76, Sư đoàn 304), chiến dịch Niagara (114.810 tấn bom, 158.900 quả đạn pháo, 350 máy bay cường kích và 60 máy bay B-52 mỗi ngày), Pegasus, rút và phá huỷ từ 19/6, đóng cửa 5/7, 274 lính Mỹ chết và 2.541 bị thương ở căn cứ, số liệu phía Việt Nam (2.469 hy sinh; công bố loại khỏi vòng chiến khoảng 11.900 quân), ước tính của Bộ Chỉ huy Viện trợ Quân sự Mỹ (5.550 đến 31/3), so sánh với Điện Biên Phủ, nhận xét của Brush: https://en.wikipedia.org/wiki/Battle_of_Khe_Sanh

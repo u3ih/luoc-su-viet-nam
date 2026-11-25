@@ -46,6 +46,29 @@ Ngày 6 tháng 9 năm 1988, Vietsovpetro khai thác được dòng dầu thươn
 
 Tính đến tháng 6 năm 2026, khu mỏ mà Bạch Hổ là mỏ chủ lực đã cho khoảng 255 triệu tấn dầu; hơn 60 tỷ mét khối khí đồng hành được đưa vào bờ; tổng đóng góp cho ngân sách nhà nước gần 60 tỷ đô la Mỹ.
 
+## Ôn tập
+
+1. Dòng dầu thương mại đầu tiên của mỏ Bạch Hổ được khai thác vào ngày nào?
+   - [ ] Ngày 6 tháng 9 năm 1988
+   - [x] Ngày 26 tháng 6 năm 1986
+   - [ ] Năm 1973
+
+   Ngày 26 tháng 6 năm 1986, giếng khai thác đầu tiên trên giàn cố định MSP-1 đưa lên dòng dầu thương mại đầu tiên. [Xem lại](#dong-dau)
+
+2. Sau năm 1975, ai quản lý và thăm dò mỏ Bạch Hổ?
+   - [ ] Một công ty Mỹ
+   - [ ] Chính quyền Việt Nam Cộng hoà
+   - [x] Liên doanh dầu khí Việt – Xô Vietsovpetro
+
+   Trước đó, một công ty Mỹ đã khoan ở khu vực Bạch Hổ khoảng năm 1974 – 1975; sau năm 1975 mỏ do Vietsovpetro quản lý. [Xem lại](#tham-do)
+
+3. Ngày 6 tháng 9 năm 1988, Vietsovpetro làm được điều gì?
+   - [x] Khai thác dòng dầu thương mại đầu tiên từ tầng đá móng
+   - [ ] Đưa khí đồng hành vào bờ qua đường ống
+   - [ ] Đưa giàn MSP-1 vào hoạt động
+
+   Vỉa đá móng trước đó ít được xem là nơi chứa dầu; về sau khoảng 80% sản lượng Bạch Hổ đến từ tầng móng. [Xem lại](#da-mong)
+
 ## Nguồn tham khảo
 
 - "Mỏ Bạch Hổ: 40 năm từ dòng dầu đầu tiên", VnEconomy — ngày 26/6/1986, giàn MSP-1, giếng BH-5, dầu từ đá móng ngày 6/9/1988, 80% sản lượng từ móng, khí đồng hành từ 1995, 255 triệu tấn, đóng góp ngân sách: https://vneconomy.vn/mo-bach-ho-40-nam-tu-dong-dau-dau-tien.htm

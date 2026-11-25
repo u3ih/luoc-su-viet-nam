@@ -46,6 +46,29 @@ Nà Sản là một lòng chảo dài 5 km có sân bay cho máy bay Dakota. Đ�
 
 Ngày 8 tháng 4 năm 1953, các đại đoàn Việt Nam phối hợp với lực lượng Pathet Lào tiến sang Thượng Lào, tức vùng bắc Lào, theo đường 6 và đường 7. Ngày 12 tháng 4, quân Pháp bỏ Sầm Nưa, rút về Cánh đồng Chum và bị truy kích dọc đường. Một cánh quân tiến về phía Luang Prabang; tướng Salan sang cảnh báo, nhưng vua Lào không chịu rời kinh đô. Ngày 3 tháng 5, hai đại đoàn ngừng tiến rồi quay về; theo lời khai tù binh mà phía Pháp dẫn, mưa lớn làm đứt đường tiếp tế. Ngày 18 tháng 5, chiến dịch kết thúc; phía Việt Nam công bố liên quân Lào – Việt diệt và bắt gần 2.800 quân, giải phóng tỉnh Sầm Nưa và một phần Xiêng Khoảng, Phongsaly.
 
+## Ôn tập
+
+1. Chiến dịch Tây Bắc mở màn ngày 14 tháng 10 năm 1952 bằng việc làm gì?
+   - [ ] Đánh thẳng vào tập đoàn cứ điểm Nà Sản
+   - [ ] Vượt sông Đà đánh lên cao nguyên Mộc Châu
+   - [x] Ba đại đoàn vượt sông Hồng, rồi đánh chiếm hai đồn Nghĩa Lộ
+
+   Ba đại đoàn 308, 312, 316 với khoảng 36.000 quân vượt sông Hồng; sáng 18 tháng 10 hai đồn Nghĩa Lộ bị chiếm. [Xem lại](#nghia-lo)
+
+2. Kết quả của trận đánh vào Nà Sản (30 tháng 11 – 10 tháng 12 năm 1952) là gì?
+   - [x] Nà Sản đứng vững, quân Việt Nam chiếm được rồi lại mất một số điểm tựa
+   - [ ] Quân Việt Nam hạ được toàn bộ tập đoàn cứ điểm
+   - [ ] Quân Pháp rút khỏi Nà Sản ngay đêm đầu
+
+   Phía Việt Nam ghi nhận khoảng 1.400 người chết, mất tích hoặc bị bắt và 2.553 người bị thương. [Xem lại](#na-san)
+
+3. Mùa xuân năm 1953, quân Việt Nam phối hợp với lực lượng nào để tiến sang Thượng Lào?
+   - [ ] Quân đội Xiêm
+   - [x] Pathet Lào
+   - [ ] Quân đội vua Lào ở Luang Prabang
+
+   Ngày 12 tháng 4, quân Pháp bỏ Sầm Nưa; ngày 18 tháng 5 chiến dịch kết thúc. [Xem lại](#thuong-lao)
+
 ## Nguồn tham khảo
 
 - “Chiến dịch Tây Bắc”, Wikipedia tiếng Việt — lập khu Tây Bắc 7/1952, lực lượng 36.000 người, hậu cần (200.000 dân công, 11.750 tấn gạo, 450 thuyền, phà), Nghĩa Lộ 17 – 18/10, Bigeard rút từ Tú Lệ, vượt sông Đà 17/11, Sơn La 18/11, Điện Biên Phủ 29 – 30/11, các đợt đánh Nà Sản và kết thúc chiến dịch: https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_T%C3%A2y_B%E1%BA%AFc

@@ -47,6 +47,29 @@ Tháng 11 năm 1042, vua xuống chiếu riêng về người già từ 70 tuổ
 
 Ở điện trong kinh thành, hai bên thềm rồng có lầu chuông để dân có việc kiện tụng oan uổng thì đánh chuông. Tháng 3 năm 1051, vua cho đúc chuông lớn để ở điện Long Trì, dân ai có oan ức không bày tỏ được thì đánh chuông ấy để tâu lên.
 
+## Ôn tập
+
+1. Bộ Hình thư ban hành tháng 10 năm 1042 được xem là gì?
+   - [ ] Bộ sử đầu tiên của nước ta
+   - [x] Bộ luật đầu tiên trong lịch sử Việt Nam
+   - [ ] Bộ sách ghi chép phép tắc cung đình
+
+   Vua Lý Thái Tông sai trung thư san định luật lệnh, chia ra môn loại, biên thành điều khoản. [Xem lại](#hinh-thu)
+
+2. Theo bài tham khảo, vì sao vua Lý Thái Tông cho soạn Hình thư?
+   - [ ] Vì phải đối phó với quân xâm lược từ phương bắc
+   - [x] Vì việc kiện tụng phiền nhiễu, quan lại giữ luật câu nệ, khắc nghiệt, có người bị oan uổng
+   - [ ] Vì muốn đổi quốc hiệu của nước
+
+   Vua lấy làm thương xót; sách làm xong thì ban hành và đổi niên hiệu là Minh Đạo. [Xem lại](#kien-tung)
+
+3. Tháng 3 năm 1051, vua cho đúc chuông lớn để ở điện Long Trì nhằm mục đích gì?
+   - [ ] Báo giờ vào chầu của các quan
+   - [ ] Báo hiệu khi có giặc đến
+   - [x] Để dân có oan ức không bày tỏ được thì đánh chuông tâu lên
+
+   Ở điện trong kinh thành còn có lầu chuông hai bên thềm rồng để dân kiện tụng oan uổng đánh chuông. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Lý Thái Tông", Wikipedia tiếng Việt — ban hành Hình thư năm 1042, niên hiệu Minh Đạo, tiền Minh Đạo, các điều luật 1042 – 1043, chuông kêu oan: https://vi.wikipedia.org/wiki/L%C3%BD_Th%C3%A1i_T%C3%B4ng

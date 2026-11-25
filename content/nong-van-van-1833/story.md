@@ -46,6 +46,30 @@ Quân nổi dậy đánh các đồn Ninh Biên, Phúc Nghi, vây thành Cao B�
 
 Tháng 3 năm Ất Mùi (1835), quân triều lần theo dấu Nông Văn Vân tới rừng Thẩm Pát, phóng hoả đốt rừng, rồi tâu về triều là đã tìm thấy ông chết cháy trong đó. Các nguồn kể không giống nhau: Đại Nam chính biên liệt truyện chép thi thể ông được tìm thấy trong một hang đá, còn gia phả họ Nông chép ông không chết mà lưu lạc vùng biên giới — điều này chưa được kiểm chứng. Cuộc nổi dậy chấm dứt. Theo giáo sư Nguyễn Phan Quang, đây là cuộc đấu tranh rộng lớn và tiêu biểu nhất của các dân tộc thiểu số ở Việt Nam nửa đầu thế kỷ XIX.
 
+## Ôn tập
+
+1. Vì sao các thổ quan miền núi phía bắc bất mãn với triều đình đời Minh Mạng?
+   - [ ] Triều đình tăng gấp đôi thuế ruộng của họ
+   - [x] Triều đình bỏ dần chế độ thổ ty cha truyền con nối và siết việc quản lý mỏ, họ lo mất quyền cai quản địa phương
+   - [ ] Triều đình cấm họ buôn bán qua biên giới
+
+   Từ năm 1829, triều đình bỏ dần chế độ thổ ty cha truyền con nối và siết việc quản lý các mỏ ở vùng cao. [Xem lại](#luu-quan)
+
+2. Nông Văn Vân bị truy nã vì lý do nào?
+   - [ ] Ông tự xưng vua ở Bảo Lạc
+   - [ ] Ông không nộp thuế mỏ
+   - [x] Ông có quan hệ thông gia với Lê Văn Khôi
+
+   Sau khi Lê Văn Khôi khởi binh ở Gia Định, Nông Văn Vân, người có quan hệ thông gia với Khôi, cũng bị truy nã. [Xem lại](#van-trung)
+
+3. Nông Văn Vân lập đại bản doanh ở đâu?
+   - [ ] Thành Cao Bằng
+   - [ ] Rừng Thẩm Pát
+   - [ ] Thành Lạng Sơn
+   - [x] Vân Trung (Bảo Lạc)
+
+   Ngày 2 tháng 7 năm Quý Tỵ (1833), ông xưng "Tiết chế Thượng tướng quân", lập đại bản doanh ở Vân Trung (Bảo Lạc). [Xem lại](#van-trung)
+
 ## Nguồn tham khảo
 
 - "Cuộc nổi dậy Nông Văn Vân", Wikipedia tiếng Việt — nguyên nhân (lưu quan, việc truy nã họ hàng Lê Văn Khôi), ngày 2/7/1833 dấy binh ở Vân Trung, khoảng 6.000 người, trích Đại Nam thực lục, Bắc Kỳ tiễu phỉ, các đạo quân triều, kết thúc ở rừng Thẩm Pát năm 1835, các lời kể khác nhau về cái chết của Nông Văn Vân (Đại Nam chính biên liệt truyện, gia phả họ Nông), nhận định của GS. Nguyễn Phan Quang (Việt Nam thế kỷ XIX): https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_n%E1%BB%95i_d%E1%BA%ADy_N%C3%B4ng_V%C4%83n_V%C3%A2n

@@ -49,6 +49,29 @@ Chu Văn An mất ngày 26 tháng 11 năm Canh Tuất (14 tháng 12 năm 1370), 
 
 Lăng mộ và đền thờ ông (Phượng Sơn linh từ) nay ở núi Phượng Hoàng, Hải Phòng. Năm 2019, UNESCO thông qua việc vinh danh Chu Văn An là danh nhân văn hóa thế giới.
 
+## Ôn tập
+
+1. Chu Văn An dâng Thất trảm sớ để xin điều gì?
+   - [ ] Xin dời đô
+   - [x] Xin chém bảy kẻ nịnh thần
+   - [ ] Xin mở thêm trường học
+
+   Đời Trần Dụ Tông, vua bỏ bê triều chính, gian thần kéo bè kết đảng; ông dâng sớ xin chém bảy kẻ nịnh thần. [Xem lại](#that-tram)
+
+2. Khi vua không nghe sớ, Chu Văn An làm gì?
+   - [ ] Đi dạy ở Quốc Tử Giám
+   - [x] Treo ấn từ quan, về núi Phượng Hoàng dạy học, viết sách
+   - [ ] Lên đường sang nước khác
+
+   Ông về ở ẩn ở núi Phượng Hoàng (Chí Linh), dạy học, viết sách cho tới khi mất. [Xem lại](#that-tram)
+
+3. Trước khi làm quan, Chu Văn An mở trường dạy học ở đâu?
+   - [ ] Ở núi Phượng Hoàng
+   - [ ] Ở Quốc Tử Giám
+   - [x] Ở làng Huỳnh Cung, bên kia sông Tô Lịch
+
+   Đỗ Thái học sinh, ông không ra làm quan mà mở trường dạy học ở làng Huỳnh Cung. [Xem lại](#huynh-cung)
+
 ## Nguồn tham khảo
 
 - "Chu Văn An", Wikipedia tiếng Việt — tiểu sử, trường Huỳnh Cung, Quốc Tử Giám, Thất trảm sớ, núi Phượng Hoàng, UNESCO 2019: https://vi.wikipedia.org/wiki/Chu_V%C4%83n_An

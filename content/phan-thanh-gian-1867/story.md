@@ -54,6 +54,29 @@ Năm 1863, ông làm Chánh sứ, cùng Phó sứ Phạm Phú Thứ, Ngụy Kh�
 >
 > Năm 1868, vua Tự Đức truy tội ông, tước hết chức tước, đục tên ông khỏi bia tiến sĩ; năm 1886, dưới triều Đồng Khánh, ông được khôi phục danh dự và tên trên bia. Năm 1963, sử gia Trần Huy Liệu phê phán ông nặng nề; các hội thảo khoa học từ năm 1994 đến 2008 lại đánh giá ông là người yêu nước nhưng bất lực trước thời cuộc. Nguyễn Đình Chiểu có thơ điếu ông. Chương không kết luận.
 
+## Ôn tập
+
+1. Phan Thanh Giản có điểm gì đặc biệt về khoa cử?
+   - [ ] Ông đỗ Trạng nguyên năm 1826
+   - [x] Ông đỗ Tiến sĩ năm 1826, được xem là người Nam Kỳ đầu tiên đạt học vị này
+   - [ ] Ông không đỗ đạt nhưng làm đến Thượng thư
+
+   Ông làm quan qua ba triều Minh Mạng, Thiệu Trị, Tự Đức. [Xem lại](#tien-si)
+
+2. Theo Hòa ước Nhâm Tuất năm 1862, triều đình nhượng cho Pháp những gì?
+   - [ ] Ba tỉnh miền Tây: Vĩnh Long, An Giang, Hà Tiên
+   - [x] Ba tỉnh Biên Hòa, Gia Định, Định Tường và đảo Côn Lôn
+   - [ ] Toàn bộ sáu tỉnh Nam Kỳ
+
+   Ngoài ra còn bồi thường chiến phí 4 triệu đồng trong 10 năm. [Xem lại](#hoa-uoc)
+
+3. Năm 1863, sứ bộ do Phan Thanh Giản dẫn đầu sang Pháp nhằm mục đích gì?
+   - [x] Điều đình chuộc lại ba tỉnh miền Đông
+   - [ ] Xin Pháp trả lại thành Vĩnh Long
+   - [ ] Ký hòa ước nhượng thêm đất
+
+   Hòa ước mới sau đó không thành vì tháng 6 năm 1864 Pháp ra lệnh không ký. [Xem lại](#su-bo)
+
 ## Nguồn tham khảo
 
 - "Phan Thanh Giản", Wikipedia tiếng Việt — tiểu sử, chức vụ, Hòa ước Nhâm Tuất (5/6/1862), sứ bộ 1863 và dự thảo Aubaret bị bỏ tháng 6/1864, Vĩnh Long 1867, cái chết, các đánh giá (Tự Đức truy tội 1868, phục hồi 1886, Trần Huy Liệu 1963, các hội thảo 1994 – 2008): https://vi.wikipedia.org/wiki/Phan_Thanh_Gi%E1%BA%A3n

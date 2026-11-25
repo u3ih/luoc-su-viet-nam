@@ -46,6 +46,29 @@ Năm 1756, quân chúa Nguyễn lại đánh Chân Lạp. Nặc Nguyên thua, ch
 
 Năm 1757, Nặc Nguyên mất; người chú họ là Nặc Nhuận xin dâng đất Trà Vang và Ba Thắc để được chúa Nguyễn phong làm vua Chân Lạp. Nguyễn Cư Trinh mất năm 1767. Sử Việt ghi ông là công thần mở cõi. Còn với nhiều người Khmer, nhất là người Khmer Krom, việc vùng hạ lưu sông Mê Kông — họ gọi là Kampuchea Krom — dần tách khỏi vương quốc Campuchia vẫn được nhắc đến như sự mất mát quê hương. Những vùng đất này vốn là nơi người Khmer đã sinh sống từ lâu.
 
+## Ôn tập
+
+1. Nguyễn Cư Trinh là người thế nào?
+   - [x] Quan văn thời chúa Nguyễn, vừa giỏi văn chương vừa cầm quân, có sáng tác chữ Nôm
+   - [ ] Vua Chân Lạp bị chúa Nguyễn đem quân đánh
+   - [ ] Thủ lĩnh của người Côn Man
+
+   Nguyễn Cư Trinh là quan văn nổi tiếng dưới thời chúa Nguyễn Phúc Khoát, để lại vè Sãi vãi và Quảng Ngãi thập nhị cảnh bằng chữ Nôm. [Xem lại](#cu-trinh)
+
+2. Theo Đại Nam thực lục, người Côn Man là ai?
+   - [ ] Người Hoa định cư ở Hà Tiên
+   - [x] Người Chăm định cư trên đất Chân Lạp
+   - [ ] Người Khmer sống ở hạ lưu sông Mê Kông
+
+   Người Côn Man bị vua Chân Lạp Nặc Nguyên hà hiếp và đứng về phía quân chúa Nguyễn. [Xem lại](#con-man)
+
+3. Theo lời kể của chương, năm 1756 Nặc Nguyên dâng hai phủ nào?
+   - [ ] Trà Vang và Ba Thắc
+   - [ ] Phước Long và Tân Bình
+   - [x] Tầm Bôn (vùng Tân An) và Lôi Lạp (vùng Gò Công)
+
+   Sử nhà Nguyễn chép Nặc Nguyên dâng hai phủ này để chuộc tội; còn Trà Vang và Ba Thắc do Nặc Nhuận dâng năm 1757. [Xem lại](#tam-bon)
+
 ## Nguồn tham khảo
 
 - “Nguyễn Cư Trinh”, Wikipedia tiếng Việt — tiểu sử, các sáng tác chữ Nôm, các cuộc tiến quân 1753 – 1756 theo Đại Nam thực lục, Nặc Nguyên dâng Tầm Bôn và Lôi Lạp, đề nghị cho người Côn Man định cư, mất năm 1767: https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_C%C6%B0_Trinh

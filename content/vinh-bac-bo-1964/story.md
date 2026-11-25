@@ -46,6 +46,29 @@ Ngày 3 tháng 8, tàu Turner Joy tới cùng Maddox. Tối 4 tháng 8, hai tàu
 
 Chỉ ba mươi phút sau tin báo, Johnson quyết định trả đũa. Ngày 5 tháng 8, máy bay từ hai tàu sân bay Ticonderoga và Constellation đánh bốn căn cứ tàu phóng lôi và một kho dầu ở Vinh, mở đầu những trận ném bom miền Bắc. Phía Mỹ ghi mất hai máy bay: một phi công chết, phi công Everett Alvarez bị bắt, trở thành tù binh phi công hải quân Mỹ đầu tiên; phía Việt Nam công bố bắn rơi tám máy bay. Ngày 7 tháng 8, Quốc hội Mỹ thông qua Nghị quyết Vịnh Bắc Bộ, cho Tổng thống quyền dùng lực lượng quân sự ở Đông Nam Á mà không cần tuyên chiến. Nghị quyết là căn cứ pháp lý để Mỹ đưa quân chiến đấu vào miền Nam đầu năm 1965 và mở rộng chiến tranh với miền Bắc.
 
+## Ôn tập
+
+1. Ngày 2 tháng 8 năm 1964, tàu khu trục Maddox đụng độ với lực lượng nào?
+   - [x] Ba tàu phóng lôi của Hải quân nhân dân Việt Nam
+   - [ ] Biệt kích trên đảo Hòn Mê
+   - [ ] Hai tàu sân bay Mỹ
+
+   Maddox bắn cảnh cáo; các tàu phóng lôi tấn công bằng ngư lôi và súng máy. Phía Việt Nam có bốn thuỷ thủ chết, phía Mỹ không ai thương vong. [Xem lại](#mung-2)
+
+2. Về cuộc tấn công được báo cáo vào đêm 4 tháng 8 năm 1964, nghiên cứu nội bộ của NSA (Mỹ) được giải mật năm 2005 kết luận gì?
+   - [ ] Cuộc tấn công có xảy ra
+   - [x] Cuộc tấn công không xảy ra
+   - [ ] Không thể kết luận gì
+
+   Năm 1995, Đại tướng Võ Nguyên Giáp nói với McNamara rằng đêm đó không có gì xảy ra; năm 2003, McNamara cũng thừa nhận không có cuộc tấn công. [Xem lại](#dem-4)
+
+3. Ngày 7 tháng 8 năm 1964, Nghị quyết Vịnh Bắc Bộ của Quốc hội Mỹ cho Tổng thống quyền gì?
+   - [ ] Rút toàn bộ lực lượng khỏi Đông Nam Á
+   - [ ] Ngừng mọi hoạt động tuần tra ngoài khơi
+   - [x] Dùng lực lượng quân sự ở Đông Nam Á mà không cần tuyên chiến
+
+   Nghị quyết là căn cứ pháp lý để Mỹ đưa quân chiến đấu vào miền Nam đầu năm 1965 và mở rộng chiến tranh với miền Bắc. [Xem lại](#nghi-quyet)
+
 ## Nguồn tham khảo
 
 - “Gulf of Tonkin incident”, Wikipedia tiếng Anh — đột kích Hòn Mê đêm 30/7, nhiệm vụ DESOTO, đụng độ 2/8 và thương vong, Turner Joy, đêm 4/8, quyết định trả đũa trong ba mươi phút, chiến dịch Pierce Arrow 5/8 ở Vinh, Quốc hội thông qua nghị quyết 7/8, nghiên cứu NSA giải mật năm 2005, lời Võ Nguyên Giáp với McNamara năm 1995, McNamara thừa nhận năm 2003, quan điểm của tướng Phùng Thế Tài: https://en.wikipedia.org/wiki/Gulf_of_Tonkin_incident

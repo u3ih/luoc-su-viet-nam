@@ -56,6 +56,29 @@ Mạc Cửu mất năm 1735, thọ tám mươi tuổi, sau được truy phong V
 >
 > Việc lập ấp ở Hà Tiên: bài ghi khoảng năm 1680, nhưng Nghiên cứu Hà Tiên cho rằng từ 1680 đến khoảng 1700 ông không ở Hà Tiên. Việc bị quân Xiêm bắt: Hỏi đáp lịch sử ghi 1687–1688, Đông Hồ ghi 1674, Gia Định thành thông chí ghi biến loạn năm 1718. Năm quy phục: 1708 theo phần lớn nguồn.
 
+## Ôn tập
+
+1. Theo Gia Định thành thông chí, Mạc Cửu vốn là ai?
+   - [ ] Một tướng của chúa Nguyễn
+   - [ ] Một thủ lĩnh người Khmer
+   - [x] Một thương nhân người Hoa quê ở Quảng Đông
+
+   Mạc Cửu quê ở phủ Lôi Châu, tỉnh Quảng Đông; ông đi về phương Nam và trở nên giàu có ở vùng Campuchia ngày nay. [Xem lại](#mac-cuu)
+
+2. Năm 1708, chúa Nguyễn Phúc Chu phong cho Mạc Cửu chức gì?
+   - [x] Tổng binh trấn Hà Tiên
+   - [ ] Tổng đốc Nam Kỳ
+   - [ ] Chưởng cơ phủ Gia Định
+
+   Năm 1708, Mạc Cửu cùng thuộc hạ xin thần phục và được phong Tổng binh trấn Hà Tiên, tước Cửu Ngọc hầu. [Xem lại](#quy-phuc)
+
+3. Mạc Cửu chiêu mộ người Việt và người Hoa lưu tán để lập nên gì?
+   - [ ] Một thành luỹ lớn ở Cảng Khẩu
+   - [x] Bảy xã thôn ven biển
+   - [ ] Hai huyện và hai dinh
+
+   Ông lập bảy xã thôn ven biển từ Kampot đến Cà Mau, không thu tô thuế đối với việc khai hoang. [Xem lại](#lap-ha-tien)
+
 ## Nguồn tham khảo
 
 - "Mạc Cửu", Wikipedia tiếng Việt — quê quán, khai phá Hà Tiên, quy phục chúa Nguyễn, gia quyến, các mốc tranh luận: https://vi.wikipedia.org/wiki/M%E1%BA%A1c_C%E1%BB%ADu

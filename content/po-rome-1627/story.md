@@ -47,6 +47,30 @@ Năm 1629, quan trấn Phú Yên là Văn Phong nổi dậy chống chúa Nguy�
 
 Theo truyền thống, sau khi ông mất, người Chăm dựng tháp thờ ông — tháp Po Rome ở làng Hậu Sanh, xã Phước Hữu, tỉnh Khánh Hòa (trước thuộc Ninh Thuận), dù có học giả cho rằng tháp có thể dựng sớm hơn. Tháp vuông ba tầng, cao khoảng 8 mét, cửa mở về hướng đông, trên một trong hai quả núi nhỏ cạnh nhau; bên trong thờ tượng vua Po Rome bằng đá cao khoảng 1,2 mét, cùng tượng bán thân hoàng hậu Po Bia Sancan, tương truyền là người Ê Đê, còn bên ngoài là tượng hoàng hậu Bia Sucih. Như tháp Po Klong Garai, đây là tháp thờ một vị vua được thần hóa; người Chăm vẫn làm lễ ở tháp, như lễ hội Katê, lễ mở cửa tháp. Truyền thuyết Chăm về sau còn kể nhiều chuyện khác về ông, như chuyện cây kraik thiêng.
 
+## Ôn tập
+
+1. Po Rome đã làm gì để phát triển nông nghiệp ở lưu vực Phan Rang?
+   - [ ] Mở rộng cảng biển ở Phú Yên
+   - [x] Cho đắp đập, đào kênh
+   - [ ] Dời kinh đô lên cao nguyên
+
+   Ông cho đắp đập, đào kênh để nuôi nông nghiệp; thời ông Chămpa còn giao thương với nhiều nước. [Xem lại](#dap-kenh)
+
+2. Năm 1631, quan hệ giữa Po Rome và chúa Nguyễn trở nên hoà dịu vì sao?
+   - [ ] Po Rome nhận chức quan của chúa Nguyễn
+   - [ ] Quân Chiêm Thành rút khỏi Phú Yên
+   - [x] Po Rome cưới công nữ Nguyễn Phúc Ngọc Khoa, con gái chúa Nguyễn Phúc Nguyên
+
+   Trước đó, năm 1629, cuộc nổi dậy của Văn Phong ở Phú Yên có dùng quân Chiêm Thành. [Xem lại](#ngoc-khoa)
+
+3. Theo truyền thống, tháp Po Rome ở làng Hậu Sanh được dựng để làm gì?
+   - [ ] Làm đài quan sát vùng đồng bằng Phan Rang
+   - [ ] Làm nơi cất giữ sách vở của triều đình
+   - [x] Thờ vua Po Rome, một vị vua được thần hoá
+   - [ ] Làm nơi ở của các hoàng hậu
+
+   Theo truyền thống, sau khi ông mất người Chăm dựng tháp thờ ông; trong tháp thờ tượng đá vua Po Rome. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Po Rome", Wikipedia tiếng Anh — trị vì 1627 – 1651, gốc Churu, kế vị Po Klong M'hnai, đập và kênh ở Phan Rang, giao thương, thăm Chân Lạp năm 1638, sự kiện Văn Phong 1629, hôn nhân với Nguyễn Phúc Ngọc Khoa năm 1631, cái chết năm 1651 và chỗ khác nhau với sử Việt (1653), lịch Sakawi, tháp thờ, truyền thuyết, gia đình: https://en.wikipedia.org/wiki/Po_Rome

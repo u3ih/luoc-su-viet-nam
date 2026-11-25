@@ -47,6 +47,29 @@ Nhà thờ thiết kế theo lối Gothic châu Âu, phỏng theo Nhà thờ Đ�
 
 Phải từ thập niên 1920, nhà thờ chính tòa và tòa giám mục địa phận Tây Đàng Ngoài mới chuyển từ Sở Kiện về đây. Nay nhà thờ ở số 1 phố Nhà Thờ, phường Hoàn Kiếm — liền kề Tòa tổng giám mục, Đại chủng viện Thánh Giuse — là nhà thờ chính tòa của Tổng giáo phận Hà Nội; ngày 19 tháng 3 hằng năm có lễ rước Thánh Giuse.
 
+## Ôn tập
+
+1. Theo nhiều tài liệu, khu đất xây Nhà thờ Lớn xưa thuộc khuôn viên ngôi chùa nào?
+   - [x] Chùa Báo Thiên
+   - [ ] Chùa Một Cột
+   - [ ] Chùa Quán Sứ
+
+   Chùa Báo Thiên dựng từ thời Lý, có tháp Báo Thiên; về sau chùa bị phá, nền cũ thành chỗ họp chợ trước khi giao cho nhà thờ. [Xem lại](#khu-dat)
+
+2. Ai đứng ra xây nhà thờ bằng gạch và xin chính quyền bảo hộ cho mở xổ số để quyên tiền?
+   - [ ] Thống sứ Bắc Kỳ Raoul Bonnal
+   - [ ] Tổng đốc Nguyễn Hữu Độ
+   - [x] Giám mục Puginier
+
+   Giám mục Puginier, đại diện Tông toà Tây Đàng Ngoài, xin mở xổ số; hai đợt được chấp thuận (1883 và 1886) quyên được khoảng 30.000 franc. [Xem lại](#xay-dung)
+
+3. Điểm nào cho thấy lối Gothic của nhà thờ được kết hợp với kiến trúc bản địa?
+   - [ ] Vòm cuốn nhọn
+   - [x] Mái ngói đất nung và khu cung thánh chạm gỗ sơn son thiếp vàng
+   - [ ] Cửa sổ kính màu tranh Thánh
+
+   Nhà thờ phỏng theo Nhà thờ Đức Bà Paris; vòm cuốn nhọn và cửa sổ kính màu là nét Gothic châu Âu. [Xem lại](#kien-truc)
+
 ## Nguồn tham khảo
 
 - "Nhà thờ Lớn Hà Nội", Wikipedia tiếng Việt — khu đất chùa Báo Thiên theo các tài liệu (Từ điển đường phố Hà Nội, Tang thương ngẫu lục, Bùi Thiết, Raoul Bonnal), xây dựng 1884 – 1888, kinh phí và xổ số, khánh thành Giáng sinh 1887, tước hiệu Thánh Giuse, kiến trúc Gothic, kích thước, bộ chuông, chuyển tòa giám mục thập niên 1920, hoạt động: https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_L%E1%BB%9Bn_H%C3%A0_N%E1%BB%99i

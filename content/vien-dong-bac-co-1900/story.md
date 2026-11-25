@@ -46,6 +46,29 @@ Thư viện của viện lập ở Hà Nội năm 1903; đến năm 1944 đã c�
 
 Năm 1957, viện rời Hà Nội sang Campuchia; năm 1975 lại rời Phnôm Pênh về Paris. Năm 1983, viện ký hợp tác với Viện Khoa học xã hội Việt Nam, rồi mười năm sau mở lại trung tâm ở Hà Nội. Cùng Viện Hán Nôm, viện kiểm kê và công bố văn khắc trên bia đá Việt Nam, tham gia giám định Hoàng thành Thăng Long và khảo cổ Óc Eo. Năm 2013, viện khánh thành trụ sở ở Thành phố Hồ Chí Minh.
 
+## Ôn tập
+
+1. Viện Viễn Đông Bác cổ chính thức thành lập ngày 20 tháng 1 năm 1900 ở đâu?
+   - [ ] Hà Nội, sau dời vào Sài Gòn năm 1902
+   - [ ] Huế, sau dời ra Hà Nội năm 1907
+   - [x] Sài Gòn, hai năm sau dời ra Hà Nội
+
+   Tiền thân của viện là Phái đoàn Khảo cổ tại Đông Dương, lập năm 1898. [Xem lại](#ra-doi)
+
+2. Viện Viễn Đông Bác cổ làm những việc gì?
+   - [ ] Chỉ dạy tiếng Pháp cho học sinh
+   - [x] Khai quật khảo cổ, sưu tầm sách viết tay, bảo tồn công trình, nghiên cứu ngôn ngữ và lịch sử
+   - [ ] Chỉ xây dựng các công trình mới
+
+   Ở Mỹ Sơn, năm 1904 Henri Parmentier tổ chức khai quật và ghi nhận 68 công trình; năm 1907 viện nhận việc bảo tồn quần thể Angkor. [Xem lại](#khao-sat)
+
+3. Đến năm 1944, thư viện của viện ở Hà Nội có khoảng bao nhiêu cuốn?
+   - [x] Khoảng 80.000 cuốn
+   - [ ] Khoảng 8.000 cuốn
+   - [ ] Khoảng 800.000 cuốn
+
+   Thư viện lập năm 1903, kể cả sách viết tay; một nửa bằng các thứ tiếng châu Âu. [Xem lại](#thu-vien)
+
 ## Nguồn tham khảo
 
 - “Viện Viễn Đông Bác cổ” (Trường Viễn Đông Bác cổ Pháp), Wikipedia tiếng Việt — tiền thân năm 1898, ngày thành lập 20/1/1900, dời ra Hà Nội 1902, mục đích lập viện, các học giả, Angkor 1907, thư viện 1903 và 80.000 cuốn năm 1944, bảo tàng, phân chia tài liệu, kho ảnh, rời Hà Nội 1957, hợp tác 1983, trung tâm Hà Nội, trụ sở TP.HCM 2013: https://vi.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_Vi%E1%BB%85n_%C4%90%C3%B4ng_B%C3%A1c_c%E1%BB%95_Ph%C3%A1p

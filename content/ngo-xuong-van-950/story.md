@@ -46,6 +46,29 @@ Quân quay về đánh úp Dương Tam Kha. Mọi người muốn giết Tam Kha
 
 Năm 951, hai vua đem quân đánh Đinh Bộ Lĩnh ở Hoa Lư nhưng không thắng. Năm 954 Xương Ngập mất, Xương Văn một mình trị nước. Năm 965, khi đi đánh hai thôn Đường, Nguyễn, ông trúng tên nỏ của phục binh mà mất. Nhà Ngô suy yếu dần, rồi đất nước rơi vào cảnh mười hai sứ quân. Sử gia Lê Văn Hưu chê ông "không có chính tích gì", nhưng khen việc tha tội cho Bình Vương là nhân, việc nhịn người anh kiêu căng là cung.
 
+## Ôn tập
+
+1. Năm 944, ai cướp ngôi nhà Ngô sau khi Ngô Quyền mất?
+   - [ ] Đinh Bộ Lĩnh
+   - [ ] Phạm Lệnh Công
+   - [x] Dương Tam Kha
+
+   Dương Tam Kha, em (có sách nói là anh) của Dương hậu, cướp ngôi và xưng Dương Bình Vương. [Xem lại](#cuop-ngoi)
+
+2. Năm 950, Ngô Xương Văn làm gì khi được sai đi đánh hai thôn Đường, Nguyễn ở Thái Bình?
+   - [ ] Hoàn thành nhiệm vụ rồi xin về Cổ Loa
+   - [ ] Chạy về Nam Sách nương nhờ Phạm Lệnh Công
+   - [x] Đến Từ Liêm thì quay quân về đánh úp Dương Tam Kha
+
+   Xương Văn cho rằng Tam Kha cướp ngôi của anh mình, nay lại sai đánh làng vô tội; hai tướng Dương Cát Lợi, Đỗ Cảnh Thạc đều theo. [Xem lại](#tu-liem)
+
+3. Sau khi lật đổ Dương Tam Kha, Ngô Xương Văn xử trí với ông ta thế nào?
+   - [x] Giáng làm Chương Dương Công, cho đất làm thực ấp
+   - [ ] Xử tử để trừ hậu họa
+   - [ ] Đày đi nơi xa
+
+   Mọi người muốn giết Tam Kha nhưng Xương Văn nói Bình Vương có ơn nuôi mình. [Xem lại](#quay-ve)
+
 ## Nguồn tham khảo
 
 - "Ngô Xương Văn", Wikipedia tiếng Việt — Dương Tam Kha cướp ngôi năm 944, Phạm Lệnh Công che chở Xương Ngập, việc quay quân ở Từ Liêm năm 950 (trích Toàn thư), giáng Tam Kha làm Chương Dương Công, Nam Tấn Vương và Thiên Sách Vương, đánh Hoa Lư năm 951, Xương Ngập mất năm 954, tử trận năm 965, lời bàn của Lê Văn Hưu và Ngô Sĩ Liên: https://vi.wikipedia.org/wiki/Ng%C3%B4_X%C6%B0%C6%A1ng_V%C4%83n

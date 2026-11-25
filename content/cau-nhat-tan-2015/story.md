@@ -46,6 +46,29 @@ Ngày 4 tháng 1 năm 2015, cầu khánh thành, đồng bộ với đường Nh
 
 Cầu Nhật Tân được xem là biểu tượng mới của Hà Nội — cây cầu dây văng lớn nhất Việt Nam tới nay, nối trung tâm thành phố với vùng phía bắc sông Hồng.
 
+## Ôn tập
+
+1. Cầu Nhật Tân bắc qua con sông nào?
+   - [x] Sông Hồng
+   - [ ] Sông Đuống
+   - [ ] Sông Cầu
+
+   Cầu nối phía Tây Hồ, Phú Thượng với bờ bên kia sông Hồng, là một trong bảy cây cầu qua sông Hồng ở Hà Nội. [Xem lại](#song-hong)
+
+2. Nhịp chính của cầu có đặc điểm nào?
+   - [ ] Ba trụ tháp hình tròn
+   - [ ] Bảy trụ tháp hình vuông
+   - [x] Năm trụ tháp hình thoi
+
+   Nhịp chính là cầu dây văng với năm trụ tháp hình thoi và sáu nhịp dây văng. [Xem lại](#thap)
+
+3. Cầu Nhật Tân được khánh thành vào ngày nào?
+   - [ ] 7 tháng 3 năm 2009
+   - [ ] 4 tháng 1 năm 2014
+   - [x] 4 tháng 1 năm 2015
+
+   Cầu khánh thành cùng đường Nhật Tân – Nội Bài, tạo thành tuyến đường nhanh từ sân bay Nội Bài vào trung tâm Hà Nội. [Xem lại](#thong-xe)
+
 ## Nguồn tham khảo
 
 - "Cầu Nhật Tân", Wikipedia tiếng Việt — vị trí, tổng mức đầu tư, khởi công 7/3/2009, kết cấu năm trụ tháp sáu nhịp dây văng, đúc hẫng cân bằng, khánh thành 4/1/2015, đường Nhật Tân – Nội Bài, kích thước, ý nghĩa năm cửa ô, đề xuất tên "cầu hữu nghị Việt – Nhật": https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Nh%E1%BA%ADt_T%C3%A2n

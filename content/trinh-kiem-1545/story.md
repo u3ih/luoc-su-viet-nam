@@ -46,6 +46,29 @@ Năm 1546, Trịnh Kiểm lập hành điện cho vua Lê ở sách Vạn Lại 
 
 Năm 1569, vua Lê Anh Tông phong Trịnh Kiểm làm Thượng tướng Thái quốc công, tôn là Thượng phụ. Ông mất ngày 24 tháng 3 năm 1570, nắm quyền 25 năm qua ba đời vua Lê. Con trưởng Trịnh Cối nối giữ binh quyền nhưng ít lâu sau mất lòng tướng sĩ; người em Trịnh Tùng giành lấy, về sau đánh chiếm lại Thăng Long. Đời sau truy tôn Trịnh Kiểm là Thế Tổ Minh Khang Thái vương, coi ông là chúa đầu tiên của họ Trịnh.
 
+## Ôn tập
+
+1. Năm 1545, ai đã đầu độc Thái sư Nguyễn Kim?
+   - [x] Dương Chấp Nhất, hàng tướng nhà Mạc
+   - [ ] Mạc Đăng Dung
+   - [ ] Trịnh Kiểm
+
+   Sau đó quân Mạc còn đánh úp bản doanh vua Lê, nhưng Trịnh Kiểm dẫn tiên phong phá tan họ ở sông Phù Chẩn. [Xem lại](#nam-1545)
+
+2. Vì sao binh quyền nhà Lê rơi vào tay Trịnh Kiểm sau khi Nguyễn Kim mất?
+   - [ ] Vì vua Lê nhường ngôi cho ông
+   - [x] Vì hai con của Nguyễn Kim còn nhỏ, còn Trịnh Kiểm là con rể từng cầm quân
+   - [ ] Vì ông đánh bại Nguyễn Uông trong một trận chiến
+
+   Nguyễn Kim đã gả con gái là Ngọc Bảo cho Trịnh Kiểm. [Xem lại](#nam-1545)
+
+3. Sau năm 1546, đất nước chia đôi như thế nào giữa nhà Lê và họ Mạc?
+   - [ ] Cả nước thuộc họ Mạc
+   - [ ] Từ Sơn Nam trở vào thuộc nhà Lê, từ Thanh Hóa trở ra thuộc họ Mạc
+   - [x] Từ Thanh Hóa trở vào thuộc nhà Lê, từ Sơn Nam trở ra thuộc họ Mạc
+
+   Năm 1546 Trịnh Kiểm lập hành điện cho vua Lê ở sách Vạn Lại (Thanh Hóa). [Xem lại](#nam-bac)
+
 ## Nguồn tham khảo
 
 - "Trịnh Kiểm", Wikipedia tiếng Việt — xuất thân, theo Nguyễn Kim, lấy Ngọc Bảo, Dực quận công năm 1539, Tây Đô 1543, Nguyễn Kim bị đầu độc năm 1545, trận sông Phù Chẩn, hành điện Vạn Lại năm 1546, ranh giới Nam – Bắc triều, Lê Anh Tông năm 1556, Nguyễn Hoàng vào Thuận Hóa năm 1558, Thượng phụ năm 1569, mất ngày 24/3/1570, truy tôn: https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_Ki%E1%BB%83m

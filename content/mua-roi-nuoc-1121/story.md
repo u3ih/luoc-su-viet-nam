@@ -46,6 +46,30 @@ Buồng trò, hay thuỷ đình, dựng giữa ao hồ, mái như mái đình l�
 
 Rối nước phát triển ở nhiều làng quanh Thăng Long và các tỉnh đồng bằng Bắc Bộ, như Đào Thục, Tế Tiêu, Thanh Hải, Nhân Mục. Ở Đào Thục, bia năm 1735 thờ ông Đào Đăng Khiêm, người được dân làng tôn là ông tổ nghề. Năm 1992, Nhà hát Múa rối Thăng Long ở Hà Nội phục hồi 17 trò rối nước cổ, góp phần làm sống lại nghệ thuật này trên cả nước.
 
+## Ôn tập
+
+1. Chứng cứ bằng chữ sớm nhất về múa rối nước là gì?
+   - [x] Bia tháp Sùng Thiện Diên Linh, dựng năm 1121
+   - [ ] Bia thờ ông Đào Đăng Khiêm ở Đào Thục, dựng năm 1735
+   - [ ] Sách ghi lại 17 trò rối nước cổ do Nhà hát Múa rối Thăng Long phục hồi
+
+   Chứng cứ bằng chữ sớm nhất về rối nước là bia tháp Sùng Thiện Diên Linh, dựng năm 1121. [Xem lại](#bia-1121)
+
+2. Nghệ nhân điều khiển con rối nước như thế nào?
+   - [ ] Đứng trên bờ ao, kéo dây từ xa
+   - [ ] Ngồi trên mái thuỷ đình, thả dây xuống nước
+   - [x] Đứng sau mành, dưới nước, điều khiển bằng sào và dây
+
+   Nghệ nhân đứng sau mành (y môn), dưới nước, điều khiển con rối bằng sào và dây. [Xem lại](#thuy-dinh)
+
+3. Buổi diễn rối nước thường mở đầu bằng nhân vật nào?
+   - [ ] Thạch Sanh
+   - [ ] Cô Tấm
+   - [x] Chú Tễu
+   - [ ] Con rồng
+
+   Buổi diễn thường mở đầu bằng chú Tễu, nghĩa là tiếng cười, giới thiệu các trò. [Xem lại](#thuy-dinh)
+
 ## Nguồn tham khảo
 
 - “Múa rối nước”, Wikipedia tiếng Việt — nguồn gốc ở châu thổ sông Hồng, thời Lý, bia tháp Sùng Thiện Diên Linh năm 1121 (đoạn trích), truyền thuyết thời Cổ Loa, thuỷ đình, y môn, cách điều khiển, gỗ sung, các trò cổ truyền, các phường rối, Đào Thục và bia năm 1735, 17 trò phục hồi năm 1992: https://vi.wikipedia.org/wiki/M%C3%BAa_r%E1%BB%91i_n%C6%B0%E1%BB%9Bc

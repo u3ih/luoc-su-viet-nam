@@ -46,6 +46,29 @@ Năm 1931, tranh của sinh viên và cựu sinh viên được bày ở Triển
 
 Tháng 12 năm 1943, vì Hà Nội bị máy bay Đồng minh ném bom, trường chia ba nơi sơ tán: các lớp mỹ nghệ xuống Phủ Lý, khoa kiến trúc và phần lớn khoa điêu khắc vào Đà Lạt, khoa hội hoạ lên Sơn Tây với giáo sư Inguimberty cùng hoạ sĩ Nam Sơn và Tô Ngọc Vân. Tháng 3 năm 1945, Nhật đảo chính Pháp, trường đóng cửa. Trong hai mươi năm, trường trao bằng tốt nghiệp cho 128 sinh viên; Trường Đại học Mỹ thuật Việt Nam ngày nay coi đây là tiền thân.
 
+## Ôn tập
+
+1. Ai đứng ra lập Trường Cao đẳng Mỹ thuật Đông Dương và làm hiệu trưởng?
+   - [ ] Martial Merlin
+   - [x] Victor Tardieu
+   - [ ] Évariste Jonchère
+
+   Sắc lệnh lập trường do Toàn quyền Martial Merlin ký ngày 27 tháng 10 năm 1924; trường hoạt động từ năm 1925. Tardieu mất năm 1937, Jonchère kế nhiệm. [Xem lại](#thanh-lap)
+
+2. Năm 1931, tranh của sinh viên và cựu sinh viên của trường được bày ở đâu?
+   - [ ] Roma
+   - [ ] San Francisco
+   - [x] Triển lãm thuộc địa tại Paris
+
+   Những năm sau, tranh còn được bày ở Roma (1932), Cologne (1933), Milano (1934), Bỉ, San Francisco (1937) và Nhật Bản (1940). [Xem lại](#trien-lam)
+
+3. Điều gì xảy ra với trường vào tháng 3 năm 1945?
+   - [ ] Trường chuyển hẳn vào Đà Lạt
+   - [x] Nhật đảo chính Pháp, trường đóng cửa
+   - [ ] Trường đổi tên thành Trường Đại học Mỹ thuật Việt Nam
+
+   Trong hai mươi năm, trường trao bằng tốt nghiệp cho 128 sinh viên; Trường Đại học Mỹ thuật Việt Nam ngày nay coi đây là tiền thân. [Xem lại](#so-tan)
+
 ## Nguồn tham khảo
 
 - “Trường Cao đẳng Mỹ thuật Đông Dương”, Wikipedia tiếng Việt — sắc lệnh ngày 27/10/1924 của Martial Merlin, tên tiếng Pháp, Victor Tardieu và Évariste Jonchère, thể thức thi tuyển, Triển lãm thuộc địa Paris 1931 và các triển lãm 1932 – 1940, sơ tán tháng 12/1943, đóng cửa năm 1945, 128 sinh viên tốt nghiệp, di sản: https://vi.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_Cao_%C4%91%E1%BA%B3ng_M%E1%BB%B9_thu%E1%BA%ADt_%C4%90%C3%B4ng_D%C6%B0%C6%A1ng

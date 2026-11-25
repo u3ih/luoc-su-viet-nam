@@ -70,6 +70,29 @@ Tám mươi hai tấm bia tiến sĩ ở Văn Miếu – Quốc Tử Giám, kh�
 
 Nếu theo điển lệ, đáng lẽ phải có một trăm mười bảy tấm; số bia còn lại ít hơn.
 
+## Ôn tập
+
+1. Sau khi đặt thêm đạo Quảng Nam năm 1471, cả nước được chia thành bao nhiêu thừa tuyên?
+   - [ ] Mười thừa tuyên
+   - [x] Mười ba thừa tuyên
+   - [ ] Mười lăm thừa tuyên
+
+   Lê Thánh Tông sửa lại bộ máy nhiều lần; cả nước được chia thành mười ba thừa tuyên. [Xem lại](#bo-may)
+
+2. Luật Hồng Đức có tên chính thức là gì?
+   - [x] Quốc triều hình luật
+   - [ ] Hoàng Việt luật lệ
+   - [ ] Hình thư
+
+   Bộ luật thường gọi là luật Hồng Đức, tên chính thức là Quốc triều hình luật. [Xem lại](#bo-luat)
+
+3. Tám mươi hai tấm bia tiến sĩ ở Văn Miếu – Quốc Tử Giám được UNESCO công nhận là gì vào năm 2010?
+   - [ ] Di sản văn hoá phi vật thể
+   - [ ] Di sản thiên nhiên thế giới
+   - [x] Di sản tư liệu thế giới
+
+   Các bia khắc khoa thi từ năm 1442 đến năm 1779, được UNESCO công nhận là Di sản tư liệu thế giới ngày 9 tháng 3 năm 2010. [Xem lại](#ngay-nay)
+
 ## Nguồn tham khảo
 
 - "Lê Thánh Tông", Wikipedia tiếng Việt — ngày sinh, ngày lên ngôi, niên hiệu, cải cách bộ máy 1465–1471, thừa tuyên, bản đồ 1467 và 1490, khoa thi: https://vi.wikipedia.org/wiki/L%C3%AA_Th%C3%A1nh_T%C3%B4ng

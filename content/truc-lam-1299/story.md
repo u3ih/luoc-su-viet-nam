@@ -60,6 +60,29 @@ Năm 1308, Điều ngự làm lễ cho Pháp Loa nối pháp, làm tổ thứ ha
 
 Xá lợi của ông được chia ba nơi: lăng Quy Đức, tháp Huệ Quang ở chùa Hoa Yên (Yên Tử) và chùa Phổ Minh. Sau Nhân Tông và Pháp Loa, Huyền Quang là tổ thứ ba; ba vị được gọi chung là Trúc Lâm tam tổ.
 
+## Ôn tập
+
+1. Tháng 10 năm 1299, Thái thượng hoàng Trần Nhân Tông làm gì?
+   - [ ] Truyền ngôi cho thái tử Trần Thuyên
+   - [x] Lên núi Yên Tử tu hành, lấy pháp danh Hương Vân Đại Đầu đà
+   - [ ] Vân du vào châu Bố Chính rồi sang Chiêm Thành
+
+   Ông tu theo thập nhị đầu đà, tức mười hai điều khổ hạnh, và mở tịnh xá thuyết giảng ở Yên Tử. [Xem lại](#len-nui)
+
+2. Thiền phái Trúc Lâm được hình thành bằng cách nào?
+   - [ ] Tách ra từ ba dòng thiền thành ba phái riêng
+   - [ ] Du nhập nguyên vẹn từ nước ngoài vào Đại Việt
+   - [x] Điều ngự hợp nhất các dòng thiền Tì-ni-đa-lưu-chi, Thảo Đường, Vô Ngôn Thông vào dòng Trúc Lâm Yên Tử
+
+   Đây được xem là giáo hội thống nhất đầu tiên của đạo Phật ở Việt Nam. [Xem lại](#mot-dong)
+
+3. Sau Trần Nhân Tông và Pháp Loa, ai là tổ thứ ba của Thiền phái Trúc Lâm?
+   - [ ] Đạo Viên
+   - [x] Huyền Quang
+   - [ ] Hiện Quang
+
+   Ba vị được gọi chung là Trúc Lâm tam tổ; Điều ngự viên tịch năm 1308 trên đỉnh Ngọa Vân. [Xem lại](#vien-tich)
+
 ## Nguồn tham khảo
 
 - "Trần Nhân Tông", Wikipedia tiếng Việt — thời thái tử, truyền ngôi, xuất gia, lên Yên Tử, hợp nhất các dòng thiền, viên tịch, xá lợi: https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Nh%C3%A2n_T%C3%B4ng

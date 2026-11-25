@@ -46,6 +46,29 @@ Năm 1712, chúa Nguyễn Phúc Chu và Po Saktiraydapatih ký một thoả ư�
 
 Vị vua Chăm cuối cùng, Po Phaok The, được lập năm 1828 nhờ Tổng trấn Gia Định Lê Văn Duyệt, không qua phép vua Minh Mạng. Năm 1832, Lê Văn Duyệt mất; chỉ ít ngày sau, Minh Mạng cho đưa Po Phaok The về Huế, xoá bỏ chế độ tự trị, lập phủ Ninh Thuận — có tài liệu ghi việc lập phủ năm 1833. Theo các nghiên cứu phương Tây, thoả ước năm 1712 bị bãi bỏ, luật lệ người Việt được áp dụng, dân phải mặc trang phục và theo nghi lễ người Việt, văn khố hoàng gia Chăm bị huỷ. Hai cuộc nổi dậy do Katip Sumat và Ja Thak Wa lãnh đạo kéo dài tới năm 1835 rồi bị dập tắt, kéo theo những đợt trấn áp khắc nghiệt. Năm 1835, Po Phaok The bị kết tội thông đồng với Lê Văn Khôi — các nhà nghiên cứu cho rằng chưa rõ lời buộc tội ấy đúng đến đâu — và bị xử tử.
 
+## Ôn tập
+
+1. Năm 1693, chúa Nguyễn Phúc Chu sai ai đem quân đánh Panduranga?
+   - [ ] Lê Văn Duyệt
+   - [x] Nguyễn Hữu Cảnh
+   - [ ] Po Saktiraydapatih
+
+   Quân chúa Nguyễn bắt vua Chăm Po Saut đưa về Phú Xuân, rồi đổi vùng đất này thành trấn Thuận Thành. [Xem lại](#nam-1693)
+
+2. Vì sao khoảng năm 1695 chúa Nguyễn trả lại quyền cho em Po Saut, phong làm Thuận Thành trấn vương?
+   - [ ] Vì chúa Nguyễn muốn rút quân về Phú Xuân
+   - [ ] Vì nhà Tây Sơn đã lật đổ chúa Nguyễn
+   - [x] Vì người Chăm nổi dậy chống lại, tạo nên sức kháng cự
+
+   Người Chăm nổi dậy chống lại trong các năm 1693 – 1696 (bài tiếng Việt ghi 1694 – 1695). [Xem lại](#nam-1693)
+
+3. Năm 1832, sau khi Lê Văn Duyệt mất, vua Minh Mạng làm gì với Thuận Thành?
+   - [ ] Công nhận thêm quyền tự trị cho Thuận Thành
+   - [ ] Phong Po Phaok The làm Tổng trấn Gia Định
+   - [x] Đưa vua Chăm Po Phaok The về Huế, xoá bỏ chế độ tự trị và lập phủ Ninh Thuận
+
+   Có tài liệu ghi việc lập phủ năm 1833; hai cuộc nổi dậy sau đó kéo dài tới năm 1835 rồi bị dập tắt. [Xem lại](#nam-1832)
+
 ## Nguồn tham khảo
 
 - “Thuận Thành trấn”, Wikipedia tiếng Việt — Panduranga sau năm 1471, Nguyễn Hữu Cảnh đánh năm 1693, đổi thành trấn Thuận Thành, phủ Bình Thuận, kháng cự 1694 – 1695, trả quyền cho Kế Bà Tử, thời Tây Sơn, xoá tự trị dưới thời Minh Mạng, danh sách các vua (theo Đại Nam thực lục tiền biên và biên niên sử hoàng gia Chăm): https://vi.wikipedia.org/wiki/Thu%E1%BA%ADn_Th%C3%A0nh_tr%E1%BA%A5n

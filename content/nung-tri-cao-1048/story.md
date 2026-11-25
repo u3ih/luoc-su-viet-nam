@@ -46,6 +46,29 @@ Năm 1052, ông xưng Nhân Huệ hoàng đế, đặt quốc hiệu Đại Nam,
 
 Nhà Tống cử tướng Địch Thanh đem quân đánh; năm 1053, quân Trí Cao thua. Ông chạy về phía Đại Lý (Vân Nam); sử Trung Hoa chép người Đại Lý giết ông, đem đầu nộp nhà Tống, khoảng năm 1055 — năm mất các nguồn ghi khác nhau. Theo một số nghiên cứu, thất bại có thể một phần vì các dòng họ Hoàng, Sầm cùng vùng không ủng hộ. Ngày nay, người Choang ở Trung Quốc, người Nùng, người Tày ở Việt Nam vẫn tôn kính ông; ở Cao Bằng có đền Kỳ Sầm thờ ông. Các nhà nghiên cứu lưu ý: việc coi ông là người Việt hay người Trung Hoa thay đổi theo từng thời.
 
+## Ôn tập
+
+1. Châu Quảng Nguyên, nơi Nùng Trí Cao sinh sống, nay thuộc vùng nào của Việt Nam?
+   - [ ] Nghệ An
+   - [x] Cao Bằng
+   - [ ] Thanh Hóa
+
+   Đây là vùng giàu vàng, bạc, chu sa, mà cả nhà Tống lẫn Đại Việt đều coi là của mình; về xuất thân của Trí Cao, các sử liệu ghi khác nhau. [Xem lại](#quang-nguyen)
+
+2. Năm 1052, cuộc vây thành Quảng Châu của quân Nùng Trí Cao có kết quả ra sao?
+   - [ ] Hạ được thành chỉ sau vài ngày
+   - [ ] Hạ được thành và đóng đô ở đó
+   - [x] Vây 57 ngày nhưng không hạ được thành
+
+   Trước đó ông xưng Nhân Huệ hoàng đế, đặt quốc hiệu Đại Nam, xin nội thuộc nhà Tống nhưng bị từ chối, rồi đánh chiếm Ung Châu và nhiều châu ở Quảng Tây, Quảng Đông. [Xem lại](#quang-chau)
+
+3. Tướng nào của nhà Tống đánh bại quân Nùng Trí Cao năm 1053?
+   - [ ] Lý Thái Tông
+   - [x] Địch Thanh
+   - [ ] Nùng Tồn Phúc
+
+   Ông chạy về phía Đại Lý; năm mất các nguồn ghi khác nhau. Ngày nay người Choang, người Nùng, người Tày vẫn tôn kính ông, và việc coi ông là người Việt hay người Trung Hoa thay đổi theo từng thời. [Xem lại](#dich-thanh)
+
 ## Nguồn tham khảo
 
 - “Nùng Trí Cao”, Wikipedia tiếng Việt — châu Quảng Nguyên, ghi chép khác nhau về xuất thân (Toàn thư, An Nam chí lược, Tục tư trị thông giám), nước Đại Lịch 1041, được tha và phong Quảng Nguyên mục, năm 1048, nước Đại Nam 1052, Ung Châu, vây Quảng Châu 57 ngày, Địch Thanh: https://vi.wikipedia.org/wiki/N%C3%B9ng_Tr%C3%AD_Cao

@@ -46,6 +46,29 @@ Sau những bài thơ Nôm đầu tiên đã mất, tập thơ Nôm sớm nhất
 
 Hồng Đức quốc âm thi tập là tuyển tập thơ chữ Nôm thường được cho là do vua Lê Thánh Tông cùng các thành viên hội Tao đàn nhị thập bát tú sáng tác. Nó được coi là cột mốc thứ hai sau Quốc âm thi tập của Nguyễn Trãi. Văn bản tập thơ còn nhiều vấn đề phải khảo cứu: tác giả cụ thể của từng bài, và mối liên hệ với các tập thơ chép tay khác, vẫn là đề tài của giới nghiên cứu Hán Nôm.
 
+## Ôn tập
+
+1. Theo sử chép, vì sao Nguyễn Thuyên được vua cho đổi sang họ Hàn?
+   - [ ] Vì ông giỏi làm thơ chữ Hán
+   - [ ] Vì ông đi sứ nhà Đường trở về
+   - [x] Vì việc ông làm bài văn ném xuống sông đuổi cá sấu giống chuyện Hàn Dũ đời Đường
+
+   Vua thấy việc giống chuyện Hàn Dũ đời Đường đuổi cá sấu, nên cho ông đổi sang họ Hàn. [Xem lại](#ca-sau)
+
+2. "Quốc ngữ" trong câu "thơ phú bằng quốc ngữ" của Nguyễn Thuyên nghĩa là gì?
+   - [x] Tiếng Việt viết bằng chữ Nôm
+   - [ ] Tiếng Việt viết bằng chữ Quốc ngữ La-tinh ngày nay
+   - [ ] Tiếng Hán đọc theo âm Việt
+
+   "Quốc ngữ" ở đây là tiếng Việt viết bằng chữ Nôm, không phải chữ Quốc ngữ La-tinh ngày nay. [Xem lại](#quoc-ngu)
+
+3. Tập thơ Nôm sớm nhất còn lại được coi là tập nào?
+   - [ ] Hồng Đức quốc âm thi tập
+   - [ ] Các bài thơ phú của Nguyễn Thuyên
+   - [x] Quốc âm thi tập của Nguyễn Trãi
+
+   Tác phẩm của Nguyễn Thuyên đã thất truyền; tập thơ Nôm sớm nhất còn lại được coi là Quốc âm thi tập của Nguyễn Trãi, thế kỷ XV. [Xem lại](#nguyen-trai)
+
 ## Nguồn tham khảo
 
 - “Hàn Thuyên”, Wikipedia tiếng Việt — tên thật Nguyễn Thuyên, Thượng thư Bộ Hình, chuyện cá sấu năm 1282 theo Toàn thư, đổi họ Hàn, giỏi thơ Nôm, Hàn luật: https://vi.wikipedia.org/wiki/H%C3%A0n_Thuy%C3%AAn

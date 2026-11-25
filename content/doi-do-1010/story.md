@@ -67,6 +67,29 @@ Nhà Lý cho xây cung điện, thành luỹ và đường sá. Trong nhiều th
 >
 > Chuyện rồng vàng được chép trong sử cũ như một điềm lành, nhưng các nhà nghiên cứu hiện nay thường hiểu đó là cách người xưa gắn ý nghĩa thiêng liêng cho sự kiện, không phải ghi chép về một sự vật có thật.
 
+## Ôn tập
+
+1. Vì sao Lý Thái Tổ muốn dời đô khỏi Hoa Lư?
+   - [ ] Vì Hoa Lư bị lũ lụt phá hoại
+   - [x] Vì đất hẹp, khó mở rộng thành một đô thị lớn
+   - [ ] Vì Hoa Lư dễ bị giặc tấn công
+
+   Hoa Lư hiểm trở, dễ phòng thủ nhưng đất hẹp, nên nhà vua muốn một nơi đủ rộng làm trung tâm lâu dài của đất nước. [Xem lại](#hoa-lu-chat)
+
+2. Theo Chiếu dời đô (diễn ý), thành Đại La có đặc điểm gì?
+   - [x] Đất rộng mà bằng, cao mà thoáng, dân không khổ vì ngập lụt
+   - [ ] Núi non bao quanh, hiểm trở dễ phòng thủ
+   - [ ] Nằm sát biển, thuận lợi cho việc buôn bán
+
+   Chiếu nói Đại La là nơi trung tâm của trời đất, đất rộng mà bằng, cao mà thoáng, muôn vật phong phú tốt tươi. [Xem lại](#chieu)
+
+3. Tên Thăng Long có nghĩa là gì?
+   - [ ] Rồng cuộn bên sông
+   - [ ] Thành giữa đất trời
+   - [x] Rồng bay lên
+
+   Theo sử cũ, khi thuyền vua đến dưới thành, có rồng vàng hiện lên; nhà vua cho là điềm tốt, đổi tên thành là Thăng Long, nghĩa là rồng bay lên. [Xem lại](#thang-long)
+
 ## Nguồn tham khảo
 
 - Đại Việt sử ký toàn thư (Ngô Sĩ Liên và các sử thần, 1479), Bản kỷ — phần Lý Thái Tổ hoàng đế: https://vi.wikisource.org/wiki/%C4%90%E1%BA%A1i_Vi%E1%BB%87t_s%E1%BB%AD_k%C3%BD_to%C3%A0n_th%C6%B0

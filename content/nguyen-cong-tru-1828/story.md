@@ -55,6 +55,29 @@ Bãi bồi Kim Sơn mỗi năm tiến ra biển 80 – 100 m. Trong gần 200 n�
 
 Năm 1852, khi ông còn sống, dân Kim Sơn dựng Sinh Từ trên nền nhà cũ của ông ở ấp Lạc Thiện, hằng năm mở hội mừng sinh nhật ông. Nguyễn Công Trứ mất năm 1858; đền được sửa lại, đổi tên là Trung Tư Từ. Nhiều đình, chùa ở Tiền Hải, Kim Sơn thờ ông làm thành hoàng.
 
+## Ôn tập
+
+1. Năm 1828, Nguyễn Công Trứ được giao chức gì để lo việc khẩn hoang?
+   - [ ] Giải nguyên
+   - [ ] Tư nghiệp Quốc Tử Giám
+   - [x] Doanh điền sứ
+
+   Năm 1828, ông được thăng Hữu Tham tri bộ Hình, sang làm Doanh điền sứ. [Xem lại](#hy-van)
+
+2. Công cuộc khẩn hoang ở bãi Tiền Châu hoàn thành vào tháng 9 năm 1828 thì triều Nguyễn chuẩn lập huyện nào?
+   - [ ] Kim Sơn
+   - [x] Tiền Hải
+   - [ ] Nghi Xuân
+
+   Huyện Tiền Hải thuộc phủ Kiến Xương; huyện Kim Sơn được lập sau, ngày 5 tháng 4 năm 1829. [Xem lại](#tien-hai)
+
+3. Ở Kim Sơn, những kênh nhỏ đào theo hình "xương cá" nối các làng để làm gì?
+   - [ ] Để chở quân đi đánh giặc biển
+   - [x] Để tưới, tiêu và rửa chua mặn
+   - [ ] Để ngăn người lạ vào làng
+
+   Năm 1830, đê Đường Quan được đắp, tuyến đê đầu tiên lấn biển của huyện. [Xem lại](#kim-son)
+
 ## Nguồn tham khảo
 
 - "Nguyễn Công Trứ", Wikipedia tiếng Việt — tiểu sử, quan chức, chức Doanh điền sứ, khẩn hoang: https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_C%C3%B4ng_Tr%E1%BB%A9

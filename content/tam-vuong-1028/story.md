@@ -46,6 +46,29 @@ Nghe tin, Khai Quốc vương Lý Long Bồ ở phủ Trường Yên (cố đô 
 
 Ngày 1 tháng 4 năm 1028, thái tử Phật Mã lên ngôi, tức Lý Thái Tông, đặt niên hiệu Thiên Thành. Dực Thánh vương và Đông Chinh vương về xin chịu tội; vua nghĩ tình ruột thịt, tha và cho phục chức. Vì việc ba vương, vua lập lệ hằng năm các quan đến đền Đồng Cổ đọc lời thề: "Làm con phải hiếu, làm tôi phải trung, ai bất hiếu bất trung, xin quỷ thần làm tội." Ông trị vì 27 năm, đến năm 1054.
 
+## Ôn tập
+
+1. Ba vương đem quân vây thành Thăng Long năm 1028 nhằm mục đích gì?
+   - [x] Tranh ngôi của thái tử Lý Phật Mã
+   - [ ] Đòi dời đô về Hoa Lư
+   - [ ] Đòi tế táng Lý Thái Tổ theo lễ khác
+
+   Họ kéo đến khi Lý Thái Tổ vừa mất, chưa tế táng xong. [Xem lại](#vay-thanh)
+
+2. Ai giết Vũ Đức vương ngay tại trận?
+   - [ ] Lý Nhân Nghĩa
+   - [ ] Lý Long Bồ
+   - [x] Lê Phụng Hiểu
+
+   Lê Phụng Hiểu rút gươm kể tội Vũ Đức vương rồi xông thẳng tới; Dực Thánh vương và Đông Chinh vương trốn thoát. [Xem lại](#ra-thanh)
+
+3. Vì việc ba vương, Lý Thái Tông lập ra lệ gì?
+   - [ ] Hằng năm các vương về Thăng Long chầu vua
+   - [x] Hằng năm các quan đến đền Đồng Cổ đọc lời thề trung hiếu
+   - [ ] Hằng năm vua đến Trường Yên tế lễ
+
+   Lời thề: “Làm con phải hiếu, làm tôi phải trung, ai bất hiếu bất trung, xin quỷ thần làm tội.” [Xem lại](#dong-co)
+
 ## Nguồn tham khảo
 
 - "Loạn Tam vương", Wikipedia tiếng Việt — ba vương vây thành năm 1028, thái tử vào điện Kiến Nguyên, Lý Nhân Nghĩa, Lê Phụng Hiểu giết Vũ Đức vương, Khai Quốc vương ở Trường Yên, lệnh cấm cướp của dân, lên ngôi ngày 1/4/1028, tha tội hai vương, lời thề đền Đồng Cổ, phạt 50 trượng: https://vi.wikipedia.org/wiki/Lo%E1%BA%A1n_Tam_v%C6%B0%C6%A1ng

@@ -46,6 +46,29 @@ Hai phe ra sức kéo, sao cho đoạn dây buộc khăn đỏ hay cột trụ n
 
 Năm 2015, UNESCO ghi danh "Nghi lễ và trò chơi kéo co" vào Danh sách di sản văn hoá phi vật thể đại diện của nhân loại, gồm bốn thực hành: lbaengteanhprot ở Campuchia, punnuk ở Philippines, juldarigi ở Hàn Quốc và kéo co ở Việt Nam. Ở cả bốn nơi, kéo co gắn với nghề trồng lúa và mở đầu một chu kỳ mùa vụ mới.
 
+## Ôn tập
+
+1. Nghi lễ và trò chơi kéo co thường gắn với dịp nào và cầu điều gì?
+   - [ ] Hội thu, cầu cho thuyền ra khơi
+   - [x] Hội xuân, đánh dấu mùa vụ mới và cầu cho mùa màng tươi tốt
+   - [ ] Lễ cưới, cầu cho trăm năm hạnh phúc
+
+   Cuộc kéo thường tổ chức trước sân đình hoặc đền, sau lễ cúng thần linh của làng. [Xem lại](#hoi-xuan)
+
+2. Thường kéo mấy keo, và bên nào thắng?
+   - [ ] Một keo, bên nào kéo được dây về trước
+   - [x] Ba keo, bên nào thắng hai keo trước là thắng
+   - [ ] Năm keo, bên nào thắng ba keo là thắng
+
+   Người chơi chia hai phe, một vị chức sắc hay bô lão cầm trịch ra hiệu lệnh. [Xem lại](#day-keo)
+
+3. Năm 2015, UNESCO ghi danh "Nghi lễ và trò chơi kéo co" của những nước nào?
+   - [ ] Chỉ Việt Nam
+   - [ ] Việt Nam, Trung Quốc, Nhật Bản và Thái Lan
+   - [x] Việt Nam, Campuchia, Philippines và Hàn Quốc
+
+   Ở cả bốn nơi, kéo co gắn với nghề trồng lúa và mở đầu một chu kỳ mùa vụ mới. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Tugging rituals and games", Wikipedia tiếng Anh — UNESCO ghi danh năm 2015, bốn thực hành ở Campuchia, Philippines, Hàn Quốc, Việt Nam, ý nghĩa mở đầu mùa vụ và đoàn kết, kéo co ở Việt Nam (vùng phổ biến, hội xuân, sân đình, nghi lễ cúng thần, vật liệu dây): https://en.wikipedia.org/wiki/Tugging_rituals_and_games

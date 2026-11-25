@@ -46,6 +46,31 @@ Ngày 29 tháng 3 năm 2013, cầu chính thức thông xe, nhân dịp kỷ ni�
 
 Cầu được thiết kế để đầu rồng có thể phun lửa và phun nước. Ngày nay, mỗi tối thứ sáu, thứ bảy, chủ nhật và các ngày lễ lớn, từ 21 giờ, đầu rồng phun lửa rồi phun nước, thu hút đông người đứng xem hai bên bờ sông.
 
+## Ôn tập
+
+1. Phương án cầu hình rồng được chọn tháng 10 năm 2007 là của liên danh tư vấn thuộc nước nào?
+   - [ ] Nhật Bản
+   - [ ] Đức
+   - [ ] Việt Nam
+   - [x] Mỹ
+
+   Tháng 10 năm 2007, phương án cầu hình rồng của liên danh Louis Berger và Ammann & Whitney (Mỹ) được chọn. [Xem lại](#cuoc-thi)
+
+2. Nhịp chính của cầu Rồng dài bao nhiêu?
+   - [ ] 72 m
+   - [ ] 128 m
+   - [x] 200 m
+   - [ ] 666 m
+
+   Nhịp chính dài 200 m, hợp long ngày 26 tháng 10 năm 2012; cả cây cầu dài khoảng 666 m. [Xem lại](#khoi-cong)
+
+3. Ngày nay, đầu rồng phun lửa và phun nước vào lúc nào?
+   - [x] Tối thứ sáu, thứ bảy, chủ nhật và các ngày lễ lớn, từ 21 giờ
+   - [ ] Mọi buổi sáng trong tuần
+   - [ ] Chỉ vào ngày thông xe 29 tháng 3 hằng năm
+
+   Đầu rồng phun lửa rồi phun nước vào tối thứ sáu, thứ bảy, chủ nhật và các ngày lễ lớn, từ 21 giờ. [Xem lại](#phun-lua)
+
 ## Nguồn tham khảo
 
 - “Cầu Rồng”, Wikipedia tiếng Việt — cuộc thi thiết kế năm 2005 (8 đơn vị, 17 phương án), chọn phương án tháng 10/2007, phê duyệt ngày 17/12/2008, khởi công ngày 19/7/2009, nhà thầu, hợp long nhịp chính ngày 26/10/2012, thông xe ngày 29/3/2013, thông số kỹ thuật, tổng vốn, vai trò giao thông, phun lửa và phun nước: https://vi.wikipedia.org/wiki/C%E1%BA%A7u_R%E1%BB%93ng

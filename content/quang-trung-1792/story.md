@@ -47,6 +47,31 @@ Ngày 29 tháng 7 năm Nhâm Tý (16 tháng 9 năm 1792), khoảng 11 – 12 gi�
 
 Thi hài vua được táng ngay tại Phú Xuân, ở cung điện tên là Đan Dương. Nguyễn Quang Toản lên nối ngôi, tức vua Cảnh Thịnh, sai sứ sang nhà Thanh báo tang. Đô đốc Vũ Văn Dũng đang đi sứ ở Bắc Kinh, nghe tin làm thơ viếng.
 
+## Ôn tập
+
+1. Niên hiệu Quang Trung có nghĩa là gì?
+   - [ ] Mặt trời mọc ở phương đông
+   - [ ] Ngọn núi ở giữa trời
+   - [x] Ánh sáng ở trung tâm
+   - [ ] Con đường ở chính giữa
+
+   Nguyễn Huệ lập đàn Nam Giao ở núi Bân, lên ngôi hoàng đế, niên hiệu Quang Trung, nghĩa là ánh sáng ở trung tâm. [Xem lại](#len-ngoi)
+
+2. Chính sách nào của vua Quang Trung gây nhiều xáo động và bị người kế vị bỏ?
+   - [ ] Khuyến khích dùng chữ Nôm
+   - [x] Phát tín bài, tức thẻ quản lý dân
+   - [ ] Chính sách khuyến học
+   - [ ] Sắp xếp lại chùa chiền dư thừa
+
+   Chính sách phát tín bài gây nhiều xáo động, người kế vị về sau bỏ. [Xem lại](#cai-cach)
+
+3. Ai lên nối ngôi sau khi vua Quang Trung mất?
+   - [ ] Vũ Văn Dũng
+   - [x] Nguyễn Quang Toản
+   - [ ] Nguyễn Nhạc
+
+   Nguyễn Quang Toản lên nối ngôi, tức vua Cảnh Thịnh. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Quang Trung", Wikipedia tiếng Việt — lên ngôi 1788 ở núi Bân, cải cách, chính sách tín bài, ngày mất, các nguồn ghi khác nhau, cung Đan Dương, Cảnh Thịnh: https://vi.wikipedia.org/wiki/Quang_Trung

@@ -58,6 +58,29 @@ Nhà Trần ban thưởng Lê Phụ Trần. Cùng năm 1258, Trần Thái Tông 
 >
 > Quân Mông Cổ: theo Rashid ud-Din khoảng ba mươi nghìn người, gồm khoảng mười nghìn kỵ binh Mông Cổ và hai mươi nghìn quân Đại Lý; một sách khác ước tính ba mươi đến bốn mươi nghìn. Quân Đại Việt khoảng một trăm nghìn, ước tính huy động khoảng sáu mươi nghìn. Nguyên sử viết quân Mông Cổ rút vì khí hậu nóng; bài tham khảo bác ý này vì chiến dịch diễn ra giữa mùa đông.
 
+## Ôn tập
+
+1. Ai trực tiếp chỉ huy cuộc tập kích bằng thuyền ở Đông Bộ Đầu?
+   - [ ] Lê Phụ Trần
+   - [x] Vua Trần Thái Tông
+   - [ ] Vua Trần Thánh Tông
+
+   Vua Trần Thái Tông trực tiếp chỉ huy tập kích bằng thuyền và đánh bại quân Mông Cổ, quân Mông Cổ rút chạy về Vân Nam. [Xem lại](#dong-bo-dau)
+
+2. Ở Phù Lỗ, quân Mông Cổ vượt sông bằng cách nào sau khi quân Trần chặt cầu?
+   - [ ] Dùng thuyền chiến lớn
+   - [ ] Làm cầu phao qua sông
+   - [x] Bắn tên dò độ cạn rồi cho kỵ binh lội qua
+
+   Quân Trần lại rút lui và bỏ Thăng Long. [Xem lại](#binh-le)
+
+3. Sau chiến sự, Đại Việt cử sứ sang nhà Nguyên và thoả thuận điều gì?
+   - [x] Cống nạp ba năm một lần, chủ yếu là hình thức
+   - [ ] Cống nạp hằng tháng
+   - [ ] Để quân Nguyên đóng lại ở Thăng Long
+
+   Bài tham khảo nhấn mạnh đây chủ yếu là hình thức, Đại Việt vẫn tự chủ. [Xem lại](#sau-tran)
+
 ## Nguồn tham khảo
 
 - "Chiến tranh Nguyên Mông – Đại Việt lần 1", Wikipedia tiếng Việt — bối cảnh, lực lượng, diễn biến, kết cục, các điểm tranh luận: https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Nguy%C3%AAn_M%C3%B4ng_%E2%80%93_%C4%90%E1%BA%A1i_Vi%E1%BB%87t_l%E1%BA%A7n_1

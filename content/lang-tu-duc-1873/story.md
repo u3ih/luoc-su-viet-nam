@@ -47,6 +47,30 @@ Cuộc nổi dậy không thành. Sau sự việc, vua đổi tên Vạn Niên C
 
 Trong Bi đình có tấm bia đá Thanh nặng 20 tấn khắc bài "Khiêm Cung ký" dài 4.935 chữ do chính vua soạn năm 1871 — bản tự thuật về cuộc đời, những rủi ro, bệnh tật của mình. Vua Tự Đức sống thêm 10 năm nữa; sau khi vua mất, lăng được đổi tên là Khiêm Lăng.
 
+## Ôn tập
+
+1. Vua Tự Đức cho xây lăng của mình vào lúc nào?
+   - [x] Ngay khi còn sống
+   - [ ] Sau khi vua mất
+   - [ ] Sau khi cuộc nổi dậy năm 1866 thất bại
+
+   Tự Đức sớm nghĩ đến việc xây lăng cho mình ngay khi còn sống, trong thung lũng hẹp ở làng Dương Xuân Thượng. [Xem lại](#chon-dat)
+
+2. Vì sao dân phu nổi dậy năm 1866?
+   - [ ] Họ phản đối việc dời đô khỏi Huế
+   - [x] Việc xây lăng nặng nhọc, dân phu khổ sở lại bị đốc thúc gắt gao
+   - [ ] Họ không được nhận lương bổng
+
+   Anh em Đoàn Hữu Trưng nhân sự bất mãn đó mà nổi dậy; sử gọi là loạn Chày Vôi. [Xem lại](#xay-lang)
+
+3. Sau cuộc nổi dậy, Vạn Niên Cơ được đổi tên thành gì?
+   - [ ] Khiêm Lăng
+   - [ ] Lưu Khiêm
+   - [x] Khiêm Cung
+   - [ ] Giáng Khiêm
+
+   Vua đổi tên Vạn Niên Cơ thành Khiêm Cung và viết bài biểu tạ tội; năm 1873 công trình hoàn thành. Tên Khiêm Lăng có sau khi vua mất. [Xem lại](#khiem-cung)
+
 ## Nguồn tham khảo
 
 - "Lăng Tự Đức", Wikipedia tiếng Việt — vị trí, Vạn Niên Cơ, câu ca dao, sự kiện năm 1866, đổi tên Khiêm Cung, hoàn thành 1873, la thành, hồ Lưu Khiêm, bia Khiêm Cung ký: https://vi.wikipedia.org/wiki/L%C4%83ng_T%E1%BB%B1_%C4%90%E1%BB%A9c

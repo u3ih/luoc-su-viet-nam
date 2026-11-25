@@ -87,6 +87,30 @@ Năm 2012, UNESCO ghi danh Tín ngưỡng thờ cúng Hùng Vương ở Phú Th�
 >
 > — Ca dao
 
+## Ôn tập
+
+1. Theo truyền thuyết, Âu Cơ sinh ra điều gì?
+   - [ ] Một trăm người con trai cùng lúc
+   - [x] Một bọc trăm trứng, nở thành trăm người con trai
+   - [ ] Mười lăm người con gái
+
+   Âu Cơ sinh ra một bọc trăm trứng; trăm trứng nở thành trăm người con trai. [Xem lại](#boc-tram-trung)
+
+2. Theo truyền thuyết, khi Lạc Long Quân và Âu Cơ chia con thì thế nào?
+   - [ ] Cả trăm người con ở lại sống dưới biển
+   - [ ] Cả trăm người con theo mẹ lên núi
+   - [x] Năm mươi người con theo mẹ lên núi, năm mươi người theo cha xuống biển
+
+   Hai người chia trăm con, hẹn khi có việc thì giúp đỡ lẫn nhau. [Xem lại](#chia-con)
+
+3. Theo hiểu biết hiện nay, nhà nước Văn Lang ra đời khoảng thời gian nào và gắn với văn hoá nào?
+   - [ ] Năm 2879 TCN, gắn với Kinh Dương Vương
+   - [x] Khoảng thế kỷ VII TCN, gắn với văn hoá Đông Sơn
+   - [ ] Khoảng năm 938, gắn với chiến thắng Bạch Đằng
+   - [ ] Khoảng thế kỷ XV, gắn với văn hoá Đại Việt
+
+   Năm 2879 TCN chỉ là niên đại truyền thuyết; nhà nước Văn Lang ra đời khoảng thế kỷ VII TCN, gắn với văn hoá Đông Sơn. [Xem lại](#khao-co)
+
 ## Nguồn tham khảo
 
 - Lĩnh Nam chích quái, "Truyện Hồng Bàng thị" (sưu tập thế kỷ XIV–XV, Vũ Quỳnh và Kiều Phú hiệu đính).

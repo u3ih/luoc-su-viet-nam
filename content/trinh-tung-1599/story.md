@@ -46,6 +46,29 @@ Ngày 11 tháng 5 năm 1599, Trịnh Tùng ép vua Lê Thế Tông phong mình l
 
 Năm 1613, kinh thành cháy hơn vạn nóc nhà; Trịnh Tùng cho miễn tô thuế, phu dịch ba năm để dân về yên nghiệp. Năm 1619, vua Lê Kính Tông cùng con thứ của chúa là Trịnh Xuân mưu giết chúa; việc lộ, vua phải tự vẫn. Năm 1623, các con tranh quyền, kinh thành loạn; Trịnh Tùng mất trên đường lánh ra ngoài thành. Ông cầm quyền 53 năm. Phủ chúa họ Trịnh tồn tại đến năm 1786.
 
+## Ôn tập
+
+1. Năm 1592, Trịnh Tùng làm gì?
+   - [ ] Lên ngôi vua
+   - [x] Đánh chiếm lại Thăng Long từ tay nhà Mạc, đưa triều Lê trở lại kinh thành
+   - [ ] Chặn quân Mạc ở Thanh Hóa
+
+   Cuối năm 1591, quân Lê – Trịnh tiến vào kinh thành; mùa thu năm 1592, Bùi Văn Khuê theo về họ Trịnh, rồi Mạc Mậu Hợp bị bắt. [Xem lại](#thang-long)
+
+2. Ngày 11 tháng 5 năm 1599, Trịnh Tùng được phong chức gì?
+   - [ ] Đô nguyên súy Tao Đàn
+   - [ ] Thái úy
+   - [x] Bình An vương
+
+   Ông ép vua Lê Thế Tông phong chức cao nhất triều, chỉ dưới vua, và dựng phủ chúa ngay bên cạnh triều đình vua Lê. [Xem lại](#binh-an-vuong)
+
+3. Từ năm 1599, việc nào thuộc về phủ chúa Trịnh?
+   - [ ] Nhận lễ triều yết và tiếp sứ
+   - [x] Đặt quan, thu thuế, bắt lính, trị dân
+   - [ ] Giữ riêng 5.000 lính túc vệ
+
+   Vua Lê giữ ngôi, nhận lễ triều yết, tiếp sứ; được 5.000 lính túc vệ và thuế của 1.000 xã để chi dùng. [Xem lại](#binh-an-vuong)
+
 ## Nguồn tham khảo
 
 - "Trịnh Tùng", Wikipedia tiếng Việt — con Trịnh Kiểm, Trịnh Kiểm mất 24/3/1570, Trịnh Cối, giữ Thanh – Nghệ 1577 – 1583, Bắc phạt, vào Thăng Long 1591 – 1592, Bùi Văn Khuê, phong Bình An vương ngày 11/5/1599, phủ chúa cạnh triều đình, quyền của vua Lê, hoả hoạn 1613, sự biến 1619 và 1623, cầm quyền 53 năm: https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_T%C3%B9ng

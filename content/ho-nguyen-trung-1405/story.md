@@ -47,6 +47,29 @@ Cuối năm 1406, nhà Minh đem quân sang; vua Hồ Hán Thương sai ông c�
 
 Minh Thành Tổ tha tội cho ông. Ông được sung vào Công bộ, làm quan đến Hộ bộ Thượng thư, chế tạo súng cho nhà Minh, được gọi là "Hỏa khí chi thần"; theo bài tham khảo, mỗi khi tế binh khí, nhà Minh tế cả ông. Ở đất khách, ông viết Nam Ông mộng lục, tập sách tự kể về người và việc nước Nam. Ông mất năm 1446.
 
+## Ôn tập
+
+1. Hồ Nguyên Trừng sáng chế ra những gì do nhu cầu quân sự?
+   - [ ] Thuyền buôn và nỏ liên châu
+   - [x] Súng thần cơ và thuyền cổ lâu
+   - [ ] Thành đá và cầu phao
+
+   Súng thần cơ là hỏa thương cải tiến; thuyền cổ lâu là thuyền chiến lớn hai tầng. [Xem lại](#than-co)
+
+2. Sau khi bị bắt năm 1407 và giải về Kim Lăng, Hồ Nguyên Trừng làm gì?
+   - [ ] Bị xử tử cùng Hồ Quý Ly
+   - [ ] Trốn về nước và tiếp tục chống Minh
+   - [x] Được Minh Thành Tổ tha tội, làm quan và chế tạo súng cho nhà Minh
+
+   Ông được sung vào Công bộ, làm quan đến Hộ bộ Thượng thư, được gọi là "Hỏa khí chi thần". [Xem lại](#ve-sau)
+
+3. Ở đất khách, Hồ Nguyên Trừng viết tập sách nào tự kể về người và việc nước Nam?
+   - [x] Nam Ông mộng lục
+   - [ ] Đại Việt sử ký
+   - [ ] Việt sử lược
+
+   Nam Ông là hiệu của ông; ông mất năm 1446. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Hồ Nguyên Trừng", Wikipedia tiếng Việt — tiểu sử, chức vụ, súng thần cơ, thuyền cổ lâu, các trận năm 1406 – 1407, bị bắt, làm quan nhà Minh, Nam Ông mộng lục: https://vi.wikipedia.org/wiki/H%E1%BB%93_Nguy%C3%AAn_Tr%E1%BB%ABng

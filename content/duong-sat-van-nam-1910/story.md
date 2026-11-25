@@ -46,6 +46,30 @@ Ngày 16 tháng 7 năm 1940, dưới sức ép của Nhật Bản, Pháp buộc 
 
 Đoạn trên đất Việt Nam ngày nay thành hai tuyến đường sắt Hà Nội – Lào Cai và Hà Nội – Hải Phòng. Đoạn trên đất Trung Quốc mang tên đường sắt Côn Minh – Hà Khẩu, là tuyến chính duy nhất ở Trung Quốc còn dùng khổ ray một mét.
 
+## Ôn tập
+
+1. Trước khi có đường sắt, đi từ Hải Phòng tới Côn Minh mất khoảng bao lâu?
+   - [ ] Khoảng 8 ngày
+   - [ ] Khoảng 16 ngày
+   - [x] Khoảng 28 ngày
+   - [ ] Khoảng 40 ngày
+
+   Hành trình gồm 16 ngày đi thuyền ngược sông Hồng tới Mạn Hào, rồi 12 ngày đường bộ. [Xem lại](#truoc-day)
+
+2. Đường sắt Hải Phòng – Vân Nam dùng khổ ray nào, vì sao?
+   - [x] Khổ ray hẹp 1.000 mm, cho hợp với địa hình đồi núi hiểm trở
+   - [ ] Khổ ray rộng, để chở được nhiều hàng hơn
+   - [ ] Khổ ray hẹp, vì chi phí xây dựng rất thấp
+
+   Công trình khởi công năm 1903, dùng khổ ray hẹp 1.000 mm; tổng chi phí lên tới 95 triệu franc. [Xem lại](#khoi-cong)
+
+3. Năm 1940, điều gì xảy ra với tuyến đường?
+   - [ ] Tuyến được kéo dài tới Singapore
+   - [x] Dưới sức ép của Nhật Bản, Pháp buộc phải đóng tuyến đường
+   - [ ] Tuyến được chuyển giao hoàn toàn cho Việt Nam
+
+   Ngày 16 tháng 7 năm 1940, Pháp buộc phải đóng tuyến; tháng 9 năm 1940 phía Trung Quốc tháo ray một đoạn và phá nhiều cầu cống để chặn quân Nhật. [Xem lại](#chien-tranh)
+
 ## Nguồn tham khảo
 
 - “Tuyến đường sắt Hải Phòng – Vân Nam”, Wikipedia tiếng Việt — chiều dài 855 km (389 km và 466 km), khổ ray 1.000 mm, hành trình 28 ngày trước khi có đường sắt, mục đích kinh tế, quyền xây dựng sau 1895, khởi công 1903, hoạt động ngày 1/4/1910, chi phí 95 triệu franc, đóng tuyến ngày 16/7/1940, tháo ray tháng 9/1940, hiệp định năm 1946, thông xe năm 1957, các tuyến ngày nay: https://vi.wikipedia.org/wiki/Tuy%E1%BA%BFn_%C4%91%C6%B0%E1%BB%9Dng_s%E1%BA%AFt_H%E1%BA%A3i_Ph%C3%B2ng_%E2%80%93_V%C3%A2n_Nam

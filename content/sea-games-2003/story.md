@@ -46,6 +46,29 @@ Ngày 5 tháng 12 năm 2003, lễ khai mạc diễn ra tại sân vận động 
 
 Đại hội bế mạc ngày 13 tháng 12. Tổng cộng 1.441 huy chương được trao, trong đó 444 huy chương vàng. Đoàn chủ nhà Việt Nam đứng đầu bảng tổng sắp, tiếp theo là Thái Lan và Indonesia; nhiều kỷ lục đại hội và kỷ lục quốc gia được lập.
 
+## Ôn tập
+
+1. SEA Games 22, lần đầu Việt Nam đăng cai, có quy mô thế nào?
+   - [x] Khoảng 5.000 vận động viên của 11 nước, tranh tài ở 32 môn
+   - [ ] Khoảng 500 vận động viên của 5 nước, tranh tài ở 10 môn
+   - [ ] Khoảng 20.000 vận động viên của 20 nước, tranh tài ở 100 môn
+
+   Lễ khai mạc diễn ra ngày 5 tháng 12 năm 2003 tại sân vận động quốc gia Mỹ Đình, với 442 nội dung thi đấu. [Xem lại](#khai-mac)
+
+2. Ngọn đuốc của Đại hội được lấy lửa từ đâu?
+   - [ ] Sân vận động Mỹ Đình
+   - [x] Đền thờ các vua Hùng
+   - [ ] Trống đồng Đông Sơn
+
+   Lễ rước đuốc bắt đầu từ Thành phố Hồ Chí Minh, đi qua nhiều thành phố rồi ra Hà Nội. Biểu trưng của Đại hội cách điệu từ hình chim lạc trên mặt trống đồng Đông Sơn. [Xem lại](#ruoc-duoc)
+
+3. Kết thúc đại hội, đoàn nào đứng đầu bảng tổng sắp huy chương?
+   - [ ] Thái Lan
+   - [ ] Indonesia
+   - [x] Việt Nam
+
+   Đại hội bế mạc ngày 13 tháng 12; đoàn Việt Nam đứng đầu, tiếp theo là Thái Lan và Indonesia. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Đại hội Thể thao Đông Nam Á 2003", Wikipedia tiếng Việt — thời gian 5 – 13/12/2003, lần đầu Việt Nam đăng cai, Đông Timor lần đầu tham dự, khoảng 5.000 vận động viên, 11 nước, 442 nội dung, 32 môn, nước đăng cai thứ tám, Khu liên hợp Mỹ Đình và chi phí xây sân, 31 địa điểm, rước đuốc, biểu trưng chim lạc, linh vật Trâu Vàng, số huy chương, thứ hạng các đoàn: https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_h%E1%BB%99i_Th%E1%BB%83_thao_%C4%90%C3%B4ng_Nam_%C3%81_2003

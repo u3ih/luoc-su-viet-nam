@@ -62,6 +62,29 @@ Ngày 29 tháng 4 năm 1882, hai bên ký giao trả thành Hà Nội, hiệu l�
 
 Năm 1994, khu lăng mộ Hoàng Diệu ở quê ông được công nhận là di tích lịch sử – văn hóa.
 
+## Ôn tập
+
+1. Từ đầu năm 1880, Hoàng Diệu giữ chức gì ở Hà Nội?
+   - [ ] Tuần phủ
+   - [ ] Đề đốc
+   - [x] Tổng đốc Hà Ninh
+
+   Đầu năm 1880, ông làm Tổng đốc Hà Ninh, hàm Thượng thư bộ Binh. [Xem lại](#tong-doc)
+
+2. Sáng ngày 25 tháng 4 năm 1882, Rivière gửi tối hậu thư yêu cầu điều gì?
+   - [ ] Quân Pháp được rút khỏi Đồn Thủy
+   - [x] Quân trong thành giải giáp, các quan ra trình diện
+   - [ ] Triều đình mở cửa sông Hồng cho thuyền buôn
+
+   Lúc 5 giờ sáng, Rivière gửi tối hậu thư hạn đến 8 giờ; đến 11 giờ thì thành mất. [Xem lại](#buoi-sang)
+
+3. Hoàng Diệu tự vẫn ở đâu khi thành mất?
+   - [x] Dưới một gốc cây trước Võ Miếu
+   - [ ] Trên cửa Bắc của thành
+   - [ ] Ở Đồn Thủy bên sông Hồng
+
+   Khi quân Pháp tràn vào thành, ông tự vẫn trước Võ Miếu, ở góc tây nam thành. [Xem lại](#vo-mieu)
+
 ## Nguồn tham khảo
 
 - "Trận thành Hà Nội (1882)", Wikipedia tiếng Việt — bối cảnh, lực lượng, diễn biến theo giờ, các cửa thành, kết quả: https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_th%C3%A0nh_H%C3%A0_N%E1%BB%99i_(1882)

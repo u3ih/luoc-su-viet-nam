@@ -60,6 +60,30 @@ Bài văn tế viết bằng chữ Nôm, theo thể phú, gồm nhiều cặp c�
 >
 > Trong bài có câu được nhiều người nhớ: "Súng giặc đất rền; Lòng dân trời tỏ." Bài văn tế nói về những người nông dân, không được học binh thư hay võ nghệ, nhưng vẫn ra trận.
 
+## Ôn tập
+
+1. Ở vàm Nhật Tảo ngày 10 tháng 12 năm 1861, nghĩa quân đã làm gì?
+   - [ ] Đánh chiếm đại đồn Kỳ Hoà
+   - [x] Tập kích và đốt cháy tàu L'Espérance của Pháp
+   - [ ] Bảo vệ lễ tế ở chùa Tôn Thạnh
+
+   Nghĩa quân do Nguyễn Trung Trực cùng các thủ lĩnh khác tập kích và đốt cháy con tàu đậu ở vàm Nhật Tảo. [Xem lại](#nhat-tao)
+
+2. Nghĩa binh đánh đồn Cần Giuộc phần lớn là những ai?
+   - [ ] Lính triều đình được huấn luyện bài bản
+   - [ ] Các quan võ trong vùng Gia Định
+   - [x] Nông dân dùng tầm vông, dao phay và đồ có sẵn trong nhà
+
+   Họ phần lớn là nông dân, mặc áo vải, dùng tầm vông, dao phay và những thứ có sẵn trong nhà. [Xem lại](#can-giuoc)
+
+3. Ai được nhờ viết bài văn tế những nghĩa sĩ đã ngã xuống?
+   - [ ] Nguyễn Trung Trực
+   - [ ] Bùi Quang Diệu
+   - [x] Nguyễn Đình Chiểu
+   - [ ] Đỗ Quang
+
+   Bùi Quang Diệu nhờ Nguyễn Đình Chiểu, lúc ấy đang lánh nạn ở quê vợ gần chùa Tôn Thạnh, viết bài văn tế bằng chữ Nôm. [Xem lại](#le-te)
+
 ## Nguồn tham khảo
 
 - "Văn tế nghĩa sĩ Cần Giuộc", Wikipedia tiếng Việt — bối cảnh, lễ tế, thể loại, các số liệu khác nhau: https://vi.wikipedia.org/wiki/V%C4%83n_t%E1%BA%BF_ngh%C4%A9a_s%C4%A9_C%E1%BA%A7n_Giu%E1%BB%99c

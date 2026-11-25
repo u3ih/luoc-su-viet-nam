@@ -46,6 +46,29 @@ Năm 1945, trường trở thành Ban Y Dược của Đại học Quốc gia Vi
 
 Năm 1954, trường trở về Hà Nội và hoạt động độc lập với tên Trường Đại học Y Dược Hà Nội, sau này là Trường Đại học Y Hà Nội. Hơn một thế kỷ qua, đây là trường đầu ngành đào tạo bác sĩ, cử nhân và sau đại học về y khoa của Việt Nam.
 
+## Ôn tập
+
+1. Ai là hiệu trưởng đầu tiên của Trường Y khoa Hà Nội năm 1902?
+   - [x] Bác sĩ Alexandre Yersin
+   - [ ] Toàn quyền Paul Beau
+   - [ ] Toàn quyền Albert Sarraut
+
+   Yersin là người tìm ra trực khuẩn dịch hạch. [Xem lại](#thanh-lap)
+
+2. Năm 1913, Toàn quyền Albert Sarraut ký nghị định lập trường nào trên nền Trường Y khoa cũ?
+   - [ ] Trường Hậu bổ
+   - [x] Trường Y Dược khoa Đông Dương
+   - [ ] Trường Công chính
+
+   Đến năm 1914, trường đã đào tạo được 237 y sĩ, y tá và nữ hộ sinh. [Xem lại](#y-duoc)
+
+3. Từ năm 1946, khi kháng chiến toàn quốc bùng nổ, ban Y Dược theo lệnh Chính phủ dời đi đâu?
+   - [ ] Vào Sài Gòn
+   - [ ] Vào Huế
+   - [x] Ra vùng tự do, nhiều năm ở chiến khu Việt Bắc
+
+   Giáo sư Hồ Đắc Di và giáo sư Tôn Thất Tùng vừa chữa bệnh, vừa dạy học, vừa xây dựng nhà trường. [Xem lại](#chien-khu)
+
 ## Nguồn tham khảo
 
 - “Trường Đại học Y Hà Nội”, Wikipedia tiếng Việt — thành lập năm 1902, hiệu trưởng Alexandre Yersin, các trường cùng thời, Viện Đại học Đông Dương năm 1906, Trường Y Dược khoa Đông Dương năm 1913, 237 người tốt nghiệp đến năm 1914, Ban Y Dược năm 1945, dời ra vùng tự do năm 1946, trở về Hà Nội năm 1954: https://vi.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Y_H%C3%A0_N%E1%BB%99i

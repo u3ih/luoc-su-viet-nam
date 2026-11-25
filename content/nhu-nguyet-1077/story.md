@@ -81,6 +81,29 @@ Triều Lý chủ động cho sứ sang xin hòa. Quách Quỳ nhận lời, rú
 
 Cuộc kháng chiến kết thúc. Hai nước lập lại quan hệ, nhà Lý tiếp tục sai sứ sang nhà Tống như trước.
 
+## Ôn tập
+
+1. Vì sao Lý Thường Kiệt chủ trương đưa quân sang đất Tống cuối năm 1075?
+   - [ ] Để chiếm đất lập vùng cai trị mới
+   - [ ] Để đáp lễ sứ bộ nhà Tống
+   - [x] Để đánh trước, phá thế chuẩn bị của quân Tống ở vùng Ung Châu
+
+   Ông không ngồi chờ quân Tống tới; sau khi hạ thành Ung Châu, quân Lý chủ động rút về nước. [Xem lại](#tien-phat)
+
+2. Phòng tuyến chặn quân Tống được dựng ở khúc sông nào?
+   - [ ] Sông Gianh
+   - [x] Sông Như Nguyệt, nay là sông Cầu
+   - [ ] Sông Hương
+
+   Dọc bờ nam có luỹ đất, hàng rào tre và cọc cắm dưới lòng sông. [Xem lại](#phong-tuyen)
+
+3. Cuộc kháng chiến kết thúc như thế nào vào tháng 3 năm 1077?
+   - [ ] Quách Quỳ chiếm được Thăng Long
+   - [x] Triều Lý chủ động cho sứ xin hoà, Quách Quỳ nhận lời và rút quân
+   - [ ] Lý Thường Kiệt đưa quân tiến sâu vào đất Tống
+
+   Hai nước lập lại quan hệ, nhà Lý tiếp tục sai sứ sang nhà Tống như trước. [Xem lại](#hoa-nghi)
+
 ## Nguồn tham khảo
 
 - Đại Việt sử ký toàn thư (Ngô Sĩ Liên và các sử thần, 1479), Bản kỷ — phần Lý Nhân Tông: https://vi.wikisource.org/wiki/%C4%90%E1%BA%A1i_Vi%E1%BB%87t_s%E1%BB%AD_k%C3%BD_to%C3%A0n_th%C6%B0

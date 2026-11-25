@@ -46,6 +46,29 @@ Hồ sơ đề cử được xây dựng trong 13 năm, gồm 12 điểm di tíc
 
 13 giờ 02 ngày 12 tháng 7 năm 2025, giờ Paris, tại kỳ họp thứ 47 của Uỷ ban Di sản Thế giới, Chủ tịch kỳ họp gõ búa công nhận quần thể là di sản văn hoá thế giới — di sản thế giới thứ 9 của Việt Nam, và là di sản liên tỉnh thứ hai sau vịnh Hạ Long – quần đảo Cát Bà. Tối 20 tháng 12 năm 2025, ba địa phương đón bằng UNESCO tại Yên Tử, đúng ngày đại lễ tưởng niệm 717 năm Trần Nhân Tông nhập niết bàn.
 
+## Ôn tập
+
+1. Trần Nhân Tông lên núi Yên Tử tu hành và lập nên dòng thiền nào?
+   - [ ] Vô Ngôn Thông
+   - [x] Trúc Lâm
+   - [ ] Thảo Đường
+
+   Năm 1294, Trần Nhân Tông nhường ngôi, sau đó xuất gia lên núi Yên Tử. [Xem lại](#yen-tu)
+
+2. Theo hồ sơ di sản, chùa Vĩnh Nghiêm (Bắc Ninh) đóng vai trò gì trong ba chặng của Phật giáo Trúc Lâm?
+   - [ ] Nơi khai sáng
+   - [x] Nơi truyền bá
+   - [ ] Nơi phục hưng
+
+   Yên Tử là nơi khai sáng; Côn Sơn – Kiếp Bạc là nơi phục hưng. [Xem lại](#vinh-nghiem)
+
+3. Quần thể Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc gồm bao nhiêu điểm di tích trên ba địa phương?
+   - [ ] 9
+   - [x] 12
+   - [ ] 13
+
+   Hồ sơ là di sản theo chuỗi đầu tiên của Việt Nam, với vùng lõi 525,75 ha. [Xem lại](#ho-so)
+
 ## Nguồn tham khảo
 
 - “Quần thể Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc được UNESCO công nhận di sản văn hoá thế giới”, báo Luật sư Việt Nam — 13 giờ 02 ngày 12/7/2025 tại kỳ họp 47, di sản thứ 9, liên tỉnh thứ 2, 12 điểm, vùng lõi 525,75 ha, vùng đệm 4.380,19 ha, các điểm tiêu biểu, ba chặng khai sáng – truyền bá – phục hưng, hồ sơ 13 năm: https://lsvn.vn/quan-the-yen-tu-vinh-nghiem-con-son-kiep-bac-duoc-unesco-cong-nhan-di-san-van-hoa-the-gioi-a160409.html

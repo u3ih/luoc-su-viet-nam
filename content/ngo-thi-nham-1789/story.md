@@ -46,6 +46,30 @@ Năm 1790, ông giữ chức Binh bộ thượng thư nhưng chủ trì chính s
 
 Sau khi Quang Trung mất năm 1792, ông không còn được tin dùng, quay về nghiên cứu Phật học, lập thiền viện, lấy hiệu Hải Lượng thiền sư, soạn "Trúc Lâm tông chỉ nguyên thanh" (1796). Năm 1803, sau khi nhà Tây Sơn mất, ông cùng Phan Huy Ích và một số quan Tây Sơn bị đánh roi ở Văn Miếu; về nhà ít lâu thì mất. Tương truyền Đặng Trần Thường, người có hiềm khích cũ, đã cho tẩm thuốc vào roi.
 
+## Ôn tập
+
+1. Năm 1788, Ngô Thì Nhậm bày kế gì khi 29 vạn quân Thanh kéo sang?
+   - [ ] Cố thủ ngay tại Thăng Long
+   - [x] Lui quân về giữ phòng tuyến Tam Điệp – Biện Sơn
+   - [ ] Cầu hoà với quân Thanh
+
+   Sử cũ chép ông chủ trương giữ quân lui về chỗ hiểm Tam Điệp, cho giặc vào Thăng Long rồi mới tung quân ra đánh (diễn ý). [Xem lại](#tam-diep)
+
+2. Phần lớn thư từ bang giao giữa Đại Việt và nhà Thanh thời Quang Trung do ai soạn?
+   - [ ] Phan Huy Ích
+   - [ ] Trần Văn Kỷ
+   - [x] Ngô Thì Nhậm
+   - [ ] Ngô Thì Sĩ
+
+   Năm 1790, ông chủ trì chính sách và giao thiệp với nhà Thanh, soạn phần lớn thư từ bang giao. [Xem lại](#bang-giao)
+
+3. Sau khi Quang Trung mất năm 1792, Ngô Thì Nhậm làm gì?
+   - [ ] Đi sứ sang nhà Thanh
+   - [x] Quay về nghiên cứu Phật học, lập thiền viện, lấy hiệu Hải Lượng thiền sư
+   - [ ] Ra làm quan cho nhà Lê – Trịnh
+
+   Ông không còn được tin dùng, quay về nghiên cứu Phật học và soạn "Trúc Lâm tông chỉ nguyên thanh" (1796). [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Ngô Thì Nhậm", Wikipedia tiếng Việt — gia thế, học vấn, đỗ tiến sĩ năm 1775, vụ án Canh Tý, ra giúp Tây Sơn năm 1788, kế lui về Tam Điệp, lời Quang Trung, chức Binh bộ thượng thư, đi sứ, Chiếu khuyến nông, thiền sư Hải Lượng, bị đánh ở Văn Miếu năm 1803: https://vi.wikipedia.org/wiki/Ng%C3%B4_Th%C3%AC_Nh%E1%BA%ADm

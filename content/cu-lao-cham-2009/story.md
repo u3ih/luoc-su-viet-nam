@@ -46,6 +46,29 @@ Vùng biển Cù Lao Chàm có các rạn san hô được các nhà khoa học 
 
 Ngày 29 tháng 5 năm 2009, tại phiên họp thứ 21 của Uỷ ban Điều phối quốc tế Chương trình Con người và Sinh quyển, diễn ra ở đảo Jeju (Hàn Quốc), UNESCO công nhận Cù Lao Chàm là khu dự trữ sinh quyển thế giới, nhờ hệ động thực vật phong phú và những di tích lịch sử hàng trăm năm.
 
+## Ôn tập
+
+1. Cù Lao Chàm gồm bao nhiêu hòn đảo, và hòn nào lớn nhất?
+   - [ ] Sáu hòn, hòn Khô Mẹ lớn nhất
+   - [ ] Tám hòn, hòn Dài lớn nhất
+   - [x] Tám hòn, hòn Lao lớn nhất
+
+   Cù Lao Chàm gồm tám hòn, cách bờ biển Cửa Đại 18 km; hòn Lao lớn nhất, rộng 13,82 km². [Xem lại](#tam-hon)
+
+2. Những nền văn hoá nào để lại di tích trên Cù Lao Chàm?
+   - [x] Sa Huỳnh, Chămpa, Đại Việt
+   - [ ] Đông Sơn, Óc Eo, Đại Việt
+   - [ ] Phùng Nguyên, Sa Huỳnh, Óc Eo
+
+   Trên đảo còn nhiều di tích của các nền văn hoá Sa Huỳnh, Chămpa, Đại Việt. [Xem lại](#champello)
+
+3. Ngày 29 tháng 5 năm 2009, UNESCO đã công nhận Cù Lao Chàm là gì?
+   - [ ] Di sản văn hoá thế giới
+   - [ ] Di tích quốc gia đặc biệt
+   - [x] Khu dự trữ sinh quyển thế giới
+
+   Quyết định được đưa ra tại phiên họp ở đảo Jeju (Hàn Quốc), nhờ hệ động thực vật phong phú và những di tích lịch sử hàng trăm năm. [Xem lại](#jeju)
+
 ## Nguồn tham khảo
 
 - “Khu dự trữ sinh quyển Cù Lao Chàm” (Cù lao Chàm), Wikipedia tiếng Việt — tám hòn đảo, khoảng cách 18 km, dân số, diện tích và độ cao hòn Lao, địa hình hai sườn, tên Champello và các tên gọi khác, di tích Sa Huỳnh, Chămpa, Đại Việt, san hô và yến sào, khu bảo tồn tháng 10/2003, công nhận ngày 29/5/2009 tại phiên họp thứ 21 ở Jeju: https://vi.wikipedia.org/wiki/Khu_d%E1%BB%B1_tr%E1%BB%AF_sinh_quy%E1%BB%83n_C%C3%B9_Lao_Ch%C3%A0m

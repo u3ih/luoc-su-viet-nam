@@ -47,6 +47,30 @@ Năm 1833, Lê Văn Khôi chiếm thành Quy, chống lại triều đình. Năm
 
 Ngày 17 tháng 2 năm 1859, quân Pháp tấn công thành Gia Định và một ngày sau thì chiếm được thành. Ngày 18 tháng 3 năm 1859, quân Pháp đốt kho tàng, phá hủy thành. Ngày nay chỉ còn tranh vẽ và tàn tích dọc đường Đinh Tiên Hoàng gần xưởng Ba Son.
 
+## Ôn tập
+
+1. Thành Bát Quái ở Gia Định được xây dựa trên bản thiết kế của ai?
+   - [ ] Nguyễn Hữu Cảnh
+   - [ ] Lê Văn Khôi
+   - [x] Olivier de Puymanel
+   - [ ] Minh Mạng
+
+   Thành xây từ ngày 4 tháng 2 năm 1790 theo kiến trúc hỗn hợp Đông – Tây, dựa trên bản thiết kế của Olivier de Puymanel (tên Việt là Ông Tín). [Xem lại](#xay-thanh)
+
+2. Vì sao gọi là thành Bát Quái?
+   - [x] Vì thành có tám cạnh, tám cửa
+   - [ ] Vì thành do tám vị tướng cùng xây
+   - [ ] Vì thành xây xong sau tám năm
+
+   Thành có tám cạnh nên gọi là Bát Quái, với tám cửa: hai phía nam, hai phía bắc, hai phía đông, hai phía tây. [Xem lại](#xay-thanh)
+
+3. Sau khi quân triều đình lấy lại thành năm 1835, vua Minh Mạng ra lệnh gì?
+   - [ ] Giữ nguyên thành làm nơi đóng quân
+   - [x] Phá bỏ toàn bộ thành, rồi năm 1836 xây thành Phụng nhỏ hơn ở phía đông bắc
+   - [ ] Dời thành sang bờ bên kia sông Sài Gòn
+
+   Vua Minh Mạng lệnh phá bỏ toàn bộ và năm 1836 cho xây thành khác nhỏ hơn ở phía đông bắc thành cũ, gọi là thành Phụng. [Xem lại](#thanh-phung)
+
 ## Nguồn tham khảo
 
 - "Thành Gia Định", Wikipedia tiếng Việt — phủ Gia Định, Nguyễn Ánh chiếm Sài Gòn 1788, thành Bát Quái 1790, tám cửa, thành Phụng 1836, quân Pháp chiếm và phá thành 1859: https://vi.wikipedia.org/wiki/Th%C3%A0nh_Gia_%C4%90%E1%BB%8Bnh

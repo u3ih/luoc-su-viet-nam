@@ -47,6 +47,29 @@ Gốm phơi trên giàn rồi đưa vào bóng râm cho khỏi nứt. Khi khô h
 
 Năm 2017, nghệ thuật làm gốm truyền thống của người Chăm làng Bàu Trúc được đưa vào danh mục di sản văn hóa phi vật thể quốc gia. Ngày 29 tháng 11 năm 2022, tại kỳ họp lần thứ mười bảy của Ủy ban liên chính phủ ở Rabat, Maroc, hồ sơ nghệ thuật làm gốm của người Chăm — gồm làng Bàu Trúc và làng Bình Đức (Bắc Bình, Bình Thuận cũ) — được UNESCO ghi danh là di sản văn hóa phi vật thể cần bảo vệ khẩn cấp, di sản thứ mười lăm của Việt Nam trong các danh sách UNESCO. Đô thị hóa làm khó nguồn nguyên liệu, lớp trẻ ít theo nghề — kế hoạch bảo vệ kéo dài từ năm 2023 đến năm 2026.
 
+## Ôn tập
+
+1. Đặc trưng của gốm Bàu Trúc là gì?
+   - [ ] Nặn trên bàn xoay rồi tráng men công nghiệp
+   - [x] Nặn bằng tay, không dùng bàn xoay
+   - [ ] Đúc bằng khuôn rồi nung trong lò gạch
+
+   Người thợ tự đi vòng quanh bàn gốm, tay chân nhịp nhàng nâng dần khối đất, rồi chà láng, tạo miệng, thêm hoa văn. [Xem lại](#nan-gom)
+
+2. Gốm Bàu Trúc được nung như thế nào?
+   - [ ] Nung trong lò kín bằng than
+   - [ ] Nung trong lò điện
+   - [x] Nung ngoài trời, bao quanh bằng củi khô và phủ rơm rạ trộn trấu
+
+   Gốm không vào lò mà xếp thành một khối lớn rồi đốt ngoài trời; thành bại phó mặc cho nắng gió. [Xem lại](#nung-gom)
+
+3. Ngày 29 tháng 11 năm 2022, UNESCO ghi danh nghệ thuật làm gốm của người Chăm vào danh sách nào?
+   - [ ] Di sản văn hóa phi vật thể đại diện của nhân loại
+   - [x] Di sản văn hóa phi vật thể cần bảo vệ khẩn cấp
+   - [ ] Danh sách Di sản thế giới
+
+   Hồ sơ gồm làng Bàu Trúc và làng Bình Đức; đô thị hóa làm khó nguồn nguyên liệu, lớp trẻ ít theo nghề nên cần bảo vệ khẩn cấp. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Làng gốm Bàu Trúc", Wikipedia tiếng Việt — tên Chăm, vị trí, ông tổ nghề, dời làng năm 1964, vai trò phụ nữ, nguồn đất sông Quao, kỹ thuật nặn không bàn xoay, phơi, nung lộ thiên, màu gốm, di sản quốc gia 2017, UNESCO 2022: https://vi.wikipedia.org/wiki/L%C3%A0ng_g%E1%BB%91m_B%C3%A0u_Tr%C3%BAc

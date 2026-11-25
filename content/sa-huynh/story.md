@@ -47,6 +47,29 @@ Tập tục độc đáo của cư dân Sa Huỳnh là chôn người quá cố 
 
 Nổi bật trong đồ trang sức Sa Huỳnh là khuyên tai ba mấu và khuyên tai hai đầu thú. Những chiếc khuyên tai cùng kiểu đã được tìm thấy ở Thái Lan, Malaysia, Philippines và Đài Loan. Ngày 29 tháng 12 năm 2022, Di tích khảo cổ văn hóa Sa Huỳnh được công nhận là di tích quốc gia đặc biệt.
 
+## Ôn tập
+
+1. Tập tục độc đáo của cư dân Sa Huỳnh là gì?
+   - [ ] Hỏa táng rồi rải tro xuống sông
+   - [ ] Chôn trong mộ đá lớn
+   - [x] Chôn người quá cố trong những chiếc chum lớn bằng đất nung
+
+   Có chiếc chum cao đến 1,2 m; đồ chôn theo nhiều hay ít tùy sự giàu nghèo của người mất. [Xem lại](#mo-chum)
+
+2. Điều gì trong các mộ chum cho thấy cư dân Sa Huỳnh giao thương khá rộng?
+   - [x] Tiền đồng thời Tây Hán và gương đồng
+   - [ ] Những chiếc trống đồng lớn
+   - [ ] Những thanh gươm sắt dài
+
+   Họ định cư ven sông, ven biển miền Trung, trồng lúa nước, đánh cá và đi biển. [Xem lại](#lang-ven-song)
+
+3. Văn hóa Sa Huỳnh được xếp cùng những nền văn hóa nào thành ba trung tâm văn hóa lớn thời đồ sắt trên lãnh thổ Việt Nam?
+   - [ ] Phùng Nguyên và Gò Mun
+   - [x] Đông Sơn và Đồng Nai
+   - [ ] Hòa Bình và Bắc Sơn
+
+   Ba trung tâm này là Đông Sơn, Sa Huỳnh và Đồng Nai. [Xem lại](#kho-chum)
+
 ## Nguồn tham khảo
 
 - "Văn hóa Sa Huỳnh", Wikipedia tiếng Việt — phát hiện năm 1909, cư trú, công cụ, gốm, mộ chum, đồ trang sức, Lai Nghi, di tích quốc gia đặc biệt: https://vi.wikipedia.org/wiki/V%C4%83n_h%C3%B3a_Sa_Hu%E1%BB%B3nh

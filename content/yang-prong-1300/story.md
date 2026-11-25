@@ -47,6 +47,30 @@ Tháp được nhà dân tộc học người Pháp Henri Maître ghi nhận tro
 
 Từ năm 1990, nhiều nhà khoa học trong và ngoài nước đến nghiên cứu tháp; họ cho rằng khoảng 700 năm trước, trên đất Tây Nguyên đã có nhiều dân tộc cùng sinh sống. Thời chiến tranh, tháp bị những người đi tìm vàng đánh mìn, hư hỏng nhiều; nay đã được tu bổ, là điểm tham quan ở xã Ea Rốk, tỉnh Đắk Lắk, cách Buôn Ma Thuột khoảng 100 km.
 
+## Ôn tập
+
+1. "Yang Prong" có nghĩa là gì?
+   - [ ] Tháp thờ vua Chế Mân
+   - [x] Tháp thờ Thần Lớn, vị thần cai quản mùa màng theo quan niệm của người Chăm cổ
+   - [ ] Tháp thờ Thần Lửa của người Tây Nguyên
+
+   Tháp dựng cuối thế kỷ XIII dưới thời vua Sinhavarman III (Chế Mân), thờ thần Shiva dưới dạng Mukhalinga. [Xem lại](#than-lon)
+
+2. Tháp Yang Prong khác nhiều tháp Chăm ở Trung Bộ ở điểm nào?
+   - [ ] Nằm trên đồi trọc ven biển
+   - [ ] Có ba cửa thật mở ra ba hướng
+   - [x] Nằm dưới tán rừng già, mỗi mặt chỉ có một cửa duy nhất mở về hướng đông, phần trên thon vút hình tháp bút
+
+   Các cửa còn lại là cửa giả; tháp xây bằng gạch nung đỏ trên nền đá xanh, cao khoảng mười mét. [Xem lại](#xay-thap)
+
+3. Ai ghi nhận tháp trong những năm 1904 – 1911 và khảo tả trong cuốn Les jungles Moï (1912)?
+   - [ ] Vua Sinhavarman III
+   - [ ] Một nhóm nhà khoa học từ năm 1990
+   - [x] Henri Maître, nhà dân tộc học người Pháp
+   - [ ] Những người đi tìm vàng thời chiến tranh
+
+   Năm 1906, người ta thấy trên khung cửa đá của tháp những dòng bia ký cổ của một vị vua Chăm. [Xem lại](#phat-hien)
+
 ## Nguồn tham khảo
 
 - "Tháp Yang Prong", Wikipedia tiếng Việt — ý nghĩa tên gọi, thời vua Chế Mân, thờ Shiva dạng Mukhalinga, Henri Maître và cuốn Les jungles Moï (1912), bia ký 1906, kiến trúc, nghiên cứu từ 1990, hư hại thời chiến, vị trí: https://vi.wikipedia.org/wiki/Tháp_Yang_Prong

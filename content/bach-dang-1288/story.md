@@ -72,6 +72,29 @@ Hàng trăm chiến thuyền của quân Nguyên bị bắt hoặc bị phá. Ô
 
 Ngày nay, người ta đã tìm thấy nhiều bãi cọc gỗ ở các nhánh sông thuộc vùng Quảng Ninh và Hải Phòng. Các nhà nghiên cứu cho rằng phần lớn thuộc trận Bạch Đằng năm 1288, nhưng nơi bãi cọc chính nằm ở đâu vẫn còn được bàn luận, vì dòng sông đã đổi dòng qua nhiều thế kỷ.
 
+## Ôn tập
+
+1. Phó tướng Trần Khánh Dư đã làm gì khiến quân Nguyên khó giữ được Thăng Long?
+   - [ ] Đánh chiếm lại Thăng Long khi quân Nguyên còn đóng ở đó
+   - [x] Đánh úp đoàn thuyền chở lương của quân Nguyên ở vùng biển Vân Đồn
+   - [ ] Bắt sống Ô Mã Nhi trên sông Bạch Đằng
+
+   Quân Nguyên mất một nguồn tiếp tế quan trọng, vốn đã thiếu lương khi đóng ở kinh thành bỏ trống. [Xem lại](#van-don)
+
+2. Theo sử cũ, Trần Hưng Đạo đánh thuyền quân Nguyên trên sông Bạch Đằng bằng cách nào?
+   - [ ] Cố thủ trong thành Thăng Long chờ quân Nguyên hết lương
+   - [ ] Chặn đánh đoàn thuyền ngay ở vùng biển Vân Đồn
+   - [x] Đóng cọc ngầm, nhử thuyền địch vào lúc triều lên rồi đánh khi nước rút
+
+   Khi nước rút, mũi cọc nhô lên, thuyền quân Nguyên mắc kẹt và quân Trần từ hai bờ đánh ập ra. [Xem lại](#con-nuoc)
+
+3. Hai tướng Nguyên nào bị bắt sống sau trận Bạch Đằng năm 1288?
+   - [ ] Thoát Hoan và Ô Mã Nhi
+   - [x] Ô Mã Nhi và Phàn Tiếp
+   - [ ] Thoát Hoan và Trương Văn Hổ
+
+   Ô Mã Nhi chỉ huy đạo thủy quân; còn đạo quân đường bộ của Thoát Hoan bị chặn đánh dọc đường, tổn thất nặng. [Xem lại](#ket-qua)
+
 ## Nguồn tham khảo
 
 - Đại Việt sử ký toàn thư (Ngô Sĩ Liên và các sử thần, 1479), Bản kỷ — phần Trần Nhân Tông: https://vi.wikisource.org/wiki/%C4%90%E1%BA%A1i_Vi%E1%BB%87t_s%E1%BB%AD_k%C3%BD_to%C3%A0n_th%C6%B0

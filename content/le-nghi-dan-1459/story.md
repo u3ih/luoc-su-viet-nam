@@ -46,6 +46,29 @@ Tháng 2 năm 1460, Lê Nghi Dân bàn việc đặt phủ huyện, lại đặt
 
 Tháng 4 năm 1460, một nhóm đại thần bàn việc lật đổ, bị lộ và bị giết. Ngày mùng 6 tháng 6 năm 1460, sau buổi chầu sớm, Nguyễn Xí, Đinh Liệt cùng các huân thần khai quốc phát lệnh, giết các thân tín của Nghi Dân, đóng cửa thành. Nghi Dân bị phế làm Lệ Đức hầu và buộc phải tự vẫn, khi ấy 22 tuổi. Cùng ngày, các đại thần đón Gia vương Lê Tư Thành lên ngôi, tức vua Lê Thánh Tông.
 
+## Ôn tập
+
+1. Tháng 10 năm 1459, Lê Nghi Dân đem quân vào cung giết ai?
+   - [ ] Vua Lê Thái Tông
+   - [x] Vua Lê Nhân Tông
+   - [ ] Vua Lê Thánh Tông
+
+   Ông bắc thang chia ba đường vào cung; sử gọi là binh biến Diên Ninh. [Xem lại](#dien-ninh)
+
+2. Dưới thời Nghi Dân, triều đình đặt thêm tổ chức nào mà các triều sau làm theo?
+   - [ ] Ba tỉnh, ba ty
+   - [x] Sáu bộ, sáu khoa và các quan ở phủ, huyện, châu
+   - [ ] Năm quân đô đốc
+
+   Tháng 2 năm 1460, Lê Nghi Dân bàn việc đặt phủ huyện, đặt sáu bộ, sáu khoa. [Xem lại](#sau-bo)
+
+3. Sau khi Nghi Dân bị phế, ai được các đại thần đón lên ngôi?
+   - [ ] Lê Bang Cơ
+   - [ ] Nguyễn Xí
+   - [x] Gia vương Lê Tư Thành
+
+   Ngày mùng 6 tháng 6 năm 1460, Lê Tư Thành lên ngôi, tức vua Lê Thánh Tông. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Lê Nghi Dân", Wikipedia tiếng Việt — thân thế, lập rồi phế thái tử, Lê Bang Cơ, Lệ Chi viên 1442, binh biến Diên Ninh đêm 3/10/1459, niên hiệu Thiên Hưng, đặt sáu bộ, sáu khoa (tháng 2/1460), tiền Thiên Hưng thông bảo, xin bỏ cống ngọc trai, phong Gia vương, cuộc lật đổ ngày 6/6/1460, Lệ Đức hầu: https://vi.wikipedia.org/wiki/L%C3%AA_Nghi_D%C3%A2n

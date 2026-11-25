@@ -62,6 +62,29 @@ Sau đó, Hoàng Cao Khải nhân danh vua Đồng Khánh khuyên Nguyễn Thi�
 
 Nguyễn Thiện Kế sau đó bị bắt, đày ra Côn Đảo. Năm 1892, thủ lĩnh cuối cùng là Đốc Vinh bị giết, phong trào tan rã. Theo bài tham khảo, Nguyễn Thiện Thuật mất ở Trung Quốc năm 1926.
 
+## Ôn tập
+
+1. Từ năm 1885, ai là thủ lĩnh cao nhất của phong trào ở căn cứ Bãi Sậy?
+   - [ ] Đinh Gia Quế
+   - [x] Nguyễn Thiện Thuật
+   - [ ] Hoàng Cao Khải
+
+   Tháng 7 năm 1885, sau chiếu Cần Vương, Nguyễn Thiện Thuật về nước, lập căn cứ ở Bãi Sậy và từ năm 1885 là thủ lĩnh cao nhất. [Xem lại](#can-cu)
+
+2. Tháng 6 năm 1889, phía Pháp lập đạo quân nào do Hoàng Cao Khải chỉ huy?
+   - [ ] Quân Cờ Đen
+   - [ ] Quân Hai Sông
+   - [x] Quân Tuần cảnh
+
+   Quân Tuần cảnh giao chiến với nghĩa quân trong khoảng tám tháng. [Xem lại](#tuan-canh)
+
+3. Khi Hoàng Cao Khải khuyên ra hàng, Nguyễn Thiện Thuật đã làm gì?
+   - [ ] Ra hàng và bị đày sang Algérie
+   - [ ] Bị bắt và bị đày ra Côn Đảo
+   - [x] Từ chối, giao quyền cho Nguyễn Thiện Kế rồi sang Trung Quốc
+
+   Ông từ chối, giao quyền cho Nguyễn Thiện Kế rồi sang Trung Quốc; đến năm 1892 phong trào tan rã. [Xem lại](#tan-ra)
+
 ## Nguồn tham khảo
 
 - "Khởi nghĩa Bãi Sậy", Wikipedia tiếng Việt — các giai đoạn, thủ lĩnh, diễn biến theo năm: https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_B%C3%A3i_S%E1%BA%ADy

@@ -46,6 +46,29 @@ Bốn giờ sáng ngày 19 tháng 5, quân Pháp do Berthe de Villers chỉ huy 
 
 Khoảng 9 giờ 30, tàn quân Pháp rút về thành Hà Nội, cố thủ và xin thêm quân. Trận đánh kéo dài chưa đầy ba giờ nhưng đánh dấu bước leo thang mới: Pháp đưa thêm quân sang Bắc Kỳ, tháng 8 năm 1883 đánh cửa Thuận An, buộc triều Nguyễn ký hoà ước Quý Mùi; xung đột về sau dẫn tới chiến tranh Pháp – Thanh.
 
+## Ôn tập
+
+1. Ai chỉ huy quân Pháp chiếm thành Hà Nội năm 1882 rồi tử trận ở Cầu Giấy năm 1883?
+   - [ ] Francis Garnier
+   - [ ] Berthe de Villers
+   - [x] Henri Rivière
+
+   Henri Rivière đánh chiếm thành Hà Nội ngày 25 tháng 4 năm 1882 và tử trận ngày 19 tháng 5 năm 1883. [Xem lại](#bac-ky)
+
+2. Triều Nguyễn không đủ sức đối đầu với Pháp nên đã nhờ đến lực lượng nào?
+   - [ ] Quân nhà Thanh trực tiếp tham chiến
+   - [x] Quân Cờ Đen của Lưu Vĩnh Phúc
+   - [ ] Quân tiếp viện của đô đốc Mayer
+
+   Quân Cờ Đen từng đánh bại Francis Garnier năm 1873; nhà Thanh cũng ngầm cấp vũ khí cho họ. [Xem lại](#bac-ky)
+
+3. Sau trận Cầu Giấy năm 1883, Pháp có hành động gì?
+   - [ ] Rút hẳn quân khỏi Bắc Kỳ
+   - [ ] Ký hoà ước ngay trong tháng 5 rồi ngừng chiến
+   - [x] Đưa thêm quân sang Bắc Kỳ, tháng 8 đánh cửa Thuận An và buộc triều Nguyễn ký hoà ước Quý Mùi
+
+   Trận đánh đánh dấu bước leo thang mới; xung đột về sau dẫn tới chiến tranh Pháp – Thanh. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Trận Cầu Giấy (1883)", Wikipedia tiếng Việt — ngày 19/5/1883, quân tiếp viện của Mayer tới ngày 14/5, quyết định rút ra phủ Hoài, người hầu nghe được kế hoạch, giờ xuất phát, làng Hạ Yên Quyết, Berthe de Villers, Rivière, Jacquin tử trận, quân Pháp về thành lúc 9 giờ 30, bước leo thang: https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_C%E1%BA%A7u_Gi%E1%BA%A5y_(1883)

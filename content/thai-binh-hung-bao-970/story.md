@@ -47,6 +47,29 @@ Sử sách ghi rất ít về buôn bán thời Đinh. Theo Đại Việt sử k
 
 Thái Bình hưng bảo là đồng tiền duy nhất thời Đinh, vì Đinh Toàn kế vị vẫn giữ niên hiệu Thái Bình. Sang thời Tiền Lê, Lê Hoàn lập xưởng đúc tiền Thiên Phúc trấn bảo, giữ hình dáng, kích thước tiền thời Đinh, mặt sau có chữ Lê. Tiền Thái Bình hưng bảo nay trưng bày ở Bảo tàng Lịch sử Quốc gia và Bảo tàng tỉnh Ninh Bình.
 
+## Ôn tập
+
+1. Chữ nào thường được đúc nổi ở mặt sau đồng tiền Thái Bình hưng bảo?
+   - [ ] Lê
+   - [x] Đinh
+   - [ ] Lý
+
+   Đó là họ của nhà vua. Tiền hình tròn, lỗ vuông, mặt trước có bốn chữ Thái Bình hưng bảo. [Xem lại](#duc-tien)
+
+2. Sang thời Tiền Lê, Lê Hoàn cho đúc loại tiền nào, giữ hình dáng và kích thước tiền thời Đinh?
+   - [x] Thiên Phúc trấn bảo
+   - [ ] Thái Bình hưng bảo
+   - [ ] Thuận Thiên đại bảo
+
+   Tiền Thiên Phúc trấn bảo có chữ Lê ở mặt sau. [Xem lại](#ve-sau)
+
+3. Đồng tiền Thái Bình hưng bảo có điểm gì đáng chú ý trong lịch sử tiền tệ Việt Nam?
+   - [ ] Được dùng suốt thời Bắc thuộc
+   - [ ] Do nhà Tống đúc cho người Việt dùng
+   - [x] Là đồng tiền xưa nhất được biết do một triều đại người Việt phát hành
+
+   Suốt thời Bắc thuộc, người Việt không có đồng tiền riêng; năm 970 Đinh Tiên Hoàng đặt niên hiệu Thái Bình và cho đúc tiền. [Xem lại](#nien-hieu)
+
 ## Nguồn tham khảo
 
 - "Tiền Thái Bình hưng bảo", Wikipedia tiếng Việt — đúc năm 970, hình dáng, ba loạt tiền, chữ Đinh, sử liệu, thương mại thời Đinh, tiền Thiên Phúc, nơi trưng bày: https://vi.wikipedia.org/wiki/Ti%E1%BB%81n_Th%C3%A1i_B%C3%ACnh_h%C6%B0ng_b%E1%BA%A3o

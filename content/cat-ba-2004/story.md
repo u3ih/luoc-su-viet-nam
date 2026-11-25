@@ -46,6 +46,29 @@ Voọc Cát Bà là loài đặc hữu, hiện chỉ còn phân bố duy nhất 
 
 Năm 2014, hồ sơ đề cử riêng quần đảo Cát Bà là di sản thiên nhiên thế giới chưa thành công. Năm 2013, Cát Bà được xếp hạng di tích quốc gia đặc biệt. Tại kỳ họp thứ 45 của Uỷ ban Di sản thế giới (tháng 9 năm 2023, ở Ả Rập Xê Út), vịnh Hạ Long – quần đảo Cát Bà được ghi danh là di sản thiên nhiên thế giới.
 
+## Ôn tập
+
+1. Năm 2004, UNESCO công nhận quần đảo Cát Bà là gì?
+   - [ ] Di sản thiên nhiên thế giới
+   - [x] Khu dự trữ sinh quyển thế giới
+   - [ ] Di tích quốc gia đặc biệt
+
+   Năm 2004 là khu dự trữ sinh quyển thế giới; đến tháng 9 năm 2023 vịnh Hạ Long – quần đảo Cát Bà mới được ghi danh di sản thiên nhiên thế giới. [Xem lại](#sinh-quyen)
+
+2. Loài đặc hữu nào hiện chỉ còn phân bố duy nhất ở quần đảo Cát Bà?
+   - [x] Voọc Cát Bà
+   - [ ] Chò đãi
+   - [ ] Kim giao
+
+   Voọc Cát Bà là loài đặc hữu, chỉ còn ở quần đảo này; chò đãi, kim giao là những cây quý của rừng Cát Bà. [Xem lại](#vooc)
+
+3. Theo truyền thuyết địa phương, tên Cát Bà đọc chệch từ đâu?
+   - [ ] Cái Bầu
+   - [ ] Các Ông
+   - [x] Các Bà
+
+   Theo truyền thuyết, các bà, các chị trên đảo từng lo hậu cần cho các ông đánh giặc ở đảo bên cạnh, gọi là đảo Các Ông. [Xem lại](#dao-ngoc)
+
 ## Nguồn tham khảo
 
 - “Khu dự trữ sinh quyển quần đảo Cát Bà”, Wikipedia tiếng Việt — vị trí, 388 đảo, diện tích, đảo lớn thứ ba, truyền thuyết tên Các Bà, các hệ sinh thái, hơn 3.000 loài, khu dự trữ sinh quyển năm 2004, voọc Cát Bà, các loài quý hiếm và Sách đỏ, đề cử năm 2014, di tích quốc gia đặc biệt năm 2013, ghi danh di sản thiên nhiên thế giới tại kỳ họp 45 năm 2023: https://vi.wikipedia.org/wiki/Khu_d%E1%BB%B1_tr%E1%BB%AF_sinh_quy%E1%BB%83n_qu%E1%BA%A7n_%C4%91%E1%BA%A3o_C%C3%A1t_B%C3%A0

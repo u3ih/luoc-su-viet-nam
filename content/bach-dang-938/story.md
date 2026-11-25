@@ -89,6 +89,30 @@ Mùa xuân năm sau, Ngô Quyền xưng vương, đóng đô ở Cổ Loa, kinh 
 
 Vị trí chính xác của trận năm 938 đến nay vẫn còn được bàn luận. Các bãi cọc khai quật ở Quảng Ninh và Hải Phòng phần lớn được xác định thuộc trận Bạch Đằng năm 1288, khi Trần Hưng Đạo dùng lại mưu kế của Ngô Quyền, ba thế kỷ sau.
 
+## Ôn tập
+
+1. Kiều Công Tiễn cầu cứu thế lực nào để chống lại Ngô Quyền?
+   - [ ] Nhà Đường
+   - [x] Nhà Nam Hán
+   - [ ] Nhà Tống
+
+   Thế cùng, Kiều Công Tiễn sai người sang cầu cứu nhà Nam Hán, rước quân Nam Hán vào nước. [Xem lại](#nam-937)
+
+2. Vì sao thuyền lớn của Nam Hán vượt qua bãi cọc mà không hay biết?
+   - [ ] Cọc được ngụy trang bằng cỏ lau
+   - [ ] Trận đánh diễn ra ban đêm
+   - [x] Nước triều đang lên, bãi cọc chìm khuất dưới mặt nước
+
+   Ngô Quyền dụ địch vào trận lúc triều dâng; cọc chỉ lộ ra khi nước rút. [Xem lại](#trieu-len)
+
+3. Sau chiến thắng, Ngô Quyền xưng vương và đóng đô ở đâu?
+   - [ ] Hoa Lư
+   - [x] Cổ Loa
+   - [ ] Đại La
+   - [ ] Đường Lâm
+
+   Mùa xuân năm 939, Ngô Quyền xưng vương, đóng đô ở Cổ Loa, kinh đô xưa của An Dương Vương. [Xem lại](#xung-vuong)
+
 ## Nguồn tham khảo
 
 - Đại Việt sử ký toàn thư, phần Ngoại kỷ (Ngô Sĩ Liên và các sử thần, 1479).

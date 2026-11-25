@@ -46,6 +46,29 @@ Ngày 27 tháng 1 năm 2018, trận chung kết gặp Uzbekistan diễn ra ở T
 
 Khoảng 5,3 triệu khán giả ở Việt Nam xem trận chung kết qua truyền hình, tỷ suất người xem 77%. Chiều 28 tháng 1, đội về đến sân bay Nội Bài; toàn đội đi xe buýt hai tầng mui trần gần 30 km vào trung tâm Hà Nội, giữa hàng vạn người hâm mộ, hành trình kéo dài hơn 5 tiếng. Thành tích này được xem là mốc mở đầu cho một giai đoạn thành công của bóng đá Việt Nam những năm sau đó.
 
+## Ôn tập
+
+1. Đối thủ của U-23 Việt Nam ở trận chung kết giải châu Á 2018 là đội nào?
+   - [ ] Hàn Quốc
+   - [ ] Qatar
+   - [x] Uzbekistan
+
+   Trận chung kết ngày 27 tháng 1 năm 2018 diễn ra ở Thường Châu trong tuyết rơi dày; Uzbekistan thắng 2–1 sau hiệp phụ. [Xem lại](#chung-ket)
+
+2. Vì sao lần vào chung kết này được ghi nhớ là một mốc của bóng đá Việt Nam?
+   - [ ] Việt Nam vô địch giải lần đầu
+   - [x] Đây là lần đầu Việt Nam vào chung kết một giải bóng đá châu lục
+   - [ ] Việt Nam thắng cả ba trận ở vòng bảng
+
+   Ở bán kết, Việt Nam thắng Qatar 4–3 trên chấm luân lưu sau khi hoà 2–2. [Xem lại](#luan-luu)
+
+3. Khi đội trở về ngày 28 tháng 1 năm 2018, điều gì diễn ra?
+   - [ ] Đội lặng lẽ về nước, ít người biết
+   - [x] Hàng vạn người hâm mộ đón đội dọc hành trình bằng xe buýt hai tầng mui trần vào trung tâm Hà Nội
+   - [ ] Đội ở lại Trung Quốc thêm một tuần
+
+   Hành trình gần 30 km kéo dài hơn 5 tiếng. [Xem lại](#don-doi)
+
 ## Nguồn tham khảo
 
 - “Thường Châu tuyết trắng”, Wikipedia tiếng Việt — bối cảnh (giải 2016, huấn luyện viên Park Hang-seo), vòng bảng D, tứ kết với Iraq và bán kết với Qatar (luân lưu 5–3, 4–3), trận chung kết ngày 27/1/2018 (tuyết, −2 °C, 6.200 khán giả, bàn của Ashurmatov, Quang Hải và Sidorov, giờ nghỉ kéo dài), giải fair-play, “cầu vồng trong tuyết”, lượng người xem truyền hình, lễ đón đội ngày 28/1/2018: https://vi.wikipedia.org/wiki/Th%C6%B0%E1%BB%9Dng_Ch%C3%A2u_tuy%E1%BA%BFt_tr%E1%BA%AFng

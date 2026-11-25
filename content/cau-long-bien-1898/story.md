@@ -55,6 +55,29 @@ Trong chiến dịch không kích 1965–1968, cầu bị đánh 10 lần, hỏn
 
 Trong thập niên 1990, cầu chỉ phục vụ tàu hoả, xe đạp và người đi bộ. Cuối năm 2005, xe máy được phép qua cầu. Năm 2002, Bộ Giao thông Vận tải duyệt dự án gia cố giai đoạn hai, tổng vốn 94,66 tỷ đồng.
 
+## Ôn tập
+
+1. Theo bài tham khảo, ông Gustave Eiffel có vai trò gì với cầu Long Biên?
+   - [ ] Là tác giả thiết kế cầu
+   - [ ] Giám sát thi công cầu
+   - [x] Không phải tác giả thiết kế và không tham gia xây dựng
+
+   Các bản vẽ lưu ở Trung tâm Lưu trữ quốc gia I không có chữ ký của ông. [Xem lại](#dau-thau)
+
+2. Cầu Long Biên dài tổng cộng bao nhiêu mét?
+   - [ ] 1.500 m
+   - [x] 2.290 m
+   - [ ] 3.000 m
+
+   Cầu dài tổng cộng 2.290 m, gồm 19 nhịp dầm thép đặt trên 20 trụ. [Xem lại](#dung-cau)
+
+3. Khi mới xây, cầu Long Biên mang tên nào?
+   - [ ] Cầu Tolbiac
+   - [x] Cầu Paul Doumer
+   - [ ] Cầu Daydé
+
+   Lời kể nêu cầu sắt Long Biên khi ấy mang tên Paul Doumer, bắc qua sông Hồng. [Xem lại](#mo-dau)
+
 ## Nguồn tham khảo
 
 - "Cầu Long Biên", Wikipedia tiếng Việt — khởi công, kích thước, đấu thầu, nhân lực, vật liệu, chiến tranh, sử dụng: https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Long_Bi%C3%AAn

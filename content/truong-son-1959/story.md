@@ -46,6 +46,29 @@ Từ năm 1965 đến 1972, theo nguồn Việt Nam, Mỹ thực hiện khoảng
 
 Đến năm 1975, khoảng 120.000 công binh, thanh niên xung phong, dân công đã làm nên mạng đường với 5 trục dọc, 21 trục ngang, tổng chiều dài gần 20.000 km đường ô tô, 1.400 km đường ống xăng dầu, 3.140 km “đường kín” cho xe chạy ban ngày. Hơn 20.000 người đã hy sinh trên các tuyến đường. Năm 2000, đường Hồ Chí Minh được khởi công, đi theo nhiều đoạn của tuyến đường cũ.
 
+## Ôn tập
+
+1. Đoàn 559, thành lập ngày 19 tháng 5 năm 1959, có nhiệm vụ gì?
+   - [ ] Bảo vệ biên giới phía bắc
+   - [x] Mở đường vận tải dọc dãy Trường Sơn vào miền Nam
+   - [ ] Khảo sát tuyến đường sắt Bắc – Nam
+
+   Ban đầu đơn vị là tiểu đoàn giao liên 301 gồm 440 người; những người lính đầu tiên vạch lối mòn xuyên rừng, gùi hàng vào Nam. [Xem lại](#doan-559)
+
+2. Vì sao từ năm 1961 Đoàn 559 mở tuyến sang sườn tây Trường Sơn, qua đất Lào?
+   - [x] Vì tuyến phía đông dốc, hiểm trở
+   - [ ] Vì tuyến phía đông đã bị ngập nước
+   - [ ] Vì sườn tây có sẵn đường ô tô
+
+   Đoàn khảo sát và mở tuyến mới từ năm 1961. [Xem lại](#doan-559)
+
+3. Đến năm 1975, mạng đường Trường Sơn có tổng chiều dài đường ô tô khoảng bao nhiêu?
+   - [ ] Gần 751 km
+   - [ ] Gần 2.000 km
+   - [x] Gần 20.000 km
+
+   Mạng đường có 5 trục dọc, 21 trục ngang, cùng 1.400 km đường ống xăng dầu; hơn 20.000 người đã hy sinh trên các tuyến đường. [Xem lại](#dai-truong-son)
+
 ## Nguồn tham khảo
 
 - “Đường Trường Sơn”, Wikipedia tiếng Việt — Đoàn 559 tháng 5/1959, tiểu đoàn 301 gồm 440 người, Võ Bẩm, mở tuyến sườn tây từ 1961 vì tuyến phía đông hiểm trở, số liệu 1961 – 1964, Bộ tư lệnh 559 lên cấp quân đoàn năm 1970, số liệu đánh phá 1965 – 1972, hàng rào McNamara, tổng chiều dài và đường ống xăng dầu năm 1975, khoảng 120.000 người, hơn 20.000 người hy sinh, khởi công đường Hồ Chí Minh năm 2000: https://vi.wikipedia.org/wiki/%C4%90%C6%B0%E1%BB%9Dng_Tr%C6%B0%E1%BB%9Dng_S%C6%A1n

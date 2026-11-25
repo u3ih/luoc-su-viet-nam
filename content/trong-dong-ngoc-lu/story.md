@@ -47,6 +47,30 @@ Chính giữa mặt trống là ngôi sao nổi mười bốn cánh. Từ trong 
 
 Trên tang trống có sáu chiếc thuyền đi từ trái sang phải, trên thuyền có người đội mũ lông chim cầm giáo, rìu, cung; xen giữa các thuyền là hình chim. Các nhà khảo cổ cho rằng hoa văn mô tả một lễ hội hay nghi lễ. Năm 2012, trống đồng Ngọc Lũ đứng đầu danh sách ba mươi hiện vật đầu tiên được công nhận bảo vật quốc gia.
 
+## Ôn tập
+
+1. Trống đồng Ngọc Lũ được tìm thấy trong hoàn cảnh nào?
+   - [ ] Các nhà khảo cổ khai quật trong một ngôi mộ cổ
+   - [x] Người đắp đê ở Hà Nam thấy dưới bãi cát bồi
+   - [ ] Ngư dân vớt lên từ đáy sông Hồng
+
+   Họ đem trống về cúng vào đình làng Ngọc Lũ để dùng khi có đình đám, cúng tế. [Xem lại](#tim-thay)
+
+2. Chính giữa mặt trống Ngọc Lũ có hình gì?
+   - [ ] Mặt trời có tám tia
+   - [x] Ngôi sao nổi mười bốn cánh
+   - [ ] Con chim Lạc
+   - [ ] Con thuyền
+
+   Từ trong ra ngoài có mười sáu vành hoa văn đồng tâm. [Xem lại](#mat-trong)
+
+3. Năm 2012, trống đồng Ngọc Lũ được công nhận là gì?
+   - [ ] Di sản thế giới của UNESCO
+   - [ ] Di tích quốc gia đặc biệt
+   - [x] Đứng đầu danh sách bảo vật quốc gia đầu tiên
+
+   Trống được trưng bày ở Bảo tàng Lịch sử Việt Nam; trên tang trống có sáu chiếc thuyền đi từ trái sang phải. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Trống đồng Ngọc Lũ", Wikipedia tiếng Việt — phát hiện khoảng năm 1893 khi đắp đê ở xã Như Trác, đình làng Ngọc Lũ, đấu xảo 1902 và giá mua 550 đồng, kích thước, quai, ngôi sao 14 cánh, 16 vành hoa văn, vành 8 và vành 10, sáu thuyền trên tang trống: https://vi.wikipedia.org/wiki/Tr%E1%BB%91ng_%C4%91%E1%BB%93ng_Ng%E1%BB%8Dc_L%C5%A9

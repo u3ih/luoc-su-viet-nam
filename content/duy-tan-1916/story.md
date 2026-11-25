@@ -49,6 +49,29 @@ Sáng 6 tháng 5 năm 1916, nhà vua và những người đi cùng bị bắt. 
 
 Trong Chiến tranh thế giới thứ hai, ông gia nhập quân Đồng Minh; ngày 26 tháng 12 năm 1945, ông mất trong một tai nạn máy bay ở Cộng hòa Trung Phi. Ngày 28 tháng 3 năm 1987, thi hài ông được đưa về an táng tại lăng Dục Đức, Huế, cạnh mộ vua cha Thành Thái.
 
+## Ôn tập
+
+1. Vua Duy Tân lên ngôi năm 1907 trong hoàn cảnh nào?
+   - [ ] Ông tự lên ngôi sau khi vua cha mất
+   - [x] Vua cha Thành Thái bị người Pháp đưa đi đày, ông được đưa lên ngôi lúc còn nhỏ
+   - [ ] Ông giành ngôi từ một cuộc khởi nghĩa
+
+   Về sau ông dần tỏ thái độ bất hợp tác với Pháp. [Xem lại](#len-ngoi)
+
+2. Vì sao kế hoạch khởi nghĩa năm 1916 thất bại?
+   - [ ] Vua đổi ý không đi nữa
+   - [ ] Việt Nam Quang phục Hội giải tán
+   - [x] Một hội viên ở Quảng Ngãi làm lộ tin, người Pháp thu súng và cấm trại
+
+   Chiều 2 tháng 5, công sứ Pháp ở Quảng Ngãi báo cho Khâm sứ Trung Kỳ, Khâm sứ ra lệnh thu súng ở các trại lính người Việt. [Xem lại](#hen-gio)
+
+3. Sau khi bị bắt, vua Duy Tân bị đưa đến đâu?
+   - [ ] Đảo Côn Đảo
+   - [x] Đảo Réunion ở Ấn Độ Dương
+   - [ ] Quảng Ngãi
+
+   Ngày 3 tháng 11 năm 1916, ông bị đem an trí trên đảo Réunion. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Duy Tân", Wikipedia tiếng Việt — tiểu sử, lên ngôi 1907, kế hoạch khởi nghĩa 1916, đêm 2 tháng 5, bị bắt, Réunion, năm 1945, năm 1987: https://vi.wikipedia.org/wiki/Duy_T%C3%A2n

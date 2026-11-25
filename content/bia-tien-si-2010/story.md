@@ -46,6 +46,29 @@ Thời Lê trung hưng có hai đợt dựng bia lớn: năm 1653, Thượng th�
 
 Ngày 9 tháng 3 năm 2010, tại Ma Cao, UNESCO công nhận 82 bia tiến sĩ Văn Miếu – Quốc Tử Giám là di sản tư liệu thế giới thuộc Chương trình Ký ức Thế giới. Đây là di sản tư liệu thứ hai của Việt Nam, sau Mộc bản triều Nguyễn được công nhận năm 2009.
 
+## Ôn tập
+
+1. Vua nào cho dựng những tấm bia tiến sĩ đầu tiên ở Văn Miếu – Quốc Tử Giám năm 1484?
+   - [ ] Lê Thái Tổ
+   - [x] Lê Thánh Tông
+   - [ ] Quang Trung
+
+   Năm 1484, vua Lê Thánh Tông cho dựng bảy tấm bia đầu tiên, cho cả các khoa thi Đình trước đó của nhà Lê. [Xem lại](#nam-1484)
+
+2. Từ thời Nguyễn, kinh đô dời vào Huế thì bia tiến sĩ được dựng ở đâu?
+   - [ ] Vẫn dựng ở Văn Miếu Thăng Long
+   - [ ] Ở Hoa Lư
+   - [x] Ở Văn Thánh Miếu Huế
+
+   Bia tiến sĩ thời Lê, Mạc ở Thăng Long; từ thời Nguyễn, bia được dựng ở Văn Thánh Miếu Huế. [Xem lại](#dung-bia)
+
+3. Ngày 9 tháng 3 năm 2010, UNESCO công nhận 82 bia tiến sĩ Văn Miếu là di sản thuộc chương trình nào?
+   - [ ] Danh sách Di sản thế giới
+   - [ ] Danh sách Di sản văn hoá phi vật thể
+   - [x] Chương trình Ký ức Thế giới
+
+   Đây là di sản tư liệu thứ hai của Việt Nam, sau Mộc bản triều Nguyễn được công nhận năm 2009. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Bia tiến sĩ Văn Miếu Thăng Long", Wikipedia tiếng Việt — các khoa thi 1442 – 1779, bia dựng 1484 – 1780, bảy bia đầu năm 1484, Quách Đình Bảo, Thân Nhân Trung, Đỗ Nhuận, bia thời Mạc, đợt dựng bia 1653 và 1717, chín khoa có bia nay mất, bia ở Văn Thánh Miếu Huế từ 1822, 82 bia (13 Lê sơ, 1 Mạc, 68 Lê trung hưng), 1.304 tiến sĩ, UNESCO công nhận ngày 9/3/2010 ở Ma Cao: https://vi.wikipedia.org/wiki/Bia_ti%E1%BA%BFn_s%C4%A9_V%C4%83n_Mi%E1%BA%BFu_Th%C4%83ng_Long

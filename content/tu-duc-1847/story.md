@@ -51,6 +51,29 @@ Từ năm 1864 đến 1881, Phan Thanh Giản, Phạm Phú Thứ, Nguyễn Trư�
 >
 > Trần Trọng Kim trong Việt Nam sử lược cho rằng nhà vua không tránh khỏi trách nhiệm, nhưng lỗi của các quan trong triều cũng không nhỏ. Phan Bội Châu phê phán ông rất gay gắt; nhiều nhà nghiên cứu khác lại nhấn mạnh trách nhiệm của các đại thần. Chương không chọn cách nhìn nào.
 
+## Ôn tập
+
+1. Tự Đức lên ngôi năm 1847 trong hoàn cảnh nào?
+   - [ ] Ông là con trưởng nên đương nhiên kế vị
+   - [x] Vua Thiệu Trị để di chiếu bỏ qua người anh là Hồng Bảo, truyền ngôi cho ông khi mới 19 tuổi
+   - [ ] Ông giành ngôi sau khi đánh bại người anh trên chiến trường
+
+   Tháng 10 năm Đinh Mùi (1847), ông lên ngôi ở điện Thái Hoà, đặt niên hiệu Tự Đức, nghĩa là "nối đức". [Xem lại](#len-ngoi)
+
+2. Hoà ước năm 1862 do Phan Thanh Giản và Lâm Duy Hiệp ký quy định điều gì?
+   - [ ] Công nhận cả Nam Kỳ thuộc Pháp
+   - [ ] Nhượng ba tỉnh miền Tây Nam Kỳ
+   - [x] Nhượng ba tỉnh miền Đông Nam Kỳ và bỏ lệnh cấm đạo Công giáo
+
+   Năm 1867 Pháp chiếm nốt ba tỉnh miền Tây; hoà ước năm 1874 công nhận cả Nam Kỳ thuộc Pháp. [Xem lại](#mat-dat)
+
+3. Về việc cải cách dưới thời Tự Đức, chương này cho biết điều gì?
+   - [x] Nhiều người như Phan Thanh Giản, Phạm Phú Thứ, Nguyễn Trường Tộ dâng sớ xin cải cách, nhưng nhà vua không quyết dứt khoát
+   - [ ] Nhà vua đã thực hiện đầy đủ mọi bản điều trần ngay từ năm 1864
+   - [ ] Không ai dâng sớ xin cải cách vì triều đình cấm
+
+   Mãi đến năm 1878 nhà vua mới cho học tiếng nước ngoài. [Xem lại](#cai-cach)
+
 ## Nguồn tham khảo
 
 - “Tự Đức”, Wikipedia tiếng Việt — thân thế, di chiếu của Thiệu Trị, lên ngôi tháng 10/1847 ở điện Thái Hoà, khó khăn tài chính, Cao Bá Quát, Đoàn Hữu Trưng, Pháp đánh Đà Nẵng 1858, hoà ước 1862, 1874, các bản điều trần 1864 – 1881, học tiếng nước ngoài 1878, Tự học giải nghĩa ca, Khâm định Việt sử thông giám cương mục, bệnh đậu mùa, mất 19/7/1883, Khiêm Lăng, chính sách với người Công giáo (1848, 1864, 1869), các đánh giá (Trần Trọng Kim, Phan Bội Châu): https://vi.wikipedia.org/wiki/T%E1%BB%B1_%C4%90%E1%BB%A9c

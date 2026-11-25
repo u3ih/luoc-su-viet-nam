@@ -47,6 +47,29 @@ Vua Lê Thái Tổ mất ngày 5 tháng 10 năm 1433, an táng ở Vĩnh Lăng, 
 
 Lam Kinh về sau có lăng các vua Lê sơ như Hựu Lăng (vua Lê Thái Tông), lăng Hoàng thái hậu Ngô Thị Ngọc Dao… và là nơi các vua Lê về bái yết tổ tiên. Khu di tích rộng khoảng 30 ha, được xếp hạng di tích quốc gia năm 1962, di tích quốc gia đặc biệt năm 2012.
 
+## Ôn tập
+
+1. Lam Kinh được xây ở đâu?
+   - [ ] Thăng Long
+   - [x] Quê hương Lam Sơn của Lê Lợi
+   - [ ] Cổ Loa
+
+   Sau khi lên ngôi, Lê Lợi đóng đô ở Đông Kinh (Thăng Long), đồng thời cho xây ở quê hương Lam Sơn một kinh thành gọi là Lam Kinh hay Tây Kinh. [Xem lại](#tay-kinh)
+
+2. Vua Lê Thái Tổ mất năm 1433 được an táng ở đâu?
+   - [ ] Hựu Lăng
+   - [ ] Thái miếu
+   - [x] Vĩnh Lăng
+
+   Vĩnh Lăng cách điện Lam Kinh khoảng 50 m, sau dựa núi Dầu, trước có núi Chúa. [Xem lại](#vinh-lang)
+
+3. Ai soạn văn bia Vĩnh Lăng?
+   - [x] Nguyễn Trãi
+   - [ ] Lê Hối
+   - [ ] Lê Thái Tông
+
+   Bia dựng bằng đá nguyên khối, đặt trên lưng rùa đá, ghi thân thế, sự nghiệp vua Lê Thái Tổ. [Xem lại](#vinh-lang)
+
 ## Nguồn tham khảo
 
 - "Lam Kinh", Wikipedia tiếng Việt — xây Lam Kinh, vị trí, kích thước thành, Vĩnh Lăng, bia Vĩnh Lăng, các lăng khác, xếp hạng di tích: https://vi.wikipedia.org/wiki/Lam_Kinh

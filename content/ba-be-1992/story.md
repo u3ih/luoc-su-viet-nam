@@ -46,6 +46,29 @@ Vườn có 1.281 loài thực vật, trong đó trúc dây là loài tre đặc
 
 Khách đến Ba Bể đi thuyền độc mộc của người bản địa hoặc thuyền máy quanh hồ, ra sông Năng, ngủ lại nhà người Tày, Nùng ven hồ. Thác Đầu Đẳng trên sông Năng dài khoảng 2 km, nằm giữa hai dãy núi đá vôi, nơi tiếp giáp Thái Nguyên với Tuyên Quang.
 
+## Ôn tập
+
+1. Ngày 10 tháng 11 năm 1992, khu vực quanh hồ Ba Bể được thành lập thành gì?
+   - [ ] Khu bảo tồn biển
+   - [ ] Di sản thế giới của UNESCO
+   - [x] Vườn quốc gia
+
+   Theo Quyết định số 83/TTg, Vườn quốc gia Ba Bể được thành lập với diện tích 7.610 ha, trong đó 3.226 ha là phân khu bảo vệ nghiêm ngặt. [Xem lại](#vuon-quoc-gia)
+
+2. Hồ Ba Bể nằm giữa vùng địa hình nào?
+   - [ ] Đồng bằng châu thổ
+   - [x] Núi đá vôi nhiều hang động karst
+   - [ ] Cao nguyên đất đỏ
+
+   Hồ dài 8 km, rộng 800 m, ở độ cao 178 m giữa vùng núi đá vôi nhiều hang động karst. [Xem lại](#ho-tren-nui)
+
+3. Trúc dây ở Ba Bể là loài thế nào?
+   - [x] Loài tre đặc hữu mọc trên vách núi, thân buông xuống mặt hồ
+   - [ ] Loài cây gỗ lớn mọc dưới đáy hồ
+   - [ ] Loài lan chỉ nở vào mùa đông
+
+   Trúc dây là loài tre đặc hữu mọc trên vách núi, thân buông như những bức mành xuống mặt hồ. [Xem lại](#da-dang)
+
 ## Nguồn tham khảo
 
 - “Vườn quốc gia Ba Bể”, Wikipedia tiếng Việt — Quyết định 83/TTg ngày 10/11/1992, diện tích 7.610 ha và 3.226 ha phân khu bảo vệ nghiêm ngặt, Vườn di sản ASEAN năm 2004, kích thước và độ cao hồ, số loài thực vật, lan, trúc dây, thú, chim, cá, thuyền độc mộc, sông Năng, thác Đầu Đẳng: https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_Ba_B%E1%BB%83

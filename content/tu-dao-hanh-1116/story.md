@@ -47,6 +47,29 @@ Truyền thuyết kể: Từ Đạo Hạnh hứa với Sùng Hiền hầu, em vu
 
 Hằng năm, hội chùa Thầy mở vào ngày mồng 7 tháng 3 âm lịch, tương truyền là ngày thiền sư viên tịch. Trước khi truyền thuyết Liễu Hạnh phổ biến, Từ Đạo Hạnh thường được xếp vào Tứ bất tử của tín ngưỡng Việt. Chùa Thầy xây theo lối "tiền Phật hậu Thánh"; trong chùa có ba pho tượng ba kiếp của thiền sư — kiếp Phật, kiếp Thánh, kiếp Vua (Lý Thần Tông).
 
+## Ôn tập
+
+1. Vì sao chùa Thầy có tên gọi như vậy?
+   - [ ] Vì là nơi vua Lý Nhân Tông học đạo
+   - [x] Vì núi Sài Sơn có tên Nôm là núi Thầy
+   - [ ] Vì chùa thờ ba vị thầy của nhà Lý
+
+   Ban đầu chùa chỉ là am Hương Hải của thiền sư; vua Lý Nhân Tông cho dựng lại thành chùa Cao và chùa Cả. [Xem lại](#chua-thay)
+
+2. Theo truyền thuyết, Từ Đạo Hạnh hứa đầu thai làm con của ai?
+   - [ ] Vua Lý Nhân Tông
+   - [ ] Quan Đô sát Từ Vinh
+   - [x] Sùng Hiền hầu, em vua Lý Nhân Tông
+
+   Truyền thuyết kể tháng 6 năm 1116 Lý Dương Hoán ra đời, chính là vua Lý Thần Tông sau này. [Xem lại](#trut-xac)
+
+3. Hội chùa Thầy mở vào ngày nào hằng năm?
+   - [ ] Mồng 6 tháng Giêng âm lịch
+   - [x] Mồng 7 tháng 3 âm lịch
+   - [ ] Mồng 10 tháng 3 âm lịch
+
+   Tương truyền đó là ngày thiền sư viên tịch; trong chùa có ba pho tượng ba kiếp của ông: Phật, Thánh, Vua. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Từ Đạo Hạnh", Wikipedia tiếng Việt — tiểu sử, truyền thuyết báo thù Đại Điên, Sùng Hiền hầu, trút xác ngày 7 tháng 3 năm 1116, Lý Thần Tông, chùa Láng, chùa Nền, hội chùa Thầy, Tứ bất tử: https://vi.wikipedia.org/wiki/T%E1%BB%AB_%C4%90%E1%BA%A1o_H%E1%BA%A1nh

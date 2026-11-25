@@ -47,6 +47,29 @@ Năm 247, ông đến Kiến Nghiệp, kinh đô nước Ngô (nay là Nam Kinh,
 
 Trong Việt Nam Phật giáo sử luận, Thích Nhất Hạnh cho rằng Khương Tăng Hội là sơ tổ Thiền tông Việt Nam. Ý kiến khác lưu ý rằng pháp thiền ông truyền là An Ban Thủ Ý — thiền quán hơi thở — chứ chưa phải Thiền tông; phải tới thế kỷ VI, thiền sư Tỳ Ni Đa Lưu Chi mới lần đầu truyền Thiền tông vào nước ta.
 
+## Ôn tập
+
+1. Khương Tăng Hội sinh ra ở đâu?
+   - [x] Trên đất Giao Chỉ
+   - [ ] Ở Kiến Nghiệp
+   - [ ] Ở Khương Cư
+
+   Cha mẹ ông là người Khương Cư sang Giao Chỉ buôn bán; Tăng Hội sinh trên đất Giao Chỉ. [Xem lại](#giao-chi)
+
+2. Năm 247, Khương Tăng Hội đến Kiến Nghiệp, kinh đô của nước nào?
+   - [ ] Nước Lương
+   - [x] Nước Ngô
+   - [ ] Nước Tấn
+
+   Kiến Nghiệp là kinh đô nước Ngô (nay là Nam Kinh, Trung Quốc); một trong những người được ông truyền đạo là Tôn Quyền, vua nước Ngô. [Xem lại](#kien-nghiep)
+
+3. Khương Tăng Hội mất vào năm nào?
+   - [ ] Năm 247
+   - [ ] Thế kỷ VI
+   - [x] Năm 280
+
+   Ông ở Trung Hoa ba mươi ba năm, mất năm 280, niên hiệu Thái Khang năm đầu đời nhà Tấn. [Xem lại](#kien-nghiep)
+
 ## Nguồn tham khảo
 
 - "Khương Tăng Hội", Wikipedia tiếng Việt — Cao tăng truyện, Xuất tam tạng ký tập, gốc Khương Cư, sinh ở Giao Chỉ, xuất gia, đến Kiến Nghiệp năm 247, Tôn Quyền, mất năm 280, các tác phẩm, ý kiến của Thích Nhất Hạnh và ý kiến khác: https://vi.wikipedia.org/wiki/Kh%C6%B0%C6%A1ng_T%C4%83ng_H%E1%BB%99i

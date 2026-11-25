@@ -47,6 +47,29 @@ Năm 1787, Nguyễn Nhạc tự xưng Trung ương Hoàng đế, đóng đô ở
 
 Nguyễn Nhạc mất năm 1793. Năm 1801, tướng Võ Tánh của Nguyễn Ánh chiếm thành, đổi tên là thành Bình Định; Võ Tánh giữ được hai năm thì Tây Sơn chiếm lại, ông tự thiêu trong thành. Năm 1814, vua Gia Long chuyển thủ phủ Bình Định về vị trí mới cách khoảng 6 km về hướng đông nam; thành Hoàng Đế suy tàn.
 
+## Ôn tập
+
+1. Năm 1778, Nguyễn Nhạc lên ngôi hoàng đế với niên hiệu nào?
+   - [ ] Cảnh Thịnh
+   - [x] Thái Đức
+   - [ ] Bảo Hưng
+
+   Sau khi đánh bại chúa Nguyễn, ông phong Nguyễn Huệ làm Long Nhương tướng quân. [Xem lại](#thai-duc)
+
+2. Thành Hoàng Đế được xây trên nền thành cũ nào?
+   - [ ] Thành Phú Xuân
+   - [x] Thành Đồ Bàn, kinh đô cũ của Champa
+   - [ ] Thành Quy Nhơn
+
+   Qua hơn 300 năm bỏ hoang, dấu tích chỉ còn đôi sư tử đá, được Nguyễn Nhạc tiếp tục dùng trang điểm cho tử cấm thành. [Xem lại](#xay-thanh)
+
+3. Từ năm 1788, vì sao kinh đô Hoàng Đế chỉ còn trên danh nghĩa?
+   - [ ] Vì Nguyễn Nhạc dời đô về Gia Định
+   - [x] Vì Nguyễn Huệ lên ngôi hoàng đế, đóng đô ở Phú Xuân
+   - [ ] Vì Võ Tánh đổi tên thành thành Bình Định
+
+   Trước đó, năm 1787 Nguyễn Nhạc tự xưng Trung ương Hoàng đế, đóng đô ở Quy Nhơn. [Xem lại](#chia-ba)
+
 ## Nguồn tham khảo
 
 - "Thành Hoàng Đế", Wikipedia tiếng Việt — xây trên nền Đồ Bàn năm 1778, vị trí, các lần đổi chủ, năm 1814: https://vi.wikipedia.org/wiki/Th%C3%A0nh_Ho%C3%A0ng_%C4%90%E1%BA%BF

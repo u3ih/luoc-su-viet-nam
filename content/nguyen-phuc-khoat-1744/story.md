@@ -46,6 +46,29 @@ Cùng với việc xưng vương, y phục từ quan đến dân cũng thay đ�
 
 Những năm cuối đời Võ vương, thuế khoá ngày càng nặng và phức tạp, quan lại lạm thu. Lê Quý Đôn tả cảnh quan lại Đàng Trong ở nhà chạm trổ, dùng đồ đồng, đồ sứ, yên ngựa nạm vàng bạc, "coi vàng bạc như cát, thóc gạo như bùn". Ngày 7 tháng 7 năm 1765, Nguyễn Phúc Khoát mất, thọ 51 tuổi. Quyền thần Trương Phúc Loan lập người con thứ mười sáu, Nguyễn Phúc Thuần, lên thay; sáu năm sau, phong trào Tây Sơn nổi lên.
 
+## Ôn tập
+
+1. Ngày 12 tháng 4 năm 1744, Nguyễn Phúc Khoát được quần thần tôn lên ngôi gì?
+   - [ ] Hoàng đế
+   - [x] Vương, ngang hàng với chúa Trịnh ở Đàng Ngoài
+   - [ ] Thái sư
+
+   Phủ chúa đổi gọi là điện; văn thư trong nước vẫn dùng niên hiệu vua Lê. [Xem lại](#xung-vuong)
+
+2. Việc hành chính ở Đàng Trong khi ấy được chia thành bao nhiêu bộ?
+   - [ ] Ba bộ
+   - [ ] Bốn bộ
+   - [x] Sáu bộ: Lại, Hộ, Lễ, Binh, Hình, Công
+
+   Văn chức gọi là Hàn lâm viện, quân hầu cận gọi là Vũ lâm quân. [Xem lại](#xung-vuong)
+
+3. Cùng với việc xưng vương, chúa Nguyễn Phúc Khoát thay đổi điều gì khắp Đàng Trong?
+   - [ ] Dời đô ra Đàng Ngoài
+   - [ ] Bỏ niên hiệu vua Lê
+   - [x] Định lại y phục từ quan đến dân
+
+   Lê Quý Đôn chép việc này trong Phủ biên tạp lục. [Xem lại](#y-phuc)
+
 ## Nguồn tham khảo
 
 - "Nguyễn Phúc Khoát", Wikipedia tiếng Việt — nối ngôi năm 1738, đô thành Phú Xuân 1739, thi cử 1740, xưng vương ngày 12/4 Giáp Tý (1744), các cải cách (điện, tấu, Vũ lâm quân, Hàn lâm viện, sáu bộ, y phục), ghi chép của Lê Quý Đôn trong Phủ biên tạp lục, thuế khoá cuối đời, mất ngày 7/7/1765, nhận định về áo dài: https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Ph%C3%BAc_Kho%C3%A1t

@@ -47,6 +47,30 @@ Về quê, ông dựng am Bạch Vân, lập quán Trung Tân, làm cầu Nghinh
 
 Ông để lại Bạch Vân am thi tập (chữ Hán) và Bạch Vân quốc ngữ thi tập (chữ Nôm, hiện còn khoảng 180 bài, sáng tác khi về nghỉ ở quê), được coi là thành tựu lớn của thơ văn trung đại, quan tâm mô tả xã hội dưới góc nhìn đời thường. Ông mất ngày 28 tháng 11 năm 1585.
 
+## Ôn tập
+
+1. Năm 1535, Nguyễn Bỉnh Khiêm đỗ Trạng nguyên và làm quan dưới triều nào?
+   - [ ] Triều Lê Thánh Tông
+   - [x] Triều Mạc
+   - [ ] Triều Trần
+
+   Năm 1535, ông đỗ Trạng nguyên khoa Ất Mùi, làm quan dưới triều Mạc. [Xem lại](#trang-nguyen)
+
+2. Học trò tôn Nguyễn Bỉnh Khiêm là gì?
+   - [ ] Trạng Trình Quốc công
+   - [x] Tuyết Giang phu tử
+   - [ ] Hanh Phủ đại nhân
+
+   Ông mở trường dạy học cạnh sông Tuyết; học trò tôn ông là Tuyết Giang phu tử. [Xem lại](#bach-van)
+
+3. Học trò nào sau đây về sau hiển đạt?
+   - [ ] Nguyễn Công Trứ
+   - [ ] Phạm Ngũ Lão
+   - [x] Phùng Khắc Khoan
+   - [ ] Lưu Diên Hựu
+
+   Nhiều học trò của ông về sau hiển đạt như Phùng Khắc Khoan, Lương Hữu Khánh, Trương Thời Cử. [Xem lại](#bach-van)
+
 ## Nguồn tham khảo
 
 - "Nguyễn Bỉnh Khiêm", Wikipedia tiếng Việt — tiểu sử, khoa thi 1535, tước hiệu, am Bạch Vân, quán Trung Tân, học trò, thơ văn: https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_B%E1%BB%89nh_Khi%C3%AAm

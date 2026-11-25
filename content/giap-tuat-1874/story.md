@@ -46,6 +46,29 @@ Ngày 15 tháng 3 năm 1874, chánh sứ Lê Tuấn và phó sứ Nguyễn Văn 
 
 Hoà ước có điểm mâu thuẫn: một mặt Pháp công nhận Việt Nam độc lập với các nước khác (điều 2), mặt khác đòi chính sách ngoại giao của Việt Nam phải thích ứng với đường lối của Pháp (điều 3). Pháp giữ lại những cớ để can thiệp về sau; mười năm sau, hoà ước Giáp Thân 1884 đặt cả nước dưới quyền bảo hộ.
 
+## Ôn tập
+
+1. Cuối năm 1873, Garnier bị giết ở đâu?
+   - [ ] Ở Nam Định
+   - [x] Ở Cầu Giấy
+   - [ ] Ở Phủ Lý
+
+   Lực lượng triều đình do Hoàng Tá Viêm cầm đầu phối hợp với quân Cờ Đen của Lưu Vĩnh Phúc vây Hà Nội; Garnier đem quân ra đánh thì bị phục kích. [Xem lại](#bac-ky)
+
+2. Ngày 15 tháng 3 năm 1874, hoà ước Giáp Tuất được ký với đại diện phía Pháp là ai?
+   - [ ] Garnier
+   - [x] Philastre
+   - [ ] Brissaud
+
+   Chánh sứ Lê Tuấn và phó sứ Nguyễn Văn Tường của triều Nguyễn ký hoà ước gồm 22 điều, thay cho hoà ước 1862. [Xem lại](#ky-ket)
+
+3. Nội dung chính của hoà ước Giáp Tuất là gì?
+   - [ ] Pháp trao trả sáu tỉnh Nam Kỳ cho triều đình
+   - [x] Pháp trao trả Hà Nội và các tỉnh Bắc Kỳ; triều đình thừa nhận sáu tỉnh Nam Kỳ thuộc Pháp
+   - [ ] Pháp và triều đình chia đôi Bắc Kỳ
+
+   Triều đình còn cho Pháp quyền đi lại, buôn bán tại các cửa biển và trên sông Hồng, tự do truyền đạo. [Xem lại](#ky-ket)
+
 ## Nguồn tham khảo
 
 - "Hòa ước Giáp Tuất (1874)", Wikipedia tiếng Việt — ngày ký 15/3/1874, các bên ký, 22 điều, nguyên nhân (Nhâm Tuất 1862, ba tỉnh miền tây năm 1867, Garnier, Cầu Giấy), nội dung, mâu thuẫn giữa điều 2 và điều 3: https://vi.wikipedia.org/wiki/H%C3%B2a_%C6%B0%E1%BB%9Bc_Gi%C3%A1p_Tu%E1%BA%A5t_(1874)

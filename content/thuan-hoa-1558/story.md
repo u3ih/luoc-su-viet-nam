@@ -60,6 +60,31 @@ Năm 1570, Nguyễn Hoàng được giao trấn thủ thêm xứ Quảng Nam, n�
 
 Vùng đất ấy về sau được gọi là Đàng Trong, đối với Đàng Ngoài của họ Trịnh. Câu chuyện hai miền ấy sẽ còn dài, và có nhiều cách nhìn khác nhau.
 
+## Ôn tập
+
+1. Theo sử cũ, Nguyễn Hoàng nhờ ai nói giúp để xin vào trấn đất Thuận Hoá?
+   - [ ] Trịnh Kiểm
+   - [x] Bà Ngọc Bảo, chị ông, vợ Trịnh Kiểm
+   - [ ] Nguyễn Uông
+
+   Trịnh Kiểm tâu vua Lê, và năm Mậu Ngọ 1558 Nguyễn Hoàng được cử đi. [Xem lại](#xin-di)
+
+2. Nguyễn Hoàng đóng dinh ở đâu khi vào Thuận Hoá?
+   - [ ] Hoành Sơn
+   - [ ] Thạch Hãn
+   - [x] Ái Tử
+   - [ ] Quảng Nam
+
+   Ái Tử nay thuộc tỉnh Quảng Trị; sau này nơi ấy còn được gọi là kho Cây Khế. [Xem lại](#ai-tu)
+
+3. Năm 1570, Nguyễn Hoàng được giao thêm vùng đất nào?
+   - [ ] Thanh Hoá
+   - [x] Xứ Quảng Nam
+   - [ ] Nghệ An
+   - [ ] Đồng bằng Nam Bộ
+
+   Ông cai quản một dải đất từ Thuận Hoá đến hết Quảng Nam, về sau gọi là Đàng Trong, đối với Đàng Ngoài của họ Trịnh. [Xem lại](#quang-nam)
+
 ## Nguồn tham khảo
 
 - Trần Trọng Kim, Việt Nam sử lược, Quyển II, Phần IV, Chương III "Trịnh Nguyễn phân tranh" — Nguyễn Uông, Nguyễn Hoàng xin vào trấn Thuận Hoá năm Mậu Ngọ, lời Nguyễn Bỉnh Khiêm, đóng ở xã Ái Tử: https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_II/T%E1%BB%B1_ch%E1%BB%A7_th%E1%BB%9Di_%C4%91%E1%BA%A1i/Ch%C6%B0%C6%A1ng_III

@@ -47,6 +47,29 @@ Trong đờn ca tài tử, tiếng đờn quan trọng hơn tiếng ca. Đờn k
 
 Ngày 5 tháng 12 năm 2013, tại kỳ họp lần thứ tám của Ủy ban liên chính phủ về bảo vệ di sản văn hóa phi vật thể ở Baku, Azerbaijan, hồ sơ nghệ thuật đờn ca tài tử Nam Bộ được UNESCO đưa vào danh sách di sản văn hóa phi vật thể đại diện của nhân loại.
 
+## Ôn tập
+
+1. Chữ "tài tử" trong đờn ca tài tử có nghĩa là gì?
+   - [ ] Nghệ sĩ nghiệp dư
+   - [ ] Nhạc công của triều đình
+   - [x] Người có tài, chơi nhạc vì vui, ngẫu hứng chứ không để mưu sinh
+
+   "Tài tử" ở đây không có nghĩa là nghiệp dư, mà là người có tài, chơi nhạc vì vui, vì ngẫu hứng chứ không để mưu sinh. [Xem lại](#nguon-goc)
+
+2. Các quan viên phụ trách ban nhạc triều Nguyễn vào Nam đã đóng góp gì cho phong trào đờn cây?
+   - [x] Kết hợp nhạc Nam Bộ với nhạc Huế, sáng tác những bản tài tử đầu tiên và mở lớp dạy đờn
+   - [ ] Chuyển phong trào thành nghề kiếm sống của nhạc công
+   - [ ] Bỏ hẳn nhạc cụ, chỉ giữ lại tiếng ca
+
+   Họ kết hợp âm nhạc Nam Bộ với nhạc Huế, sáng tác những bản tài tử đầu tiên, mở lớp dạy đờn khắp Nam Bộ. [Xem lại](#nhac-su)
+
+3. Ngày 5 tháng 12 năm 2013, UNESCO đưa đờn ca tài tử Nam Bộ vào danh sách nào?
+   - [ ] Di sản thế giới
+   - [ ] Di sản văn hóa phi vật thể cần bảo vệ khẩn cấp
+   - [x] Di sản văn hóa phi vật thể đại diện của nhân loại
+
+   Hồ sơ đờn ca tài tử Nam Bộ được UNESCO đưa vào danh sách di sản văn hóa phi vật thể đại diện của nhân loại tại kỳ họp ở Baku, Azerbaijan. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Đờn ca tài tử Nam Bộ", Wikipedia tiếng Việt — nghĩa chữ "tài tử", phong trào đờn cây đầu thế kỷ XIX, nhạc sư từ Huế, phạm vi hồ sơ, nhạc cụ và tiếng Thổ – Kim, guitar phím lõm, tứ tuyệt – ngũ tuyệt, thủ pháp, ghi danh ngày 5/12/2013 ở Baku: https://vi.wikipedia.org/wiki/%C4%90%E1%BB%9Dn_ca_t%C3%A0i_t%E1%BB%AD_Nam_B%E1%BB%99

@@ -46,6 +46,29 @@ Theo các sử gia phương Tây, Tổng thống Nguyễn Văn Thiệu muốn ch
 
 Cuộc rút lui dưới hoả lực biến thành hỗn loạn ở nhiều nơi; ngày 23 tháng 3, truyền hình Mỹ chiếu cảnh lính bám càng trực thăng để thoát. Chiến dịch kết thúc ngày 25 tháng 3. Phía Mỹ ghi mất 108 trực thăng, 618 chiếc khác hư hại, hơn 200 lính Mỹ chết; số lính Việt Nam Cộng hoà chết được các nguồn ghi từ hơn một nghìn đến hơn tám nghìn người. Phía Việt Nam công bố loại khỏi vòng chiến 20.000 quân, bắn rơi 505 trực thăng; số liệu của Việt Nam ghi Quân đội Nhân dân Việt Nam có 2.163 người hy sinh, 6.176 người bị thương — những con số hai bên ghi rất khác nhau. Chính Bộ Chỉ huy Viện trợ Quân sự Mỹ thừa nhận những yếu kém về kế hoạch, tổ chức và chỉ huy của chiến dịch; phía Việt Nam gọi đây là chiến thắng Đường 9 – Nam Lào.
 
+## Ôn tập
+
+1. Kế hoạch Lam Sơn 719 đặt mục tiêu gì cho quân Việt Nam Cộng hoà khi theo đường số 9?
+   - [ ] Chiếm Hà Nội
+   - [x] Đánh tới Sê Pôn và phá các kho hậu cần trên đường Trường Sơn
+   - [ ] Phòng thủ căn cứ Khe Sanh
+
+   Quân Việt Nam Cộng hoà theo đường 9 đánh tới Sê Pôn (Tchepone), phá các kho hậu cần, có Mỹ yểm trợ bằng máy bay, trực thăng, pháo binh. [Xem lại](#ke-hoach)
+
+2. Sau khi đổ quân xuống Sê Pôn ngày 6 tháng 3, quân Việt Nam Cộng hoà làm gì?
+   - [ ] Ở lại xây căn cứ lâu dài tại thị trấn
+   - [ ] Tiếp tục tiến sâu vào lãnh thổ Lào
+   - [x] Từ ngày 9 tháng 3 bắt đầu rút về, vừa rút vừa phá các kho tàng
+
+   Thị trấn đã đổ nát, gần như bỏ trống; từ ngày 9 tháng 3, quân Việt Nam Cộng hoà bắt đầu rút về, vừa rút vừa phá các kho tàng. [Xem lại](#se-pon)
+
+3. Về số liệu thương vong và tổn thất của chiến dịch, lời kể cho biết điều gì?
+   - [ ] Các bên công bố số liệu hoàn toàn giống nhau
+   - [ ] Không bên nào công bố số liệu
+   - [x] Số liệu hai bên ghi rất khác nhau
+
+   Phía Mỹ, phía Việt Nam Cộng hoà và phía Việt Nam đưa ra những con số rất khác nhau; chiến dịch kết thúc ngày 25 tháng 3. [Xem lại](#rut-lui)
+
 ## Nguồn tham khảo
 
 - “Operation Lam Son 719”, Wikipedia tiếng Anh — hơn 630.000 người đi qua đường Trường Sơn từ năm 1966, Việt Nam hoá, luật Cooper-Church (29/12/1970) cấm bộ binh Mỹ vào Lào, Hoàng Xuân Lãm, vượt biên giới 8/2/1971, căn cứ 31 thất thủ 25/2 và đoàn thiết giáp dừng lại vì mệnh lệnh mâu thuẫn, động cơ của Thiệu, đổ quân 276 trực thăng UH-1 tới Tchepone 6/3 (lớn nhất cuộc chiến), bắt đầu rút 9/3, cảnh bám càng trực thăng 23/3, kết thúc 25/3, 108 trực thăng mất và 618 hư hại, thương vong hai bên (Mỹ 215 chết; Việt Nam Cộng hoà 1.146 – 8.843 chết; Quân đội Nhân dân Việt Nam 2.163 chết, 6.176 bị thương theo số liệu Việt Nam), số liệu phía Việt Nam (20.000 quân, 505 trực thăng), đánh giá của Bộ Chỉ huy Viện trợ Quân sự Mỹ: https://en.wikipedia.org/wiki/Operation_Lam_Son_719

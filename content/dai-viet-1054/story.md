@@ -46,6 +46,29 @@ Mùa đông năm 1055 trời rét, theo Đại Việt sử lược, vua nói v�
 
 Năm 1059, ông định triều phục, quan vào chầu phải đội mũ cánh chuồn, đi hia; năm 1070, dựng Văn Miếu. Lý Thánh Tông mất năm 1072. Quốc hiệu Đại Việt gián đoạn 27 năm thời nhà Hồ và thời thuộc Minh (1400 – 1427), được Lê Lợi đặt lại năm 1428 và dùng đến năm 1804, đầu triều Nguyễn — tổng cộng khoảng 723 năm.
 
+## Ôn tập
+
+1. Ngay sau khi lên ngôi năm 1054, Lý Thánh Tông đổi quốc hiệu từ tên nào thành Đại Việt?
+   - [ ] Âu Lạc
+   - [x] Đại Cồ Việt
+   - [ ] Vạn Xuân
+
+   Từ thời Đinh Bộ Lĩnh, nước ta mang quốc hiệu Đại Cồ Việt; Lý Thánh Tông đổi tên nước thành Đại Việt ngay sau khi lên ngôi. [Xem lại](#quoc-hieu)
+
+2. Mùa đông năm 1055, Lý Thánh Tông đã làm gì khi trời rét?
+   - [ ] Dựng Văn Miếu
+   - [ ] Ban chiếu khuyến nông
+   - [x] Sai cấp chăn chiếu, ăn đủ cho tù nhân và giảm một nửa tô thuế
+
+   Vua nghĩ đến người trong tù, sai cấp chăn chiếu, mỗi ngày hai bữa ăn đủ; cùng năm giảm một nửa tô thuế cho dân cả nước. [Xem lại](#thuong-dan)
+
+3. Ai là người đặt lại quốc hiệu Đại Việt năm 1428, sau thời gián đoạn 1400 – 1427?
+   - [ ] Đinh Bộ Lĩnh
+   - [ ] Lý Thánh Tông
+   - [x] Lê Lợi
+
+   Quốc hiệu Đại Việt gián đoạn thời nhà Hồ và thời thuộc Minh, được Lê Lợi đặt lại năm 1428 và dùng đến năm 1804. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Lý Thánh Tông", Wikipedia tiếng Việt — thân thế, lập thái tử năm 1028, lời Đại Việt sử lược, lên ngôi ngày 3/11/1054, niên hiệu Long Thụy Thái Bình, đổi quốc hiệu Đại Việt, mùa đông 1055 (chăn chiếu cho tù, giảm nửa tô thuế), chiếu khuyến nông 1056, mũ cánh chuồn 1059, giảm hình phạt 1065, mất năm 1072: https://vi.wikipedia.org/wiki/L%C3%BD_Th%C3%A1nh_T%C3%B4ng

@@ -51,6 +51,28 @@ Ngày 5 tháng 6 năm 1911, tàu nhổ neo rời cảng Sài Gòn.
 
 Ngày nay, Bến Nhà Rồng là Bảo tàng Hồ Chí Minh – Chi nhánh thành phố Hồ Chí Minh, ở phường Xóm Chiếu.
 
+## Ôn tập
+
+1. Ngày 5 tháng 6 năm 1911, Nguyễn Tất Thành xuống con tàu nào ở cảng Sài Gòn?
+   - [ ] Messageries maritimes
+   - [x] Amiral Latouche-Tréville
+
+   Theo bài tham khảo, ông làm phụ bếp trên tàu Amiral Latouche-Tréville để có thể sang châu Âu. [Xem lại](#len-tau)
+
+2. Từ năm 1864 đến năm 1955, toà nhà ở Bến Nhà Rồng là trụ sở của đơn vị nào?
+   - [x] Hãng vận tải Messageries maritimes
+   - [ ] Bảo tàng Hồ Chí Minh
+   - [ ] Toà sứ Pháp
+
+   Từ năm 1864 đến năm 1955, nơi này là trụ sở của hãng vận tải Messageries maritimes tại Sài Gòn. [Xem lại](#ben-cang)
+
+3. Ngày nay, Bến Nhà Rồng là gì?
+   - [ ] Trụ sở một hãng vận tải
+   - [ ] Cảng hành khách quốc tế
+   - [x] Bảo tàng Hồ Chí Minh – Chi nhánh thành phố Hồ Chí Minh
+
+   Bến Nhà Rồng nay là Bảo tàng Hồ Chí Minh – Chi nhánh thành phố Hồ Chí Minh, ở phường Xóm Chiếu. [Xem lại](#ngay-nay)
+
 ## Nguồn tham khảo
 
 - "Bến Nhà Rồng", Wikipedia tiếng Việt — lịch sử toà nhà, ngày 5 tháng 6 năm 1911, chú thích về ngày làm việc trên tàu và điểm đến: https://vi.wikipedia.org/wiki/B%E1%BA%BFn_Nh%C3%A0_R%E1%BB%93ng

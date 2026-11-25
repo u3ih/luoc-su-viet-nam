@@ -46,6 +46,29 @@ Theo bài báo, gốm Chu Đậu là đặc sản tiến cống hoàng triều v
 
 Theo cùng bài, nghề này thất truyền sau khi Trịnh Tùng tàn phá Nam Sách năm 1593. Chương chỉ ghi lại như một chi tiết của bài báo, chưa kiểm với sử liệu khác.
 
+## Ôn tập
+
+1. Người thợ nào được ghi tên trên chiếc bình hoa lam ở bảo tàng Topkapı?
+   - [ ] Đặng Sỹ
+   - [ ] Tăng Bá Hoành
+   - [x] Bùi Thị Hý
+
+   Dòng chữ Hán quanh vai bình ghi: năm Thái Hoà thứ tám (1450), tại châu Nam Sách, do người thợ Bùi Thị Hý vẽ. [Xem lại](#chiec-binh)
+
+2. Năm 1980, ai nhìn thấy chiếc bình ở Thổ Nhĩ Kỳ và viết thư hỏi về bà Hý cùng lò gốm?
+   - [x] Ông Anabuki
+   - [ ] Ông Tăng Bá Hoành
+   - [ ] Ông Đặng Sỹ
+
+   Ông Anabuki từng làm việc ở Đại sứ quán Nhật Bản tại Việt Nam; thư được chuyển đến ông Tăng Bá Hoành, cán bộ khảo cổ tỉnh Hải Dương. [Xem lại](#tim-lai)
+
+3. Theo gia phả họ Bùi (như bài báo ghi lại), năm 1452 vợ chồng bà Hý cùng em trai làm gì?
+   - [ ] Rời Nam Sách để sang Nhật Bản
+   - [x] Lập lò gốm ở quê, liên kết với Chu Đậu
+   - [ ] Bỏ nghề gốm để làm ruộng
+
+   Bà Hý lấy ông Đặng Sỹ, một người làm gốm lớn ở Chu Đậu thuộc châu Nam Sách. [Xem lại](#tim-lai)
+
 ## Nguồn tham khảo
 
 - "Người làm chiếc bình gốm hoa lam cổ Chu Đậu", Báo Nhân Dân — chiếc bình ở Topkapı, dòng chữ, việc tìm lại, gia phả, xuất khẩu, thất truyền: https://nhandan.vn/nguoi-lam-chiec-binh-gom-hoa-lam-co-chu-dau-post403374.html

@@ -53,6 +53,30 @@ Người kế vị là Jaya Indravarman IV chạy về phía nam và cầu cứu
 
 Năm 992, nhà Tống trả tù binh người Chăm về Chiêm Thành. Năm 995 và 997 phía Chiêm tấn công Đại Việt. Năm 1000, Chiêm Thành bỏ Indrapura và dời kinh đô vào Vijaya.
 
+## Ôn tập
+
+1. Sau khi hoàng đế Đinh Bộ Lĩnh bị giết năm 979, ai thúc giục vua Chiêm đem quân đánh Đại Cồ Việt?
+   - [ ] Đỗ Thích
+   - [ ] Lưu Kế Tông
+   - [x] Ngô Nhật Khánh
+   - [ ] Đinh Liễn
+
+   Ngô Nhật Khánh, người bị đánh bại năm 967 và chạy sang Chiêm Thành, thúc giục vua Chiêm đem quân đánh Đại Cồ Việt. [Xem lại](#boi-canh)
+
+2. Lê Hoàn dùng việc gì làm cớ cho chuyến đi đánh đáp trả?
+   - [x] Các sứ giả của ông bị giữ lại ở Chiêm Thành
+   - [ ] Quân Chiêm cướp phá kinh đô Hoa Lư
+   - [ ] Nhà Tống yêu cầu ông xuất quân
+
+   Trong những năm sau năm 979, sứ giả của Lê Hoàn bị giữ lại ở Chiêm Thành; Lê Hoàn dùng việc này làm cớ. [Xem lại](#su-gia)
+
+3. Đến năm 1000, kinh đô Chiêm Thành thay đổi ra sao?
+   - [ ] Vẫn giữ nguyên ở Indrapura
+   - [ ] Dời lên phía bắc
+   - [x] Bỏ Indrapura, dời vào Vijaya ở phía nam
+
+   Năm 1000, Chiêm Thành bỏ Indrapura và dời kinh đô vào Vijaya. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Champa–Đại Cồ Việt war (982)", Wikipedia tiếng Anh — bối cảnh, diễn biến, các sự kiện từ 983 đến 1000: https://en.wikipedia.org/wiki/Champa%E2%80%93%C4%90%E1%BA%A1i_C%E1%BB%93_Vi%E1%BB%87t_war_(982)

@@ -46,6 +46,29 @@ Ngày 29 và 30 tháng 4, chiến dịch Frequent Wind của Mỹ dùng trực t
 
 Khoảng 10 giờ 24 sáng 30 tháng 4, Tổng thống Dương Văn Minh tuyên bố đầu hàng, ra lệnh binh sĩ ngừng chiến, chờ bàn giao chính quyền. Gần trưa, xe tăng 843 húc cổng phụ Dinh Độc Lập nhưng bị kẹt, xe tăng 390 húc đổ cổng chính; lúc 11 giờ 30, Bùi Quang Thận cắm cờ trên nóc dinh. Sau đó, ông Minh đọc trên đài phát thanh lời tuyên bố đầu hàng vô điều kiện, giải tán chính quyền Sài Gòn các cấp. Ngày 1 và 2 tháng 5, chính quyền Cách mạng lâm thời tiếp quản các tỉnh đồng bằng sông Cửu Long. Ngày 2 tháng 7 năm 1976, nước được thống nhất về mặt nhà nước; Sài Gòn mang tên Thành phố Hồ Chí Minh.
 
+## Ôn tập
+
+1. Chiến dịch được mở màn chiều ngày 26 tháng 4 năm 1975 có tên gọi là gì?
+   - [x] Chiến dịch Hồ Chí Minh
+   - [ ] Chiến dịch Tây Nguyên
+   - [ ] Chiến dịch Huế – Đà Nẵng
+
+   Bộ Chỉ huy chiến dịch lập ở Lộc Ninh ngày 8 tháng 4, Đại tướng Văn Tiến Dũng làm Tư lệnh; năm cánh quân từ năm hướng tiến vào Sài Gòn. [Xem lại](#nam-canh)
+
+2. Sáng ngày 30 tháng 4 năm 1975, Tổng thống Dương Văn Minh tuyên bố điều gì?
+   - [ ] Từ chức để nhường chức vụ cho Phó Tổng thống Trần Văn Hương
+   - [x] Đầu hàng, ra lệnh binh sĩ ngừng chiến và chờ bàn giao chính quyền
+   - [ ] Rút chính quyền ra Xuân Lộc để tiếp tục phòng thủ
+
+   Sau đó ông đọc trên đài phát thanh lời tuyên bố đầu hàng vô điều kiện, giải tán chính quyền Sài Gòn các cấp. [Xem lại](#dinh-doc-lap)
+
+3. Chiến dịch Frequent Wind của Mỹ ngày 29 và 30 tháng 4 là gì?
+   - [ ] Chiến dịch phòng thủ tuyến Xuân Lộc
+   - [ ] Cuộc tiến công bằng xe tăng vào Dinh Độc Lập
+   - [x] Cuộc di tản bằng trực thăng, chở khoảng 7.000 người ra các tàu ngoài khơi
+
+   Đó được kể là cuộc di tản bằng trực thăng lớn nhất lịch sử. [Xem lại](#di-tan)
+
 ## Nguồn tham khảo
 
 - “Chiến dịch Hồ Chí Minh”, Wikipedia tiếng Việt — Bộ Chỉ huy lập ngày 8/4 ở Lộc Ninh, Văn Tiến Dũng, năm cánh quân, năm mục tiêu, Sài Gòn hơn 3,5 triệu dân, mở màn 17 giờ 26/4, Thiệu từ chức 21/4, Dương Văn Minh 28/4, xe tăng 843 và 390, 11 giờ 30, tiếp quản đồng bằng sông Cửu Long 1 – 2/5: https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_H%E1%BB%93_Ch%C3%AD_Minh

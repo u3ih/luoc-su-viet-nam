@@ -47,6 +47,29 @@ Dân gian kể Yết Kiêu "nhập thủy như phúc bình địa" — đi dư�
 
 Sau kháng chiến, Yết Kiêu được cử làm tướng hộ vệ bảng nhãn Lê Đỗ đi sứ nhà Nguyên. Ông mất ngày 28 tháng chạp năm Quý Mão (1303), thọ 61 tuổi. Vua Trần cho lập đền thờ ở bờ sông quê ông — đền Quát, được tu sửa nhiều lần, xếp hạng di tích quốc gia ngày 28 tháng 1 năm 1989. Lễ hội đền Quát vào rằm tháng giêng và rằm tháng tám, có hội làm bánh, đua thuyền.
 
+## Ôn tập
+
+1. Theo Đại Việt sử ký toàn thư, khi quân Nguyên tới và quan quân thua, Yết Kiêu làm gì?
+   - [x] Giữ thuyền ở Bãi Tân, đợi gặp Hưng Đạo Vương mới dời thuyền
+   - [ ] Dẫn thuỷ quân rút về Thăng Long
+   - [ ] Bỏ thuyền theo lối chân núi
+
+   Dã Tượng nói: "Yết Kiêu chưa thấy Đại Vương thì nhất định không dời thuyền"; quả nhiên Yết Kiêu vẫn đợi ở bến. [Xem lại](#bai-tan)
+
+2. Theo truyền thuyết dân gian, Yết Kiêu đã làm gì với thuyền giặc?
+   - [ ] Đốt thuyền giặc bằng lửa
+   - [x] Lặn xuống đục nhiều lỗ trên thuyền, nút giẻ buộc chung một sợi dây rồi giật dây cho thuyền đắm
+   - [ ] Cắm cọc nhọn dưới lòng sông để chặn thuyền
+
+   Đây là truyền thuyết dân gian, không có trong chính sử. [Xem lại](#duc-thuyen)
+
+3. Sau khi Yết Kiêu mất năm 1303, vua Trần cho lập đền thờ ông ở đâu?
+   - [ ] Ở Thăng Long
+   - [ ] Ở Bãi Tân
+   - [x] Ở bờ sông quê ông, gọi là đền Quát
+
+   Đền Quát được xếp hạng di tích quốc gia ngày 28 tháng 1 năm 1989; lễ hội diễn ra vào rằm tháng giêng và rằm tháng tám. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Yết Kiêu", Wikipedia tiếng Việt — tên thật, quê Hạ Bì, cha mẹ, năm tùy tướng của Hưng Đạo Vương, đoạn Toàn thư về Bãi Tân, truyền thuyết đục thuyền, chức tước, đi sứ cùng Lê Đỗ, mất năm 1303, đền Quát và lễ hội: https://vi.wikipedia.org/wiki/Yết_Kiêu

@@ -47,6 +47,29 @@ Nhiều bài quan họ cổ vẫn được ưa thích đến nay: "Mời nước
 
 Ngày 30 tháng 9 năm 2009, tại kỳ họp lần thứ tư của Ủy ban liên chính phủ Công ước UNESCO về bảo vệ di sản văn hóa phi vật thể, dân ca Quan họ Bắc Ninh và Bắc Giang được ghi danh là di sản văn hóa phi vật thể đại diện của nhân loại, cùng đợt với ca trù.
 
+## Ôn tập
+
+1. Ngày 30 tháng 9 năm 2009, UNESCO ghi danh dân ca Quan họ Bắc Ninh và Bắc Giang là gì?
+   - [ ] Di sản văn hóa thế giới
+   - [x] Di sản văn hóa phi vật thể đại diện của nhân loại
+   - [ ] Di sản thiên nhiên thế giới
+
+   Việc ghi danh diễn ra tại kỳ họp lần thứ tư của Ủy ban liên chính phủ, cùng đợt với ca trù. [Xem lại](#ve-sau)
+
+2. Quan họ cổ tồn tại ở bao nhiêu làng quan họ gốc xứ Kinh Bắc?
+   - [ ] 19 làng
+   - [x] 49 làng
+   - [ ] 72 làng
+
+   Liền anh, liền chị phải am tường lề lối; người Kinh Bắc nói "chơi quan họ" chứ không nói "hát quan họ". [Xem lại](#lang-quan-ho)
+
+3. Quan họ cổ khác quan họ mới (quan họ lời mới) ở điểm nào?
+   - [x] Quan họ cổ không có nhạc đệm và không có khán giả
+   - [ ] Quan họ cổ biểu diễn trên sân khấu vào bất kỳ ngày nào
+   - [ ] Quan họ cổ chỉ do người nam hát một mình
+
+   Quan họ cổ chủ yếu hát đôi vào dịp lễ hội xuân thu; quan họ mới biểu diễn trên sân khấu, có khán giả. [Xem lại](#lang-quan-ho)
+
 ## Nguồn tham khảo
 
 - "Dân ca quan họ", Wikipedia tiếng Việt — vùng Kinh Bắc, sông Cầu, các kiến giải về tên gọi, quan họ cổ, 49 làng, quan họ mới, UNESCO ngày 30/9/2009: https://vi.wikipedia.org/wiki/D%C3%A2n_ca_quan_h%E1%BB%8D

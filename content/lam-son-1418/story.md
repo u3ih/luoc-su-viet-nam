@@ -77,6 +77,29 @@ Tháng 9 năm 1426, Lê Lợi chia quân làm ba đạo tiến ra Bắc. Đạo 
 
 Cuộc khởi nghĩa từ một vùng núi nhỏ đã trở thành cuộc chiến tranh giải phóng trên cả nước.
 
+## Ôn tập
+
+1. Những năm đầu khởi nghĩa, nghĩa quân bị vây phải rút lên đâu?
+   - [ ] Đồn Đa Căng
+   - [x] Núi Chí Linh
+   - [ ] Thành Tây Đô
+
+   Có lúc chỉ còn hơn một trăm người, thiếu lương hơn hai tháng, phải ăn rau rừng, củ rừng, giết cả voi và ngựa chiến để nuôi quân. [Xem lại](#chi-linh)
+
+2. Năm 1423, Lê Lợi làm gì để có thời gian gây dựng lại lực lượng?
+   - [ ] Tiến vào Thuận Hoá
+   - [x] Xin tạm hoà với quân Minh
+   - [ ] Vây thành Tây Đô
+
+   Cuộc hoà hoãn kéo dài khoảng một năm thì tan vỡ; trong khoảng những năm này Nguyễn Trãi tìm đến dâng kế sách đánh quân Minh. [Xem lại](#hoa-hoan)
+
+3. Theo lời bàn của Nguyễn Chích, vì sao nghĩa quân nên đánh lấy Nghệ An?
+   - [ ] Vì Nghệ An ở gần Đông Quan nhất
+   - [ ] Vì quân Minh ở Nghệ An đã rút hết
+   - [x] Vì Nghệ An đất rộng người đông, có thể làm chỗ đứng chân rồi mới tiến ra bắc
+
+   Lê Lợi nghe theo; Nghệ An trở thành căn cứ vững chắc của cuộc khởi nghĩa. [Xem lại](#nghe-an)
+
 ## Nguồn tham khảo
 
 - Đại Việt sử ký toàn thư (Ngô Sĩ Liên và các sử thần, 1479), Bản kỷ — phần Thái Tổ Cao Hoàng đế: https://vi.wikisource.org/wiki/%C4%90%E1%BA%A1i_Vi%E1%BB%87t_s%E1%BB%AD_k%C3%BD_to%C3%A0n_th%C6%B0

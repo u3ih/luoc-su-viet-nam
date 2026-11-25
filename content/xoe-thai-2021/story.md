@@ -46,6 +46,29 @@ Xòe vòng là điệu phổ biến nhất trong các sự kiện văn hoá củ
 
 Tháng 11 năm 2020, hồ sơ Nghệ thuật Xòe Thái của các tỉnh Tây Bắc, do Viện Văn hoá Nghệ thuật quốc gia chủ trì, được hoàn thiện để trình UNESCO. Ngày 15 tháng 12 năm 2021, tại phiên họp lần thứ 16 của Uỷ ban Liên chính phủ Công ước 2003 về bảo vệ di sản văn hoá phi vật thể, Nghệ thuật Xòe Thái được ghi danh vào Danh sách di sản văn hoá phi vật thể đại diện của nhân loại.
 
+## Ôn tập
+
+1. Trong tiếng Thái, từ "xòe" có nghĩa là gì?
+   - [x] Nhảy múa
+   - [ ] Lúa
+   - [ ] Vòng tròn
+
+   Xòe là nghệ thuật múa truyền thống của người Thái ở Việt Nam. [Xem lại](#nguon-goc)
+
+2. Điệu xòe nào phổ biến nhất trong các sự kiện văn hoá của cộng đồng và gia đình?
+   - [ ] Xòe khăn
+   - [x] Xòe vòng
+   - [ ] Xòe nón
+
+   Nhiều người nắm tay nhau thành vòng; động tác cơ bản gồm vung tay, mở tay, nhún chân, nghiêng phải, nghiêng trái. [Xem lại](#vong-xoe)
+
+3. Ngày 15 tháng 12 năm 2021, UNESCO ghi danh Nghệ thuật Xòe Thái vào danh sách nào?
+   - [ ] Danh sách di sản thế giới (di tích, cảnh quan)
+   - [ ] Danh sách danh nhân văn hoá thế giới
+   - [x] Danh sách di sản văn hoá phi vật thể đại diện của nhân loại
+
+   Việc ghi danh diễn ra tại phiên họp lần thứ 16 của Uỷ ban Liên chính phủ Công ước 2003. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Xòe Thái", Wikipedia tiếng Việt — nghĩa chữ xòe, nguồn gốc, Xé Cáu Ké ở Mường Lò, ba loại xòe, các điệu theo đạo cụ, sáu điệu xòe cơ bản, động tác cơ bản, nhạc cụ đệm, câu nói của người Thái, hồ sơ hoàn thiện tháng 11/2020, UNESCO ghi danh ngày 15/12/2021 tại phiên họp lần thứ 16: https://vi.wikipedia.org/wiki/X%C3%B2e_Th%C3%A1i

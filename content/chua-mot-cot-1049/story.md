@@ -47,6 +47,30 @@ Năm 1105, vua Lý Nhân Tông sửa chùa Diên Hựu đẹp hơn cũ. Theo To�
 
 Chùa được trùng tu nhiều lần, thời Nguyễn khoảng 1840 – 1850 và năm 1922. Năm 1954, trước khi rút khỏi Hà Nội, quân đội viễn chinh Pháp đặt mìn phá chùa; báo Tia Sáng ngày 10 tháng 9 năm 1954 đưa tin chùa sụp đổ. Năm 1955, chùa được dựng lại theo kiến trúc cũ thời Nguyễn, do kiến trúc sư Nguyễn Bá Lăng thực hiện.
 
+## Ôn tập
+
+1. Theo truyền thuyết, vua Lý Thái Tông mộng thấy điều gì dẫn đến việc dựng chùa?
+   - [x] Phật Quan Âm ngồi trên tòa sen dắt vua lên tòa
+   - [ ] Nhà sư Thiền Tuệ đắp một ngọn tháp giữa hồ
+   - [ ] Một cây cầu vồng bắc qua hồ Bích Trì
+
+   Tỉnh dậy, vua kể với bầy tôi; nhà sư Thiền Tuệ khuyên dựng chùa, dựng cột như trong mộng, đặt tòa sen thờ Quan Âm trên cột. [Xem lại](#giac-mong)
+
+2. Công trình nổi tiếng nhất trong chùa Diên Hựu là gì?
+   - [ ] Hồ Bích Trì
+   - [ ] Bảo tháp trước sân chùa
+   - [x] Liên Hoa Đài, một điện thờ đặt trên một cột trụ duy nhất
+
+   Chùa được khởi công vào tháng 10 âm lịch năm 1049, ở vườn Tây Cấm, phía tây cấm thành Thăng Long. [Xem lại](#dung-chua)
+
+3. Chùa Một Cột hiện nay được dựng lại vào năm nào?
+   - [ ] 1049
+   - [ ] 1105
+   - [ ] 1954
+   - [x] 1955
+
+   Năm 1954 chùa bị quân đội viễn chinh Pháp đặt mìn phá; năm 1955 chùa được dựng lại theo kiến trúc cũ thời Nguyễn. [Xem lại](#dung-lai)
+
 ## Nguồn tham khảo
 
 - "Chùa Một Cột", Wikipedia tiếng Việt — truyền thuyết, khởi công 1049, sửa chùa 1105 (trích Toàn thư), trùng tu, phá hủy 1954, dựng lại 1955: https://vi.wikipedia.org/wiki/Ch%C3%B9a_M%E1%BB%99t_C%E1%BB%99t

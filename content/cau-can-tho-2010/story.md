@@ -46,6 +46,30 @@ Hai trụ tháp đứng trên móng cọc khoan nhồi dài tới 94 m — vào 
 
 10 giờ sáng ngày 24 tháng 4 năm 2010, cầu Cần Thơ được khánh thành. Cùng ngày, một lễ cầu siêu được tổ chức ở chùa Bồ Đề, phường Cái Vồn — nơi dựng khu tưởng niệm những người thiệt mạng khi xây cầu, cách cầu khoảng 200 m.
 
+## Ôn tập
+
+1. Cầu Cần Thơ được xây bằng nguồn vốn nào?
+   - [ ] Hoàn toàn bằng vốn của các nhà thầu Nhật Bản
+   - [x] Vốn ODA của Nhật Bản và vốn đối ứng của Việt Nam
+   - [ ] Vốn tự đóng góp của người dân hai bờ sông
+
+   Cầu khởi công ngày 25 tháng 9 năm 2004, tổng mức đầu tư 4.832 tỷ đồng, bằng vốn ODA của Nhật Bản và vốn đối ứng của Việt Nam. [Xem lại](#khoi-cong)
+
+2. Theo kết quả điều tra công bố tháng 7 năm 2008, nguyên nhân vụ sập nhịp dẫn ngày 26 tháng 9 năm 2007 là gì?
+   - [ ] Bão lớn làm đổ nhịp cầu
+   - [ ] Sà lan va vào nhịp cầu đang thi công
+   - [x] Lún lệch đài móng trụ tạm
+
+   Vụ sập làm 55 người chết, 80 người bị thương; công trường tạm ngừng và tháng 3 năm 2008 mới được thi công lại. [Xem lại](#su-co)
+
+3. Nhịp giữa của phần cầu chính dây văng dài bao nhiêu?
+   - [ ] 175,3 m
+   - [ ] 1.010 m
+   - [x] 550 m
+   - [ ] 94 m
+
+   Cầu chính dây văng dài 1.010 m, trong đó nhịp giữa dài 550 m. [Xem lại](#thap)
+
 ## Nguồn tham khảo
 
 - "Cầu Cần Thơ", Wikipedia tiếng Việt — vị trí, khởi công 25/9/2004, vốn, các gói thầu, kích thước cầu chính, móng cọc 94 m, trụ tháp 175,3 m, sự cố sập nhịp dẫn 26/9/2007 (55 người chết, 80 bị thương), kết luận điều tra tháng 7/2008, thi công lại tháng 3/2008, khánh thành 24/4/2010, khu tưởng niệm ở chùa Bồ Đề: https://vi.wikipedia.org/wiki/C%E1%BA%A7u_C%E1%BA%A7n_Th%C6%A1

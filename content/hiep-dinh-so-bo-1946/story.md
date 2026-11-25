@@ -46,6 +46,30 @@ Ngày 1 tháng 6, khi Hồ Chí Minh và phái đoàn đã lên đường sang P
 
 Đêm 14 rạng sáng 15 tháng 9, ở nhà riêng Bộ trưởng Hải ngoại Marius Moutet, Hồ Chí Minh ký bản Tạm ước: trả lại tài sản của người Pháp, bảo đảm quyền lợi kiều dân hai bên, đồng bạc Đông Dương gắn với đồng franc, ngừng bắn ở Nam Kỳ, hẹn đàm phán lại chậm nhất vào tháng 1 năm 1947. Ông về nước bằng tàu thuỷ. Nhưng tháng 11, tranh chấp quyền thu thuế ở Hải Phòng dẫn tới giao tranh; ngày 23 tháng 11, quân Pháp bắn phá Hải Phòng. Sử Việt Nam nhấn mạnh rằng nhiều điều khoản đã không được phía Pháp thi hành; nhiều nguồn nước ngoài cho rằng cả hai phía đều cứng rắn. Đàm phán đổ vỡ, và chiến tranh toàn diện nổ ra ngày 19 tháng 12 năm 1946.
 
+## Ôn tập
+
+1. Theo Hiệp định sơ bộ ngày 6 tháng 3 năm 1946, quân Pháp ra miền Bắc để làm gì?
+   - [ ] Giải giáp quân Nhật ở phía nam vĩ tuyến 16
+   - [x] Thay quân Trung Hoa; Việt Nam để 15.000 quân Pháp ra Bắc, rút dần trong năm năm
+   - [ ] Đóng quân lâu dài, không rút
+
+   Pháp công nhận Việt Nam Dân chủ Cộng hoà là một quốc gia tự do, trong Liên bang Đông Dương và khối Liên hiệp Pháp. [Xem lại](#mung-6-3)
+
+2. Hai bên bất đồng nhiều nhất về vấn đề nào ở hội nghị Fontainebleau?
+   - [ ] Cờ của hai nước
+   - [x] Nam Kỳ, cùng vị thế của Việt Nam trong Liên hiệp Pháp và ngoại giao
+   - [ ] Việc rút quân Trung Hoa
+
+   Không định được ngày trưng cầu dân ý ở Nam Kỳ, đoàn Việt Nam bỏ về ngày 13 tháng 9. [Xem lại](#fontainebleau)
+
+3. Chiến tranh toàn diện nổ ra vào ngày nào?
+   - [ ] 6 tháng 3 năm 1946
+   - [ ] 14 tháng 9 năm 1946
+   - [ ] 23 tháng 11 năm 1946
+   - [x] 19 tháng 12 năm 1946
+
+   Tháng 11 có giao tranh ở Hải Phòng; đàm phán đổ vỡ rồi chiến tranh toàn diện nổ ra. [Xem lại](#tam-uoc)
+
 ## Nguồn tham khảo
 
 - “Hiệp định sơ bộ Pháp – Việt (1946)”, Wikipedia tiếng Việt — Hiệp ước Hoa – Pháp 28/2/1946, quân của Leclerc, họp Hội đồng Chính phủ sáng 6/3, nội dung hiệp định (quốc gia tự do, 15.000 quân, rút trong năm năm, trưng cầu dân ý ở Nam Kỳ), Nam Kỳ quốc 1/6: https://vi.wikipedia.org/wiki/Hi%E1%BB%87p_%C4%91%E1%BB%8Bnh_s%C6%A1_b%E1%BB%99_Ph%C3%A1p_%E2%80%93_Vi%E1%BB%87t_(1946)

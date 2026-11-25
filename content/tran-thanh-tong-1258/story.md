@@ -46,6 +46,29 @@ Tháng 3 năm 1266, vua mở khoa thi thái học sinh, lấy 51 người. Trầ
 
 Đầu năm 1261, vua cho chọn đinh tráng các lộ làm lính; năm 1262, ra lệnh chế tạo khí giới, đóng chiến thuyền, cho quân thuỷ bộ tập trận ở chín bãi phù sa sông Bạch Hạc. Năm 1278, ông nhường ngôi cho Trần Nhân Tông, làm Thái thượng hoàng, cùng con lãnh đạo hai cuộc kháng chiến chống quân Nguyên 1285 và 1288. Ông mất ngày 3 tháng 7 năm 1290.
 
+## Ôn tập
+
+1. Ngày 30 tháng 3 năm 1258, vua Trần Thái Tông làm gì?
+   - [ ] Mất, thái tử Hoảng lên ngôi
+   - [x] Nhường ngôi cho thái tử Hoảng và lui làm Thái thượng hoàng
+   - [ ] Dời đô về Thiên Trường
+
+   Việc này để con làm quen chính sự và tránh tranh ngôi giữa các hoàng tử. [Xem lại](#nhuong-ngoi)
+
+2. Khoa thi thái học sinh tháng 3 năm 1266 chia hai danh hiệu trạng nguyên cho những ai?
+   - [ ] Kinh trạng nguyên cho người đỗ cao tuổi, Trại trạng nguyên cho người trẻ
+   - [x] Kinh trạng nguyên cho người từ Ninh Bình trở ra, Trại trạng nguyên cho người hai châu Hoan, Ái
+   - [ ] Kinh trạng nguyên cho văn thần, Trại trạng nguyên cho võ tướng
+
+   Khoa này lấy 51 người; Trần Cố đỗ Kinh trạng nguyên, Bạch Liêu đỗ Trại trạng nguyên. [Xem lại](#khoa-thi)
+
+3. Năm 1262, vua nâng hương Tức Mặc, quê gốc nhà Trần, thành gì?
+   - [ ] Kinh đô Hoa Lư
+   - [ ] Phủ Phú Xuân
+   - [x] Phủ Thiên Trường
+
+   Vua dựng cung Trùng Quang cho Thượng hoàng, cung Trùng Hoa cho vua khi về thăm, và chùa Phổ Minh. [Xem lại](#thien-truong)
+
 ## Nguồn tham khảo
 
 - "Trần Thánh Tông", Wikipedia tiếng Việt — nhường ngôi ngày 30/3/1258, niên hiệu Thiệu Long, Bảo Phù, lời Toàn thư về sự hoà thuận trong tôn thất, phủ Thiên Trường 1262, Hàn lâm viện và Trung thư lệnh 1267, nhận xét của Phan Huy Chú, khoa thi 1266 (Kinh trạng nguyên, Trại trạng nguyên), Tư nghiệp Quốc tử giám 1272, Đại Việt sử ký, tuyển quân 1261, tập trận Bạch Hạc 1262, nhường ngôi 1278, mất ngày 3/7/1290: https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Th%C3%A1nh_T%C3%B4ng
