@@ -67,6 +67,29 @@ Người đời sau thường nhắc Diên Hồng như biểu tượng của vi�
 
 Sau đó là các trận Hàm Tử, Chương Dương và những chiến thắng khác của cuộc kháng chiến lần thứ hai.
 
+## Ôn tập
+
+1. Khi triều đình nhà Trần hỏi nên hoà hay nên đánh, theo Toàn thư các bô lão trả lời thế nào?
+   - [ ] Đa số xin hoà để giữ yên dân
+   - [x] Đều nói "đánh", muôn người cùng hô một tiếng
+   - [ ] Xin vua Trần sang chầu nhà Nguyên
+
+   Sử cũ chép sự việc rất ngắn; số người dự và chi tiết buổi họp không được ghi rõ. [Xem lại](#dien-hong)
+
+2. Cuối năm 1284, quân Nguyên chuẩn bị đánh Đại Việt từ những hướng nào?
+   - [ ] Chỉ từ phương bắc, do Thoát Hoan chỉ huy
+   - [ ] Từ phía đông và phía tây, do Toa Đô chỉ huy
+   - [x] Từ phương bắc do Thoát Hoan và từ phía nam do Toa Đô đưa từ Chiêm Thành lên
+
+   Từ năm 1283, Trần Quốc Tuấn được giao thống lĩnh các đạo quân. [Xem lại](#ap-sat)
+
+3. Đầu năm 1285, khi quân Nguyên vượt biên giới, nhà Trần làm gì?
+   - [ ] Giữ thành Thăng Long đến cùng
+   - [x] Tạm rút khỏi Thăng Long để bảo toàn lực lượng, chờ thời cơ phản công
+   - [ ] Sai sứ sang xin hoà với nhà Nguyên
+
+   Sau đó là các trận Hàm Tử, Chương Dương và những chiến thắng khác của cuộc kháng chiến lần thứ hai. [Xem lại](#mo-man)
+
 ## Nguồn tham khảo
 
 - Đại Việt sử ký toàn thư (Ngô Sĩ Liên và các sử thần, 1479), Bản kỷ — phần Trần Nhân Tông: https://vi.wikisource.org/wiki/%C4%90%E1%BA%A1i_Vi%E1%BB%87t_s%E1%BB%AD_k%C3%BD_to%C3%A0n_th%C6%B0

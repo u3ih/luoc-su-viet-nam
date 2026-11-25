@@ -46,6 +46,28 @@ Theo số liệu chính thức của Việt Nam, đợt ném bom làm ít nhất
 
 Hai bên ghi số máy bay bị bắn rơi rất khác nhau: phía Việt Nam công bố 81 máy bay, trong đó có 34 chiếc B-52; phía Mỹ ghi nhận 15 hoặc 16 chiếc B-52 và khoảng 12 máy bay chiến thuật. Phía Mỹ có 33 thành viên tổ lái B-52 chết hoặc mất tích, 33 người bị bắt. Phía Việt Nam ghi nhận phi công Phạm Tuân lái MiG-21 bắn rơi một B-52 đêm 27 tháng 12; một số nguồn Mỹ không xác nhận chiến công này. Ngày 29 tháng 12, ném bom chấm dứt; hai bên trở lại bàn đàm phán. Ngày 27 tháng 1 năm 1973, Hiệp định Paris được ký với nội dung gần như bản thoả thuận tháng 10.
 
+## Ôn tập
+
+1. Điều gì xảy ra ngày 16 tháng 12 năm 1972, ngay trước khi Mỹ ra lệnh ném bom từ ngày 18 tháng 12?
+   - [ ] Hiệp định Paris được ký
+   - [x] Cuộc đàm phán đổ vỡ
+   - [ ] Hai bên đạt thoả thuận ngừng bắn tại chỗ
+
+   Sau đó Nixon gửi tối hậu thư đòi miền Bắc trở lại bàn đàm phán trong 72 giờ. [Xem lại](#ban-dam-phan)
+
+2. Đêm 26 tháng 12 năm 1972, bom trải thảm phá sập nơi nào ở Hà Nội?
+   - [ ] Bệnh viện Bạch Mai
+   - [x] Dãy phố Khâm Thiên
+
+   Bệnh viện Bạch Mai bị bom từ ngày 22 tháng 12; còn đêm 26 tháng 12 dãy phố Khâm Thiên bị phá sập, ngày nay ở đây có bia tưởng niệm. [Xem lại](#kham-thien)
+
+3. Hiệp định Paris được ký ngày 27 tháng 1 năm 1973 có nội dung thế nào so với thoả thuận tháng 10 năm 1972?
+   - [ ] Hoàn toàn khác, theo điều kiện mới của Mỹ
+   - [x] Gần như bản thoả thuận tháng 10
+   - [ ] Không đề cập việc ngừng bắn
+
+   Ngày 29 tháng 12, ném bom chấm dứt và hai bên trở lại bàn đàm phán. Số máy bay bị bắn rơi do hai phía công bố rất khác nhau. [Xem lại](#tro-lai-paris)
+
 ## Nguồn tham khảo
 
 - “Operation Linebacker II”, Wikipedia tiếng Anh — đàm phán tháng 10, Thiệu bác bỏ, đổ vỡ 16/12, tối hậu thư 72 giờ, ném bom 18 – 29/12/1972 với hơn 200 B-52, 741 phi vụ, hơn 20.000 tấn bom, 266 tên lửa SA-2, 741 phi vụ B-52 (729 hoàn thành), 15.237 tấn bom của B-52 và khoảng 5.000 tấn của máy bay chiến thuật, 120 máy bay ném bom đêm 26/12, 1.624 dân thường chết theo nguồn chính thức Việt Nam (1.328 ở Hà Nội, 306 ở Hải Phòng) và 2.368 người theo một cuốn sách khác, Bạch Mai 22/12 (1 bệnh nhân, 30 y bác sĩ), Khâm Thiên 26/12 (278 người chết, 290 bị thương, bia và tượng tưởng niệm), 15 – 16 B-52 theo phía Mỹ, 81 máy bay (34 B-52) theo phía Việt Nam, 33 thành viên tổ lái B-52 chết hoặc mất tích và 33 bị bắt, Hiệp định Paris 27/1/1973: https://en.wikipedia.org/wiki/Operation_Linebacker_II

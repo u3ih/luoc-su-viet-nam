@@ -47,6 +47,29 @@ Anh hiệu xốc ống bài, rút một con và xướng lên bằng một câu 
 
 Ngày 7 tháng 12 năm 2017, tại phiên họp lần thứ mười hai của Ủy ban liên chính phủ Công ước 2003 về bảo vệ di sản văn hóa phi vật thể của UNESCO ở đảo Jeju, Hàn Quốc, hồ sơ nghệ thuật Bài chòi Trung Bộ của Việt Nam được ghi danh là di sản văn hóa phi vật thể đại diện của nhân loại.
 
+## Ôn tập
+
+1. Tương truyền, bài chòi khởi đầu từ đâu?
+   - [ ] Từ các buổi tế lễ trong cung đình
+   - [x] Từ những chòi canh thú dữ ven rừng, nơi người canh hát hò và chơi bài hô với nhau
+   - [ ] Từ trò chơi của thương nhân trên thuyền buôn
+
+   Tương truyền, dân làng dựng chòi cao canh thú dữ phá mùa màng; để đỡ buồn, người trên chòi hát, hò đối đáp rồi nghĩ ra cách chơi bài hô giữa các chòi. [Xem lại](#choi-canh)
+
+2. Khi nào một chòi được gọi là chòi "tới"?
+   - [ ] Khi trúng con bài đầu tiên
+   - [ ] Khi chòi ấy là chòi trung tâm giữa sân
+   - [x] Khi trúng đủ ba con bài
+
+   Chòi nào trúng thì gõ mõ; trúng đủ ba con là chòi "tới", xổ một hồi mõ dài và được anh hiệu bưng khay rượu, lá cờ đuôi nheo tới thưởng. [Xem lại](#ho-thai)
+
+3. Ngày 7 tháng 12 năm 2017, UNESCO ghi danh nghệ thuật Bài chòi Trung Bộ là gì?
+   - [x] Di sản văn hóa phi vật thể đại diện của nhân loại
+   - [ ] Di sản thế giới thuộc loại hình thiên nhiên
+   - [ ] Di sản tư liệu thế giới
+
+   Hồ sơ của Việt Nam được ghi danh tại phiên họp lần thứ mười hai của Ủy ban liên chính phủ Công ước 2003 ở đảo Jeju, Hàn Quốc. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Bài chòi", Wikipedia tiếng Việt — nguồn gốc chòi canh, phạm vi di sản, cách dựng chòi, bộ bài 33 lá, anh hiệu và câu thai, cách thưởng, ban nhạc, ghi danh ngày 7/12/2017 ở Jeju: https://vi.wikipedia.org/wiki/B%C3%A0i_ch%C3%B2i

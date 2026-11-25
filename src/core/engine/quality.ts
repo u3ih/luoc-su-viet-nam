@@ -42,6 +42,8 @@ const TIERS: Record<Tier, Omit<Quality, "tier">> = {
 const ORDER: Tier[] = ["high", "mid", "low"];
 
 const STORAGE_KEY = "lsvn-quality";
+/** Phát khi cảnh vẫn chậm dù đã hạ độ phân giải tới đáy. */
+export const SLOW_EVENT = "lsvn-slow";
 const TTL_MS = 7 * 24 * 60 * 60 * 1000;
 
 function read(): string | null {
@@ -105,6 +107,8 @@ export function canStepDown(q: Quality) {
 
 /** Máy không theo kịp ở bậc này: nhớ bậc thấp hơn (`steps` nấc, mặc định 1) cho lần mở sau. */
 export function reportSlow(q: Quality, steps = 1) {
+  // giao diện gợi ý đọc bản chữ (StoryShell nghe sự kiện này)
+  window.dispatchEvent(new Event(SLOW_EVENT));
   if (!canStepDown(q)) return;
   const next = ORDER[Math.min(ORDER.length - 1, ORDER.indexOf(q.tier) + steps)];
   const saved = rememberedTier();

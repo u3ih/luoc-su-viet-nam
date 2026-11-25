@@ -60,6 +60,29 @@ Bài tham khảo ghi lực lượng Đại Việt khoảng hai mươi đến ba 
 
 Đại Việt sử ký toàn thư chép Lý Quán còn lại năm vạn người; Trần Xuân Sinh cho rằng tổn thất thực tế chỉ khoảng mười đến hai mươi vạn chết hoặc bị bắt, vì quân Nguyên còn đủ sức đánh lần thứ ba. Các nguồn cũng khác nhau về ngày Toa Đô tiến ra Bắc.
 
+## Ôn tập
+
+1. Ở trận Hàm Tử, ai làm chánh tướng của quân Trần?
+   - [ ] Trần Quang Khải
+   - [x] Trần Nhật Duật
+   - [ ] Phạm Ngũ Lão
+
+   Ở Hàm Tử, Trần Nhật Duật làm chánh tướng; Trần Quang Khải là chánh tướng ở Chương Dương. [Xem lại](#ham-tu)
+
+2. Ở Chương Dương, phần lớn thuyền chiến của quân Nguyên chịu kết cục nào?
+   - [x] Bị đốt hoặc bị chiếm
+   - [ ] Rút an toàn về bờ bắc
+   - [ ] Bị chìm vì bão
+
+   Sau đó Trần Quang Khải đánh bại Mã Vinh ngoài thành rồi vây Thăng Long. [Xem lại](#chuong-duong)
+
+3. Ở trận Tây Kết, tướng Nguyên nào đầu hàng và dẫn đường cho quân Trần?
+   - [ ] Ô Mã Nhi
+   - [ ] Lưu Khuê
+   - [x] Trương Hiển
+
+   Toa Đô tử trận; Ô Mã Nhi và Lưu Khuê trốn bằng thuyền nhỏ ra biển. [Xem lại](#tay-ket)
+
 ## Nguồn tham khảo
 
 - "Chiến tranh Nguyên Mông – Đại Việt lần 2", Wikipedia tiếng Việt — phần phản công 1285, số liệu, các chỗ nguồn khác nhau: https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Nguy%C3%AAn_M%C3%B4ng_%E2%80%93_%C4%90%E1%BA%A1i_Vi%E1%BB%87t_l%E1%BA%A7n_2

@@ -58,6 +58,29 @@ Hầu hết các nguồn chép ông tự tận để không rơi vào tay Pháp.
 
 Sau khi ông mất, vua Tự Đức cho truy tặng phẩm hàm. Ở Gò Công có đền thờ Trương Định; ngày 20 tháng 8 hằng năm là ngày giỗ của ông.
 
+## Ôn tập
+
+1. Theo Hoà ước Nhâm Tuất ngày 5 tháng 6 năm 1862, triều Nguyễn nhượng cho Pháp ba tỉnh nào?
+   - [ ] An Giang, Vĩnh Long, Hà Tiên
+   - [x] Biên Hoà, Gia Định, Định Tường
+   - [ ] Gia Định, Định Tường, Vĩnh Long
+
+   Theo văn bản, triều đình nhượng ba tỉnh Biên Hoà, Gia Định, Định Tường và đảo Côn Lôn. [Xem lại](#hoa-uoc)
+
+2. Khi vua Tự Đức ra lệnh cho nghĩa quân nghỉ binh, Trương Định làm gì?
+   - [ ] Về Phú Yên nhận chức mới
+   - [ ] Nhận thư dụ hàng của phía Pháp
+   - [x] Không tuân lệnh, bị cách chức hàm và rút về Gò Công
+
+   Trương Định không tuân lệnh và bị cách chức hàm; ông không nhận thư dụ hàng của phía Pháp, rút về Gò Công. [Xem lại](#bai-binh)
+
+3. Vì sao bản doanh của Trương Định ở Gò Công về sau được gọi là "Đám lá tối trời"?
+   - [ ] Vì bản doanh nằm sâu trong rừng già trên núi cao
+   - [x] Vì nằm ở vùng sông rạch chằng chịt, dừa nước um tùm
+   - [ ] Vì nghĩa quân chỉ hoạt động vào ban đêm
+
+   Bản doanh nằm ở vùng sông rạch chằng chịt, dừa nước um tùm, nên về sau được gọi là "Đám lá tối trời". [Xem lại](#go-cong)
+
 ## Nguồn tham khảo
 
 - "Trương Định", Wikipedia tiếng Việt — hoà ước, bãi binh, Gò Công, "Đám lá tối trời", cái chết, các nguồn khác nhau: https://vi.wikipedia.org/wiki/Tr%C6%B0%C6%A1ng_%C4%90%E1%BB%8Bnh

@@ -46,6 +46,29 @@ Ngày 27 tháng 1 năm 1973, hiệp định được ký ở Paris. Bốn ngoạ
 
 Ngày 29 tháng 3 năm 1973, những quân nhân Mỹ cuối cùng rời Việt Nam. Điều khoản rút quân và trao trả tù binh được thực hiện; điều khoản ngừng bắn thì không — giao tranh giữa hai miền tiếp diễn. Lê Đức Thọ và Kissinger được trao giải Nobel Hoà bình năm 1973; Lê Đức Thọ từ chối nhận vì hoà bình chưa thật sự lập lại ở Việt Nam.
 
+## Ôn tập
+
+1. Hiệp định ký ở Paris ngày 27 tháng 1 năm 1973 do những bên nào ký?
+   - [ ] Hai bên: Hoa Kỳ và Việt Nam Dân chủ Cộng hoà
+   - [x] Bốn bên: Việt Nam Dân chủ Cộng hoà, Chính phủ Cách mạng lâm thời, Hoa Kỳ, Việt Nam Cộng hoà
+   - [ ] Năm bên, có thêm các nước giám sát
+
+   Bốn ngoại trưởng ký: Nguyễn Duy Trinh, Nguyễn Thị Bình, William Rogers, Trần Văn Lắm. Uỷ ban quốc tế chỉ giám sát việc thi hành. [Xem lại](#ky-ket)
+
+2. Nội dung chính của hiệp định được quyết định ở đâu?
+   - [ ] Trong các phiên họp công khai bốn bên
+   - [ ] Tại Liên Hợp Quốc
+   - [x] Trong các cuộc gặp riêng giữa Lê Đức Thọ và Henry Kissinger
+
+   Hội nghị công khai bốn bên nhiều năm bế tắc; nội dung chính được quyết định trong các cuộc gặp riêng giữa hai ông. [Xem lại](#hop-kin)
+
+3. Sau khi hiệp định được ký, điều khoản nào không được thực hiện?
+   - [ ] Rút quân nhân Mỹ khỏi Việt Nam
+   - [ ] Trao trả tù binh
+   - [x] Ngừng bắn
+
+   Ngày 29 tháng 3 năm 1973, những quân nhân Mỹ cuối cùng rời Việt Nam; điều khoản rút quân và trao trả tù binh được thực hiện, còn giao tranh giữa hai miền vẫn tiếp diễn. [Xem lại](#rut-quan)
+
 ## Nguồn tham khảo
 
 - “Hiệp định Paris 1973”, Wikipedia tiếng Việt — ký 27/1/1973 bởi bốn bên, vai trò các cuộc họp kín, những người ký, lính Mỹ cuối cùng rời Việt Nam 29/3/1973, các điều khoản, giải Nobel và việc Lê Đức Thọ từ chối: https://vi.wikipedia.org/wiki/Hi%E1%BB%87p_%C4%91%E1%BB%8Bnh_Paris_1973

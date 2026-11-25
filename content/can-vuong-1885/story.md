@@ -60,6 +60,29 @@ Tháng 9 năm 1885, Pháp đưa Đồng Khánh lên ngôi ở Huế. Cuối năm
 
 Ở Huế, ngày 23 tháng 5 âm lịch về sau thành ngày tưởng niệm hằng năm những người đã ngã xuống.
 
+## Ôn tập
+
+1. Chiếu Cần Vương do ai ban ra, từ đâu?
+   - [ ] Tôn Thất Thuyết, từ kinh thành Huế
+   - [ ] Đồng Khánh, từ kinh thành Huế
+   - [x] Vua Hàm Nghi, từ Tân Sở
+
+   Ngày 13 tháng 7 năm 1885, từ Tân Sở, vua Hàm Nghi ban chiếu kêu gọi văn thân, sĩ phu và nhân dân cả nước đứng lên giúp vua kháng chiến chống Pháp. [Xem lại](#chieu-can-vuong)
+
+2. Cuộc đánh quân Pháp đêm 4 rạng ngày 5 tháng 7 năm 1885 có kết quả thế nào?
+   - [ ] Quân triều đình thắng, đẩy lùi quân Pháp
+   - [x] Thất bại; vua Hàm Nghi rời kinh thành
+   - [ ] Hai bên đình chiến
+
+   Quân Pháp bị bất ngờ lúc đầu nhưng phản công vào rạng sáng; cuộc đánh thất bại và vua Hàm Nghi được Tôn Thất Thuyết đưa ra Tân Sở. [Xem lại](#roi-kinh)
+
+3. Tháng 9 năm 1885, Pháp đưa ai lên ngôi ở Huế?
+   - [ ] Hàm Nghi
+   - [ ] Gia Long
+   - [x] Đồng Khánh
+
+   Sau đó, cuối năm 1888 vua Hàm Nghi bị bắt; phong trào kéo dài tới khoảng năm 1896. [Xem lại](#nguyen-hau)
+
 ## Nguồn tham khảo
 
 - "Trận Kinh thành Huế 1885", Wikipedia tiếng Việt — bối cảnh, diễn biến đêm 4 rạng ngày 5 tháng 7, hậu quả, các số liệu khác nhau: https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_Kinh_th%C3%A0nh_Hu%E1%BA%BF_1885

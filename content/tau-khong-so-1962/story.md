@@ -46,6 +46,29 @@ Giữa tháng 2 năm 1965, tàu 143 dỡ xong hơn 63 tấn vũ khí ở vịnh 
 
 Cuối tháng 1 năm 1964, Đoàn 759 chuyển về Hải quân, đổi phiên hiệu thành Đoàn 125, nay là Lữ đoàn 125. Số liệu tổng kết từ năm 1961 đến 1975 khác nhau giữa các nguồn: báo Sài Gòn Giải Phóng ghi gần 1.000 lượt tàu, chở hơn 97.000 tấn vũ khí, hàng hoá và hơn 28.000 lượt cán bộ, chiến sĩ; nguồn khác ghi khoảng hai nghìn lượt tàu thuyền với gần 160 nghìn tấn vũ khí. Nhiều thuỷ thủ đã hy sinh, như thuyền trưởng tàu 235 Nguyễn Phan Vinh. Bến Vàm Lũng (Cà Mau) nay là di tích quốc gia đặc biệt.
 
+## Ôn tập
+
+1. Vì sao các con tàu được gọi là "tàu không số"?
+   - [ ] Vì tàu bị xoá hết số hiệu sau mỗi chuyến đi
+   - [x] Vì các con tàu không mang số hiệu cố định
+   - [ ] Vì tàu chỉ chạy vào ban đêm
+
+   Tàu Phương Đông 1 của Đoàn 759, thuyền trưởng Lê Văn Một, rời Hải Phòng đêm 11 tháng 10 năm 1962, cập bến Vàm Lũng (Cà Mau). [Xem lại](#phuong-dong-1)
+
+2. Các tàu sắt nguỵ trang như thế nào khi đi trên biển?
+   - [ ] Sơn màu xám giống tàu chiến
+   - [ ] Đi sát bờ để tránh bị phát hiện
+   - [x] Chất ngư lưới cụ lên trên, thuỷ thủ giả làm ngư dân vá lưới trên boong
+
+   Ngoài khơi, tàu thường đổi số hiệu và cờ; luôn có sẵn thuốc nổ để tự huỷ nếu bị phát hiện. [Xem lại](#nguy-trang)
+
+3. Sau sự việc ở vịnh Vũng Rô (tháng 2 năm 1965), các chuyến tàu thay đổi thế nào?
+   - [ ] Đi gần bờ hơn để rút ngắn thời gian
+   - [ ] Ngừng hoạt động hoàn toàn
+   - [x] Đi xa bờ hơn, định hướng bằng hàng hải thiên văn
+
+   Tàu 143 bị máy bay phát hiện, con đường hết bí mật. [Xem lại](#vung-ro)
+
 ## Nguồn tham khảo
 
 - “Bản hùng ca trên biển của Hải quân nhân dân Việt Nam”, Báo Nhân Dân — Đoàn 759 thành lập 23/10/1961, tàu gỗ đầu tiên rời Đồ Sơn đêm 11/10/1962 chở 30 tấn vũ khí, thuyền trưởng Lê Văn Một, chính trị viên Bông Văn Dĩa, vào bến Vàm Lũng ngày 16/10, tàu vỏ sắt đầu tiên của Đinh Đạt chở 44 tấn vào Trà Vinh ngày 17/3/1963, đổi phiên hiệu thành Đoàn 125 ngày 29/1/1964: https://special.nhandan.vn/ban-hung-ca-tren-bien-cua-Hai-quan-nhan-dan-Viet-Nam/index.html

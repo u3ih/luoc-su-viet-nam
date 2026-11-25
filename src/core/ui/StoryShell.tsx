@@ -2,17 +2,22 @@
 
 import dynamic from "next/dynamic";
 import { useEffect, useRef, useState } from "react";
+import { setNarrationLang } from "../audio/narrator";
+import { SLOW_EVENT } from "../engine/quality";
 import { markSeen } from "../story/progress";
 import { computeT, resetStory, story } from "../story/store";
-import { narrationOf, type Chapter } from "../types";
+import { narrationOf, type Chapter, type JourneyStep } from "../types";
 import BeatSection from "./BeatSection";
-import ChapterEnd from "./ChapterEnd";
+import ChapterEnd, { AUTOPLAY_KEY } from "./ChapterEnd";
+import { Link } from "@/core/ui";
 import { ScrollTrigger } from "./gsap";
 import Hero from "./Hero";
 import { useAmbient } from "./hooks/useAmbient";
 import { useNarration } from "./hooks/useNarration";
 import { useSmoothScroll } from "./hooks/useSmoothScroll";
+import { href, uiText } from "./i18n";
 import IntroOverlay from "./IntroOverlay";
+import css from "./StoryShell.module.scss";
 import Timeline from "./Timeline";
 import TopBar from "./TopBar";
 
@@ -25,7 +30,9 @@ type Status = "loading" | "ready" | "fallback";
  * Khung trang kể chuyện dùng cho MỌI chương. Nhận dữ liệu chương (chữ + cấu hình cảnh)
  * và tự lo: cảnh 3D, cuộn mượt, dòng thời gian, giọng kể, âm thanh, tương tác.
  */
-export default function StoryShell({ chapter, textUrl, editUrl }: { chapter: Chapter; textUrl: string; editUrl: string }) {
+export default function StoryShell({ chapter, editUrl }: { chapter: Chapter; editUrl: string }) {
+  const t = uiText(chapter.lang);
+  const textUrl = href.text(chapter.slug, chapter.lang);
   const sections = useRef<(HTMLElement | null)[]>([]);
   const progressRef = useRef<HTMLDivElement>(null);
   const [status, setStatus] = useState<Status>("loading");
@@ -36,6 +43,10 @@ export default function StoryShell({ chapter, textUrl, editUrl }: { chapter: Cha
   const [spokenAt, setSpokenAt] = useState(-1);
   /** Phân cảnh tương tác mà máy đang tự kéo giúp người xem. */
   const [autoInteract, setAutoInteract] = useState<string | null>(null);
+  /** Hành trình đang đi (?hanh-trinh=…) — đọc sau khi mount vì trang dựng tĩnh. */
+  const [journey, setJourney] = useState<JourneyStep | null>(null);
+  const [presenting, setPresenting] = useState(false);
+  const [notice, setNotice] = useState<"slow" | "fail" | null>(null);
 
   const scroll = useSmoothScroll();
   const ambient = useAmbient();
@@ -50,6 +61,61 @@ export default function StoryShell({ chapter, textUrl, editUrl }: { chapter: Cha
     if (opened) markSeen(chapter.slug, active, chapter.beats.length);
   }, [active, opened, chapter]);
   const narration = useNarration(narrationText, narrationAudio, () => setSpokenAt(activeRef.current));
+
+  useEffect(() => {
+    setNarrationLang(chapter.lang);
+    const id = new URLSearchParams(window.location.search).get("hanh-trinh");
+    setJourney(chapter.journeys.find((j) => j.id === id) ?? null);
+  }, [chapter]);
+
+  // Tới từ chương trước bằng chế độ nghe kể: mở màn xong thì tự kể tiếp.
+  useEffect(() => {
+    if (!opened) return;
+    let auto = false;
+    try {
+      auto = sessionStorage.getItem(AUTOPLAY_KEY) === "1";
+      sessionStorage.removeItem(AUTOPLAY_KEY);
+    } catch {
+      auto = false;
+    }
+    if (auto && !narration.on) void narration.toggle();
+    // chỉ chạy một lần khi màn mở
+  }, [opened]);
+
+  // Máy yếu: gợi ý đọc bản chữ (một lần mỗi trang).
+  useEffect(() => {
+    const onSlow = () => setNotice((n) => n ?? "slow");
+    window.addEventListener(SLOW_EVENT, onSlow);
+    return () => window.removeEventListener(SLOW_EVENT, onSlow);
+  }, []);
+  useEffect(() => {
+    if (status === "fallback") setNotice("fail");
+  }, [status]);
+
+  // Trình chiếu: chữ to, ← → / bấm vào cảnh để chuyển phân cảnh, Esc để thoát.
+  useEffect(() => {
+    const root = document.documentElement;
+    root.classList.toggle("is-presenting", presenting);
+    // chữ đổi cỡ thì vị trí các phân cảnh đổi theo: giữ phân cảnh đang xem ở giữa màn
+    const keep = activeRef.current;
+    const recenter = setTimeout(() => goToRef.current(keep, 0.6), 400);
+    if (!presenting) return () => clearTimeout(recenter);
+    root.requestFullscreen?.().catch(() => {});
+    const onFs = () => !document.fullscreenElement && setPresenting(false);
+    const onClick = (e: MouseEvent) => {
+      if ((e.target as HTMLElement | null)?.closest("button, a, input, label, select, header, nav")) return;
+      stepRef.current(e.clientX < window.innerWidth / 4 ? -1 : 1);
+    };
+    document.addEventListener("fullscreenchange", onFs);
+    window.addEventListener("click", onClick);
+    return () => {
+      clearTimeout(recenter);
+      root.classList.remove("is-presenting");
+      document.removeEventListener("fullscreenchange", onFs);
+      window.removeEventListener("click", onClick);
+      if (document.fullscreenElement) void document.exitFullscreen().catch(() => {});
+    };
+  }, [presenting]);
 
   useEffect(() => {
     resetStory();
@@ -123,8 +189,10 @@ export default function StoryShell({ chapter, textUrl, editUrl }: { chapter: Cha
       if (el?.closest("input, textarea, select, [contenteditable]")) return;
       const onControl = !!el?.closest("button, a");
       let d = 0;
-      if (e.key === "ArrowDown" || e.key === "PageDown" || e.key === "j" || (e.key === " " && !e.shiftKey && !onControl)) d = 1;
-      else if (e.key === "ArrowUp" || e.key === "PageUp" || e.key === "k" || (e.key === " " && e.shiftKey && !onControl)) d = -1;
+      const presenting = document.documentElement.classList.contains("is-presenting");
+      if (e.key === "Escape" && presenting) return setPresenting(false);
+      if (e.key === "ArrowDown" || e.key === "PageDown" || e.key === "j" || (presenting && e.key === "ArrowRight") || (e.key === " " && !e.shiftKey && !onControl)) d = 1;
+      else if (e.key === "ArrowUp" || e.key === "PageUp" || e.key === "k" || (presenting && e.key === "ArrowLeft") || (e.key === " " && e.shiftKey && !onControl)) d = -1;
       else if (e.key === "Home") goToRef.current(0, 1.8);
       else if (e.key === "End") goToRef.current(Infinity, 1.8);
       else return;
@@ -171,32 +239,57 @@ export default function StoryShell({ chapter, textUrl, editUrl }: { chapter: Cha
       <div className={`scrim scrim--${chapter.beats[active]?.layout ?? (active % 2 === 0 ? "right" : "left")}`} aria-hidden="true" />
       <div className="progress" ref={progressRef} aria-hidden="true" />
 
-      <IntroOverlay ready={status !== "loading"} label={`${chapter.era} · ${chapter.year}`} title={chapter.title} onDone={() => setOpened(true)} />
+      <IntroOverlay lang={chapter.lang} ready={status !== "loading"} label={`${chapter.era} · ${chapter.year}`} title={chapter.title} onDone={() => setOpened(true)} />
 
-      <TopBar narration={narration} ambient={ambient} textUrl={textUrl} title={active > 0 ? `${chapter.title} · ${chapter.year}` : undefined} />
+      <TopBar
+        lang={chapter.lang}
+        narration={narration}
+        ambient={ambient}
+        textUrl={textUrl}
+        title={active > 0 ? `${chapter.title} · ${chapter.year}` : undefined}
+        present={{ on: presenting, toggle: () => setPresenting((p) => !p), chipClass: css.presentChip, exitClass: css.presentExit }}
+      />
       {narration.missing && (
         <p className="toast" role="status">
-          Trình duyệt này chưa có giọng đọc tiếng Việt nên trang sẽ tự cuộn theo nhịp đọc thầm. Muốn nghe kể, thử Microsoft Edge, Safari
-          hoặc Chrome trên Android.
+          {t.noVoice}
         </p>
       )}
-      <Timeline items={chapter.beats.map((b, i) => (i === 0 ? chapter.year : b.kicker))} active={active} onGo={(i) => goTo(i, 1.8)} />
+      {notice && (
+        <p className={css.notice} role="status">
+          <span>{notice === "slow" ? t.slow : t.noScene}</span>
+          <Link href={textUrl}>{t.slowRead} →</Link>
+          <button type="button" onClick={() => setNotice(null)} aria-label={t.cancel}>
+            ✕
+          </button>
+        </p>
+      )}
+      <Timeline lang={chapter.lang} items={chapter.beats.map((b, i) => (i === 0 ? chapter.year : b.kicker))} active={active} onGo={(i) => goTo(i, 1.8)} />
 
       <main>
         {chapter.beats.map((b, i) =>
           b.layout === "hero" ? (
-            <Hero key={b.id} chapter={chapter} beat={b} sectionRef={setRef(i)} play={opened} loading={status === "loading"} onStart={() => goTo(1, 2)} />
+            <Hero key={b.id} lang={chapter.lang} chapter={chapter} beat={b} sectionRef={setRef(i)} play={opened} loading={status === "loading"} onStart={() => goTo(1, 2)} />
           ) : (
             <BeatSection
               key={b.id}
               beat={b}
+              chapter={chapter}
               index={i}
               sectionRef={setRef(i)}
               completed={!!(b.interaction && completed[b.interaction.key])}
               autoPlay={!!b.interaction && autoInteract === b.interaction.key}
               onComplete={() => b.interaction && complete(b.interaction.key)}
             >
-              {i === last && <ChapterEnd chapter={chapter} textUrl={textUrl} editUrl={editUrl} onRestart={() => goTo(0, 3)} />}
+              {i === last && (
+                <ChapterEnd
+                  chapter={chapter}
+                  editUrl={editUrl}
+                  journey={journey}
+                  autoNext={narration.on && spokenAt === last && active === last}
+                  onRestart={() => goTo(0, 3)}
+                  onReview={(id) => goTo(chapter.beats.findIndex((x) => x.id === id), 2)}
+                />
+              )}
             </BeatSection>
           ),
         )}

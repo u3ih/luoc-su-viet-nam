@@ -47,6 +47,29 @@ Cao nguyên là nơi sinh sống của khoảng 360.000 người thuộc mười
 
 Tháng 4 năm 2010, hồ sơ được đệ trình UNESCO. Ngày 3 tháng 10 năm 2010, Hội đồng tư vấn Mạng lưới Công viên địa chất toàn cầu (GGN) công nhận "Công viên địa chất cao nguyên đá Đồng Văn" là công viên địa chất toàn cầu — khi ấy là danh hiệu duy nhất ở Việt Nam và thứ hai ở Đông Nam Á.
 
+## Ôn tập
+
+1. Ngày 3 tháng 10 năm 2010, cao nguyên đá Đồng Văn được công nhận là gì?
+   - [ ] Di sản văn hóa thế giới
+   - [ ] Khu dự trữ sinh quyển thế giới
+   - [x] Công viên địa chất toàn cầu, danh hiệu duy nhất ở Việt Nam khi ấy
+
+   Hội đồng tư vấn Mạng lưới Công viên địa chất toàn cầu (GGN) công nhận; khi ấy là danh hiệu duy nhất ở Việt Nam và thứ hai ở Đông Nam Á. [Xem lại](#ve-sau)
+
+2. Cao nguyên Đồng Văn là nơi sinh sống của bao nhiêu dân tộc?
+   - [ ] Bốn
+   - [x] Mười chín
+   - [ ] Ba mươi
+
+   Khoảng 360.000 người thuộc mười chín dân tộc, trong đó có người Mông, Dao, Tày, Nùng, La Chí, Pu Péo, Pà Thẻn, Lô Lô. [Xem lại](#dan-toc)
+
+3. Cao nguyên đá Đồng Văn nằm ở vùng nào của Việt Nam?
+   - [ ] Vùng đồng bằng ven biển miền Trung
+   - [ ] Vùng đồi thấp phía nam
+   - [x] Vùng núi cực bắc, nhiều chỗ sát chí tuyến Bắc
+
+   Cao nguyên có diện tích khoảng 2.265 km², độ cao trung bình 1.200 – 1.400 mét, núi đá vôi dốc lớn. [Xem lại](#cao-nguyen)
+
 ## Nguồn tham khảo
 
 - "Cao nguyên đá Đồng Văn", Wikipedia tiếng Việt — các xã, diện tích, độ cao, tuổi đá, hóa thạch, khí hậu, mười chín dân tộc, hồ sơ tháng 4/2010, công nhận ngày 3/10/2010: https://vi.wikipedia.org/wiki/Cao_nguy%C3%AAn_%C4%91%C3%A1_%C4%90%E1%BB%93ng_V%C4%83n

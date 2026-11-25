@@ -47,6 +47,29 @@ Người Gò Mun ở trên những gò đồi nổi giữa đồng bằng và tr
 
 Gò Mun phát triển trực tiếp từ giai đoạn Đồng Đậu, và chứa đựng những tiền đề vật chất cho giai đoạn cao hơn: văn hóa Đông Sơn. Phùng Nguyên, Đồng Đậu, Gò Mun là ba giai đoạn lớn của thời đại đồng thau ở đồng bằng và trung du Bắc Bộ.
 
+## Ôn tập
+
+1. Người Gò Mun sống chủ yếu bằng nghề gì?
+   - [ ] Đánh cá trên biển khơi
+   - [ ] Chăn thả du mục
+   - [x] Trồng lúa nước
+
+   Họ sống chủ yếu bằng nghề trồng lúa nước, kết hợp chăn nuôi, săn bắn, đánh cá. [Xem lại](#lang-go)
+
+2. Đến giai đoạn Gò Mun, công cụ và vũ khí bằng đồng thau chiếm bao nhiêu?
+   - [ ] Dưới một phần mười
+   - [x] Trên một nửa
+   - [ ] Khoảng một phần năm
+
+   Công cụ và vũ khí bằng đồng thau chiếm trên 50%; kỹ thuật làm đồ đá dần suy thoái. [Xem lại](#do-dong)
+
+3. Văn hóa Gò Mun phát triển trực tiếp từ giai đoạn nào?
+   - [ ] Phùng Nguyên
+   - [ ] Đông Sơn
+   - [x] Đồng Đậu
+
+   Gò Mun phát triển trực tiếp từ giai đoạn Đồng Đậu và chứa đựng tiền đề vật chất cho văn hóa Đông Sơn. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Văn hóa Gò Mun", Wikipedia tiếng Việt — niên đại, khai quật năm 1961, phân bố, cư trú, đồ đồng, gốm, quan hệ với Đồng Đậu và Đông Sơn: https://vi.wikipedia.org/wiki/V%C4%83n_h%C3%B3a_G%C3%B2_Mun

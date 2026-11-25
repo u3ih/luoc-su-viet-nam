@@ -47,6 +47,29 @@ Tác phẩm có một số tình tiết hư cấu nên không được coi là c
 
 Bản gốc chữ Hán không còn và chưa từng được khắc in. Người ta sưu tầm được 12 dị bản chép tay bằng chữ Hán, trong đó 6 bản ở Thư viện Viện Nghiên cứu Hán Nôm.
 
+## Ôn tập
+
+1. Bảy hồi đầu (chính biên) của Hoàng Lê nhất thống chí do ai viết?
+   - [ ] Ngô Thì Du
+   - [x] Ngô Thì Chí
+   - [ ] Ngô Thì Thuyết
+
+   Mười hồi sau là phần tục biên, trong đó 7 hồi được cho là của Ngô Thì Du. [Xem lại](#muoi-bay-hoi)
+
+2. Vì sao Hoàng Lê nhất thống chí không được coi là chính sử?
+   - [ ] Vì sách viết bằng chữ Nôm
+   - [x] Vì tác phẩm có một số tình tiết hư cấu
+   - [ ] Vì tác giả không phải người đương thời
+
+   Dù vậy, vì tác giả là người đương thời, sách có giá trị mô tả đời sống và tâm lý người dân cuối thế kỷ XVIII. [Xem lại](#gia-tri)
+
+3. Về văn bản, hiện nay còn lại gì của Hoàng Lê nhất thống chí?
+   - [ ] Bản gốc chữ Hán đã được khắc in
+   - [x] 12 dị bản chép tay bằng chữ Hán, vì bản gốc không còn
+   - [ ] Một bản duy nhất ở Thư viện Viện Nghiên cứu Hán Nôm
+
+   Trong 12 dị bản, 6 bản ở Thư viện Viện Nghiên cứu Hán Nôm. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Hoàng Lê nhất thống chí", Wikipedia tiếng Việt — tên gọi, tác giả, 17 hồi, phạm vi nội dung, giá trị, văn bản: https://vi.wikipedia.org/wiki/Ho%C3%A0ng_L%C3%AA_nh%E1%BA%A5t_th%E1%BB%91ng_ch%C3%AD

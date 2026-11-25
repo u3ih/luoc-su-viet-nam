@@ -2,13 +2,16 @@
 
 import { useRef, useState } from "react";
 import { DongSonDrum, Kicker } from "@/core/ui";
+import type { Lang } from "../types";
 import { gsap, useGSAP } from "./gsap";
+import { uiText } from "./i18n";
 
 /**
  * Màn mở đầu: trống đồng xoay chậm trong lúc dựng cảnh, rồi "mở màn" bằng
  * vòng tròn loang ra từ tâm trống. Gọi onDone khi màn đã mở.
  */
-export default function IntroOverlay({ ready, label, title, onDone }: { ready: boolean; label: string; title: string; onDone: () => void }) {
+export default function IntroOverlay({ ready, label, title, onDone, lang }: { ready: boolean; label: string; title: string; onDone: () => void; lang: Lang }) {
+  const t = uiText(lang);
   const ref = useRef<HTMLDivElement>(null);
   const [gone, setGone] = useState(false);
 
@@ -47,7 +50,7 @@ export default function IntroOverlay({ ready, label, title, onDone }: { ready: b
       <div className="intro__text">
         <Kicker>{label}</Kicker>
         <p className="intro__title">{title}</p>
-        <p className="intro__hint">{ready ? "Mở màn" : "Đang dựng cảnh…"}</p>
+        <p className="intro__hint">{ready ? t.open : t.building}</p>
       </div>
     </div>
   );

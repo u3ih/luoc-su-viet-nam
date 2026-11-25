@@ -1,15 +1,18 @@
 import { Icon } from "@/core/ui";
+import type { Lang } from "../types";
+import { uiText } from "./i18n";
 import css from "./Timeline.module.scss";
 
 const pad = (n: number) => String(n).padStart(2, "0");
 
 /** Màn rộng: dòng thời gian bên phải. Điện thoại: thanh lùi/tới dưới đáy. */
-export default function Timeline({ items, active, onGo }: { items: string[]; active: number; onGo: (i: number) => void }) {
+export default function Timeline({ items, active, onGo, lang }: { items: string[]; active: number; onGo: (i: number) => void; lang: Lang }) {
+  const t = uiText(lang);
   const last = items.length - 1;
   return (
     <>
-      <nav className="timeline" aria-label="Các phân cảnh">
-        <button className={css.step} onClick={() => onGo(active - 1)} disabled={active <= 0} aria-label="Phân cảnh trước">
+      <nav className="timeline" aria-label={t.scenes}>
+        <button className={css.step} onClick={() => onGo(active - 1)} disabled={active <= 0} aria-label={t.prevScene}>
           <Icon name="up" size={16} />
         </button>
         <ol>
@@ -22,7 +25,7 @@ export default function Timeline({ items, active, onGo }: { items: string[]; act
             </li>
           ))}
         </ol>
-        <button className={css.step} onClick={() => onGo(active + 1)} disabled={active >= last} aria-label="Phân cảnh sau">
+        <button className={css.step} onClick={() => onGo(active + 1)} disabled={active >= last} aria-label={t.nextScene}>
           <Icon name="down" size={16} />
         </button>
         <p className={css.count} aria-hidden="true">
@@ -31,13 +34,13 @@ export default function Timeline({ items, active, onGo }: { items: string[]; act
         </p>
       </nav>
 
-      <nav className={`${css.bar} ${active > 0 ? css.shown : ""}`} aria-label="Chuyển phân cảnh">
+      <nav className={`${css.bar} ${active > 0 ? css.shown : ""}`} aria-label={t.sceneNav}>
         <ol className={css.segments} aria-hidden="true">
           {items.map((_, i) => (
             <li key={i} className={i <= active ? css.lit : ""} />
           ))}
         </ol>
-        <button className={css.barBtn} onClick={() => onGo(active - 1)} disabled={active <= 0} aria-label="Phân cảnh trước">
+        <button className={css.barBtn} onClick={() => onGo(active - 1)} disabled={active <= 0} aria-label={t.prevScene}>
           <Icon name="left" size={16} />
         </button>
         <p className={css.now}>
@@ -46,7 +49,7 @@ export default function Timeline({ items, active, onGo }: { items: string[]; act
           </span>
           <span className={css.nowLabel}>{items[active]}</span>
         </p>
-        <button className={css.barBtn} onClick={() => onGo(active + 1)} disabled={active >= last} aria-label="Phân cảnh sau">
+        <button className={css.barBtn} onClick={() => onGo(active + 1)} disabled={active >= last} aria-label={t.nextScene}>
           <Icon name="right" size={16} />
         </button>
       </nav>

@@ -126,3 +126,76 @@
     text-decoration: underline;
   }
 }
+
+.auto,
+.journeyDone,
+.chrono {
+  margin: 0 0 14px;
+  font-size: 14px;
+  color: var(--giay-mo);
+
+  button,
+  a {
+    color: var(--vang-nhat);
+    text-decoration: underline;
+    text-underline-offset: 4px;
+  }
+}
+
+.auto {
+  color: var(--vang-nhat);
+}
+
+.journeyDone {
+  font-weight: 600;
+  color: var(--vang-nhat);
+}
+
+.related {
+  display: grid;
+  gap: 14px;
+  margin-bottom: 24px;
+
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 8px;
+    list-style: none;
+  }
+
+  a {
+    display: inline-flex;
+    gap: 6px;
+    padding: 4px 10px;
+    font-size: 14px;
+    text-decoration: none;
+    color: var(--giay);
+    border: 1px solid var(--line);
+    transition: border-color 0.3s, color 0.3s;
+
+    &:hover,
+    &:focus-visible {
+      color: var(--vang-nhat);
+      border-color: var(--vang);
+    }
+
+    span {
+      color: var(--giay-mo);
+    }
+  }
+}
+
+.relatedHead {
+  margin-bottom: 6px;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--vang);
+
+  b {
+    letter-spacing: normal;
+    text-transform: none;
+    color: var(--giay);
+  }
+}

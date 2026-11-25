@@ -47,6 +47,29 @@ Dưa ngon, nhiều người tìm đến trao đổi, tiếng đồn khắp xa g�
 
 Ở xã Nga An (huyện Nga Sơn cũ, Thanh Hóa) nay có dãy núi mang tên Mai An Tiêm, tương truyền chính là hòn đảo xưa vợ chồng An Tiêm bị đày. Dưới chân núi có đền thờ ông; nhân dân địa phương mở lễ hội từ ngày 12 đến 15 tháng Ba âm lịch hằng năm.
 
+## Ôn tập
+
+1. Theo truyền thuyết, vì sao Mai An Tiêm bị đày ra đảo hoang?
+   - [ ] Vì thua trận trước giặc ngoại xâm
+   - [x] Vì làm phật ý vua Hùng
+   - [ ] Vì tự ý rời kinh đô đi buôn
+
+   Theo truyền thuyết, An Tiêm là con nuôi của Hùng Vương thứ mười bảy, được vua quý mến, gả cho nàng Ba. [Xem lại](#bi-day)
+
+2. Theo truyền thuyết, giống dưa hấu của vợ chồng An Tiêm bắt đầu từ đâu?
+   - [x] Từ hạt giống cây lạ do chim mang tới, An Tiêm nhặt được và đem gieo trồng
+   - [ ] Từ hạt giống do vua Hùng ban cho khi đày đi
+   - [ ] Từ cây dại mọc sẵn trên đảo từ lâu
+
+   Vợ chồng chăm chỉ làm ăn và cuối cùng gây được giống dưa hấu quý; An Tiêm được coi là ông tổ của nghề trồng dưa hấu. [Xem lại](#hat-giong)
+
+3. Theo truyền thuyết, vua làm gì khi biết tiếng đồn về dưa của An Tiêm?
+   - [ ] Sai quân ra đảo thu hết dưa
+   - [ ] Đày An Tiêm đi nơi xa hơn
+   - [x] Xuống chiếu gọi An Tiêm về và cho phục chức cũ
+
+   Dưa ngon, nhiều người tìm đến trao đổi, tiếng đồn khắp xa gần. [Xem lại](#trao-doi)
+
 ## Nguồn tham khảo
 
 - "Mai An Tiêm", Wikipedia tiếng Việt — con nuôi Hùng Vương thứ XVII, bị đày ra đảo hoang, hạt giống chim mang tới, dưa hấu, được gọi về phục chức, núi Mai An Tiêm và lễ hội ở Nga An: https://vi.wikipedia.org/wiki/Mai_An_Tiêm

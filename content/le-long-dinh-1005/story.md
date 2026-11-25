@@ -46,6 +46,29 @@ Năm 1007, Lê Long Đĩnh sai em là Minh Xưởng và Chưởng thư ký Hoàn
 
 Tháng 10 âm lịch năm 1009 (khoảng tháng 11 dương lịch), Lê Long Đĩnh mất khi mới ngoài hai mươi tuổi; con trai còn nhỏ, triều thần theo sự vận động của Chi hậu Đào Cam Mộc tôn Lý Công Uẩn lên ngôi, mở ra nhà Lý. Việt sử lược, Đại Việt sử ký toàn thư và Khâm định Việt sử thông giám cương mục đều chép ông tàn bạo, hoang dâm, các sách đời sau cho rằng ông chết vì bệnh; Tống sử cũng chép ông “tàn nhẫn bạo ngược”. Sử gia Ngô Thì Sĩ dẫn một chuyện dã sử nói ông bị Lý Công Uẩn đầu độc. Có ý kiến cho rằng những chuyện tàn bạo về ông đã bị đời sau thổi phồng để biện minh cho việc nhà Lý lên thay; cũng có người lưu ý rằng Tống sử, một nguồn bên ngoài, chép tương tự.
 
+## Ôn tập
+
+1. Sau cuộc tranh ngôi năm 1005, ai lên ngôi nhưng chỉ ba ngày sau bị Lê Long Đĩnh giết?
+   - [ ] Lê Long Kính
+   - [x] Lê Long Việt
+   - [ ] Lê Long Tích
+
+   Các hoàng tử tranh ngôi suốt tám tháng; Long Việt thắng, lên ngôi, rồi bị Long Đĩnh giết. Mùa đông năm ấy, Lê Long Đĩnh lên ngôi hoàng đế ở Hoa Lư. [Xem lại](#tranh-ngoi)
+
+2. Năm 1007, Lê Long Đĩnh sai sứ sang nhà Tống để xin gì?
+   - [ ] Quân cứu viện
+   - [ ] Giống lúa mới
+   - [x] Cửu kinh và kinh Đại Tạng
+
+   Sứ đoàn mang tê ngưu trắng sang biếu; nhà Tống phong ông làm Giao Chỉ quận vương. Trong nước, ông cho đóng thuyền, sửa đường, đào kênh. [Xem lại](#kinh-sach)
+
+3. Sau khi Lê Long Đĩnh mất năm 1009, triều thần tôn ai lên ngôi, mở ra nhà Lý?
+   - [ ] Đào Cam Mộc
+   - [ ] Hồ Thủ Ích
+   - [x] Lý Công Uẩn
+
+   Triều thần theo sự vận động của Chi hậu Đào Cam Mộc tôn Lý Công Uẩn lên ngôi. [Xem lại](#danh-gia)
+
 ## Nguồn tham khảo
 
 - “Lê Long Đĩnh”, Wikipedia tiếng Việt — tranh ngôi năm 1005 (trích An Nam chí lược, Đại Việt sử ký toàn thư), trại Phù Lan, phủ Thái Bình, năm lần cầm quân, sứ sang Tống năm 1007 xin Cửu kinh và kinh Đại Tạng (và năm 1008 theo Thích Mật Thể), đường sá kênh ở Ái Châu, cái chết năm 1009, nhận định của Toàn thư, Tống sử, Ngô Thì Sĩ: https://vi.wikipedia.org/wiki/L%C3%AA_Long_%C4%90%C4%A9nh

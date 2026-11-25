@@ -46,6 +46,29 @@ Ngoài biển, hạm đội Pháp đánh tan hạm đội Thanh ở Phúc Châu 
 
 Dù thắng ở Lạng Sơn, nhà Thanh thiếu sự ủng hộ từ bên ngoài, hải quân yếu thế và lo các mối đe doạ từ Nga, Nhật, nên phải nghị hoà. Ngày 9 tháng 6 năm 1885, Lý Hồng Chương và đại diện Pháp Patenôtre ký hiệp ước Thiên Tân: nhà Thanh thừa nhận quyền bảo hộ của Pháp ở Bắc Kỳ và Trung Kỳ, rút quân về nước, từ bỏ quan hệ triều cống với triều Nguyễn. Hiệp ước chỉ do Pháp và nhà Thanh thương thuyết; triều Nguyễn không tham dự.
 
+## Ôn tập
+
+1. Khi nào cuộc xung đột Pháp – Thanh thành chiến tranh dù không bên nào tuyên chiến?
+   - [ ] Từ năm 1882, khi Pháp chiếm thành Hà Nội
+   - [x] Từ tháng 8 năm 1884, sau giao tranh ở Bắc Lệ lan rộng (có nguồn tính mốc từ tháng 9)
+   - [ ] Từ năm 1885, sau trận Lạng Sơn
+
+   Ngày 23 tháng 6 năm 1884, quân Thanh chặn đánh một cánh quân Pháp ở Bắc Lệ. [Xem lại](#son-tay)
+
+2. Tháng 3 năm 1885, điều gì xảy ra với quân Pháp ở Lạng Sơn?
+   - [ ] Quân Pháp chiếm Lạng Sơn và giữ vững tới hết cuộc chiến
+   - [x] Sau trận Trấn Nam Quan, viên chỉ huy thay thế ra lệnh bỏ Lạng Sơn ngày 28 tháng 3
+   - [ ] Quân Pháp ký hoà ước ngay tại Lạng Sơn
+
+   Ở Pháp, tin này làm đổ chính phủ của thủ tướng Jules Ferry. [Xem lại](#lang-son)
+
+3. Ngày 9 tháng 6 năm 1885, hiệp ước Thiên Tân có nội dung gì?
+   - [x] Nhà Thanh thừa nhận quyền bảo hộ của Pháp ở Bắc Kỳ và Trung Kỳ, rút quân về nước
+   - [ ] Pháp rút quân khỏi Bắc Kỳ
+   - [ ] Triều Nguyễn cùng Pháp và nhà Thanh ký kết
+
+   Hiệp ước chỉ do Pháp và nhà Thanh thương thuyết; triều Nguyễn không tham dự. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Chiến tranh Pháp – Thanh", Wikipedia tiếng Việt — nguyên nhân, quân Vân Nam và Lưỡng Quảng vào Bắc Kỳ, Hoàng Kế Viêm, quân Cờ Đen, Phạm Thận Duật sang Thiên Tân cầu viện, Bắc Ninh (16.000 quân Pháp), thoả thuận Thiên Tân năm 1884, Bắc Lệ ngày 23/6/1884, Phúc Châu, Trấn Nam Quan, bỏ Lạng Sơn ngày 28/3/1885, hệ quả: https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Ph%C3%A1p_%E2%80%93_Thanh

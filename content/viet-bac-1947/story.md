@@ -46,6 +46,29 @@ Cánh thuỷ binh Pháp ngược sông Lô, sông Gâm, chiếm Tuyên Quang ng�
 
 Không bắt được cơ quan đầu não và không buộc được quân chủ lực Việt Minh giao chiến tập trung, quân Pháp rút dần khỏi Việt Bắc trong tháng 12. Các nguồn đánh giá khác nhau: phía Việt Nam coi đây là thất bại của chiến lược “đánh nhanh thắng nhanh”; nhiều sử gia phương Tây xem là thành công chiến thuật của Pháp, gây thiệt hại lớn, nhưng không quyết định về chiến lược.
 
+## Ôn tập
+
+1. Từ cuối năm 1946, cơ quan Trung ương, Chính phủ và Bộ Tổng chỉ huy chuyển đi đâu?
+   - [ ] Từ Hà Nội vào Sài Gòn
+   - [x] Từ Hà Nội lên Việt Bắc, các huyện được chọn làm An toàn khu
+   - [ ] Từ Việt Bắc về Hà Nội
+
+   Gần 63 nghìn người miền xuôi cùng hàng vạn tấn máy móc được chuyển lên núi. [Xem lại](#atk)
+
+2. Sáng 7 tháng 10 năm 1947, điều gì xảy ra ở thị xã Bắc Kạn?
+   - [ ] Quân Pháp đổ bộ lên bằng đường sông
+   - [x] Lính dù Pháp nhảy xuống, chiếm công sở, kho bạc, nhà máy đèn, nhưng cơ quan đầu não kháng chiến đã kịp rời đi
+   - [ ] Quân Pháp bắt được các lãnh đạo kháng chiến
+
+   Cuộc hành quân mang tên Léa. [Xem lại](#nhay-du)
+
+3. Vì sao quân Pháp rút dần khỏi Việt Bắc trong tháng 12 năm 1947 mà không đạt mục tiêu?
+   - [ ] Vì đã bắt được cơ quan đầu não nên hoàn thành nhiệm vụ
+   - [x] Vì không bắt được cơ quan đầu não và không buộc được quân chủ lực Việt Minh giao chiến tập trung
+   - [ ] Vì có lệnh ngừng bắn của hai bên
+
+   Các nguồn đánh giá cuộc hành quân này khác nhau. [Xem lại](#rut-lui)
+
 ## Nguồn tham khảo
 
 - “Chiến dịch Việt Bắc 1947”, Wikipedia tiếng Việt — An toàn khu, 63 nghìn người sơ tán, kế hoạch Léa, nhảy dù Bắc Kạn 7/10 và Chợ Đồn 8/10, cánh thuỷ binh và bộ binh, Đoan Hùng 24/10, đèo Bông Lau 29/10, rút quân tháng 12: https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Vi%E1%BB%87t_B%E1%BA%AFc_1947

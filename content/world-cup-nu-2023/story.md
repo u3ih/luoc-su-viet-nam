@@ -46,6 +46,30 @@ Giải vô địch bóng đá nữ thế giới 2023 diễn ra từ 20 tháng 7 
 
 Đội tuyển có biệt danh chính thức “Những nữ chiến binh sao vàng”. Sau thất bại ở vòng loại World Cup 2015, Việt Nam đẩy mạnh bóng đá nữ trong trường học, đại học và doanh nghiệp; tấm vé năm 2022 được xem là kết quả của những cải cách đó, dù bóng đá nữ vẫn còn thiếu một giải chuyên nghiệp trong nước.
 
+## Ôn tập
+
+1. Việt Nam giành vé dự World Cup nữ 2023 bằng cách nào?
+   - [ ] Vô địch Cúp bóng đá nữ châu Á 2022
+   - [x] Thắng Thái Lan 2–0 và Đài Bắc Trung Hoa 2–1 ở vòng play-off
+   - [ ] Là nước chủ nhà nên được dự thẳng
+
+   Việt Nam bước vào play-off tranh suất thứ năm của châu Á và giành vé dự World Cup đầu tiên trong lịch sử. [Xem lại](#play-off)
+
+2. Giải vô địch bóng đá nữ thế giới 2023 diễn ra ở đâu?
+   - [ ] Pháp và Đức
+   - [ ] Mỹ và Canada
+   - [x] Úc và New Zealand
+   - [ ] Nhật Bản và Hàn Quốc
+
+   Giải có 32 đội, diễn ra từ 20 tháng 7 đến 20 tháng 8; Việt Nam là một trong tám đội lần đầu dự giải. [Xem lại](#world-cup)
+
+3. Sau thất bại ở vòng loại World Cup 2015, Việt Nam đã làm gì?
+   - [ ] Giải thể đội tuyển để xây dựng lại
+   - [x] Đẩy mạnh bóng đá nữ trong trường học, đại học và doanh nghiệp
+   - [ ] Thuê huấn luyện viên nước ngoài thay toàn bộ đội hình
+
+   Tấm vé năm 2022 được xem là kết quả của những cải cách đó, dù bóng đá nữ vẫn thiếu giải chuyên nghiệp trong nước. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - “Đội tuyển bóng đá nữ quốc gia Việt Nam”, Wikipedia tiếng Việt — Asian Cup nữ 2022, play-off với Thái Lan (2–0) và Đài Bắc Trung Hoa (2–1), các trận ở World Cup 2023, biệt danh: https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99i_tuy%E1%BB%83n_b%C3%B3ng_%C4%91%C3%A1_n%E1%BB%AF_qu%E1%BB%91c_gia_Vi%E1%BB%87t_Nam

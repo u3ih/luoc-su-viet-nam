@@ -47,6 +47,29 @@ Theo bài tham khảo, Giác Mật định ám hại ông, sai người đưa th
 
 Tháng 4 năm 1285, Chiêu Văn vương bàn với Hưng Đạo vương đón đánh quân Nguyên ở cửa Hàm Tử; ông đưa nhiều người Tống cũ vào đạo quân của mình. Ông mất năm 1330, đời Trần Hiến Tông, thọ 75 tuổi; nhiều nơi lập đền thờ ông.
 
+## Ôn tập
+
+1. Năm 1280, Trần Nhật Duật được phái trông coi đạo Đà Giang để chiêu dụ ai?
+   - [x] Trịnh Giác Mật
+   - [ ] Dương Sàn
+   - [ ] Hưng Đạo vương
+
+   Giác Mật là chúa đạo Đà Giang, nổi lên chống triều đình đúng lúc nhà Nguyên đang sửa soạn đánh Đại Việt. [Xem lại](#da-giang)
+
+2. Trần Nhật Duật đến trại Giác Mật bằng cách nào?
+   - [ ] Dẫn đại quân vây trại
+   - [ ] Dẫn các tướng cùng nhiều đoàn voi chiến
+   - [x] Một mình một ngựa, chỉ cho năm, sáu tiểu đồng theo hầu
+
+   Ông nói chuyện với người bộ tộc bằng chính ngôn ngữ, phong tục của họ; sau đó Giác Mật dẫn cả nhà đến xin quy phục. [Xem lại](#mot-ngua)
+
+3. Việc bình được Đà Giang giúp nhà Trần điều gì?
+   - [ ] Mở rộng bờ cõi về phía nam
+   - [x] Yên được miền tây bắc để dồn sức chống quân Nguyên
+   - [ ] Đánh thắng quân Nguyên ở cửa Hàm Tử
+
+   Việc này được nhận xét là "không mất một mũi tên mà bình được Đà Giang". [Xem lại](#mot-ngua)
+
 ## Nguồn tham khảo
 
 - "Trần Nhật Duật", Wikipedia tiếng Việt — tiểu sử, ngôn ngữ, thôn Bà Già, đạo Đà Giang năm 1280, Hàm Tử năm 1285, năm mất: https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Nh%E1%BA%ADt_Du%E1%BA%ADt

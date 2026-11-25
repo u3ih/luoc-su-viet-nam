@@ -47,6 +47,29 @@ Lang thứ mười tám là Lang Liêu, mẹ mất sớm, nhà ít người, ng�
 
 Theo truyện, thiên hạ đều bắt chước dùng bánh ấy cúng cha mẹ dịp lễ Tết. Ngày nay bánh chưng, bánh giầy được bày theo cặp trên bàn thờ ngày Tết Nguyên đán và ngày giỗ Tổ Hùng Vương mùng 10 tháng 3 âm lịch; gói và canh nồi bánh chưng thành một tập quán của các gia đình người Việt.
 
+## Ôn tập
+
+1. Theo truyền thuyết, vua Hùng chọn người nối ngôi bằng cách nào?
+   - [ ] Ai đánh thắng giặc ngoại xâm
+   - [x] Ai dâng lễ vật hợp ý để cúng Tiên vương
+   - [ ] Người con trưởng sẽ nối ngôi
+
+   Vua họp hai mươi hai vị quan lang và bảo: ai đem lễ vật hợp ý dâng cúng Tiên vương thì sẽ được truyền ngôi. [Xem lại](#truyen-ngoi)
+
+2. Theo truyền thuyết, thần nhân bảo Lang Liêu rằng trong trời đất không có vật gì quý bằng thứ gì?
+   - [x] Gạo
+   - [ ] Vàng
+   - [ ] Muối
+
+   Chàng nằm mơ nghe lời ấy, bèn lựa nếp trắng tinh để làm bánh. [Xem lại](#lam-banh)
+
+3. Theo truyền thuyết, bánh chưng hình vuông tượng trưng cho gì?
+   - [ ] Trời
+   - [ ] Mặt trăng
+   - [x] Đất
+
+   Bánh chưng hình vuông tượng trưng cho Đất; bánh giầy hình tròn tượng trưng cho Trời. [Xem lại](#lam-banh)
+
 ## Nguồn tham khảo
 
 - "Bánh chưng", Wikipedia tiếng Việt — "Truyện bánh chưng" trong Lĩnh Nam chích quái, quan niệm vuông – tròn, ý kiến của Trần Quốc Vượng, tập quán ngày Tết: https://vi.wikipedia.org/wiki/B%C3%A1nh_ch%C6%B0ng

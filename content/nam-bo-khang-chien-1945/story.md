@@ -46,6 +46,29 @@ Từ ngày 24 tháng 9, tự vệ và dân quân đánh sân bay Tân Sơn Nhấ
 
 Đầu tháng 10, quân Pháp do tướng Leclerc chỉ huy đổ bộ thêm; ngày 9 tháng 10, Anh và Pháp ký thoả thuận ở Luân Đôn, Anh ủng hộ Pháp quản lý Đông Dương phía nam vĩ tuyến 16. Quân Pháp chiếm Mỹ Tho, Gò Công (25 tháng 10), Vĩnh Long, Cần Thơ (cuối tháng 10). Ở Nha Trang, quân Pháp đổ bộ ngày 23 tháng 10 bị vây gần hai tháng. Đến ngày 8 tháng 2 năm 1946, Bến Tre là tỉnh cuối cùng ở đồng bằng sông Cửu Long bị quân Pháp chiếm; lực lượng kháng chiến rút về các chiến khu.
 
+## Ôn tập
+
+1. Quân Anh do tướng Douglas Gracey chỉ huy tới Sài Gòn ngày 13 tháng 9 năm 1945 với nhiệm vụ gì?
+   - [ ] Tiếp quản Toà Thị chính từ tay chính quyền Nam Bộ
+   - [x] Giải giáp quân Nhật ở phía nam vĩ tuyến 16
+   - [ ] Đổ bộ lên Nha Trang để chiếm thành phố
+
+   Quân Anh tới giải giáp quân Nhật ở phía nam vĩ tuyến 16, đi cùng một đơn vị Pháp. [Xem lại](#quan-anh)
+
+2. Sáng 23 tháng 9 năm 1945, họp ở phố Cây Mai (Chợ Lớn), các lãnh đạo Nam Bộ quyết định điều gì?
+   - [x] Điện ra Chính phủ Trung ương xin kháng chiến và lập Uỷ ban Kháng chiến Nam Bộ
+   - [ ] Đàm phán và đi tới thoả thuận với Jean Cédile
+   - [ ] Giao lại các công sở Sài Gòn cho quân Anh
+
+   Uỷ ban Kháng chiến Nam Bộ được lập, Trần Văn Giàu làm Chủ tịch. [Xem lại](#cay-mai)
+
+3. Đến ngày 8 tháng 2 năm 1946, tỉnh nào là tỉnh cuối cùng ở đồng bằng sông Cửu Long bị quân Pháp chiếm?
+   - [ ] Mỹ Tho
+   - [ ] Cần Thơ
+   - [x] Bến Tre
+
+   Mỹ Tho, Gò Công, Vĩnh Long, Cần Thơ bị chiếm từ cuối tháng 10 năm 1945; sau khi Bến Tre bị chiếm, lực lượng kháng chiến rút về các chiến khu. [Xem lại](#lan-rong)
+
 ## Nguồn tham khảo
 
 - “Nam Bộ kháng chiến”, Wikipedia tiếng Việt — Uỷ ban Hành chính Lâm thời Nam Bộ, Gracey, Cédile, thiết quân luật 21/9, tái vũ trang lính Pháp, 23/9 chiếm Toà Thị chính, hội nghị phố Cây Mai, Uỷ ban Kháng chiến Nam Bộ, các trận 24/9, thư 26/9, Nam tiến, Leclerc, thoả thuận Luân Đôn 9/10, các tỉnh bị chiếm, Nha Trang, Bến Tre 8/2/1946, vụ khu Hérault: https://vi.wikipedia.org/wiki/Nam_B%E1%BB%99_kh%C3%A1ng_chi%E1%BA%BFn

@@ -47,6 +47,29 @@ Năm 550, Trần Bá Tiên định cầm cự lâu ngày để quân trong đầ
 
 Năm 557, Lý Phật Tử đem quân đánh, năm lần giáp trận không phân thắng bại; hai bên chia đất ở bãi Quân Thần, kết thông gia. Năm 571, Lý Phật Tử đánh úp; Triệu Việt Vương chạy về phía nam đến cửa biển Đại Nha (cửa sông Đáy) thì tự vẫn. Người đời sau lập nhiều đền thờ ông, nhiều nhất ở vùng ven biển Ninh Bình.
 
+## Ôn tập
+
+1. Quân của Triệu Quang Phục dùng cách nào để chống quân Lương trong đầm Dạ Trạch?
+   - [ ] Ban ngày đốt lửa dụ địch, ban đêm đóng cổng thành
+   - [x] Ban ngày ẩn kín không để khói lửa, ban đêm dùng thuyền độc mộc ra đánh doanh trại địch
+   - [ ] Đắp lũy đất dọc bờ đầm rồi giữ vững đến cùng
+
+   Đầm có nền đất cao ở giữa, bốn mặt bùn lầy, chỉ thuyền độc mộc nhỏ mới vào được. [Xem lại](#da-trach)
+
+2. Năm 550, vì sao Trần Bá Tiên được gọi về, để quân Lương rút đi?
+   - [x] Nhà Lương có loạn Hầu Cảnh
+   - [ ] Quân trong đầm đã hết lương
+   - [ ] Lý Phật Tử đánh úp quân Lương
+
+   Tì tướng Dương Sàn ở lại bị tử trận, quân Lương tan vỡ chạy về bắc; Triệu Việt Vương làm vua nước Vạn Xuân. [Xem lại](#thang-luong)
+
+3. Năm 571, Triệu Việt Vương chạy tới đâu thì tự vẫn?
+   - [ ] Đầm Dạ Trạch
+   - [ ] Thành Long Uyên
+   - [x] Cửa biển Đại Nha (cửa sông Đáy)
+
+   Năm đó Lý Phật Tử đánh úp; người đời sau lập nhiều đền thờ ông, nhiều nhất ở vùng ven biển Ninh Bình. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Triệu Việt Vương", Wikipedia tiếng Việt — thân thế, đầm Dạ Trạch, thắng quân Lương, chia nước với Lý Phật Tử, mất năm 571, truyền thuyết móng rồng, đền thờ: https://vi.wikipedia.org/wiki/Tri%E1%BB%87u_Vi%E1%BB%87t_V%C6%B0%C6%A1ng

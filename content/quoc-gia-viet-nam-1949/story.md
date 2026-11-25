@@ -46,6 +46,29 @@ Hiệp định Genève ngày 21 tháng 7 năm 1954 tạm chia Việt Nam ở vĩ
 
 Ngày 23 tháng 10 năm 1955, cuộc trưng cầu dân ý cho cử tri miền Nam chọn giữa Bảo Đại và Ngô Đình Diệm. Kết quả chính thức: khoảng 98% phiếu cho Diệm; tổng số phiếu vượt số cử tri đăng ký hơn 380.000, nên kết quả này bị nhiều nguồn coi là gian lận. Ngày 26 tháng 10, Ngô Đình Diệm tuyên bố thành lập Việt Nam Cộng hoà và làm tổng thống đầu tiên; tháng 3 năm 1956, Quốc hội Lập hiến được bầu, và hiến pháp được ban hành ngày 26 tháng 10 năm 1956. Nhà nước này tồn tại tới năm 1975; đến tháng 1 năm 1975, được 95 nước công nhận.
 
+## Ôn tập
+
+1. Theo Hiệp định Élysée ngày 8 tháng 3 năm 1949, ai làm quốc trưởng của Quốc gia Việt Nam?
+   - [ ] Ngô Đình Diệm
+   - [x] Bảo Đại
+   - [ ] Tổng thống Pháp
+
+   Hiệp định công nhận Quốc gia Việt Nam là nước độc lập trong khối Liên hiệp Pháp, nhưng chưa độc lập hoàn toàn. [Xem lại](#elysee)
+
+2. Hiệp định Genève ngày 21 tháng 7 năm 1954 tạm chia Việt Nam ở đâu và hẹn điều gì?
+   - [x] Ở vĩ tuyến 17, hẹn tổng tuyển cử vào năm 1956
+   - [ ] Ở vĩ tuyến 16, hẹn tổng tuyển cử vào năm 1956
+   - [ ] Không chia cắt, hẹn thống nhất ngay trong năm 1954
+
+   Phái đoàn Quốc gia Việt Nam không ký và cho rằng mình không bị ràng buộc. [Xem lại](#vi-tuyen-17)
+
+3. Ngày 26 tháng 10 năm 1955, Ngô Đình Diệm tuyên bố điều gì?
+   - [ ] Nhường chức quốc trưởng lại cho Bảo Đại
+   - [ ] Miền Nam sẽ tham gia tổng tuyển cử năm 1956
+   - [x] Thành lập Việt Nam Cộng hoà và làm tổng thống đầu tiên
+
+   Ba ngày trước đó là cuộc trưng cầu dân ý chọn giữa Bảo Đại và Ngô Đình Diệm; kết quả chính thức bị nhiều nguồn coi là gian lận. [Xem lại](#cong-hoa)
+
 ## Nguồn tham khảo
 
 - “Hiệp định Élysée (1949)”, Wikipedia tiếng Việt — ký ngày 8/3/1949, nội dung và giới hạn về ngoại giao, gia nhập ILO, FAO, UNESCO, hội nghị San Francisco 1951, tuyên bố của Việt Nam Dân chủ Cộng hoà, nhận định của Bernard Fall: https://vi.wikipedia.org/wiki/Hi%E1%BB%87p_%C4%91%E1%BB%8Bnh_%C3%89lys%C3%A9e_(1949)

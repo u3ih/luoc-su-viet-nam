@@ -46,6 +46,29 @@ Xứ uỷ Nam Kỳ chuẩn bị khởi nghĩa từ đầu năm; nhiều lãnh đ
 
 Ở Nghệ An, lính người Việt bất bình vì bị đưa sang Lào đánh nhau trong chiến tranh Pháp – Thái. Ngày 13 tháng 1 năm 1941, Đội Cung (Nguyễn Văn Cung) chỉ huy lính đồn Chợ Rạng (Thanh Chương) nổi dậy; tối đó họ chiếm đồn Đô Lương rồi lên ô tô về Vinh, định cùng lính ở đây chiếm thành, nhưng kế hoạch không thành. Đội Cung bị bắt; cuối tháng 4 năm 1941, ông cùng 10 người bị xử tử, nhiều người khác bị khổ sai, đày đi xa.
 
+## Ôn tập
+
+1. Vì sao quân Nhật vượt biên giới ở Đồng Đăng, đánh vào Lạng Sơn tháng 9 năm 1940?
+   - [ ] Để giúp Pháp chống lại nước Đức
+   - [x] Để cắt tuyến đường sắt Hải Phòng – Vân Nam chở hàng viện trợ cho Trung Quốc
+   - [ ] Để chiếm Sài Gòn trước
+
+   Nhật muốn cắt tuyến đường sắt Hải Phòng – Vân Nam chở hàng viện trợ cho Trung Quốc; ngày 22 tháng 9, Sư đoàn 5 Nhật vượt biên giới ở Đồng Đăng. [Xem lại](#lang-son)
+
+2. Vì sao cuộc khởi nghĩa Nam Kỳ không nổ ra ở Sài Gòn?
+   - [ ] Lệnh khởi nghĩa chưa được phát đi
+   - [ ] Trung ương cử Phan Đăng Lưu vào để thúc đẩy khởi nghĩa
+   - [x] Kế hoạch đã bị lộ
+
+   Nhiều lãnh đạo bị bắt, kế hoạch bị lộ; đêm 22 rạng sáng 23 tháng 11 nhiều tỉnh nổi dậy, riêng ở Sài Gòn thì không nổ ra. [Xem lại](#nam-ky)
+
+3. Vì sao lính người Việt ở Nghệ An bất bình, dẫn tới binh biến Đô Lương ngày 13 tháng 1 năm 1941?
+   - [x] Họ bị đưa sang Lào đánh nhau trong chiến tranh Pháp – Thái
+   - [ ] Họ bị điều ra Lạng Sơn chống quân Nhật
+   - [ ] Họ bị buộc phải đóng lại đồn Mỏ Nhài
+
+   Đội Cung chỉ huy lính đồn Chợ Rạng nổi dậy; cuộc binh biến không thành, ông bị bắt và bị xử tử cuối tháng 4 năm 1941. [Xem lại](#do-luong)
+
 ## Nguồn tham khảo
 
 - “Khởi nghĩa Bắc Sơn”, Wikipedia tiếng Việt — thoả thuận 21/9/1940, Nhật vượt biên giới 22/9, Lạng Sơn đầu hàng, uỷ ban khởi nghĩa 27/9, khoảng 600 người chiếm đồn Mỏ Nhài, mít tinh Vũ Lăng 28/10 bị đánh úp, rút vào Bắc Sơn – Võ Nhai: https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_B%E1%BA%AFc_S%C6%A1n

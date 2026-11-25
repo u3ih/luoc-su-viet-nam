@@ -47,6 +47,29 @@ Không được về cung, Tiên Dung cùng chồng mở chợ Hà Thám, đổi
 
 Một tối, hai vợ chồng dừng chân giữa đồng, cắm gậy úp nón lên mà nghỉ. Nửa đêm, chỗ ấy nổi lên thành quách, cung điện, người hầu đông đủ. Vua Hùng ngỡ con làm phản, sai quân đến đánh; Tiên Dung không chống lại cha. Đêm ấy giông bão nổi lên, cả thành quách bay lên trời, nền cũ sụt thành một đầm lớn — dân gọi là đầm Nhất Dạ, lập miếu thờ. Chử Đồng Tử được xếp vào Tứ bất tử của tín ngưỡng Việt; lễ hội Đa Hòa – Dạ Trạch ở Khoái Châu, Hưng Yên diễn ra vào giữa tháng hai âm lịch.
 
+## Ôn tập
+
+1. Theo truyền thuyết, nhà bị cháy, hai cha con Chử Đồng Tử chỉ còn lại thứ gì?
+   - [ ] Một chiếc thuyền câu
+   - [x] Một chiếc khố thay nhau mặc
+   - [ ] Một mảnh ruộng nhỏ
+
+   Hai cha con chỉ còn một chiếc khố; khi cha mất, Chử Đồng Tử thương cha nên liệm khố theo cha. [Xem lại](#chiec-kho)
+
+2. Theo truyền thuyết, vì sao công chúa Tiên Dung kết làm vợ chồng với Chử Đồng Tử?
+   - [ ] Vua cha ép gả chàng cho nàng
+   - [ ] Chàng cứu nàng khi thuyền gặp nạn
+   - [x] Nàng cho là duyên trời định
+
+   Nước xối dần, lộ ra người dưới cát; Tiên Dung cho là duyên trời định, bèn kết làm vợ chồng. [Xem lại](#bai-cat)
+
+3. Theo truyền thuyết, sau đêm giông bão khi thành quách bay lên trời, nền cũ trở thành gì?
+   - [x] Đầm Nhất Dạ
+   - [ ] Núi Nam Giới
+   - [ ] Chợ Hà Thám
+
+   Nền cũ sụt thành một đầm lớn, dân gọi là đầm Nhất Dạ và lập miếu thờ; Chử Đồng Tử được xếp vào Tứ bất tử của tín ngưỡng Việt. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Chử Đồng Tử", Wikipedia tiếng Việt — truyện Nhất Dạ Trạch trong Lĩnh Nam chích quái, chiếc khố, bãi cát, chợ Hà Thám, núi Quỳnh Viên và Phật Quang, đầm Nhất Dạ, Tứ bất tử, đền Hóa, đền Đa Hòa, lễ hội: https://vi.wikipedia.org/wiki/Chử_Đồng_Tử

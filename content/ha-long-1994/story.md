@@ -47,6 +47,29 @@ Năm 1962, vịnh Hạ Long được xếp hạng di tích danh thắng cấp qu
 
 Trên đảo Canh Độc (đảo Vạn Cảnh) cao 189 m có hang Đầu Gỗ và động Thiên Cung; động Thiên Cung nằm ở độ cao 25 m, lòng động dài hơn 130 m với những măng đá, nhũ đá. Năm 2015, vịnh Hạ Long đón trên 2,5 triệu lượt khách.
 
+## Ôn tập
+
+1. Vùng lõi vịnh Hạ Long được UNESCO công nhận là di sản thiên nhiên thế giới vào năm nào?
+   - [ ] 1962
+   - [x] 1994
+   - [ ] 2000
+
+   Năm 1994, vùng lõi được công nhận về giá trị thẩm mỹ; năm 2000, vịnh được công nhận lần thứ hai về địa chất – địa mạo. [Xem lại](#unesco)
+
+2. Phần lớn các đảo trên vịnh Hạ Long là loại đảo nào?
+   - [ ] Đảo san hô
+   - [ ] Đảo cát
+   - [x] Đảo đá vôi
+
+   Vịnh gồm 1.969 hòn đảo lớn nhỏ, phần lớn là đảo đá vôi. [Xem lại](#dao-da)
+
+3. Vùng lõi của vịnh có bao nhiêu hòn đảo?
+   - [ ] 335
+   - [ ] 1.969
+   - [x] 775
+
+   Vùng lõi rộng 335 ki-lô-mét vuông với 775 hòn đảo. [Xem lại](#dao-da)
+
 ## Nguồn tham khảo
 
 - "Vịnh Hạ Long", Wikipedia tiếng Việt — vị trí, diện tích, số đảo, địa chất, các nền văn hóa tiền sử, thơ Nguyễn Trãi, xếp hạng 1962, UNESCO 1994 và 2000, đảo có dân, động Thiên Cung, số khách: https://vi.wikipedia.org/wiki/V%E1%BB%8Bnh_H%E1%BA%A1_Long

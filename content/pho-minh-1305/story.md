@@ -47,6 +47,31 @@ Nhiều sách địa chí cho rằng tháp được dựng làm nơi cất xá l
 
 Theo các sách địa chí, năm 1789 trấn thủ Hải Dương là Trần Túc cho phá tháp lấy đồng, phá đến tầng thứ hai hoặc ba thì sợ mà cho sửa lại, nhưng đỉnh tháp bằng đồng không còn. Năm 1818, dân trong xã cử người chủ trì sửa tháp. Lần trùng tu năm 1987 tìm thấy một chiếc quách đá vây quanh một hộp đồng ở tầng thứ ba từ trên xuống.
 
+## Ôn tập
+
+1. Tháp Phổ Minh nằm bên cạnh công trình nào của nhà Trần?
+   - [ ] Hoàng thành Thăng Long
+   - [ ] Thành Tây Đô
+   - [x] Hành cung Thiên Trường
+   - [ ] Đền Trần Hưng Đạo
+
+   Chùa Phổ Minh được xây năm 1262 ở phía tây cung Trùng Quang, thuộc hành cung Thiên Trường. [Xem lại](#chua-pho-minh)
+
+2. Chi tiết nào cho biết tháp được dựng vào khoảng năm 1305?
+   - [ ] Bia đá ghi tên vua Trần Anh Tông
+   - [x] Những viên gạch in nổi chữ "Hưng Long thập tam niên"
+   - [ ] Quách đá tìm thấy ở chân tháp
+
+   Khi tu sửa, người ta tìm thấy những viên gạch ấy; "Hưng Long thập tam niên" là năm 1305. [Xem lại](#dung-thap)
+
+3. Tháp Phổ Minh có bao nhiêu tầng, và nền cùng tầng thứ nhất xây bằng gì?
+   - [ ] 9 tầng, xây hoàn toàn bằng gạch
+   - [ ] 14 tầng, xây hoàn toàn bằng đá
+   - [x] 14 tầng, nền và tầng thứ nhất bằng đá, các tầng trên bằng gạch
+   - [ ] 7 tầng, bằng gỗ
+
+   Tháp cao 19,51 m, tầng nào cũng trổ 4 cửa vòm. [Xem lại](#dung-thap)
+
 ## Nguồn tham khảo
 
 - "Tháp Phổ Minh" (bài Chùa Phổ Minh), Wikipedia tiếng Việt — chùa năm 1262, kiến trúc tháp, gạch năm 1305, xá lỵ, phá tháp 1789, sửa 1818, trùng tu 1987: https://vi.wikipedia.org/wiki/Th%C3%A1p_Ph%E1%BB%95_Minh

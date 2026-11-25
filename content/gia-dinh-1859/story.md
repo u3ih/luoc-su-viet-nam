@@ -47,6 +47,29 @@ Nhờ thám thính bằng tàu nhỏ trên rạch Thị Nghè, sĩ quan Pháp n�
 
 Ngày 8 tháng 3 năm 1859, tướng Rigault de Genouilly cho đặt mấy chục ổ thuốc nổ phá tung nhiều đoạn tường thành, đốt dinh thự, kho tàng và thóc lúa bên trong. Theo Địa chí TP. Hồ Chí Minh dẫn trong bài tham khảo, kho thóc thành Gia Định cháy mãi hai năm mà khói còn nghi ngút.
 
+## Ôn tập
+
+1. Vì sao tướng Rigault de Genouilly đưa quân vào đánh Gia Định?
+   - [ ] Vì triều đình mời liên quân vào Gia Định
+   - [x] Vì bị cầm chân ở Đà Nẵng nên ông đổi kế hoạch, rút phần lớn quân và chiến thuyền vào Gia Định
+   - [ ] Vì quân Việt đã rút khỏi Đà Nẵng
+
+   Ông rút hai phần ba số quân (khoảng 2.000 người) và 8 trong 14 chiến thuyền ở mặt trận Đà Nẵng. [Xem lại](#roi-da-nang)
+
+2. Khoảng 10 giờ trưa ngày 17 tháng 2 năm 1859, Hộ đốc Võ Duy Ninh ra lệnh gì?
+   - [ ] Tử thủ trong thành đến người cuối cùng
+   - [x] Lui quân, bỏ lại hầu hết súng đạn, thóc gạo và hơn trăm chiến thuyền gỗ
+   - [ ] Mở cổng thành đón liên quân
+
+   Sáng sớm liên quân tấn công, hai bên đánh giáp lá cà. Chạy đến thôn Phước Lý, Hộ đốc Võ Duy Ninh và Án sát Lê Từ tự vẫn. [Xem lại](#that-thu)
+
+3. Ngày 8 tháng 3 năm 1859, tướng Rigault de Genouilly làm gì với thành Gia Định?
+   - [ ] Giữ nguyên thành làm nơi đóng quân
+   - [ ] Trao lại thành cho triều đình
+   - [x] Cho đặt thuốc nổ phá tường thành, đốt dinh thự, kho tàng và thóc lúa
+
+   Theo Địa chí TP. Hồ Chí Minh dẫn trong bài tham khảo, kho thóc thành Gia Định cháy mãi hai năm mà khói còn nghi ngút. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Trận thành Gia Định, 1859", Wikipedia tiếng Việt — kế hoạch rời Đà Nẵng, sông Lòng Tàu, ngày 16 – 17 tháng 2, Võ Duy Ninh, phá thành ngày 8 tháng 3: https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_th%C3%A0nh_Gia_%C4%90%E1%BB%8Bnh,_1859

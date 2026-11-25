@@ -53,6 +53,30 @@ Tháng Chạp năm Giáp Dần (đã sang năm 1855 dương lịch), sau khi b�
 
 Ông để lại nhiều thơ văn, là một nhà thơ nổi danh giữa thế kỷ XIX.
 
+## Ôn tập
+
+1. Năm 1841, vì sao Cao Bá Quát bị giam và xử tội?
+   - [ ] Ông tham gia một cuộc nổi dậy
+   - [x] Ông cùng Phan Nhạ chữa lại các bài thi phạm trường quy khi làm sơ khảo
+   - [ ] Ông từ chối ra làm quan ở Huế
+
+   Ông lấy son hòa muội đèn chữa bài thi; việc bị phát giác, vua Thiệu Trị xét lại và giảm thành "giảo giam hậu". [Xem lại](#truong-thi)
+
+2. Cuộc nổi dậy Mỹ Lương nổ ra trong hoàn cảnh nào?
+   - [ ] Giặc ngoại xâm tràn vào từ phương bắc
+   - [ ] Triều đình vừa đổi vua
+   - [x] Đại hạn và nạn châu chấu làm mùa màng mất sạch
+
+   Năm Giáp Dần (1854), nhiều tỉnh miền Bắc gặp đại hạn, lại bị nạn châu chấu. [Xem lại](#my-luong)
+
+3. Ai được tôn làm minh chủ của cuộc nổi dậy ở Mỹ Lương?
+   - [ ] Cao Bá Quát
+   - [ ] Đinh Công Mỹ
+   - [x] Lê Duy Cự
+   - [ ] Bạch Công Trân
+
+   Cao Bá Quát vận động sĩ phu, thổ hào, tôn Lê Duy Cự làm minh chủ; ông làm quốc sư. [Xem lại](#my-luong)
+
 ## Nguồn tham khảo
 
 - "Cao Bá Quát", Wikipedia tiếng Việt — thân thế, vụ trường thi 1841, Quốc Oai, nổi dậy Mỹ Lương 1854, tử trận: https://vi.wikipedia.org/wiki/Cao_B%C3%A1_Qu%C3%A1t

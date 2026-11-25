@@ -52,10 +52,25 @@ export type ChapterMeta = {
   status: "ready" | "draft";
 };
 
+/** Câu hỏi ôn tập cuối chương (mục "## Ôn tập" trong story.md). */
+export type QuizQuestion = {
+  question: string;
+  options: string[];
+  /** Chỉ số đáp án đúng trong `options`. */
+  answer: number;
+  explain: string;
+  /** id phân cảnh để "Xem lại". */
+  beat: string;
+};
+
+export type Lang = "vi" | "en";
+
 export type ChapterText = ChapterMeta & {
+  lang: Lang;
   lead: string;
   beats: Beat[];
   sources: string[];
+  quiz: QuizQuestion[];
   disclaimer?: string;
   /** Chữ trên con dấu son ở phần mở đầu (mặc định: chữ đầu của tiêu đề + năm). */
   seal?: string[];
@@ -66,6 +81,14 @@ export type ChapterText = ChapterMeta & {
 /** Chương / sự kiện kế tiếp theo thời gian (tự tính, xem core/content/load.ts). */
 export type NextUp = { slug?: string; title: string; year: string };
 
+export type ChapterLink = NextUp & { slug: string };
+
+/** Vị trí của chương trong một hành trình chọn sẵn (content/hanh-trinh.md). */
+export type JourneyStep = { id: string; title: string; index: number; total: number; next?: ChapterLink };
+
+/** Các chương khác có cùng nhân vật / nơi chốn. */
+export type Related = { kind: "person" | "place"; label: string; chapters: ChapterLink[] };
+
 export type Chapter = ChapterText & {
   /** Thư mục trong content/ (trùng slug, vd. "bach-dang-938"). */
   dir: string;
@@ -73,6 +96,10 @@ export type Chapter = ChapterText & {
   /** Chương tiếp theo đã có (theo thời gian), hoặc sự kiện kế tiếp trong lộ trình đang chờ người viết. */
   next?: NextUp;
   prev?: NextUp;
+  journeys: JourneyStep[];
+  related: Related[];
+  /** Chương có ở ngôn ngữ kia (bản dịch hoặc bản gốc) thì là ngôn ngữ đó. */
+  altLang?: Lang;
 };
 
 // ---------- phần cảnh (scene.config.ts) ----------

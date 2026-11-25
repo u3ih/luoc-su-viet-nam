@@ -62,6 +62,29 @@ Năm 1865, Gia Định báo do Trương Vĩnh Ký làm chủ bút ra đời, t�
 
 Kỳ thi Hương cuối cùng ở Bắc Kỳ năm 1915; năm 1919 là khoa thi cuối ở Huế. Từ đó chữ Quốc ngữ trở thành chữ viết phổ biến của tiếng Việt.
 
+## Ôn tập
+
+1. Cuốn Từ điển Việt – Bồ – La của Alexandre de Rhodes được ấn hành năm nào, ở đâu?
+   - [ ] Năm 1651, ở Hà Nội
+   - [x] Năm 1651, ở Roma
+   - [ ] Năm 1838, ở Serampore
+
+   Từ điển có khoảng 8.000 mục từ tiếng Việt, dịch ra tiếng Bồ Đào Nha và Latinh. [Xem lại](#in-roma)
+
+2. Ai là giáo sĩ đầu tiên thông thạo tiếng Việt và bắt đầu xây dựng cách ghi âm bằng chữ cái Latinh?
+   - [ ] Gaspar do Amaral
+   - [x] Francisco de Pina
+   - [ ] Jean-Louis Taberd
+
+   Bấy giờ người Việt vẫn viết bằng chữ Hán và chữ Nôm. [Xem lại](#hoc-tieng)
+
+3. Tờ báo đầu tiên viết bằng chữ Quốc ngữ là tờ nào?
+   - [ ] Nam Việt – Dương Hiệp Tự vị
+   - [x] Gia Định báo, năm 1865, do Trương Vĩnh Ký làm chủ bút
+   - [ ] Phép giảng tám ngày
+
+   Kỳ thi Hương cuối cùng ở Bắc Kỳ năm 1915; từ đó chữ Quốc ngữ trở thành chữ viết phổ biến của tiếng Việt. [Xem lại](#pho-bien)
+
 ## Nguồn tham khảo
 
 - "Từ điển Việt–Bồ–La", Wikipedia tiếng Việt — giáo sĩ Dòng Tên, lời tựa, 8.000 mục từ, in ở Roma 1651, các từ điển sau: https://vi.wikipedia.org/wiki/T%E1%BB%AB_%C4%91i%E1%BB%83n_Vi%E1%BB%87t%E2%80%93B%E1%BB%93%E2%80%93La

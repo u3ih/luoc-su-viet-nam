@@ -46,6 +46,29 @@ Ngày 19 tháng 8 năm 2010, tại lễ khai mạc Hội nghị Toán học th�
 
 Từ năm 2010, ông là giáo sư Khoa Toán, Đại học Chicago; từ tháng 3 năm 2011, ông là người sáng lập và giám đốc khoa học của Viện Nghiên cứu cao cấp về Toán ở Hà Nội, góp phần thúc đẩy toán học và giáo dục trong nước. Ông còn viết sách cho thiếu nhi "Ai và Ky ở xứ sở những con số tàng hình" (2012).
 
+## Ôn tập
+
+1. Ngô Bảo Châu nhận Huy chương Fields cho công trình nào?
+   - [ ] Chứng minh Định lý lớn Fermat
+   - [x] Chứng minh Bổ đề cơ bản
+   - [ ] Chứng minh giả thuyết Poincaré
+
+   Ông chứng minh cùng Gérard Laumon cho các nhóm unita, sau đó cho trường hợp tổng quát. [Xem lại](#paris)
+
+2. Huy chương Fields được trao cho ông ở đâu và khi nào?
+   - [ ] Tại Paris, ngày 28 tháng 6 năm 2010
+   - [ ] Tại Hà Nội, ngày 19 tháng 8 năm 2010
+   - [x] Tại Hội nghị Toán học thế giới ở Hyderabad, Ấn Độ, ngày 19 tháng 8 năm 2010
+
+   Ông là người Việt Nam đầu tiên nhận giải thưởng cao nhất của toán học. [Xem lại](#fields)
+
+3. Ngô Bảo Châu từng đạt thành tích nào khi còn đi học?
+   - [ ] Huy chương vàng Olympic Toán học quốc tế một lần, năm 1990
+   - [x] Hai lần đoạt huy chương vàng Olympic Toán học quốc tế, năm 1988 và 1989
+   - [ ] Huy chương Fields năm 1989
+
+   Ông sinh năm 1972 ở phố Hàng Bài, Hà Nội, rồi sang Pháp học. [Xem lại](#ha-noi)
+
 ## Nguồn tham khảo
 
 - "Ngô Bảo Châu", Wikipedia tiếng Việt — ngày sinh, gia đình, tuổi thơ học toán, hai huy chương vàng IMO 1988, 1989, học ở Pháp, Gérard Laumon, luận án năm 1997, CNRS, Bổ đề cơ bản, Time năm 2009, nhận Huy chương Fields ngày 19/8/2010 ở Hyderabad, lễ chào mừng ở Hà Nội, Đại học Chicago, Viện Nghiên cứu cao cấp về Toán, sách: https://vi.wikipedia.org/wiki/Ng%C3%B4_B%E1%BA%A3o_Ch%C3%A2u

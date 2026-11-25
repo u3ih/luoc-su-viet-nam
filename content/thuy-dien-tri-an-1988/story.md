@@ -46,6 +46,29 @@ Ngày 30 tháng 4 năm 1988, tổ máy số 1 phát điện; năm 1991, nhà má
 
 Ngoài phát điện, hồ Trị An còn cấp nước cho sinh hoạt, nông nghiệp, đẩy mặn và điều tiết lũ cho vùng hạ lưu sông Đồng Nai.
 
+## Ôn tập
+
+1. Công trình thuỷ điện Trị An được xây dựng từ năm 1984 với sự hỗ trợ tài chính và công nghệ của nước nào?
+   - [ ] Nhật Bản
+   - [x] Liên Xô
+   - [ ] Pháp
+
+   Nhà máy nằm trên sông Đồng Nai, đoạn chảy qua Trị An, cách Thành phố Hồ Chí Minh khoảng 65 km về phía đông bắc. [Xem lại](#song-dong-nai)
+
+2. Nhà máy thuỷ điện Trị An có bao nhiêu tổ máy và tổng công suất là bao nhiêu?
+   - [x] Bốn tổ máy, tổng công suất 400 MW
+   - [ ] Hai tổ máy, tổng công suất 100 MW
+   - [ ] Tám tổ máy, tổng công suất 1.600 MW
+
+   Mỗi tổ máy 100 MW; tổ máy số 1 phát điện ngày 30 tháng 4 năm 1988, nhà máy khánh thành năm 1991. [Xem lại](#phat-dien)
+
+3. Ngoài phát điện, hồ Trị An còn có vai trò gì?
+   - [ ] Chỉ dùng để phát điện
+   - [ ] Chuyển nước sang lưu vực sông Hồng
+   - [x] Cấp nước sinh hoạt, nông nghiệp, đẩy mặn và điều tiết lũ cho hạ lưu sông Đồng Nai
+
+   Vì thế đây là công trình thuỷ điện đa mục tiêu. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Nhà máy thủy điện Trị An", Wikipedia tiếng Việt — vị trí, Liên Xô hỗ trợ từ năm 1984, tổ máy 1 phát điện ngày 30/4/1988, khánh thành năm 1991, bốn tổ máy 400 MW, sản lượng, đập ngăn sông và đập tràn, hồ chứa 323 km², mục tiêu sử dụng: https://vi.wikipedia.org/wiki/Nh%C3%A0_m%C3%A1y_th%E1%BB%A7y_%C4%91i%E1%BB%87n_Tr%E1%BB%8B_An

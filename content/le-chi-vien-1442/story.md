@@ -59,6 +59,29 @@ Lê Nhân Tông khi xem sách Dư địa chí của Nguyễn Trãi từng nói �
 
 Năm 1464, vua Lê Thánh Tông ban chiếu minh oan cho Nguyễn Trãi, truy tặng tước Tán Trù bá, cho người con trai còn sống sót là Nguyễn Anh Vũ làm Đồng tri châu. Năm 1512, Lê Tương Dực truy tặng ông là Tế Văn hầu.
 
+## Ôn tập
+
+1. Vua Lê Thái Tông mất đột ngột ở đâu vào năm 1442?
+   - [ ] Chùa Côn Sơn
+   - [ ] Thành Chí Linh
+   - [x] Lệ Chi Viên, vườn vải thuộc huyện Gia Định
+
+   Ngày 4 tháng 8 âm lịch, vua về đến Lệ Chi Viên cùng Nguyễn Thị Lộ theo hầu; đêm ấy vua mất. [Xem lại](#tuan-du)
+
+2. Về nguyên nhân cái chết của vua Lê Thái Tông, chương này nói gì?
+   - [ ] Toàn thư, Cương mục và Lịch triều hiến chương loại chí đều chép vua bị đầu độc
+   - [x] Các sách chép khác nhau, và nguyên nhân thật đến nay không rõ
+   - [ ] Mọi sách đều chép vua chết vì bệnh sốt rét
+
+   Toàn thư chép vua thức suốt đêm với Thị Lộ rồi mất; Cương mục chép vua mắc chứng sốt rét; riêng Lịch triều hiến chương loại chí cho rằng Thị Lộ dùng thuốc độc. [Xem lại](#ba-cach)
+
+3. Nguyễn Trãi được minh oan vào năm nào, dưới thời vua nào?
+   - [ ] Năm 1442, vua Lê Nhân Tông
+   - [ ] Năm 1512, vua Lê Tương Dực
+   - [x] Năm 1464, vua Lê Thánh Tông
+
+   Năm 1464, vua Lê Thánh Tông ban chiếu minh oan, truy tặng Nguyễn Trãi tước Tán Trù bá. [Xem lại](#minh-oan)
+
 ## Nguồn tham khảo
 
 - "Vụ án Lệ Chi viên", Wikipedia tiếng Việt — bối cảnh, diễn biến theo Toàn thư, Cương mục, Lịch triều hiến chương loại chí, minh oan: https://vi.wikipedia.org/wiki/V%E1%BB%A5_%C3%A1n_L%E1%BB%87_Chi_vi%C3%AAn

@@ -51,6 +51,29 @@ Sách Thiền uyển tập anh chép chuyện năm 1072: vua Lý Nhân Tông kh�
 >
 > Sự tích Dương Không Lộ thường bị lẫn với thiền sư Nguyễn Minh Không, cũng giỏi chữa bệnh, cũng được gọi là Lý Quốc sư. Có tài liệu cho là một người; Thiền uyển tập anh lại chép hai truyện riêng: Không Lộ họ Dương, quê Hải Thanh; Minh Không (1066 – 1141) họ Nguyễn, quê Đàm Xá.
 
+## Ôn tập
+
+1. Trước khi học đạo thiền, Dương Không Lộ làm nghề gì?
+   - [ ] Làm quan trong triều Lý
+   - [ ] Làm ruộng ở quê
+   - [x] Chài lưới ven sông Hồng
+
+   Nhà ông làm nghề chài lưới; năm 1044, ở tuổi 29, ông bỏ nghề chài đi học đạo thiền. [Xem lại](#chai-luoi)
+
+2. Năm 1063, Dương Không Lộ dựng ngôi chùa nào, sau này gọi là chùa Keo?
+   - [x] Chùa Nghiêm Quang
+   - [ ] Chùa Diên Phúc
+   - [ ] Chùa Hà Trạch
+
+   Ông dựng chùa Nghiêm Quang ở làng Dũng Nhuệ, sau đổi tên là Thần Quang, tức chùa Keo. [Xem lại](#chua-keo)
+
+3. Ông được vua Lý Nhân Tông phong danh hiệu gì?
+   - [ ] Thái sư
+   - [x] Quốc sư
+   - [ ] Thượng thư
+
+   Sau chuyện năm 1072 chép trong Thiền uyển tập anh, ông được phong quốc sư. [Xem lại](#quoc-su)
+
 ## Nguồn tham khảo
 
 - "Dương Không Lộ", Wikipedia tiếng Việt — quê quán, năm sinh, nghề chài, học đạo năm 1044 và 1057, dựng chùa Nghiêm Quang năm 1063, chùa dời năm 1611, chuyện tắc kè theo Thiền uyển tập anh, viên tịch năm 1094, vấn đề Không Lộ – Minh Không: https://vi.wikipedia.org/wiki/D%C6%B0%C6%A1ng_Kh%C3%B4ng_L%E1%BB%99

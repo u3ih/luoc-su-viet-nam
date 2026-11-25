@@ -47,6 +47,29 @@ Năm 987, sứ nhà Tống là Lý Giác sang lần thứ hai. Vua Lê Đại H�
 
 Rời chức Tăng thống, đại sư về mở trường ở chùa Thanh Tước, núi Du Hý (Thường Lạc), "học trò tìm tới đông đảo", và vẫn thường giảng ở chùa Khai Quốc của thầy. Đệ tử của ông là thiền sư Đa Bảo, người về sau có ảnh hưởng đến việc Lý Công Uẩn lên ngôi. Ngày 15 tháng 2 năm Thuận Thiên thứ hai (22 tháng 3 năm 1011), sư dạy Đa Bảo bài kệ cuối, ngồi kiết già mà mất, thọ 82 tuổi.
 
+## Ôn tập
+
+1. Năm 971, Đinh Tiên Hoàng ban cho Ngô Chân Lưu hiệu Khuông Việt đại sư. Hiệu ấy có nghĩa là gì?
+   - [ ] Người dạy dỗ học trò
+   - [ ] Người dẹp giặc phương Bắc
+   - [x] Người giúp nước Việt
+
+   Năm 969 vua đã phong sư làm Tăng thống, lần đầu tiên chức này được nói đến trong lịch sử Việt Nam. [Xem lại](#tang-thong)
+
+2. Khúc Ngọc Lang Quy được Khuông Việt viết nhân dịp nào?
+   - [ ] Mừng vua Đinh Tiên Hoàng lên ngôi
+   - [x] Tiễn sứ nhà Tống trước khi sứ về, theo lời vua Lê Đại Hành
+   - [ ] Đón đệ tử Đa Bảo về chùa
+
+   Đó là tác phẩm văn học xưa nhất hiện còn của lịch sử ngoại giao Việt Nam. [Xem lại](#ngoc-lang-quy)
+
+3. Sau khi rời chức Tăng thống, Khuông Việt làm gì?
+   - [ ] Sang nhà Tống học đạo
+   - [ ] Về quê làm ruộng, không giảng đạo nữa
+   - [x] Về mở trường ở chùa Thanh Tước, núi Du Hý, học trò tìm tới đông đảo
+
+   Ông vẫn thường giảng ở chùa Khai Quốc của thầy; đệ tử là thiền sư Đa Bảo. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Khuông Việt", Wikipedia tiếng Việt — quê Cát Lợi, Thường Lạc, dòng dõi nhà Ngô (Thiền uyển tập anh và gia phả họ Ngô), chùa Khai Quốc, phong Tăng thống năm 969, hiệu Khuông Việt năm 971, tràng kinh Đinh Liễn, sứ Lý Giác năm 987 và khúc Ngọc Lang Quy, chùa Thanh Tước núi Du Hý, Đa Bảo, mất năm 1011: https://vi.wikipedia.org/wiki/Khu%C3%B4ng_Vi%E1%BB%87t

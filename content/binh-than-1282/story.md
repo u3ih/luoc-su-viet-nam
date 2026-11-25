@@ -51,6 +51,29 @@ Năm 1285, Trần Quốc Toản cùng Chiêu Thành vương và tướng quân N
 >
 > Theo chú thích Toàn thư và Cương mục, Bình Than là đoạn sông Lục Đầu qua Chí Linh, vũng Trần Xá có lẽ là chỗ hợp lưu sông Thái Bình và sông Kinh Thầy — nay vẫn còn làng Trần Xá. Một số sách lại đặt Bình Than ở xã Đại Than, Bắc Ninh, bên cửa sông Đuống.
 
+## Ôn tập
+
+1. Hội nghị Bình Than quyết định trao quyền tổng chỉ huy quân đội cho ai?
+   - [ ] Trần Khánh Dư
+   - [x] Trần Quốc Tuấn
+   - [ ] Trần Quốc Toản
+
+   Tháng 10 năm 1282, Thượng hoàng Trần Thánh Tông và vua Trần Nhân Tông quyết định trao quyền tổng chỉ huy quân đội cho Trần Quốc Tuấn để chuẩn bị chống quân Nguyên lần thứ hai. [Xem lại](#hop-ban)
+
+2. Khi vua tới bến Bình Than, Trần Khánh Dư đang làm gì?
+   - [ ] Giữ chức tổng chỉ huy quân đội
+   - [ ] Ngồi dự bàn cùng trăm quan
+   - [x] Bán than trên một chiếc thuyền lớn, sau được vua dùng làm Phó đô tướng quân
+
+   Trần Khánh Dư trước có công nhưng phạm tội, bị đoạt hết quan tước, về Chí Linh bán than; vua cho mời vào rồi dùng ông làm Phó đô tướng quân. [Xem lại](#khanh-du)
+
+3. Vì sao Hoài Văn hầu Trần Quốc Toản không được dự bàn ở Bình Than?
+   - [x] Vì vua thấy ông còn trẻ tuổi
+   - [ ] Vì ông đang bị đoạt hết quan tước
+   - [ ] Vì ông không có thái ấp
+
+   Vua thấy ông còn trẻ tuổi nên không cho dự bàn; ông hổ thẹn, bóp nát quả cam lúc nào không hay, rồi về thái ấp tập hợp hơn nghìn gia nô và thân thuộc. [Xem lại](#qua-cam)
+
 ## Nguồn tham khảo
 
 - "Hội nghị Bình Than", Wikipedia tiếng Việt — thời điểm tháng 10/1282, vũng Trần Xá, trao quyền cho Trần Quốc Tuấn, Trần Khánh Dư bán than, tranh luận về địa điểm: https://vi.wikipedia.org/wiki/H%E1%BB%99i_ngh%E1%BB%8B_B%C3%ACnh_Than

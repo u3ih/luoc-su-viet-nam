@@ -46,6 +46,29 @@ Theo nghị định ngày 20 tháng 10 năm 1945, thư viện đổi tên là Qu
 
 Theo Luật Thư viện năm 2019, Thư viện Quốc gia Việt Nam là thư viện trung tâm của cả nước: nhận và lưu giữ vĩnh viễn xuất bản phẩm, báo chí xuất bản ở Việt Nam, luận án tiến sĩ của công dân Việt Nam bảo vệ trong và ngoài nước, và xây dựng hệ thống thông tin thư mục quốc gia.
 
+## Ôn tập
+
+1. Nghị định lập Thư viện Trung ương cho Liên bang Đông Dương được ban hành ngày nào?
+   - [ ] Ngày 1 tháng 9 năm 1919
+   - [x] Ngày 29 tháng 11 năm 1917
+   - [ ] Ngày 21 tháng 11 năm 1958
+
+   Kế hoạch của Paul Boudet được Toàn quyền Đông Dương chấp nhận. [Xem lại](#nghi-dinh)
+
+2. Thư viện chính thức mở cửa đón người đọc khi nào, với tên gì?
+   - [ ] Ngày 1 tháng 9 năm 1917, tên Thư viện Quốc gia
+   - [x] Ngày 1 tháng 9 năm 1919, tên Thư viện Trung ương Đông Dương
+   - [ ] Ngày 20 tháng 10 năm 1945, tên Quốc gia Thư viện
+
+   Khi ấy thư viện trực thuộc Nha Lưu trữ. [Xem lại](#mo-cua)
+
+3. Thư viện chính thức mang tên Thư viện Quốc gia từ ngày nào?
+   - [ ] Năm 1935
+   - [ ] Năm 1947
+   - [x] Ngày 21 tháng 11 năm 1958
+
+   Trước đó thư viện đã nhiều lần đổi tên, như Thư viện Pierre Pasquier năm 1935 và Tổng Thư viện năm 1953. [Xem lại](#doi-ten)
+
 ## Nguồn tham khảo
 
 - “Thư viện Quốc gia Việt Nam”, Wikipedia tiếng Việt — kế hoạch của P. Boudet, nghị định ngày 29/11/1917, mở cửa ngày 1/9/1919, các tên gọi (1935 Pierre Pasquier, 20/10/1945 Quốc gia Thư viện, 1947, 1953, 1954), tên Thư viện Quốc gia ngày 21/11/1958, chức năng theo Luật Thư viện 2019: https://vi.wikipedia.org/wiki/Th%C6%B0_vi%E1%BB%87n_Qu%E1%BB%91c_gia_Vi%E1%BB%87t_Nam

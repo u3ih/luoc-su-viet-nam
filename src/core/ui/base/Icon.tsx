@@ -9,6 +9,9 @@ const PATHS = {
   down: "M6 9l6 6 6-6",
   left: "M15 6l-6 6 6 6",
   right: "M9 6l6 6-6 6",
+  screen: "M3 5h18v11H3zM8 20h8M12 16v4",
+  flag: "M5 21V4M5 4h11l-2 4 2 4H5",
+  route: "M6 19a2 2 0 1 0 0-4 2 2 0 0 0 0 4zM18 9a2 2 0 1 0 0-4 2 2 0 0 0 0 4zM8 17h6a3 3 0 0 0 0-6h-4a3 3 0 0 1 0-6h6",
 } as const;
 
 export type IconName = keyof typeof PATHS;

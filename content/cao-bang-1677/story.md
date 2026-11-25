@@ -46,6 +46,30 @@ Năm 1644, nhà Minh sụp đổ, nhà Thanh thay thế; quan hệ giữa nhà T
 
 Trận Cao Bằng năm 1677 được xem là trận cuối cùng của quân Mạc, khép lại cuộc chiến Lê – Mạc kéo dài một thế kỷ rưỡi. Sách sử về nhà Mạc còn ghi thêm hai người mang niên hiệu sau đó là Mạc Kính Hẻ (1677 – 1681) và Mạc Kính Quang (1681 – 1683), nhưng không còn đất đai trong nước.
 
+## Ôn tập
+
+1. Nhà Mạc mất Thăng Long vào năm nào, rồi rút lên vùng núi Cao Bằng?
+   - [ ] 1527
+   - [ ] 1533
+   - [x] 1592
+   - [ ] 1677
+
+   Cuối năm 1592, quân Lê – Trịnh do Trịnh Tùng chỉ huy chiếm Thăng Long; những người trong hoàng tộc Mạc còn sống rút lên Cao Bằng. [Xem lại](#roi-thang-long)
+
+2. Sự kiện nào ở phương bắc khiến nhà Mạc mất dần chỗ dựa?
+   - [ ] Chiến tranh Trịnh – Nguyễn nổ ra ở phía nam
+   - [x] Năm 1644 nhà Minh sụp đổ, nhà Thanh thay thế
+   - [ ] Nhà Lê trung hưng được dựng ở Thanh Hoá
+
+   Quan hệ giữa nhà Thanh và triều Lê – Trịnh dần cải thiện, nên nhà Mạc mất dần giá trị với phương bắc. [Xem lại](#that-thu)
+
+3. Kết quả của trận đánh thành Cao Bằng tháng 8 năm 1677 là gì?
+   - [ ] Quân Lê – Trịnh bị đánh lui khỏi Cao Bằng
+   - [ ] Mạc Kính Vũ bị bắt và xử tử
+   - [x] Mạc Kính Vũ chạy sang đất Thanh, căn cứ cuối cùng của nhà Mạc bị xoá bỏ
+
+   Quân Lê – Trịnh do Đinh Văn Tả và Nguyễn Hữu Đăng chỉ huy; vùng Cao Bằng trở về dưới quyền triều Lê – Trịnh. [Xem lại](#that-thu)
+
 ## Nguồn tham khảo
 
 - "Nhà Mạc", Wikipedia tiếng Việt — lập năm 1527, mất Thăng Long năm 1592, các đời ở Cao Bằng và niên hiệu, kéo dài tới năm 1677: https://vi.wikipedia.org/wiki/Nh%C3%A0_M%E1%BA%A1c

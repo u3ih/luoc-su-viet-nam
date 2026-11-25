@@ -70,6 +70,29 @@ Hai tướng Tống là Quách Quân Biện và Triệu Phụng Huân bị bắt
 
 Năm 986, nhà Tống công nhận Lê Hoàn là người đứng đầu Đại Cồ Việt, hai nước lập lại quan hệ hòa hiếu. Đây là lần đầu tiên một nhà nước độc lập của người Việt đánh bại quân đội phương Bắc ngay sau thời Bắc thuộc.
 
+## Ôn tập
+
+1. Vì sao Thái hậu Dương Vân Nga cùng triều thần tôn Lê Hoàn lên ngôi?
+   - [ ] Để dời đô về Hoa Lư
+   - [x] Để lo việc chống quân Tống, khi vua Đinh còn nhỏ tuổi
+   - [ ] Để nhường ngôi cho Phạm Cự Lạng
+
+   Vua Đinh Phế Đế còn nhỏ, quân Tống chuẩn bị tấn công nên Lê Hoàn được tôn lên ngôi để chống quân Tống. [Xem lại](#nhiep-chinh)
+
+2. Theo sử cũ, Lê Hoàn dùng mưu gì để nhử thuyền quân Tống vào chỗ đã chuẩn bị?
+   - [ ] Đốt thuyền giữa sông
+   - [x] Cho người giả vờ xin hàng
+   - [ ] Phá đê cho nước tràn
+
+   Quân Tống mất cảnh giác, trận hình rối loạn, chủ tướng Hầu Nhân Bảo bị giết trong trận. [Xem lại](#gia-hang)
+
+3. Năm 986, nhà Tống có động thái gì với Lê Hoàn?
+   - [ ] Phong ông làm vua nước Tống
+   - [ ] Mang quân sang đánh lần nữa
+   - [x] Công nhận ông là người đứng đầu Đại Cồ Việt
+
+   Hai nước lập lại quan hệ hoà hiếu; đây là lần đầu một nhà nước độc lập của người Việt đánh bại quân đội phương Bắc ngay sau thời Bắc thuộc. [Xem lại](#ket-qua)
+
 ## Nguồn tham khảo
 
 - Đại Việt sử ký toàn thư (Ngô Sĩ Liên và các sử thần, 1479), Bản kỷ — phần Lê Đại Hành hoàng đế: https://vi.wikisource.org/wiki/%C4%90%E1%BA%A1i_Vi%E1%BB%87t_s%E1%BB%AD_k%C3%BD_to%C3%A0n_th%C6%B0

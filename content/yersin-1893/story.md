@@ -49,6 +49,29 @@ Năm 1897, Toàn quyền Paul Doumer tìm nơi lập trạm nghỉ dưỡng; Yer
 
 Ông mất ngày 1 tháng 3 năm 1943 ở Nha Trang, dặn được chôn ở Suối Dầu, tài sản tặng Viện Pasteur Nha Trang và những người cộng sự. Dân xóm Cồn gọi ông là "Thầy Năm".
 
+## Ôn tập
+
+1. Năm 1893, bác sĩ Yersin khám phá ra vùng đất nào, nơi về sau thành Đà Lạt?
+   - [ ] Cao nguyên Di Linh
+   - [x] Cao nguyên Lâm Viên
+   - [ ] Cao nguyên Ban Mê Thuột
+
+   Ông dẫn đoàn đi từ Biên Hòa ra Đồng Nai, lên Di Linh, rồi khám phá cao nguyên Lâm Viên. [Xem lại](#lam-vien)
+
+2. Năm 1894, ở Hồng Kông, Yersin là người đầu tiên phát hiện điều gì?
+   - [ ] Huyết thanh chống dịch hạch
+   - [ ] Trực khuẩn gây bệnh lao
+   - [x] Trực khuẩn gây bệnh dịch hạch
+
+   Trực khuẩn ấy về sau được đặt tên Yersinia pestis để vinh danh ông. [Xem lại](#dich-hach)
+
+3. Yersin dặn được chôn ở đâu?
+   - [x] Suối Dầu
+   - [ ] Paris
+   - [ ] Hồng Kông
+
+   Ông mất ngày 1 tháng 3 năm 1943 ở Nha Trang, tài sản tặng Viện Pasteur Nha Trang và những người cộng sự. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Alexandre Yersin", Wikipedia tiếng Việt — tiểu sử, thám hiểm 1892 – 1894, Lâm Viên 1893, dịch hạch, Nha Trang, Suối Dầu, di chúc: https://vi.wikipedia.org/wiki/Alexandre_Yersin

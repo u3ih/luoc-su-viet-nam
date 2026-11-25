@@ -46,6 +46,29 @@ Kim ngạch xuất khẩu của Việt Nam tăng từ 48,5 tỷ USD năm 2007 l�
 
 Ngay khi gia nhập, phía Việt Nam nhận định WTO vừa mở ra cơ hội — mở rộng thị trường xuất khẩu và dịch vụ, thu hút đầu tư nước ngoài, giải quyết tranh chấp thương mại theo luật chung — vừa đặt ra thách thức lớn cho doanh nghiệp trong nước. Về sau, Việt Nam ký tiếp nhiều hiệp định thương mại tự do như CPTPP, EVFTA, RCEP, và phải sửa đổi nhiều luật lệ về thương mại, đầu tư cho phù hợp cam kết quốc tế.
 
+## Ôn tập
+
+1. Ngày 11 tháng 1 năm 2007, Việt Nam trở thành thành viên thứ mấy của WTO?
+   - [ ] Thứ 100
+   - [ ] Thứ 120
+   - [x] Thứ 150
+
+   Tổng giám đốc Pascal Lamy chúc mừng; đại sứ Ngô Quang Xuân cam kết Việt Nam thực hiện đầy đủ nghĩa vụ và quyền của một thành viên. [Xem lại](#thanh-vien)
+
+2. Lễ kết nạp Việt Nam vào WTO ngày 7 tháng 11 năm 2006 được tổ chức ở đâu?
+   - [x] Geneva, Thụy Sĩ, tại trụ sở của tổ chức
+   - [ ] Hà Nội, Việt Nam
+   - [ ] Washington, Hoa Kỳ
+
+   Đó là kết quả của nhiều năm đàm phán. [Xem lại](#ket-nap)
+
+3. Từ năm 2007 đến 2019, kim ngạch xuất khẩu của Việt Nam thay đổi thế nào?
+   - [ ] Giảm nhẹ, từ khoảng 264 tỷ xuống 48,5 tỷ USD
+   - [ ] Gần như không đổi
+   - [x] Tăng hơn năm lần, từ 48,5 tỷ lên khoảng 264 tỷ USD
+
+   Hàng hoá Việt Nam đến hơn 200 quốc gia và vùng lãnh thổ; cán cân thương mại dần chuyển sang xuất siêu, nhất là từ năm 2011. [Xem lại](#xuat-khau)
+
 ## Nguồn tham khảo
 
 - "VN officially becomes a full WTO member", Báo Điện tử Chính phủ (tiếng Anh) — ngày 11/1/2007, thành viên thứ 150, băng rôn ba thứ tiếng, Pascal Lamy, đại sứ Ngô Quang Xuân, cơ hội và thách thức: https://en.baochinhphu.vn/vn-officially-becomes-a-full-wto-member-1112136.htm

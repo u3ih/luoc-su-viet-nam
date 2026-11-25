@@ -71,6 +71,29 @@ Tương truyền, sau khi thắng giặc, vua Lê Thái Tổ đi thuyền dạo 
 
 Đây là truyền thuyết, không phải chuyện chép trong chính sử, nhưng đã gắn bó với Hà Nội qua nhiều thế kỷ.
 
+## Ôn tập
+
+1. Khi Vương Thông bị vây trong thành Đông Quan, Lê Lợi chủ trương thế nào?
+   - [ ] Đánh chiếm thành để trả thù
+   - [x] Cho quân Minh rút về để chiến tranh không kéo dài, bớt đổ máu
+   - [ ] Bắt toàn bộ quân Minh làm tù binh
+
+   Có tướng muốn đánh thành, nhưng Lê Lợi chủ trương cho quân Minh rút về; ông còn cấp thuyền, ngựa, lương thực và thả tù binh. [Xem lại](#dong-quan)
+
+2. Lê Lợi sai ai soạn Bình Ngô đại cáo?
+   - [ ] Vương Thông
+   - [ ] Ngô Sĩ Liên
+   - [x] Nguyễn Trãi
+
+   Nguyễn Trãi soạn bài cáo để báo cho cả nước biết kháng chiến thắng lợi; bài cáo mở đầu bằng tư tưởng nhân nghĩa, cốt ở yên dân. [Xem lại](#dai-cao)
+
+3. Tháng 4 năm 1428, Lê Lợi lên ngôi, đặt quốc hiệu Đại Việt và đóng đô ở đâu?
+   - [ ] Cổ Loa
+   - [ ] Hoa Lư
+   - [x] Thăng Long, đổi tên là Đông Kinh
+
+   Lê Lợi đóng đô ở Thăng Long và đổi tên là Đông Kinh; sử gọi ông là Lê Thái Tổ. [Xem lại](#len-ngoi)
+
 ## Nguồn tham khảo
 
 - Đại Việt sử ký toàn thư (Ngô Sĩ Liên và các sử thần, 1479), Bản kỷ — phần Thái Tổ Cao Hoàng đế: https://vi.wikisource.org/wiki/%C4%90%E1%BA%A1i_Vi%E1%BB%87t_s%E1%BB%AD_k%C3%BD_to%C3%A0n_th%C6%B0

@@ -46,6 +46,30 @@ Từ cuối năm 1831, Minh Mạng cho bỏ các dinh, trấn mà lập các t�
 
 Giáo sư Phan Huy Lê đánh giá: trong lịch sử quân chủ Việt Nam, cải cách của vua Lê Thánh Tông năm 1471 và cải cách của vua Minh Mạng năm 1831 – 1832 là hai cuộc cải cách hành chính quy mô toàn quốc, hiệu quả cao nhất. Minh Mạng còn đẩy mạnh khẩn hoang, lập nhà Dưỡng tế ở các tỉnh cho người già, tàn tật, nghèo khổ; năm 1838 đổi quốc hiệu thành Đại Nam. Ông mất năm 1841.
 
+## Ôn tập
+
+1. Từ cuối năm 1831, vua Minh Mạng đã thay đổi bộ máy hành chính như thế nào?
+   - [ ] Lập thêm nhiều dinh, trấn và Bắc Thành
+   - [x] Bỏ các dinh, trấn rồi lập các tỉnh do triều đình trực tiếp cai quản
+   - [ ] Giao cả nước cho Bắc Thành và Gia Định Thành quản lý
+
+   Minh Mạng bỏ các dinh, trấn, cùng Bắc Thành, Gia Định Thành, để chia nước thành các đơn vị cấp tỉnh. [Xem lại](#lap-tinh)
+
+2. Ai đứng đầu một tỉnh lớn?
+   - [ ] Phủ doãn
+   - [ ] Án sát
+   - [x] Tổng đốc
+   - [ ] Lãnh binh
+
+   Tỉnh lớn có Tổng đốc, tỉnh nhỏ có Tuần phủ; Phủ doãn đứng đầu phủ Thừa Thiên, nơi có kinh đô. [Xem lại](#lap-tinh)
+
+3. Giáo sư Phan Huy Lê nhận định cải cách của Minh Mạng ngang hàng với cải cách của vị vua nào?
+   - [ ] Gia Long
+   - [ ] Tự Đức
+   - [x] Lê Thánh Tông
+
+   Cải cách của Lê Thánh Tông năm 1471 và của Minh Mạng năm 1831 – 1832 là hai cuộc cải cách hành chính quy mô toàn quốc, hiệu quả cao nhất. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Minh Mạng", Wikipedia tiếng Việt — lên ngôi đầu năm 1820, 30 tuổi, siêng năng; Nội các 1829, Cơ mật viện 1830, phẩm trật chánh – tòng, lương bổng; bỏ dinh trấn lập tỉnh từ cuối năm 1831, danh sách 31 đơn vị năm 1832, Tổng đốc, Tuần phủ, Bố chính, Án sát, Lãnh binh, Phủ doãn; đánh giá của Phan Huy Lê; khẩn hoang, nhà Dưỡng tế; mất năm 1841: https://vi.wikipedia.org/wiki/Minh_M%E1%BA%A1ng

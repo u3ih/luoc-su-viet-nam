@@ -51,6 +51,29 @@ Kênh xong, vua Gia Long khen ngợi, cho lấy tên ông đặt tên kênh là 
 
 Theo Đại Nam thực lục, kênh được tu bổ các năm 1839, 1840 và 1857. Hơn một năm sau khi đào kênh Thoại Hà, Thoại Ngọc Hầu được giao đào kênh Vĩnh Tế nối Châu Đốc với Hà Tiên.
 
+## Ôn tập
+
+1. Vì sao Thoại Ngọc Hầu nghĩ đến việc đào một con kênh nối rạch Long Xuyên với Rạch Giá?
+   - [ ] Để đưa quân ra biển đánh giặc
+   - [x] Việc giao thương từ Hà Tiên, Rạch Giá phải đi vòng đường biển rất bất tiện, lại cần tháo bớt nước lụt sông Hậu ra biển
+   - [ ] Để lấy nước tưới cho vùng núi Sập
+
+   Năm 1817, ông về trấn thủ trấn Vĩnh Thanh và thấy rõ nỗi bất tiện ấy. [Xem lại](#nguyen-do)
+
+2. Kênh Thoại Hà được đào trong bao lâu?
+   - [ ] Khoảng một tuần
+   - [ ] Khoảng một năm
+   - [x] Khoảng một tháng
+
+   Nhờ đào theo lạch nước cũ, chỉ một tháng đã xong, với khoảng 1.500 nhân công. [Xem lại](#dao-kenh)
+
+3. Ai đặt tên kênh là Thoại Hà, và lấy tên theo ai?
+   - [x] Vua Gia Long, lấy tên Thoại Ngọc Hầu
+   - [ ] Vua Minh Mạng, lấy tên Thoại Ngọc Hầu
+   - [ ] Dân địa phương, lấy tên núi Sập
+
+   Kênh xong, vua Gia Long khen ngợi, cho lấy tên ông đặt tên kênh; núi Sập được đặt tên là Thoại Sơn. [Xem lại](#dat-ten)
+
 ## Nguồn tham khảo
 
 - "Kênh Thoại Hà", Wikipedia tiếng Việt — nguyên do, khởi công 1818, nhân công, kích thước, văn bia Thoại Sơn, đặt tên, dựng bia 1822, tu bổ: https://vi.wikipedia.org/wiki/K%C3%AAnh_Tho%E1%BA%A1i_H%C3%A0

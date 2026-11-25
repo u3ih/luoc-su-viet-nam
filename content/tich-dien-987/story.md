@@ -47,6 +47,29 @@ Lê Hoàn là vị vua mở đầu lễ tịch điền nhằm khuyến khích s�
 
 Lễ hội tịch điền Đọi Sơn được khôi phục sau nhiều năm thất truyền; năm 2009, nghi lễ chính diễn ra ngày mồng 7 tháng Giêng âm lịch. Người đóng vai vua cày 3 sá, rồi các bô lão, chức sắc lần lượt cày 5, 7, 9 sá; trâu được trang trí hình tứ linh, tứ quý.
 
+## Ôn tập
+
+1. Mùa xuân năm 987, vua Lê Hoàn lần đầu cày ruộng tịch điền ở đâu?
+   - [ ] Ở Hoa Lư
+   - [x] Ở núi Đọi
+   - [ ] Ở Hoan Châu
+
+   Lê Hoàn lên ngôi năm 980 và đóng đô ở Hoa Lư. [Xem lại](#cay-ruong)
+
+2. Theo Đại Việt sử ký toàn thư, nhà vua cày ở núi Đọi và núi Bàn Hải được gì, nhân đó đặt tên ruộng là gì?
+   - [ ] Được lúa tốt, đặt tên ruộng Mùa Vàng
+   - [ ] Được một thanh gươm, đặt tên ruộng Long Đao
+   - [x] Được một hũ vàng và một hũ bạc, đặt tên ruộng Kim Ngân
+
+   Vị trí núi Bàn Hải nay chưa rõ. [Xem lại](#cay-ruong)
+
+3. Lê Hoàn được nhắc đến với vai trò gì trong lễ tịch điền?
+   - [ ] Vị vua cuối cùng làm lễ
+   - [x] Vị vua mở đầu lễ tịch điền để khuyến khích nghề nông; nhiều đời vua sau noi theo
+   - [ ] Người bãi bỏ lễ tịch điền
+
+   Đến triều Nguyễn, lễ có quy định cụ thể do Bộ Lễ chủ trì. [Xem lại](#le-tich-dien)
+
 ## Nguồn tham khảo
 
 - "Lê Hoàn", Wikipedia tiếng Việt — trị vì, lễ tịch điền năm 987 ở núi Đọi, ruộng Kim Ngân, kênh Đa Cái 1003: https://vi.wikipedia.org/wiki/L%C3%AA_Ho%C3%A0n

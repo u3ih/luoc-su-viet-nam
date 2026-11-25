@@ -47,6 +47,30 @@ Lương Thế Vinh (1441 – 1496), hiệu Thụy Hiên, người huyện Thiên
 
 Cuối đời, ông về hưu ở quê, leo núi, thả diều, đọc sách, nghiên cứu đạo Phật, đề tựa cho in nhiều sách Phật học như Thiền môn giáo khoa. Ông mất năm 1496.
 
+## Ôn tập
+
+1. Năm 1463, Lương Thế Vinh đỗ Trạng nguyên khoa Quý Mùi dưới đời vua nào?
+   - [ ] Lê Thái Tổ
+   - [x] Lê Thánh Tông
+   - [ ] Lê Dụ Tông
+
+   Khi ấy ông 23 tuổi, về sau làm quan 32 năm, đến chức đứng đầu Hàn lâm viện. [Xem lại](#do-trang)
+
+2. Vì sao dân gian gọi Lương Thế Vinh là "Trạng Lường"?
+   - [ ] Vì ông giữ việc đo đạc ruộng đất cho triều đình
+   - [x] Vì tài tính toán của ông, người soạn sách dạy toán Đại thành toán pháp
+   - [ ] Vì ông giữ việc cân đo ở chợ
+
+   Đại thành toán pháp được coi là sách giáo khoa toán đầu tiên ở Việt Nam, dùng dạy toán nhiều thế kỷ. [Xem lại](#toan-phap)
+
+3. Hý phường phả lục do Lương Thế Vinh soạn ghi chép về lĩnh vực nào?
+   - [ ] Binh pháp
+   - [ ] Y học dân gian
+   - [x] Nghệ thuật chèo
+   - [ ] Lịch pháp
+
+   Sách ghi khoán ước phường chèo, kịch bản, diễn xuất, cách đánh trống, múa, hát. [Xem lại](#cheo)
+
 ## Nguồn tham khảo
 
 - "Lương Thế Vinh", Wikipedia tiếng Việt — tiểu sử, khoa thi 1463, chức vụ, dạy học, Đại thành toán pháp, chèo, Hý phường phả lục, cuối đời: https://vi.wikipedia.org/wiki/L%C6%B0%C6%A1ng_Th%E1%BA%BF_Vinh

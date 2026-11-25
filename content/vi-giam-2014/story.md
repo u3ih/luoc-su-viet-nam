@@ -46,6 +46,29 @@ Khác với ví, giặm là thể hát nói có tiết tấu rõ ràng, có phá
 
 Ngày 27 tháng 11 năm 2014, tại kỳ họp thứ 9 của Uỷ ban liên chính phủ Công ước UNESCO về bảo vệ di sản văn hoá phi vật thể ở Paris, dân ca ví, giặm Nghệ Tĩnh được ghi danh là di sản văn hoá phi vật thể đại diện của nhân loại.
 
+## Ôn tập
+
+1. Dân ca ví, giặm phổ biến trong đời sống cộng đồng ở hai tỉnh nào?
+   - [ ] Thanh Hoá và Nghệ An
+   - [x] Nghệ An và Hà Tĩnh
+   - [ ] Hà Tĩnh và Quảng Bình
+
+   Ví, giặm phổ biến trong đời sống cộng đồng hai tỉnh Nghệ An, Hà Tĩnh. [Xem lại](#doi-thuong)
+
+2. Hát ví khác hát giặm ở điểm nào?
+   - [ ] Ví có tiết tấu rõ ràng, giặm hát tự do không theo khuôn nhịp
+   - [x] Ví hát tự do, không theo khuôn nhịp; giặm là thể hát nói có tiết tấu rõ ràng
+   - [ ] Ví chỉ dành cho nam, giặm chỉ dành cho nữ
+
+   Hát ví là lối hát tự do, không theo khuôn nhịp; giặm là thể hát nói có tiết tấu rõ ràng, có phách mạnh, phách nhẹ. [Xem lại](#hat-giam)
+
+3. "Giặm" trong tên gọi hát giặm có nghĩa là gì?
+   - [ ] Gõ nhịp
+   - [ ] Ru con
+   - [x] Ghép vào, xen kẽ
+
+   "Giặm" nghĩa là ghép vào, xen kẽ: hai, ba người hay hai nhóm hát đối diện nhau. [Xem lại](#hat-giam)
+
 ## Nguồn tham khảo
 
 - "Dân ca ví, giặm Nghệ Tĩnh", Wikipedia tiếng Việt — phạm vi, vai trò trong đời sống, nội dung lời ca, đặc điểm hát ví và hát giặm, các làn điệu, ghi danh ngày 27/11/2014 ở Paris: https://vi.wikipedia.org/wiki/D%C3%A2n_ca_v%C3%AD,_gi%E1%BA%B7m_Ngh%E1%BB%87_T%C4%A9nh

@@ -46,6 +46,29 @@ Từ SEA Games 21 năm 2001, kỳ nào anh cũng có huy chương. Ở Thế v�
 
 Mấy ngày sau, ở nội dung 50 m súng ngắn, anh giành thêm huy chương bạc với 191,3 điểm. Hoàng Xuân Vinh trở thành vận động viên Việt Nam đầu tiên giành huy chương vàng Thế vận hội, và cũng là người đầu tiên có hơn một huy chương Thế vận hội; anh được bình chọn là vận động viên tiêu biểu năm 2016 của thể thao Việt Nam.
 
+## Ôn tập
+
+1. Hoàng Xuân Vinh giành huy chương vàng Thế vận hội Rio 2016 ở nội dung nào?
+   - [ ] 50 m súng ngắn
+   - [x] 10 m súng ngắn hơi nam
+   - [ ] Bắn súng toàn quân
+
+   Ở phát quyết định anh ghi 10,7 điểm, tổng điểm 202,5, hơn đối thủ Felipe Almeida Wu 0,4 điểm. [Xem lại](#chung-ket)
+
+2. Ở Thế vận hội London 2012, Hoàng Xuân Vinh đạt kết quả nào?
+   - [ ] Huy chương vàng nội dung 10 m súng ngắn hơi
+   - [x] Đứng thứ tư nội dung 50 m súng ngắn, kém huy chương đồng 0,1 điểm
+   - [ ] Huy chương bạc nội dung 50 m súng ngắn
+
+   Sau đó anh vô địch châu Á cuối năm 2012 và vô địch thế giới đầu năm 2013. [Xem lại](#thanh-tich)
+
+3. Huy chương vàng ở Rio de Janeiro năm 2016 có ý nghĩa gì?
+   - [ ] Chức vô địch thế giới đầu tiên của bắn súng Việt Nam
+   - [ ] Kỷ lục quốc gia đầu tiên ở nội dung súng ngắn hơi 10 m
+   - [x] Tấm huy chương vàng Thế vận hội đầu tiên của thể thao Việt Nam
+
+   Mấy ngày sau, anh còn giành huy chương bạc ở nội dung 50 m súng ngắn với 191,3 điểm. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Hoàng Xuân Vinh", Wikipedia tiếng Việt — ngày sinh, xuất thân, nhập ngũ, Trường Sĩ quan Công binh, vô địch toàn quân năm 1998, vào đội tuyển năm 1999, kỷ lục quốc gia năm 2000, các kỳ SEA Games, hạng tư ở London 2012, vô địch châu Á 2012 và thế giới 2013, chung kết 10 m súng ngắn hơi ở Rio 2016 (Felipe Almeida Wu, 10,1 và 10,7 điểm, 202,5 điểm, kỷ lục Olympic), huy chương bạc 50 m (191,3 điểm), vận động viên tiêu biểu năm 2016: https://vi.wikipedia.org/wiki/Ho%C3%A0ng_Xu%C3%A2n_Vinh

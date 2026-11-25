@@ -60,6 +60,29 @@ Mỗi đỉnh mang một tên ứng với thụy hiệu một vị vua, chạm 1
 
 Cửu Đỉnh còn nguyên vẹn đến nay. Kinh thành Huế thuộc Quần thể di tích Cố đô Huế, được UNESCO công nhận là Di sản Văn hóa Thế giới.
 
+## Ôn tập
+
+1. Năm 1803, vua Gia Long chọn đất xây Kinh thành ở đâu?
+   - [ ] Bờ nam sông Hương
+   - [x] Bờ bắc sông Hương
+   - [ ] Trên Cồn Hến giữa sông
+
+   Vua đích thân chọn chỗ, cắm mốc; kinh thành và mọi công trình bên trong đều xoay mặt về hướng nam. [Xem lại](#chon-dat)
+
+2. Kinh thành Huế được xây trong bao lâu?
+   - [ ] Khoảng 3 năm, dưới một triều vua
+   - [ ] Khoảng 10 năm, dưới ba triều vua
+   - [x] Gần 30 năm, dưới hai triều vua
+
+   Công trình khởi công năm 1805 và đến năm 1832 đời Minh Mạng mới hoàn chỉnh. [Xem lại](#dap-thanh)
+
+3. Ngày 1 tháng 3 năm 1837, đại lễ nào được tổ chức ở sân Thế Miếu trong Hoàng thành?
+   - [ ] Lễ khởi công đắp Kinh thành
+   - [x] Lễ đặt Cửu Đỉnh
+   - [ ] Lễ đăng quang của vua Gia Long
+
+   Vua Minh Mạng dụ đúc chín đỉnh đồng từ năm 1835; mỗi đỉnh mang tên ứng với thuỵ hiệu một vị vua. [Xem lại](#cuu-dinh)
+
 ## Nguồn tham khảo
 
 - "Kinh thành Huế", Wikipedia tiếng Việt — lịch sử, chọn đất, xây dựng, kích thước, các cửa, lũ lụt: https://vi.wikipedia.org/wiki/Kinh_th%C3%A0nh_Hu%E1%BA%BF

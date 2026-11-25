@@ -46,6 +46,29 @@ Trương Phụ toan tha cho về, nhưng hàng tướng Phan Liêu tâu rằng n
 
 Sau khi đánh đuổi quân Minh, Lê Thái Tổ cho lập đền thờ ông ở Nội Diên (nay thuộc Yên Hồ, Đức Thọ), phong Nghĩa Liệt đại vương; Lê Thánh Tông cho lập miếu ở Bình Hồ. Dân Nghệ – Tĩnh suy tôn ông là Nghĩa vương. Năm 1941, Hoàng Xuân Hãn công bố mấy bài thơ Nôm đời Hậu Trần về Nguyễn Biểu gom trong Nghĩa sĩ truyện. Đền Nguyễn Biểu được công nhận di tích lịch sử quốc gia năm 1991; bên sông Lam ở Hưng Xuân (Hưng Nguyên), dân làng vẫn góp sức gìn giữ nền đền thờ ông.
 
+## Ôn tập
+
+1. Vua Trùng Quang sai Nguyễn Biểu sang gặp Trương Phụ để làm gì?
+   - [ ] Xin quân Minh rút khỏi Nghệ An
+   - [x] Xin giảng hoà, một kế hoãn binh để Đặng Dung và Nguyễn Cảnh Dị có thời gian gây dựng lực lượng
+   - [ ] Đầu hàng quân Minh
+
+   Năm 1413, quân Minh đánh vào Nghệ An, vua Trùng Quang lui vào Hoá Châu. [Xem lại](#di-su)
+
+2. Theo lời truyền, Nguyễn Biểu đối lại Trương Phụ như thế nào?
+   - [ ] Xin được tha về quê
+   - [ ] Xin Trương Phụ rút quân
+   - [x] "Còn tấc lưỡi của ta, nhà Trần vẫn còn"
+
+   Theo lời truyền, Trương Phụ giận, sai trói ông vào chân cầu cho nước triều dâng lên dìm chết. [Xem lại](#doi-dap)
+
+3. Sau khi đánh đuổi quân Minh, Lê Thái Tổ cho lập đền thờ Nguyễn Biểu và phong ông là gì?
+   - [x] Nghĩa Liệt đại vương
+   - [ ] Việt quốc công
+   - [ ] Điện tiền Thái sử
+
+   Đền ở Nội Diên (nay thuộc Yên Hồ, Đức Thọ); dân Nghệ – Tĩnh suy tôn ông là Nghĩa vương. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Nguyễn Biểu", Wikipedia tiếng Việt — quê quán, đỗ Thái học sinh, đi sứ năm 1413, bài thơ Cỗ đầu người, câu đối với Trương Phụ, bị dìm chết ở chân cầu, Nghĩa sĩ truyện (Hoàng Xuân Hãn, 1941), đền thờ, xếp hạng năm 1991: https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Bi%E1%BB%83u

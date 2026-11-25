@@ -47,6 +47,29 @@ Theo bài tham khảo, Phượng Hoàng Trung Đô có hai vòng thành Nội v�
 
 Năm 1791, Nguyễn Thiếp nhận lời vào Phú Xuân bàn việc nước, dâng tấu ba điều, trong đó có "Quân đức". Tháng 8 năm 1791, vua ban chiếu lập Sùng chính thư viện ở nơi ông ở ẩn, mời ông làm viện trưởng; trong hai năm ông tổ chức dịch Tiểu học, Tứ thư, Kinh Thi ra chữ Nôm để dạy học. Quang Trung mất năm 1792; Trung Đô chưa trở thành kinh đô như dự định.
 
+## Ôn tập
+
+1. Phượng Hoàng Trung Đô được xây ở đâu?
+   - [ ] Bên sông Hương, ở Phú Xuân
+   - [ ] Bên sông Hồng, ở Thăng Long
+   - [x] Bên sông Lam, dưới chân núi Dũng Quyết, nay thuộc thành phố Vinh, Nghệ An
+
+   Tên Trung Đô có nghĩa là kinh đô nằm giữa, cách Phú Xuân và Thăng Long đều khoảng 300 km. [Xem lại](#trung-do)
+
+2. Nguyễn Huệ gọi Nguyễn Thiếp là gì, và ông có vai trò gì với Trung Đô?
+   - [ ] Tả Quân, người chỉ huy thợ xây thành
+   - [x] La Sơn Phu Tử, được vua giao chọn đất xây Trung Đô
+   - [ ] Thái sư, người đứng đầu quân đội
+
+   Nguyễn Thiếp là danh sĩ cuối đời Lê, ở ẩn trên núi. [Xem lại](#la-son)
+
+3. Tháng 8 năm 1791, vua Quang Trung ban chiếu lập Sùng chính thư viện, trong hai năm Nguyễn Thiếp tổ chức việc gì?
+   - [ ] Đúc tiền và in sách chữ Hán
+   - [x] Dịch Tiểu học, Tứ thư, Kinh Thi ra chữ Nôm để dạy học
+   - [ ] Dạy chữ Quốc ngữ cho dân
+
+   Quang Trung mất năm 1792; Trung Đô chưa trở thành kinh đô như dự định. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Phượng Hoàng trung đô", Wikipedia tiếng Việt — vị trí, ý nghĩa tên, năm xây, Nguyễn Thiếp chọn đất, thư năm 1789, kích thước thành: https://vi.wikipedia.org/wiki/Ph%C6%B0%E1%BB%A3ng_Ho%C3%A0ng_trung_%C4%91%C3%B4

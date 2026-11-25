@@ -47,6 +47,29 @@ Hát Xoan có ba chặng: hát nghi lễ (Hát chào Vua, Mời Vua, Giáo trố
 
 Ngày 24 tháng 11 năm 2011, tại kỳ họp lần thứ sáu của Ủy ban liên chính phủ ở Bali, Indonesia, hát Xoan Phú Thọ được ghi danh là di sản văn hóa phi vật thể cần bảo vệ khẩn cấp; khi ấy chỉ còn khoảng 150 nghệ nhân, trong đó chừng 10 người có thể truyền dạy. Phú Thọ mở lớp đào tạo nghệ nhân kế cận, đưa hát Xoan vào trường học. Nhờ những nỗ lực ấy, hát Xoan được đưa ra khỏi danh sách khẩn cấp; tối 3 tháng 2 năm 2018, tại miếu Lãi Lèn, tỉnh Phú Thọ đón bằng UNESCO ghi danh hát Xoan vào danh sách di sản văn hóa phi vật thể đại diện của nhân loại.
 
+## Ôn tập
+
+1. Hát Xoan gắn với tín ngưỡng nào ở vùng đất Phú Thọ?
+   - [x] Tín ngưỡng thờ cúng Hùng Vương
+   - [ ] Tín ngưỡng thờ Mẫu
+   - [ ] Tín ngưỡng thờ Phật
+
+   Hát Xoan là dân ca lễ nghi phong tục, hát thờ thần, Thành hoàng và vua Hùng; gốc ở vùng Phú Thọ, gắn với đền Hùng. [Xem lại](#goc-tich)
+
+2. Ai đứng đầu một phường Xoan?
+   - [ ] Cô đào trẻ
+   - [ ] Trưởng làng
+   - [x] Ông trùm
+
+   Đứng đầu phường là ông trùm — người dạy hát và tổ chức biểu diễn; theo hầu là các cô đào trẻ. [Xem lại](#phuong-xoan)
+
+3. Ngày 24 tháng 11 năm 2011, UNESCO ghi danh hát Xoan Phú Thọ vào danh sách nào?
+   - [ ] Di sản văn hóa phi vật thể đại diện của nhân loại
+   - [x] Di sản văn hóa phi vật thể cần bảo vệ khẩn cấp
+   - [ ] Di sản thiên nhiên thế giới
+
+   Nhờ nỗ lực bảo tồn, hát Xoan sau đó được đưa ra khỏi danh sách khẩn cấp và đến năm 2018 được ghi danh vào danh sách đại diện của nhân loại. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Hát xoan", Wikipedia tiếng Việt — định nghĩa, tên gọi, bốn phường Xoan cổ, hát cửa đình, ông trùm, ba chặng hát và các bài, di tích, số nghệ nhân, ghi danh ngày 24/11/2011 ở Bali, lớp đào tạo, lễ đón bằng ngày 3/2/2018: https://vi.wikipedia.org/wiki/H%C3%A1t_xoan

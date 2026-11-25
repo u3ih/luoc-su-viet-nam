@@ -86,6 +86,30 @@ Sử cũ còn chép một truyền thuyết: Triệu Quang Phục lập đàn c�
 
 Đầm Dạ Trạch xưa nay thuộc tỉnh Hưng Yên. Ở đây vẫn còn đền thờ Chử Đồng Tử và Tiên Dung.
 
+## Ôn tập
+
+1. Mùa xuân năm 544, Lý Bí xưng đế và đặt tên nước là gì?
+   - [ ] Đại Cồ Việt
+   - [ ] Văn Lang
+   - [x] Vạn Xuân
+   - [ ] Âu Lạc
+
+   Ông xưng là Nam Việt Đế, niên hiệu Thiên Đức; sử gọi là Lý Nam Đế. Lần đầu tiên một người Việt xưng đế, ngang hàng với hoàng đế phương Bắc. [Xem lại](#van-xuan)
+
+2. Nghĩa quân của Triệu Quang Phục đánh quân Lương ở đầm Dạ Trạch như thế nào?
+   - [ ] Đóng thành kiên cố giữa đầm rồi cố thủ
+   - [ ] Đánh trực diện giữa ban ngày trên đồng bằng
+   - [x] Ban ngày im lặng, đêm xuống dùng thuyền độc mộc rẽ lau sậy đánh úp rồi rút về đầm
+
+   Đầm có cỏ lau um tùm, bốn bề bùn lầy; quân Lương mỏi mệt mà không sao đánh được. [Xem lại](#da-trach)
+
+3. Năm 550, vì sao Triệu Việt Vương lấy lại được thành Long Biên?
+   - [ ] Nhà Lương tự nguyện trả lại thành
+   - [x] Nhà Lương có loạn, Trần Bá Tiên phải về nước, ông thừa thế đánh tan quân Lương
+   - [ ] Lý Nam Đế trở lại chỉ huy quân đội
+
+   Lý Nam Đế đã mất năm 548; Triệu Quang Phục xưng là Triệu Việt Vương. [Xem lại](#long-bien)
+
 ## Nguồn tham khảo
 
 - Đại Việt sử ký toàn thư, Ngoại kỷ, quyển IV, Kỷ nhà Tiền Lý và Kỷ Triệu Việt Vương (Ngô Sĩ Liên và các sử thần, 1479).

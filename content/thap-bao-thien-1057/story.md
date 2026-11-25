@@ -47,6 +47,30 @@ Sách Tang thương ngẫu lục của Phạm Đình Hổ và Nguyễn Án chép
 
 Theo Tang thương ngẫu lục, năm Giáp Dần (sách chép tương ứng năm 1791), người ta đào lấy gạch đá ở nền tháp cũ để tu bổ thành Thăng Long, thấy tám pho tượng Kim Cương chia đứng bốn cửa, cùng tượng người tiên, chim muông, giường ghế, chén bát — tất cả bằng đá. Ngọn tháp nay chỉ còn trong thơ văn, như bài thơ của tiến sĩ Phạm Sư Mạnh thế kỷ XIV.
 
+## Ôn tập
+
+1. Tháp Báo Thiên được dựng năm 1057 dưới đời vua nào?
+   - [ ] Lý Thái Tổ
+   - [ ] Lý Thái Tông
+   - [x] Lý Thánh Tông
+   - [ ] Lý Nhân Tông
+
+   Lý Thánh Tông là đời vua thứ ba nhà Lý; tên đầy đủ của tháp là Đại Thắng Tư Thiên bảo tháp. [Xem lại](#chua)
+
+2. Theo sử ghi, tháp có bao nhiêu tầng?
+   - [ ] Chín tầng
+   - [x] Mười hai tầng
+   - [ ] Hai mươi tầng
+
+   Tháp cao hai mươi trượng; đỉnh bằng đồng, những tầng dưới bằng đá và gạch. [Xem lại](#xay-thap)
+
+3. Theo Tang thương ngẫu lục, ai đã phá tháp để lấy vật liệu chế súng đồng?
+   - [ ] Lê Lợi
+   - [x] Vương Thông
+   - [ ] Phạm Sư Mạnh
+
+   Khi Lê Lợi tiến quân vây Đông Đô, viên quan giữ thành là Vương Thông phá ngọn tháp để giữ thành. [Xem lại](#pha-thap)
+
 ## Nguồn tham khảo
 
 - "Tháp Báo Thiên", Wikipedia tiếng Việt — vị trí chùa Báo Thiên (phố Nhà Chung), dựng năm 1057, 12 tầng, đỉnh đồng, gạch khắc chữ Long Thụy Thái Bình, An Nam tứ đại khí, Tang thương ngẫu lục về việc Vương Thông phá tháp và đào nền năm Giáp Dần, thơ Phạm Sư Mạnh: https://vi.wikipedia.org/wiki/Th%C3%A1p_B%C3%A1o_Thi%C3%AAn

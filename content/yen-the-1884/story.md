@@ -60,6 +60,29 @@ Năm 1909, quân Pháp mở một cuộc tấn công lớn vào vùng Yên Thế
 
 Tháng 2 năm 1913, Đề Thám bị người của Lương Tam Kỳ, một thuộc hạ, sát hại. Cuộc khởi nghĩa kết thúc. Khu di tích Yên Thế ở Phồn Xương nay được bảo tồn.
 
+## Ôn tập
+
+1. Sau khi Đề Nắm bị giết năm 1892, ai trở thành thủ lĩnh cao nhất của nghĩa quân Yên Thế?
+   - [ ] Bá Phức
+   - [x] Hoàng Hoa Thám
+   - [ ] Lương Tam Kỳ
+
+   Sau cuộc tấn công lớn của quân Pháp năm 1892, Đề Nắm bị giết; Hoàng Hoa Thám, thường gọi là Đề Thám, trở thành thủ lĩnh cao nhất. [Xem lại](#nhieu-thu-linh)
+
+2. Từ căn cứ Phồn Xương, Đề Thám nhiều lần gặp nhà yêu nước cải cách nào?
+   - [ ] Đề Nắm
+   - [ ] Lương Tam Kỳ
+   - [x] Phan Bội Châu
+
+   Từ căn cứ Phồn Xương, Đề Thám nhiều lần gặp các nhà yêu nước cải cách, trong đó có Phan Bội Châu. [Xem lại](#phon-xuong)
+
+3. Tháng 2 năm 1913, Đề Thám bị ai sát hại?
+   - [x] Người của Lương Tam Kỳ, một thuộc hạ của ông
+   - [ ] Quân Pháp trong cuộc tấn công lớn năm 1909
+   - [ ] Người của Bá Phức
+
+   Tháng 2 năm 1913, Đề Thám bị người của Lương Tam Kỳ, một thuộc hạ, sát hại; cuộc khởi nghĩa kết thúc. [Xem lại](#cuoi-cung)
+
 ## Nguồn tham khảo
 
 - "Khởi nghĩa Yên Thế", Wikipedia tiếng Việt — bối cảnh, các giai đoạn, hoà hoãn, Phồn Xương, kết thúc năm 1913 (bài có gắn thẻ thiếu chú thích nguồn): https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_Y%C3%AAn_Th%E1%BA%BF

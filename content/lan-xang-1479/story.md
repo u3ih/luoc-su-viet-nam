@@ -46,6 +46,29 @@ Theo sử Lào, quân Lan Xang phục ở đồi Poomung, giao chiến ba ngày 
 
 Tháng 1 năm 1480, Lê Thánh Tông về kinh; sử Việt coi cuộc chiến đã kết thúc. Theo Minh thực lục, mãi đến tháng 10 năm 1484, Lan Xang và Lan Na mới báo với nhà Minh rằng quân Đại Việt đã rút hết. Sử Việt chép quân Đại Việt thắng lớn; sử Lào chép quân Lan Xang thắng, trong 4.000 tướng Đại Việt chỉ 600 người về tới nước; còn nhà Minh đến năm sau mới biết chuyện qua quan Tổng binh Vân Nam, và gây sức ép đòi Đại Việt lui quân. Đây là một chương nhạy cảm trong quan hệ Việt – Lào, cần đọc trong cả ba nguồn sử.
 
+## Ôn tập
+
+1. Theo Toàn thư, tháng 7 năm 1479 vua Lê Thánh Tông xuống chiếu đánh Lão Qua và kể tội Lan Xang về điều gì?
+   - [ ] Đã đòi cống nạp voi trắng nhưng không nhận được
+   - [x] Chứa chấp các tù trưởng làm loạn, cướp phá miền biên giới
+   - [ ] Đã đánh chiếm thành Thăng Long
+
+   Toàn thư chép quân Đại Việt chia năm đạo, khoảng 18 vạn người; số quân ghi rất khác nhau giữa sử Việt, sử Lào và sử nhà Minh. Chuyện con voi trắng là nguyên cớ theo sử Lào, và cũng có ý kiến nghi ngờ. [Xem lại](#nam-dao)
+
+2. Cuối năm 1479, quân Đại Việt vào kinh đô nào của Lan Xang?
+   - [ ] Viêng Chăn
+   - [ ] Pak Phun
+   - [x] Luang Prabang
+
+   Theo sử Lào, vua Lan Xang cùng hoàng tộc xuống thuyền chạy về Viêng Chăn. Ở Bồn Man, Cầm Công bỏ chạy rồi chết. [Xem lại](#luang-prabang)
+
+3. Về kết cục cuộc chiến, các nguồn sử chép như thế nào?
+   - [ ] Cả ba nguồn đều chép Đại Việt thắng lớn
+   - [x] Mỗi nguồn kể một cách: sử Việt chép Đại Việt thắng lớn, sử Lào chép Lan Xang thắng, nhà Minh biết chuyện muộn và gây sức ép đòi Đại Việt lui quân
+   - [ ] Cả ba nguồn đều chép Lan Xang thắng
+
+   Lê Thánh Tông về kinh tháng 1 năm 1480; theo Minh thực lục, tháng 10 năm 1484 Lan Xang và Lan Na mới báo quân Đại Việt đã rút hết. Chương nhạy cảm này cần đọc trong cả ba nguồn sử. [Xem lại](#rut-quan)
+
 ## Nguồn tham khảo
 
 - “Chiến tranh Đại Việt – Lan Xang (1479–1480)”, Wikipedia tiếng Việt — các xung đột biên giới từ 1467, Bồn Man, Cầm Công, chiếu đánh Lão Qua, năm đạo quân (Toàn thư), số quân theo sử Lào và Minh thực lục, diễn biến theo sử Lào (Poomung, Chao Chienglaw, Luang Prabang), Lan Na, kết quả theo ba nguồn: https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_%C4%90%E1%BA%A1i_Vi%E1%BB%87t_%E2%80%93_Lan_Xang_(1479%E2%80%931480)

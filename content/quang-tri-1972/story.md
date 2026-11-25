@@ -46,6 +46,29 @@ Kế hoạch chiếm lại thị xã trong vài tuần kéo thành gần ba thá
 
 Trưa 16 tháng 9, Thuỷ quân lục chiến Việt Nam Cộng hoà chiếm lại thành cổ; phía Việt Nam ghi ngày này lực lượng phòng giữ rút khỏi thị xã sang bờ bắc sông Thạch Hãn. Quân Việt Nam Cộng hoà dừng lại ở bờ nam, không giành lại được phần phía bắc tỉnh Quảng Trị. Theo nguồn Việt Nam Cộng hoà, riêng Sư đoàn Thuỷ quân lục chiến có 977 người chết trong tổng số 3.658 người thương vong, và quân đối phương có 8.135 người chết; các nguồn Việt Nam ghi số người hy sinh phía Quân đội Nhân dân Việt Nam từ khoảng 4.000 đến 10.000. Nhiều người lính hai bên còn nằm lại trong lòng đất và dưới dòng sông. Hằng năm, quanh ngày 27 tháng 7, người dân và cựu chiến binh thả hoa, thả đèn trên sông Thạch Hãn để tưởng nhớ.
 
+## Ôn tập
+
+1. Theo lời kể, cuộc tấn công lớn do Quân đội Nhân dân Việt Nam mở ngày 30 tháng 3 năm 1972 nhằm mục đích gì?
+   - [ ] Ngăn chặn chiến dịch ném bom Linebacker
+   - [ ] Đáp trả cuộc phản công Lam Sơn 72
+   - [x] Giành thế mạnh trên bàn đàm phán Paris
+
+   Cuộc tấn công diễn ra trên ba mặt trận: Quảng Trị, Bắc Tây Nguyên (Kon Tum) và miền Đông Nam Bộ (An Lộc). [Xem lại](#xuan-he)
+
+2. Cuộc phản công của quân đội Việt Nam Cộng hoà từ ngày 28 tháng 6 năm 1972 mang tên gì?
+   - [x] Lam Sơn 72
+   - [ ] Mùa hè đỏ lửa
+   - [ ] Linebacker
+
+   Trung tướng Ngô Quang Trưởng phát lệnh phản công, nhắm tới sông Thạch Hãn. [Xem lại](#lam-son-72)
+
+3. Kết quả cuộc giao tranh quanh thành cổ vào ngày 16 tháng 9 năm 1972 là gì?
+   - [ ] Quân Việt Nam Cộng hoà chiếm lại toàn bộ tỉnh Quảng Trị
+   - [x] Thuỷ quân lục chiến Việt Nam Cộng hoà chiếm lại thành cổ nhưng dừng ở bờ nam, không giành lại phần phía bắc tỉnh
+   - [ ] Hai bên ngừng bắn tại chỗ và không bên nào vào thành
+
+   Phía Việt Nam ghi ngày này lực lượng phòng giữ rút khỏi thị xã sang bờ bắc sông Thạch Hãn; lực lượng hai bên đều thương vong rất nặng. [Xem lại](#thach-han)
+
 ## Nguồn tham khảo
 
 - “Second Battle of Quảng Trị”, Wikipedia tiếng Anh — trận đánh 28/6 – 16/9/1972 (81 ngày), Quảng Trị thất thủ trong trận thứ nhất (30/3 – 2/5), phòng tuyến Mỹ Chánh, kế hoạch Lam Sơn 72 của Ngô Quang Trưởng (Dù phía tây, Thuỷ quân lục chiến phía đông quốc lộ 1), Thiệu muốn lấy lại đất trước khi ngừng bắn tại chỗ, 5.461 phi vụ chiến thuật và 2.054 phi vụ B-52 trong tháng 7, Thuỷ quân lục chiến thay Dù 27/7, chiếm lại thành cổ trưa 16/9, dừng ở bờ nam sông Thạch Hãn, thương vong (Thuỷ quân lục chiến 977 chết, 3.658 thương vong; Quân đội Nhân dân Việt Nam 8.135 chết theo nguồn Việt Nam Cộng hoà, 4.000 – 10.000 theo nguồn Việt Nam): https://en.wikipedia.org/wiki/Second_Battle_of_Qu%E1%BA%A3ng_Tr%E1%BB%8B

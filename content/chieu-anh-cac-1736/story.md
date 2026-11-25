@@ -47,6 +47,29 @@ Năm 1737, tập thơ Hà Tiên thập vịnh được khắc in ngay tại Hà 
 
 Từ năm 1736 đến năm 1771, tao đàn để lại các tập Hà Tiên thập vịnh, Thụ Đức Hiên tứ cảnh, Minh bột di ngư… Năm 1771, Hà Tiên bị quân Xiêm La đánh phá. Lê Quý Đôn nhận xét về Mạc Thiên Tứ: "phong lưu tài vận, nổi tiếng một cõi… Không thể bảo rằng ở hải ngoại xa xôi không có văn chương vậy."
 
+## Ôn tập
+
+1. Ai cùng danh sĩ Trần Trí Khải lập Tao đàn Chiêu Anh Các ở Hà Tiên?
+   - [ ] Mạc Cửu
+   - [ ] Lê Quý Đôn
+   - [x] Mạc Thiên Tứ
+
+   Mạc Thiên Tứ dựng gác Chiêu Anh; thầy Trần Hoài Thủy (Trần Trí Khải) dựng cơ Tao đàn, mở hội phong nhã vào năm 1736. [Xem lại](#gac-chieu-anh)
+
+2. Mạc Thiên Tứ dựng gác Chiêu Anh để làm gì?
+   - [x] Thờ Khổng Tử và đón tiếp hiền tài
+   - [ ] Làm kho chứa hàng của thương nhân
+   - [ ] Làm nơi đúc tiền
+
+   Mạc Thiên Tứ dựng gác Chiêu Anh để thờ Khổng Tử và làm nơi đón tiếp hiền tài. [Xem lại](#gac-chieu-anh)
+
+3. Năm 1771, Hà Tiên gặp biến cố gì?
+   - [ ] Mạc Cửu qua đời
+   - [ ] Tập Hà Tiên thập vịnh được khắc in
+   - [x] Bị quân Xiêm La đánh phá
+
+   Năm 1771, Hà Tiên bị quân Xiêm La đánh phá. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Chiêu Anh Các", Wikipedia tiếng Việt — ra đời năm 1736, Trần Trí Khải, thành viên, Hà Tiên thập vịnh, các tác phẩm, nhận xét của Lê Quý Đôn, Trịnh Hoài Đức: https://vi.wikipedia.org/wiki/Chi%C3%AAu_Anh_C%C3%A1c

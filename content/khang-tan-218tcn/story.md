@@ -46,6 +46,29 @@ Theo sông Ly, quân Tần tiến vào lưu vực Tây Giang, giết được th
 
 Khi quân Tần nguy khốn, người Việt tấn công, giết được tướng Đồ Thư; Hoài Nam tử chép quân Tần "thây phơi máu chảy hàng chục vạn người". Nhà Tần cử tướng khác sang; vùng Lĩnh Nam được đặt thành các quận Nam Hải, Quế Lâm, Tượng. Các sử gia hiện đại Việt Nam xem đây là cuộc kháng chiến chống ngoại xâm đầu tiên trong lịch sử dân tộc; nhiều người cho rằng thủ lĩnh Thục Phán nổi lên từ cuộc chiến này, rồi khoảng năm 207 TCN lập nước Âu Lạc.
 
+## Ôn tập
+
+1. Đồ Thư sai đào kênh Linh Cừ nhằm mục đích gì?
+   - [ ] Dẫn nước tưới ruộng cho quân Tần
+   - [x] Có đường thuỷ chở lương cho đạo quân vượt Ngũ Lĩnh sang vùng Tây Âu
+   - [ ] Chặn đường rút lui của người Việt
+
+   Kênh nối sông Tương với sông Ly; suốt ba năm quân Tần vừa đào kênh vừa phải đối phó với sự đánh trả của người Âu Việt. [Xem lại](#linh-cu)
+
+2. Sau khi quân Tần giết thủ lĩnh Dịch Hu Tống, người Việt đối phó thế nào?
+   - [ ] Đầu hàng và nộp cung nỏ
+   - [ ] Cố thủ trong thành và chờ viện binh
+   - [x] Rút vào rừng sâu, bầu thủ lĩnh mới, đánh úp bất ngờ và dùng cung nỏ tiêu hao quân Tần
+
+   Quân Tần đánh mãi không hiệu quả, lương thực dần cạn; tiến hay lui đều bị người Việt bủa vây. [Xem lại](#rung-sau)
+
+3. Khi quân Tần lâm vào nguy khốn, người Việt giết được tướng nào?
+   - [ ] Sử Lộc
+   - [x] Đồ Thư
+   - [ ] Dịch Hu Tống
+
+   Hoài Nam tử chép quân Tần "thây phơi máu chảy hàng chục vạn người". Các sử gia hiện đại Việt Nam xem đây là cuộc kháng chiến chống ngoại xâm đầu tiên trong lịch sử dân tộc. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Chiến tranh Tần – Việt", Wikipedia tiếng Việt — nguyên nhân, 50 vạn quân năm đạo theo Hoài Nam tử, niên đại 218 – 208 TCN theo Sử ký và Hoài Nam tử, kênh Linh Cừ, Dịch Hu Tống, rút vào rừng sâu, Đồ Thư bị giết, các quận Nam Hải, Quế Lâm, Tượng, nhận định của sử gia hiện đại, Thục Phán: https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_T%E1%BA%A7n_%E2%80%93_Vi%E1%BB%87t

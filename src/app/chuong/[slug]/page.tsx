@@ -1,8 +1,9 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { githubLinks } from "@/core/content/links";
-import { getChapter, listChapters } from "@/core/content/load";
+import { getChapter, getText, listChapters } from "@/core/content/load";
 import { chapterJsonLd, ldJson, ogImage } from "@/core/content/seo";
+import { href } from "@/core/ui/i18n";
 import StoryShell from "@/core/ui/StoryShell";
 import { site } from "@/site.config";
 
@@ -14,13 +15,14 @@ export async function generateMetadata({ params }: PageProps<"/chuong/[slug]">):
   const chapter = await getChapter((await params).slug);
   if (!chapter) return {};
   const title = `${chapter.title} (${chapter.year})`;
-  const path = `/chuong/${chapter.slug}`;
+  const path = href.chapter(chapter.slug);
   const image = ogImage(chapter.slug);
+  const en = getText(chapter.slug, "en")?.status === "ready";
   return {
     title,
     description: chapter.teaser,
     keywords: [chapter.title, chapter.era, "lịch sử Việt Nam", ...chapter.beats.map((b) => b.title)],
-    alternates: { canonical: path },
+    alternates: { canonical: path, ...(en && { languages: { vi: path, en: href.chapter(chapter.slug, "en") } }) },
     // chương chưa thẩm định (draft) vẫn mở được bằng link nhưng không cho công cụ tìm kiếm lập chỉ mục
     ...(chapter.status === "draft" && { robots: { index: false, follow: true } }),
     openGraph: { type: "article", locale: "vi_VN", siteName: site.name, url: path, title, description: chapter.teaser, images: [{ url: image, width: 1200, height: 630, alt: title }] },
@@ -34,7 +36,7 @@ export default async function ChapterPage({ params }: PageProps<"/chuong/[slug]"
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={ldJson(chapterJsonLd(chapter))} />
-      <StoryShell chapter={chapter} {...githubLinks(chapter.dir)} />
+      <StoryShell chapter={chapter} editUrl={githubLinks(chapter.dir).editUrl} />
     </>
   );
 }

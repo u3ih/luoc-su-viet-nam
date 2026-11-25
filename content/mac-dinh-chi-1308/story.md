@@ -47,6 +47,29 @@ Năm 1308, ông đi sứ nhà Nguyên, mừng vua Nguyên Vũ Tông lên ngôi. 
 
 Ông làm quan đến chức Tả bộc xạ. Ông mất năm 1346. Về sau, ông được nhà Mạc tôn là tổ tiên trực hệ, truy tôn thụy Kiến Thủy Khâm Minh Văn Hoàng Đế.
 
+## Ôn tập
+
+1. Năm 1304, Mạc Đĩnh Chi đỗ danh hiệu nào trong khoa thi lấy 44 Thái học sinh?
+   - [ ] Bảng nhãn
+   - [ ] Thám hoa
+   - [x] Trạng nguyên
+
+   Cùng khoa, Bùi Mộ đỗ Bảng nhãn, Trương Phóng đỗ Thám hoa. [Xem lại](#trang-nguyen)
+
+2. Khi vua chê ông xấu, ông làm bài phú nào để tự ví mình với hoa sen?
+   - [ ] Bình Ngô đại cáo
+   - [x] Ngọc tỉnh liên (Sen trong giếng ngọc)
+   - [ ] Nam Ông mộng lục
+
+   Theo Lịch triều hiến chương loại chí, ông thông minh hơn người nhưng tướng mạo xấu. [Xem lại](#trang-nguyen)
+
+3. Năm 1308, Mạc Đĩnh Chi đi sứ nhà Nguyên để làm gì?
+   - [x] Mừng vua Nguyên Vũ Tông lên ngôi
+   - [ ] Xin nhà Nguyên lập lại nhà Trần
+   - [ ] Đàm phán chấm dứt cuộc chiến 1287 – 1288
+
+   Khi ấy mới 20 năm sau cuộc chiến 1287 – 1288; ông tỏ rõ khí phách và tài văn chương trong việc bang giao. [Xem lại](#di-su)
+
 ## Nguồn tham khảo
 
 - "Mạc Đĩnh Chi", Wikipedia tiếng Việt — quê quán theo hai nguồn, học đường Ích Tắc, khoa thi 1304, Ngọc tỉnh liên, đi sứ 1308, chức Tả bộc xạ: https://vi.wikipedia.org/wiki/M%E1%BA%A1c_%C4%90%C4%A9nh_Chi

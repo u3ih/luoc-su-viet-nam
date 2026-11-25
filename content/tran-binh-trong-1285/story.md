@@ -49,6 +49,29 @@ Tướng Nguyên dọa nạt, dụ dỗ, hỏi ông có muốn làm vương đ�
 
 Trần Bình Trọng được truy phong Bảo Nghĩa vương. Các sử gia đời sau đánh giá cao lòng trung thành, khí khái của ông; nhiều đường phố, trường học mang tên ông.
 
+## Ôn tập
+
+1. Trần Bình Trọng được giao nhiệm vụ gì đầu năm 1285?
+   - [x] Cầm chân quân Nguyên ở vùng Đà Mạc – Thiên Mạc để bộ chỉ huy rút lui an toàn
+   - [ ] Giữ thành Thăng Long đến cùng
+   - [ ] Đi sứ sang gặp Thoát Hoan
+
+   Hai vua Trần và Hưng Đạo vương giao ông giữ vùng này để bộ chỉ huy rút lui bí mật. [Xem lại](#rut-lui)
+
+2. Khi tướng Nguyên hỏi có muốn làm vương đất Bắc không, ông đáp đại ý thế nào?
+   - [ ] Xin được làm vương đất Bắc
+   - [ ] Xin được tha mạng
+   - [x] Thà làm ma nước Nam còn hơn làm vương đất Bắc
+
+   Đây là lời diễn ý; không khuất phục được, quân Nguyên giết ông, khi đó ông 26 tuổi. [Xem lại](#khang-khai)
+
+3. Về sau Trần Bình Trọng được truy phong là gì?
+   - [ ] Nhân Huệ vương
+   - [ ] Hưng Đạo vương
+   - [x] Bảo Nghĩa vương
+
+   Các sử gia đời sau đánh giá cao lòng trung thành, khí khái của ông. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Trần Bình Trọng", Wikipedia tiếng Việt — xuất thân, nhiệm vụ ở Đà Mạc – Thiên Mạc, đánh chặn, bị bắt, ngày mất, truy phong: https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_B%C3%ACnh_Tr%E1%BB%8Dng

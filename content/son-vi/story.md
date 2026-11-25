@@ -100,6 +100,29 @@ Các nhà nghiên cứu chia văn hoá Sơn Vi thành hai giai đoạn. Giai đo
 
 Trong tiến trình khảo cổ học Việt Nam, văn hoá Sơn Vi đứng trước văn hoá Hoà Bình. Còn về tổ chức xã hội và đời sống tinh thần của cư dân Sơn Vi, tư liệu hiện có rất hạn chế.
 
+## Ôn tập
+
+1. Văn hoá Sơn Vi được đặt tên theo địa điểm nào?
+   - [x] Xã Sơn Vi, tỉnh Phú Thọ
+   - [ ] Xã Bắc Sơn, tỉnh Lạng Sơn
+   - [ ] Hang Con Moong
+
+   Năm 1968, các di tích đầu tiên được phát hiện ở xã Sơn Vi, huyện Lâm Thao, tỉnh Phú Thọ; các nhà khảo cổ lấy tên địa điểm ấy đặt cho cả nền văn hoá. [Xem lại](#phat-hien)
+
+2. Người Sơn Vi chế tác công cụ chủ yếu từ nguyên liệu và bằng kỹ thuật nào?
+   - [ ] Từ kim loại, bằng cách đúc
+   - [x] Từ đá cuội sông, suối, bằng cách ghè đẽo
+   - [ ] Từ đá vôi, bằng cách mài nhẵn toàn thân
+
+   Họ chế tác công cụ chủ yếu từ đá cuội sông, suối ngay tại địa phương; kỹ thuật chủ yếu là ghè đẽo, kỹ thuật mài không xuất hiện. [Xem lại](#cuoi-song)
+
+3. Cư dân Sơn Vi sống bằng nghề gì?
+   - [ ] Trồng lúa nước
+   - [ ] Chăn nuôi trâu bò
+   - [x] Săn bắt và hái lượm
+
+   Cư dân Sơn Vi sống bằng săn bắt và hái lượm, chưa biết chăn nuôi hay trồng trọt. [Xem lại](#kiem-an)
+
 ## Nguồn tham khảo
 
 - Trình Năng Chung, mục từ "Văn hóa Sơn Vi" (tài liệu đăng trên cổng thông tin storage-vnportal.vnpt.vn, thư mục vass; dẫn Hà Văn Tấn chủ biên, Khảo cổ học Việt Nam, tập 1, Thời đại Đá, NXB Khoa học xã hội, 1999; Hà Văn Tấn, Nguyễn Khắc Sử, Trình Năng Chung, Văn hóa Sơn Vi, NXB Khoa học xã hội, 1999; Nguyễn Khắc Sử, Khảo cổ học thời đại đá cũ Bắc Việt Nam, NXB Khoa học xã hội, 2013) — https://storage-vnportal.vnpt.vn/vass/6475/FileQuanTriTinTuc/299.V%C4%82N%20H%C3%93A%20S%C6%A0N%20VI%20-%20TR%C3%8CNH%20N%C4%82NG%20CHUNG.docx

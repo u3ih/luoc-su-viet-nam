@@ -46,6 +46,29 @@ Ngày 2 tháng 9 năm 2017, cầu khánh thành. Cầu rộng 16 m với bốn l
 
 Tân Vũ – Lạch Huyện là cầu vượt biển dài nhất Việt Nam và dài thứ hai Đông Nam Á lúc khánh thành, sau một cầu ở Brunei. Cầu góp phần thúc đẩy công nghiệp ven biển Hải Phòng và du lịch quần đảo Cát Bà.
 
+## Ôn tập
+
+1. Trước khi có cầu, xe và hàng hoá ra đảo Cát Hải phải đi bằng cách nào?
+   - [x] Qua phà và xà lan trên kênh Nam Triệu
+   - [ ] Đi qua đường hầm dưới đáy biển
+   - [ ] Đi bằng cáp treo
+
+   Cầu được thiết kế để giảm chi phí, thời gian, tai nạn và tắc nghẽn giao thông đường thuỷ. [Xem lại](#pha-xa-lan)
+
+2. Dự án cầu được đầu tư theo hình thức hợp tác công – tư (PPP) giữa Việt Nam và nước nào?
+   - [ ] Hàn Quốc
+   - [x] Nhật Bản
+   - [ ] Liên Xô
+
+   Liên doanh Sumitomo Mitsui cùng Cienco 4 và Tổng công ty Xây dựng Trường Sơn thi công; công trình khởi công ngày 15 tháng 2 năm 2014. [Xem lại](#thi-cong)
+
+3. Khi khánh thành năm 2017, cầu Tân Vũ – Lạch Huyện có vị trí nào?
+   - [ ] Cầu đường sắt dài nhất Việt Nam
+   - [ ] Cầu dài nhất Đông Nam Á
+   - [x] Cầu vượt biển dài nhất Việt Nam
+
+   Cầu dài thứ hai Đông Nam Á lúc khánh thành, sau một cầu ở Brunei. [Xem lại](#ngay-nay)
+
 ## Nguồn tham khảo
 
 - “Cầu Tân Vũ – Lạch Huyện” (cầu vượt biển Đình Vũ – Cát Hải), Wikipedia tiếng Việt — chiều dài cầu 5,44 km và dự án 15,63 km, khởi công 15/2/2014, khánh thành 2/9/2017, bề rộng, số làn, tốc độ thiết kế, điểm đầu và cuối, 88 nhịp × 60 m, 1.475 đốt dầm, đường hầm dầm 4,5 km, nhân lực và thiết bị, hình thức PPP Việt – Nhật, nhà thầu, tổng mức đầu tư 11.849 tỷ đồng, lợi ích: https://vi.wikipedia.org/wiki/C%E1%BA%A7u_T%C3%A2n_V%C5%A9_%E2%80%93_L%E1%BA%A1ch_Huy%E1%BB%87n

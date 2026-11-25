@@ -46,6 +46,29 @@ Ngày 11 tháng 7 năm 1995, Tổng thống Bill Clinton tuyên bố bình thư�
 
 Năm 1997, Lê Văn Bàng làm đại sứ đầu tiên của Việt Nam tại Hoa Kỳ; Douglas "Pete" Peterson làm đại sứ đầu tiên của Hoa Kỳ tại Việt Nam. Hiệp định Thương mại song phương có hiệu lực năm 2001; năm 2006, Hoa Kỳ nhập 8,6 tỷ USD hàng hoá từ Việt Nam. Hai nước cùng làm việc để hàn gắn hậu quả chiến tranh: tìm kiếm quân nhân mất tích, khắc phục ô nhiễm chất độc da cam. Từ năm 1995, các tổng thống Hoa Kỳ đều đã đến thăm Việt Nam.
 
+## Ôn tập
+
+1. Vì sao các cuộc đàm phán bình thường hoá năm 1977 – 1978 giữa hai nước không thành?
+   - [ ] Vì hai nước chưa có đại sứ quán
+   - [x] Vì bất đồng về bồi thường chiến tranh và về những quân nhân Mỹ mất tích
+   - [ ] Vì Việt Nam chưa gia nhập WTO
+
+   Việc tìm kiếm người mất tích trở thành vấn đề lớn trong quan hệ hai nước suốt nhiều năm. [Xem lại](#cam-van)
+
+2. Ngày 11 tháng 7 năm 1995, điều gì đã xảy ra?
+   - [ ] Hoa Kỳ bãi bỏ hoàn toàn lệnh cấm vận
+   - [ ] Hoa Kỳ mở văn phòng liên lạc ở Hà Nội
+   - [x] Tổng thống Bill Clinton tuyên bố bình thường hoá quan hệ ngoại giao với Việt Nam
+
+   Việc bãi bỏ cấm vận diễn ra từ năm 1994; văn phòng liên lạc mở ngày 28 tháng 1 năm 1995. [Xem lại](#binh-thuong-hoa)
+
+3. Hai nước cùng làm việc để hàn gắn hậu quả chiến tranh bằng những việc nào?
+   - [ ] Chia lại đường biên giới và bồi thường chiến phí
+   - [x] Tìm kiếm quân nhân mất tích và khắc phục ô nhiễm chất độc da cam
+   - [ ] Lập căn cứ quân sự chung
+
+   Hiệp định Thương mại song phương có hiệu lực năm 2001; từ năm 1995, các tổng thống Hoa Kỳ đều đã đến thăm Việt Nam. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Quan hệ Hoa Kỳ – Việt Nam", Wikipedia tiếng Việt — cấm vận 1975 – 1994, đàm phán 1977 – 1978, năm 1993, năm 1994, văn phòng liên lạc 28/1/1995, tuyên bố ngày 11/7/1995, thoả thuận 5/8/1995, ngày mở hai đại sứ quán, các đại sứ đầu tiên năm 1997, Hiệp định Thương mại 2001, số liệu thương mại 2006, hàn gắn hậu quả chiến tranh: https://vi.wikipedia.org/wiki/Quan_h%E1%BB%87_Hoa_K%E1%BB%B3_%E2%80%93_Vi%E1%BB%87t_Nam

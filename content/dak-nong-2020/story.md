@@ -46,6 +46,31 @@ Cách đây khoảng 140 triệu năm, vùng đất Đắk Nông còn nằm dư�
 
 Tháng 12 năm 2015, tỉnh Đắk Nông quyết định lập công viên địa chất. Ngày 7 tháng 7 năm 2020, UNESCO thông qua quyết định công nhận Đắk Nông là công viên địa chất toàn cầu — thứ ba của Việt Nam sau Cao nguyên đá Đồng Văn và Non nước Cao Bằng. Công viên rộng 4.760 km², có khoảng 65 điểm di sản địa chất, địa mạo: hang động, miệng núi lửa, thác nước.
 
+## Ôn tập
+
+1. Công viên địa chất toàn cầu Đắk Nông là công viên thứ mấy của Việt Nam được UNESCO công nhận?
+   - [ ] Thứ nhất
+   - [ ] Thứ hai
+   - [x] Thứ ba
+   - [ ] Thứ tư
+
+   Ngày 7 tháng 7 năm 2020, Đắk Nông là công viên địa chất toàn cầu thứ ba, sau Cao nguyên đá Đồng Văn và Non nước Cao Bằng. [Xem lại](#ghi-danh)
+
+2. Vùng đất đỏ bazan rộng lớn ở Đắk Nông được tạo nên như thế nào?
+   - [ ] Do phù sa của một dòng sông lớn bồi đắp
+   - [x] Do dung nham núi lửa phun trào phủ tới một nửa diện tích
+   - [ ] Do gió mang bụi đất từ xa tới
+
+   Về sau vỏ Trái Đất nâng lên thành đất liền, núi lửa xuất hiện; dung nham phủ tới một nửa diện tích, tạo nên vùng đất đỏ bazan. [Xem lại](#day-bien)
+
+3. Bộ đàn đá cổ có niên đại ba nghìn năm ở Đắk Nông làm từ loại đá nào?
+   - [ ] Đá vôi
+   - [ ] Đá hoa cương
+   - [ ] Đá cuội sông
+   - [x] Đá bazan
+
+   Đắk Nông là nơi phát hiện bộ đàn đá cổ làm từ đá bazan, một trong những nhạc cụ cổ nhất của loài người. [Xem lại](#dan-da)
+
 ## Nguồn tham khảo
 
 - “Công viên địa chất Đắk Nông”, Wikipedia tiếng Việt — diện tích 4.760 km², khoảng 65 điểm di sản, gần 50 hang động dài hơn 10.000 m, lịch sử địa chất (đáy biển 140 triệu năm trước, núi lửa, bazan, hoạt động đến 10.000 năm trước), dấu tích người tiền sử, các dân tộc, cồng chiêng, đàn đá ba nghìn năm, quyết định lập tháng 12/2015, công nhận ngày 7/7/2020, thứ ba của Việt Nam: https://vi.wikipedia.org/wiki/C%C3%B4ng_vi%C3%AAn_%C4%91%E1%BB%8Ba_ch%E1%BA%A5t_%C4%90%E1%BA%AFk_N%C3%B4ng

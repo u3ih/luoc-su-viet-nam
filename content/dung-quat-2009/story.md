@@ -46,6 +46,29 @@ Từ ngày 25 tháng 2 năm 2009, nhà máy nâng dần công suất; tối ngà
 
 Ngày 6 tháng 1 năm 2011, nhà máy lọc dầu Dung Quất được khánh thành, giao cho Công ty Lọc hoá dầu Bình Sơn (BSR) quản lý — dự kiến đáp ứng khoảng 30% nhu cầu xăng dầu trong nước.
 
+## Ôn tập
+
+1. Thủ tướng Võ Văn Kiệt giữ quan điểm đặt nhà máy ở Dung Quất vì lý do chính nào?
+   - [ ] Vì Dung Quất gần các thị trường lớn phía bắc và phía nam
+   - [x] Trước hết vì an ninh năng lượng và để tạo đà cho Quảng Ngãi, cả miền Trung
+   - [ ] Vì tập đoàn Total của Pháp yêu cầu như vậy
+
+   Địa điểm gây nhiều tranh luận: năm 1995, Total ngừng đàm phán vì không muốn đặt nhà máy ở miền Trung, xa các thị trường lớn. [Xem lại](#dia-diem)
+
+2. Nhà máy lọc dầu Dung Quất cho ra dòng sản phẩm đầu tiên vào tối ngày 23 tháng 2 năm 2009 có ý nghĩa gì?
+   - [ ] Là nhà máy lọc dầu thứ hai của Việt Nam
+   - [ ] Là nhà máy do tập đoàn Total của Pháp xây dựng
+   - [x] Là nhà máy lọc dầu đầu tiên của Việt Nam, sau hơn hai mươi năm từ ngày chọn địa điểm
+
+   Quyết định chọn Dung Quất làm nơi đặt nhà máy lọc dầu đầu tiên của Việt Nam đã được ký từ năm 1986. [Xem lại](#mo-dau)
+
+3. Ngày 6 tháng 1 năm 2011, nhà máy được khánh thành và giao cho đơn vị nào quản lý?
+   - [x] Công ty Lọc hoá dầu Bình Sơn (BSR)
+   - [ ] Tập đoàn Total
+   - [ ] Tổ hợp nhà thầu Technip
+
+   Nhà máy dự kiến đáp ứng khoảng 30% nhu cầu xăng dầu trong nước. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Nhà máy lọc dầu Dung Quất", Wikipedia tiếng Việt — chọn địa điểm năm 1986, khởi công 28/11/2005, vốn, nhà thầu, quy mô, 1.046 kỹ sư đào tạo, lễ đón sản phẩm đầu tiên tối 23/2/2009, khánh thành 6/1/2011, tranh luận về địa điểm, 7.000 hộ tái định cư, quan điểm của Thủ tướng Võ Văn Kiệt: https://vi.wikipedia.org/wiki/Nh%C3%A0_m%C3%A1y_l%E1%BB%8Dc_d%E1%BA%A7u_Dung_Qu%E1%BA%A5t

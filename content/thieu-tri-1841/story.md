@@ -46,6 +46,29 @@ Vua Thiệu Trị để lại rất nhiều thơ. Hai bài thơ chữ Hán nổi
 
 Tháng 3 năm 1847, hai tàu chiến Pháp do Lapierre và Rigault de Genouilly chỉ huy vào cửa biển Đà Nẵng, đòi bỏ lệnh cấm đạo. Ngày 15 tháng 4, giao tranh nổ ra. Theo Đại Nam thực lục, triều đình định dùng thuyền đồng đánh phá; phía Pháp phát hiện, ra tay trước, bắn chìm năm thuyền đồng, 40 người chết, hơn 90 người bị thương, 104 người mất tích; tài liệu phía Pháp thì cho rằng quân triều kéo dài thương thuyết để tập hợp thuyền, và ghi bốn thuyền bị chìm, một chiếc hư nặng. Hôm sau tàu Pháp bỏ đi. Vua giận, ra dụ cấm giảng đạo. Ít tháng sau ông lâm bệnh, mất ngày 4 tháng 11 năm 1847; con thứ là Hồng Nhậm nối ngôi, tức vua Tự Đức.
 
+## Ôn tập
+
+1. Vua Thiệu Trị lên ngôi năm 1841 nối ngôi vua nào, và về phép tắc ông làm thế nào?
+   - [ ] Nối ngôi Gia Long, đổi mới hoàn toàn luật lệ
+   - [x] Nối ngôi Minh Mạng, phần nhiều giữ nguyên lệ thời Minh Mạng
+   - [ ] Nối ngôi Tự Đức, bỏ hết lệ cũ
+
+   Ông lên ngôi ở điện Thái Hòa, đặt niên hiệu Thiệu Trị, khi 34 tuổi. [Xem lại](#len-ngoi)
+
+2. Hai bài thơ chữ Hán nổi tiếng của vua Thiệu Trị có đặc điểm gì?
+   - [ ] Mỗi bài chỉ có bốn câu
+   - [x] Xếp thành năm vòng tròn đồng tâm, mỗi bài 56 chữ, đọc được nhiều cách
+   - [ ] Viết bằng chữ Nôm, không có vần
+
+   Vua chỉ cách đọc và đố người đọc tìm ra 64 bài thơ trong đó. [Xem lại](#tho)
+
+3. Tháng 3 năm 1847, hai tàu chiến Pháp vào cửa biển Đà Nẵng để đòi điều gì?
+   - [x] Bỏ lệnh cấm đạo
+   - [ ] Nhượng đất Nam Kỳ
+   - [ ] Mở cửa thông thương với Xiêm La
+
+   Ngày 15 tháng 4 giao tranh nổ ra; hôm sau tàu Pháp bỏ đi, vua giận, ra dụ cấm giảng đạo. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Thiệu Trị", Wikipedia tiếng Việt — thân thế, lên ngôi ngày 11/2/1841 ở điện Thái Hòa lúc 34 tuổi, giữ định chế thời Minh Mạng, các đại thần phò tá, thơ Vũ trung sơn thủy và Phước Viên văn hội (năm vòng tròn, 56 chữ, 64 và 128 cách đọc), nổi dậy ở Nam Kỳ 1841 – 1842, rút khỏi Trấn Tây tháng 9/1841, hoà ước với Xiêm năm 1845, sự kiện Đà Nẵng 1847 theo Đại Nam thực lục, mất ngày 4/11/1847, Hồng Nhậm nối ngôi: https://vi.wikipedia.org/wiki/Thi%E1%BB%87u_Tr%E1%BB%8B

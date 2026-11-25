@@ -57,6 +57,29 @@ Bài thơ về đồng tiền kim loại của Nguyễn Phan Lãng, tức Đoàn
 
 Một quảng trường ở Hà Nội ngày nay mang tên Đông Kinh Nghĩa Thục.
 
+## Ôn tập
+
+1. Đông Kinh Nghĩa Thục mở ở đâu và vào năm nào?
+   - [ ] Phố Hàng Đào, Hà Nội, năm 1908
+   - [x] Phố Hàng Đào, Hà Nội, năm 1907
+   - [ ] Huế, năm 1907
+
+   Trường mở ở phố Hàng Đào, Hà Nội, vào tháng 3 năm 1907; Lương Văn Can làm thục trưởng. [Xem lại](#hang-dao)
+
+2. Hai mục tiêu được nêu của trường là gì?
+   - [ ] Đào tạo quan lại và mở trường dạy chữ Hán
+   - [x] Khai trí cho dân bằng lớp học miễn phí, chấn hưng công nghiệp và thương mại
+   - [ ] Mở rộng đất canh tác và đóng tàu
+
+   Trường lấy mô hình từ trường Khánh Ứng Nghĩa Thục ở Nhật Bản, có bốn ban. [Xem lại](#mo-hinh)
+
+3. Việc học ở trường có đặc điểm gì?
+   - [ ] Chỉ dạy chữ Hán
+   - [ ] Thu học phí cao
+   - [x] Không thu tiền, dạy cả chữ quốc ngữ, tiếng Pháp và các môn mới
+
+   Các môn gồm chữ Hán, chữ quốc ngữ, tiếng Pháp, lịch sử, địa lý, toán, vẽ và một số kiến thức khoa học. [Xem lại](#day-hoc)
+
 ## Nguồn tham khảo
 
 - "Đông Kinh Nghĩa Thục", Wikipedia tiếng Việt — thời gian, người sáng lập, mô hình, bốn ban, môn học, các trường tương tự, đóng cửa: https://vi.wikipedia.org/wiki/%C4%90%C3%B4ng_Kinh_Ngh%C4%A9a_Th%E1%BB%A5c

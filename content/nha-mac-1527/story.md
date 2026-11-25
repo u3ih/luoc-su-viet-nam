@@ -66,6 +66,29 @@ Bài tham khảo ghi một kỳ thi ở Cao Bằng có người đỗ đầu là
 >
 > Bài tham khảo ghi "gần 66 năm" ở phần mở đầu và "65 năm" ở phần khác; năm kết thúc ghi 1592 hoặc 1593 vì Mạc Toàn tại vị khoảng 1592–1593.
 
+## Ôn tập
+
+1. Năm 1533, ai lập Lê Duy Ninh lên làm vua ở đất Ai Lao, mở đầu cuộc chiến chống nhà Mạc?
+   - [ ] Trịnh Tùng
+   - [x] Nguyễn Kim
+   - [ ] Mạc Kính Điển
+
+   Nguyễn Kim lập Lê Duy Ninh làm vua, tức Lê Trang Tông; từ đó có Nam triều và Bắc triều. [Xem lại](#nam-bac)
+
+2. Sau khi mất Thăng Long năm 1592, dòng họ Mạc tiếp tục giữ vùng nào đến năm 1677?
+   - [x] Cao Bằng
+   - [ ] Ai Lao
+   - [ ] Thanh Hoá
+
+   Dòng họ Mạc giữ Cao Bằng, trước hết với sự ủng hộ của nhà Minh, sau đó của tàn dư nhà Minh. [Xem lại](#cao-bang)
+
+3. Năm 1540, trước sức ép của quân Minh, Mạc Đăng Dung đã làm gì?
+   - [ ] Đem quân đánh lui quân Minh
+   - [ ] Dời đô vào Thanh Hoá
+   - [x] Tự trói mình đến cửa ải, dâng biểu xin hàng; nhà Minh công nhận quyền cai trị của nhà Mạc
+
+   Nhà Minh công nhận quyền cai trị của nhà Mạc, đổi tên nước thành An Nam đô thống sứ ty và cấp ấn. [Xem lại](#nha-minh)
+
 ## Nguồn tham khảo
 
 - "Nhà Mạc", Wikipedia tiếng Việt — lên ngôi 1527, niên hiệu, nhường ngôi 1529, quan hệ nhà Minh 1540, chiến tranh Lê – Mạc, 1592, Cao Bằng, khoa thi: https://vi.wikipedia.org/wiki/Nh%C3%A0_M%E1%BA%A1c

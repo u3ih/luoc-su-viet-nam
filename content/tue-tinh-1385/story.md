@@ -51,6 +51,29 @@ Năm 1385, khi đã 55 tuổi, Tuệ Tĩnh bị đưa đi cống cho triều đ�
 
 Năm 1690, tiến sĩ Nguyễn Danh Nho đi sứ sang Trung Hoa, tình cờ thấy mộ Tuệ Tĩnh, nhận ra người cùng làng, chép lại bia mộ và tạc bia đá mang về quê. Giới y học và nhân dân tôn ông là "ông Thánh thuốc Nam".
 
+## Ôn tập
+
+1. Quan điểm "Nam dược trị Nam nhân" của Tuệ Tĩnh có nghĩa là gì?
+   - [x] Thuốc Nam chữa người Nam
+   - [ ] Chỉ dùng thuốc nhập từ nước ngoài
+   - [ ] Chỉ chữa bệnh cho người nghèo
+
+   Ông trồng cây thuốc, sưu tầm kinh nghiệm chữa bệnh trong dân gian và dạy y học cho tăng ni ở chùa Hộ Xá. [Xem lại](#nam-duoc)
+
+2. Năm 1385, khi 55 tuổi, Tuệ Tĩnh gặp sự việc nào?
+   - [ ] Được vua Trần cử làm Thái y trong triều
+   - [x] Bị đưa đi cống cho triều đình nhà Minh
+   - [ ] Về trụ trì chùa Hộ Xá
+
+   Sang Trung Quốc ông vẫn làm thuốc, nổi tiếng, được vua Minh phong là Đại y Thiền sư và mất ở Giang Nam. [Xem lại](#di-cong)
+
+3. Năm 1690, ai chép lại bia mộ Tuệ Tĩnh và tạc bia đá mang về quê?
+   - [ ] Vua Trần Dụ Tông
+   - [ ] Một vị vua nhà Minh
+   - [x] Tiến sĩ Nguyễn Danh Nho
+
+   Ông đi sứ sang Trung Hoa, tình cờ thấy mộ Tuệ Tĩnh và nhận ra người cùng làng. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Tuệ Tĩnh", Wikipedia tiếng Việt — tiểu sử, đi tu, chùa Hộ Xá, các tác phẩm, đi cống năm 1385, bia mộ, Nguyễn Danh Nho: https://vi.wikipedia.org/wiki/Tu%E1%BB%87_T%C4%A9nh

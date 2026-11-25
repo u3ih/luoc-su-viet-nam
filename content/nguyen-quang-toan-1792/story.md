@@ -46,6 +46,29 @@ Năm 1800, Trần Quang Diệu và Vũ Văn Dũng vây thành Quy Nhơn (Bình �
 
 Đầu năm 1802, vua Cảnh Thịnh đem khoảng ba vạn quân nam hạ, đánh lũy Trấn Ninh và Đâu Mâu nhưng không hạ được, thuỷ quân thua ở sông Gianh. Tháng 5 âm lịch, Nguyễn Ánh đặt niên hiệu Gia Long, rồi tiến ra bắc. Tháng 6 âm lịch, quân Nguyễn vào Thăng Long; vua Cảnh Thịnh cùng các em vượt sông Nhị chạy lên Xương Giang rồi Lạng Giang, mấy ngày sau thì bị bắt, cùng các em và tướng lĩnh bị giải về Phú Xuân. Tháng 11 âm lịch năm ấy họ bị xử tử; Nguyễn Quang Toản mới 19 tuổi. Triều Tây Sơn chấm dứt.
 
+## Ôn tập
+
+1. Nguyễn Quang Toản lên ngôi năm 1792 khi bao nhiêu tuổi, với niên hiệu nào?
+   - [ ] 19 tuổi, niên hiệu Bảo Hưng
+   - [x] Mười tuổi, niên hiệu Cảnh Thịnh
+   - [ ] 37 tuổi, niên hiệu Gia Long
+
+   Ông là con trưởng của vua Quang Trung; việc triều chính nằm trong tay người cậu là Thái sư Bùi Đắc Tuyên. [Xem lại](#len-ngoi)
+
+2. Năm 1801, thấy quân tinh nhuệ Tây Sơn dồn cả ở Bình Định, Nguyễn Ánh làm gì?
+   - [ ] Rút quân về Gia Định
+   - [x] Đem thuỷ quân theo gió nam vượt biển ra bắc, đánh vào cửa biển Tư Dung
+   - [ ] Đem quân đánh lũy Trấn Ninh và Đâu Mâu
+
+   Ngày mồng 3 tháng 5 âm lịch năm 1801, vua Cảnh Thịnh rời Phú Xuân chạy ra Nghệ An. [Xem lại](#mat-phu-xuan)
+
+3. Triều Tây Sơn chấm dứt vào năm nào?
+   - [ ] Năm 1792
+   - [ ] Năm 1801
+   - [x] Năm 1802
+
+   Tháng 6 âm lịch năm 1802, quân Nguyễn vào Thăng Long; vua Cảnh Thịnh bị bắt rồi bị xử tử cùng các em và tướng lĩnh. [Xem lại](#ket-cuc)
+
 ## Nguồn tham khảo
 
 - “Nguyễn Quang Toản”, Wikipedia tiếng Việt — lên ngôi năm 1792, Bùi Đắc Tuyên, sự kiện Vũ Văn Dũng vây cung và hai bờ sông Hương, cái chết của Nguyễn Nhạc, Lê Trung, Nguyễn Văn Huấn; vây Bình Định 1800, Thị Nại và cửa Tư Dung 1801, niên hiệu Bảo Hưng, Trấn Ninh – Đâu Mâu 1802, bị bắt ở Xương Giang, bị xử tử ở Phú Xuân (trích Đại Nam thực lục): https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Quang_To%E1%BA%A3n

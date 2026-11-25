@@ -46,6 +46,29 @@ Chương trình Việt Minh được Nguyễn Ái Quốc soạn thành bài thơ
 
 Ngày 22 tháng 12 năm 1944, trong khu rừng giữa hai tổng Trần Hưng Đạo và Hoàng Hoa Thám ở Cao Bằng, Đội Việt Nam Tuyên truyền Giải phóng quân được lập, gồm 34 người, Võ Nguyên Giáp chỉ huy chung, Hoàng Sâm làm đội trưởng — một trong những tiền thân của Quân đội Nhân dân Việt Nam. Tháng 5 năm 1945, đội hợp nhất với Cứu quốc quân thành Việt Nam Giải phóng quân. Mặt trận mở rộng chiến khu ra các tỉnh đông bắc Bắc Bộ, về sau gọi là chiến khu Việt Bắc.
 
+## Ôn tập
+
+1. Ngày 28 tháng 1 năm 1941, Nguyễn Ái Quốc về nước và sống, làm việc ở đâu?
+   - [ ] Trong rừng Khuổi Nậm
+   - [x] Trong hang Cốc Bó, bản Pác Bó, Cao Bằng
+   - [ ] Ở thị xã Cao Bằng
+
+   Ông đặt tên dòng suối trước cửa hang là suối Lênin, ngọn núi có hang là núi Các Mác. [Xem lại](#coc-bo)
+
+2. Hội nghị tháng 5 năm 1941 ở rừng Khuổi Nậm có kết quả gì?
+   - [ ] Thành lập Việt Nam Giải phóng quân
+   - [x] Đặt nhiệm vụ giải phóng dân tộc lên hàng đầu và lập Việt Nam Độc lập Đồng minh (Việt Minh)
+   - [ ] Thành lập Đảng Cộng sản Đông Dương
+
+   Hội nghị lần thứ VIII Ban Chấp hành Trung ương diễn ra từ ngày 10 đến 19 tháng 5 năm 1941; mặt trận nhằm liên hiệp mọi tầng lớp nhân dân để đánh đuổi Nhật – Pháp. [Xem lại](#khuoi-nam)
+
+3. Ngày 22 tháng 12 năm 1944, đơn vị nào được lập ở Cao Bằng?
+   - [ ] Đội Cứu quốc quân
+   - [x] Đội Việt Nam Tuyên truyền Giải phóng quân, gồm 34 người
+   - [ ] Đội Việt Nam Giải phóng quân, gồm 340 người
+
+   Võ Nguyên Giáp chỉ huy chung, Hoàng Sâm làm đội trưởng; tháng 5 năm 1945 đội hợp nhất với Cứu quốc quân thành Việt Nam Giải phóng quân. [Xem lại](#giai-phong-quan)
+
 ## Nguồn tham khảo
 
 - “Khu di tích Pác Bó”, Wikipedia tiếng Việt — ngày 28/1/1941, hang Cốc Bó (nghĩa “đầu nguồn”), suối Lênin, núi Các Mác, bàn đá, di tích quốc gia đặc biệt: https://vi.wikipedia.org/wiki/Khu_di_t%C3%ADch_P%C3%A1c_B%C3%B3

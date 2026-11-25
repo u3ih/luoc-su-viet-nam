@@ -47,6 +47,29 @@ Năm 1895, nhà thờ xây thêm hai tháp chuông, mỗi tháp cao 57,6 m, có 
 
 Năm 1959, tượng Đức Mẹ Hòa Bình được dựng trên bệ đá trước nhà thờ, vốn để trống từ năm 1945; từ đó công trình được gọi là Nhà thờ Đức Bà. Nhà thờ là nhà thờ chính tòa của Tổng giáo phận Sài Gòn, một công trình kiến trúc tiêu biểu của Thành phố Hồ Chí Minh.
 
+## Ôn tập
+
+1. Ai đặt viên đá đầu tiên của nhà thờ ngày 7 tháng 10 năm 1877?
+   - [ ] Kiến trúc sư J. Bourard
+   - [ ] Thống đốc Nam Kỳ Le Myre de Vilers
+   - [x] Giám mục Isidore Colombert
+
+   Thống đốc Le Myre de Vilers có mặt ở lễ khánh thành năm 1880. [Xem lại](#xay-dung)
+
+2. Mặt ngoài nhà thờ được xây bằng vật liệu nào?
+   - [x] Gạch đặt làm ở Pháp, để trần không tô trát
+   - [ ] Đá khai thác ở Sài Gòn, quét vôi trắng
+   - [ ] Gạch địa phương, tô vữa kín
+
+   Vật liệu xây dựng, kể cả ốc vít, đều mang từ Pháp sang; gạch để trần đến nay vẫn giữ màu hồng. [Xem lại](#do-an)
+
+3. Công trình được gọi là Nhà thờ Đức Bà từ năm nào?
+   - [ ] 1880
+   - [x] 1959
+   - [ ] 1895
+
+   Năm 1959, tượng Đức Mẹ Hòa Bình được dựng trước nhà thờ; từ đó công trình được gọi là Nhà thờ Đức Bà. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Nhà thờ chính tòa Đức Bà Sài Gòn", Wikipedia tiếng Việt — đồ án, vật liệu, đặt đá 1877, khánh thành 1880, tháp chuông 1895, tượng Đức Mẹ 1959, tên gọi: https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_ch%C3%ADnh_t%C3%B2a_%C4%90%E1%BB%A9c_B%C3%A0_S%C3%A0i_G%C3%B2n

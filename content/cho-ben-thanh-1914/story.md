@@ -47,6 +47,29 @@ Tháng 7 năm 1870, chợ bị cháy một gian, được xây lại bằng cộ
 
 Lễ khánh thành diễn ra ba ngày 28, 29 và 30 tháng 3 năm 1914, được báo chí thời đó gọi là "Tân Vương Hội", với pháo bông, xe hoa và hơn 100.000 người dự, kể cả từ các tỉnh đổ về. Ngày nay, chiếc đồng hồ ở cửa nam chợ được xem là biểu tượng không chính thức của Thành phố Hồ Chí Minh.
 
+## Ôn tập
+
+1. Vì sao chợ có tên là Bến Thành?
+   - [x] Vì chợ nằm cạnh bến sông gần thành Gia Định, nơi khách vãng lai và quân lính vào thành
+   - [ ] Vì chợ do hãng thầu Brossard et Maupin xây
+   - [ ] Vì chợ nằm trên nền ao Bồ Rệt
+
+   Chợ nằm bên bờ sông Bến Nghé, cạnh bến sông gần thành Gia Định — bến dùng cho khách vãng lai và quân lính vào thành, nên gọi là Bến Thành. [Xem lại](#ben-thanh)
+
+2. Chợ Bến Thành mới được khánh thành vào lúc nào?
+   - [ ] Tháng 7 năm 1870
+   - [ ] Năm 1912
+   - [x] Cuối tháng 3 năm 1914
+
+   Hãng Brossard et Maupin khởi công từ năm 1912, đến cuối tháng 3 năm 1914 thì hoàn tất. [Xem lại](#xay-cho)
+
+3. Chợ mới được xây trên địa điểm nào?
+   - [ ] Bên bờ sông Bến Nghé, cạnh thành Gia Định
+   - [x] Ao sình lầy Bồ Rệt được lấp đi, gần ga xe lửa đi Mỹ Tho
+   - [ ] Đại lộ Charner
+
+   Địa điểm chợ mới vốn là ao sình lầy Bồ Rệt (Marais Boresse), được lấp đi. [Xem lại](#xay-cho)
+
 ## Nguồn tham khảo
 
 - "Chợ Bến Thành", Wikipedia tiếng Việt — tên gọi, chợ cũ bên sông Bến Nghé, cháy năm 1870, Kinh Lớn lấp năm 1887, phá chợ năm 1911, ao Bồ Rệt, xây 1912 – 1914, lễ khánh thành, đồng hồ cửa nam: https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_B%E1%BA%BFn_Th%C3%A0nh

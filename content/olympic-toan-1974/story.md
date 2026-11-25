@@ -46,6 +46,31 @@ Việt Nam bắt đầu dự Olympic Toán học quốc tế (IMO) từ năm 197
 
 Xét thứ hạng toàn đoàn, Việt Nam đứng thứ ba ở các kỳ 1999, 2007 và 2017, mỗi lần với ba huy chương vàng, ba huy chương bạc. Xét số huy chương, kỳ 2004 cao nhất với bốn vàng, hai bạc. Kỳ thấp nhất là năm 2011, đoàn chỉ có sáu huy chương đồng, xếp thứ 31. Năm 2020, Ngô Quý Đăng là học sinh lớp 10 đầu tiên của Việt Nam dự thi.
 
+## Ôn tập
+
+1. Việt Nam bắt đầu dự Olympic Toán học quốc tế (IMO) từ năm nào?
+   - [ ] 1979
+   - [x] 1974
+   - [ ] 1982
+   - [ ] 1989
+
+   Việt Nam dự IMO từ năm 1974; đến nay chỉ vắng hai kỳ, năm 1977 và 1981. [Xem lại](#bat-dau)
+
+2. Lê Bá Khánh Trình nổi bật ở IMO 1979 vì điều gì?
+   - [ ] Là thí sinh đầu tiên của Việt Nam đoạt hai huy chương vàng liên tiếp
+   - [x] Đạt điểm tuyệt đối 40 và nhận thêm giải đặc biệt cho lời giải
+   - [ ] Là học sinh lớp 10 đầu tiên dự thi
+
+   Ông vẫn là thí sinh Việt Nam duy nhất nhận giải đặc biệt của kỳ thi. [Xem lại](#giai-dac-biet)
+
+3. Ai là người đầu tiên hai lần liên tiếp đoạt huy chương vàng IMO của Việt Nam?
+   - [ ] Lê Tự Quốc Thắng
+   - [ ] Đàm Thanh Sơn
+   - [x] Ngô Bảo Châu
+   - [ ] Ngô Quý Đăng
+
+   Ngô Bảo Châu đoạt huy chương vàng năm 1988 và 1989. [Xem lại](#diem-tuyet-doi)
+
 ## Nguồn tham khảo
 
 - “Việt Nam tại Olympic Toán học Quốc tế”, Wikipedia tiếng Việt — tham dự từ 1974, vắng 1977 và 1981, quy định ba kỳ, danh sách điểm tuyệt đối, giải đặc biệt của Lê Bá Khánh Trình năm 1979, các thí sinh hai lần huy chương vàng liên tiếp, thành tích toàn đoàn 1999, 2004, 2007, 2011, 2017, Ngô Quý Đăng lớp 10 năm 2020: https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_Nam_t%E1%BA%A1i_Olympic_To%C3%A1n_h%E1%BB%8Dc_Qu%E1%BB%91c_t%E1%BA%BF

@@ -46,6 +46,30 @@ Năm 1942, châu bản được chuyển về Viện Văn hoá Huế; năm 1959 
 
 Theo Trung tâm Lưu trữ quốc gia I, hiện còn 773 tập châu bản gốc. Đầu năm 2014, Việt Nam trình hồ sơ lên UNESCO; ngày 14 tháng 5 năm 2014, Châu bản triều Nguyễn được công nhận là di sản tư liệu thuộc Chương trình Ký ức Thế giới khu vực châu Á – Thái Bình Dương.
 
+## Ôn tập
+
+1. Châu bản triều Nguyễn là gì?
+   - [ ] Bộ sử do Quốc sử quán triều Nguyễn biên soạn
+   - [x] Toàn bộ văn bản hành chính của triều Nguyễn, được vua xem hoặc phê bằng mực son
+   - [ ] Các bia đá ghi công trạng của các vua Nguyễn
+
+   Gồm tấu, sớ, chiếu, chỉ, dụ… từ khi vua Gia Long lên ngôi năm 1802 đến khi vua Bảo Đại thoái vị năm 1945. [Xem lại](#van-ban)
+
+2. Trong sáu loại bút phê của vua, "châu khuyên" là gì?
+   - [ ] Một chấm son trên chữ đầu đoạn vua đồng ý
+   - [ ] Nét gạch xoá
+   - [x] Vòng tròn son quanh điều vua chuẩn y
+   - [ ] Chữ vua sửa
+
+   Chấm son là châu điểm, nét gạch xoá là châu sổ, chữ vua sửa là châu cải. [Xem lại](#but-son)
+
+3. Ngày 14 tháng 5 năm 2014, Châu bản triều Nguyễn được UNESCO công nhận là gì?
+   - [ ] Di sản thiên nhiên thế giới
+   - [ ] Di sản văn hoá vật thể thế giới
+   - [x] Di sản tư liệu thuộc Chương trình Ký ức Thế giới khu vực châu Á – Thái Bình Dương
+
+   Theo Trung tâm Lưu trữ quốc gia I, hiện còn 773 tập châu bản gốc. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Châu bản triều Nguyễn", Wikipedia tiếng Việt — định nghĩa và phạm vi 1802 – 1945, sáu loại bút phê (châu điểm, châu phê, châu khuyên, châu mạt, châu sổ, châu cải), nơi lưu giữ qua các thời kỳ (Nội các, Viện Văn hoá Huế 1942, Viện Đại học Huế 1959, Đà Lạt 1961, Kho Lưu trữ trung ương II năm 1978, Trung tâm Lưu trữ quốc gia I năm 1991), 773 tập gốc, mục lục châu bản, UNESCO công nhận ngày 14/5/2014: https://vi.wikipedia.org/wiki/Ch%C3%A2u_b%E1%BA%A3n_tri%E1%BB%81u_Nguy%E1%BB%85n

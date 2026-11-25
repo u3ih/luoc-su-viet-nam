@@ -47,6 +47,29 @@ Trên quỹ đạo, Phạm Tuân làm các thí nghiệm hòa tan mẫu khoáng 
 
 Ngày 31 tháng 7 năm 1980, hai nhà du hành trở về Trái Đất trên tàu Soyuz 36. Phạm Tuân ở trong không gian 7 ngày 20 giờ 42 phút, bay tổng cộng 142 vòng quanh Trái Đất.
 
+## Ôn tập
+
+1. Phạm Tuân là người đầu tiên của đâu bay vào vũ trụ?
+   - [ ] Chỉ của Việt Nam
+   - [x] Của Việt Nam và của châu Á
+   - [ ] Của Đông Nam Á
+
+   Ông bay cùng nhà du hành Viktor Gorbatko trên tàu Soyuz 37 lên trạm Salyut 6 ngày 23 tháng 7 năm 1980. [Xem lại](#mo-dau)
+
+2. Trên trạm Salyut 6, Phạm Tuân đã làm thí nghiệm nào?
+   - [ ] Nuôi cá trong buồng kín
+   - [ ] Đo nhiệt độ bề mặt Mặt Trăng
+   - [x] Trồng cây bèo hoa dâu trong không gian
+
+   Ông còn làm thí nghiệm hoà tan mẫu khoáng chất trong tình trạng không trọng lực và chụp ảnh Việt Nam từ quỹ đạo. [Xem lại](#thi-nghiem)
+
+3. Trong chuyến bay, ai là người lái chính?
+   - [x] Viktor Gorbatko
+   - [ ] Phạm Tuân
+   - [ ] Bùi Thanh Liêm
+
+   Phạm Tuân là lái phụ, phụ trách các thông số kỹ thuật, bảng điều khiển. [Xem lại](#phong-tau)
+
 ## Nguồn tham khảo
 
 - "Phạm Tuân", Wikipedia tiếng Việt — tiểu sử, đào tạo, chọn vào Interkosmos, chuyến bay Soyuz 37 ngày 23/7/1980, Salyut 6, thí nghiệm, thời gian bay, trở về trên Soyuz 36: https://vi.wikipedia.org/wiki/Ph%E1%BA%A1m_Tu%C3%A2n

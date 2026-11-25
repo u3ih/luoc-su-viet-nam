@@ -67,6 +67,29 @@ Giữa tháng 10 âm lịch, nghĩa quân tổng công kích. Đạo viện binh
 
 Hai đạo viện binh đều tan vỡ. Vương Thông trong thành Đông Quan không còn hy vọng được cứu.
 
+## Ôn tập
+
+1. Vì sao Lê Lợi dồn sức đánh thành Xương Giang?
+   - [ ] Vì Vương Thông đang bị giam trong thành
+   - [x] Vì thành nằm ngay trên con đường viện binh nhà Minh sẽ đi qua
+   - [ ] Vì thành là kinh đô của nhà Minh
+
+   Biết nhà Minh sẽ gửi viện binh, Lê Lợi cho hạ thành Xương Giang để viện binh mất chỗ dựa giữa đường. [Xem lại](#thanh-xuong-giang)
+
+2. Ở ải Chi Lăng, tướng Trần Lựu dẫn Liễu Thăng vào thung lũng hẹp bằng cách nào?
+   - [ ] Đóng chặt cửa ải không cho quân Minh qua
+   - [ ] Đốt trại rồi rút hết quân
+   - [x] Thấy quân Minh đến thì lui dần về phía nam để nhử đuổi theo
+
+   Liễu Thăng đuổi theo vào thung lũng hẹp, hai bên là núi đá và rừng rậm; phục binh đánh xuống và Liễu Thăng bị chém ở núi Mã Yên. [Xem lại](#chi-lang)
+
+3. Khi nghe tin Liễu Thăng đã chết, Mộc Thạnh làm gì?
+   - [x] Vội rút quân, bị nghĩa quân đuổi đánh ở Lê Hoa và thua to
+   - [ ] Tiến thẳng vào Đông Quan hội quân với Vương Thông
+   - [ ] Đầu hàng ngay tại vùng biên giới
+
+   Hai đạo viện binh đều tan vỡ, Vương Thông trong thành Đông Quan không còn hy vọng được cứu. [Xem lại](#moc-thanh)
+
 ## Nguồn tham khảo
 
 - Đại Việt sử ký toàn thư (Ngô Sĩ Liên và các sử thần, 1479), Bản kỷ — phần Thái Tổ Cao Hoàng đế: https://vi.wikisource.org/wiki/%C4%90%E1%BA%A1i_Vi%E1%BB%87t_s%E1%BB%AD_k%C3%BD_to%C3%A0n_th%C6%B0

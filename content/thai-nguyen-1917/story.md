@@ -49,6 +49,29 @@ Trong sáu ngày, nghĩa quân giữ thành, thu nạp thêm dân phu mỏ, dân
 
 Đội Cấn dẫn quân rút lên Đại Từ, Tam Đảo, xuống Vĩnh Yên rồi trở lại vùng Thái Nguyên, lực lượng hao mòn dần. Ngày 11 tháng 1 năm 1918, bị truy nã ở núi Pháo, ông tự sát để không bị bắt; tài liệu chính thức của Pháp lại ghi một vệ sĩ đã giết ông để lấy thưởng. Cuộc khởi nghĩa chấm dứt; quân Pháp càn quét đến tháng 3 năm 1918.
 
+## Ôn tập
+
+1. Ai là người chỉ huy lính khố xanh nổi dậy ở Thái Nguyên đêm 30 tháng 8 năm 1917?
+   - [ ] Lương Ngọc Quyến
+   - [x] Đội Cấn (Trịnh Văn Cấn)
+   - [ ] Lương Văn Can
+
+   Đội Cấn chỉ huy 175 lính, giết giám binh người Pháp, đoạt khí giới, phá ngục. [Xem lại](#dem-30)
+
+2. Lương Ngọc Quyến là ai?
+   - [ ] Chỉ huy đồn lính khố đỏ bên sông Cầu
+   - [ ] Giám binh người Pháp ở Thái Nguyên
+   - [x] Con cụ Cử Lương Văn Can, thành viên Việt Nam Quang phục Hội, bị giam ở nhà lao Thái Nguyên
+
+   Nhờ ông, nhiều lính khố xanh canh giữ nhà lao hưởng ứng ý định nổi dậy. [Xem lại](#nha-lao)
+
+3. Nghĩa quân giữ được tỉnh lỵ Thái Nguyên trong bao lâu?
+   - [ ] Một đêm
+   - [ ] Ba tháng
+   - [x] Sáu ngày, đến khi quân Pháp tái chiếm thành ngày 5 tháng 9
+
+   Quân Pháp phản công với 2.700 người; Lương Ngọc Quyến trúng đạn mất. [Xem lại](#sau-ngay)
+
 ## Nguồn tham khảo
 
 - "Khởi nghĩa Thái Nguyên", Wikipedia tiếng Việt — bối cảnh, Lương Ngọc Quyến, diễn biến, sáu ngày giữ thành, phản công, thương vong, kết cục: https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_Th%C3%A1i_Nguy%C3%AAn

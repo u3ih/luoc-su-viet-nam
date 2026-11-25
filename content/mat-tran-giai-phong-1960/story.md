@@ -46,6 +46,28 @@ Chương trình 10 điểm của Mặt trận đòi lật đổ chính quyền N
 
 Năm 1969, Mặt trận cùng Liên minh các Lực lượng Dân tộc, Dân chủ và Hoà bình lập Chính phủ Cách mạng lâm thời Cộng hoà miền Nam Việt Nam, một bên ký Hiệp định Paris năm 1973. Cuộc chiến gây thương vong lớn cho mọi phía; các nguồn tiếng Anh ghi cả những vụ giết hại thường dân mà họ quy cho lực lượng của mặt trận, như ở Huế năm 1968 — điều phía Việt Nam có cách nhìn khác. Sau khi đất nước thống nhất, Đại hội họp ở Thành phố Hồ Chí Minh từ ngày 31 tháng 1 đến ngày 4 tháng 2 năm 1977 hợp nhất Mặt trận với Mặt trận Tổ quốc Việt Nam.
 
+## Ôn tập
+
+1. Mặt trận Dân tộc Giải phóng miền Nam Việt Nam được thành lập ngày 20 tháng 12 năm 1960 ở đâu?
+   - [x] Xã Tân Lập, tỉnh Tây Ninh
+   - [ ] Hà Nội
+   - [ ] Huế
+
+   Ngày 20 tháng 12 năm 1960, tại xã Tân Lập, huyện Châu Thành (nay là Tân Biên), tỉnh Tây Ninh, mặt trận được thành lập. [Xem lại](#tan-lap)
+
+2. Theo Chương trình 10 điểm, Mặt trận đề ra mục tiêu nào sau đây?
+   - [ ] Duy trì lâu dài sự chia cắt giữa hai miền
+   - [ ] Đặt miền Nam dưới sự bảo hộ của một nước khác
+   - [x] Lập chính quyền liên hiệp dân tộc dân chủ và tiến tới thống nhất Tổ quốc
+
+   Chương trình còn nêu chính sách ngoại giao hoà bình, trung lập và lập lại quan hệ bình thường giữa hai miền. [Xem lại](#dai-hoi)
+
+3. Đại hội lần thứ nhất của Mặt trận (1962) bầu những ai vào hai chức vụ đứng đầu?
+   - [ ] Chủ tịch Huỳnh Tấn Phát, Tổng Thư ký Nguyễn Hữu Thọ
+   - [x] Chủ tịch Nguyễn Hữu Thọ, Tổng Thư ký Huỳnh Tấn Phát
+
+   Đại hội khai mạc ngày 16 tháng 2 năm 1962 ở Tân Biên, bầu luật sư Nguyễn Hữu Thọ làm Chủ tịch và Huỳnh Tấn Phát làm Tổng Thư ký. [Xem lại](#dai-hoi)
+
 ## Nguồn tham khảo
 
 - “Mặt trận Dân tộc Giải phóng miền Nam Việt Nam”, Wikipedia tiếng Việt — đường lối Đại hội III, cán bộ chính trị ở lại sau Genève, thành lập 20/12/1960 tại xã Tân Lập, Tây Ninh, nòng cốt là lực lượng Việt Minh hoạt động bí mật, Chương trình 10 điểm (ngoại giao hoà bình, trung lập, tiến tới thống nhất), Quân Giải phóng 15/2/1961, Đại hội lần thứ nhất 16/2/1962, Nguyễn Hữu Thọ, Huỳnh Tấn Phát, Chính phủ Cách mạng lâm thời 6 – 8/6/1969, Nhà nước Việt Nam ngày nay khẳng định mặt trận hoạt động dưới sự lãnh đạo của Đảng, đại hội hợp nhất bắt đầu 31/1/1977: https://vi.wikipedia.org/wiki/M%E1%BA%B7t_tr%E1%BA%ADn_D%C3%A2n_t%E1%BB%99c_Gi%E1%BA%A3i_ph%C3%B3ng_mi%E1%BB%81n_Nam_Vi%E1%BB%87t_Nam

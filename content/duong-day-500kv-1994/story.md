@@ -46,6 +46,30 @@ Cuối tháng 3, đầu tháng 4 năm 1994, việc kéo dây dẫn, cáp quang, 
 
 Đường dây nối các hệ thống điện riêng lẻ của ba miền thành lưới điện quốc gia thống nhất, nâng độ an toàn và chất lượng cấp điện. Qua nhiều năm vận hành, hàng trăm tỷ ki-lô-oát giờ điện đã được truyền từ Bắc, Trung vào Nam.
 
+## Ôn tập
+
+1. Vì sao cần xây đường dây 500 kV Bắc – Nam?
+   - [ ] Miền Nam có thừa điện, miền Bắc thiếu điện
+   - [x] Miền Bắc dư điện từ thuỷ điện Hoà Bình, còn miền Nam thiếu điện trầm trọng
+   - [ ] Cả ba miền đã có lưới điện chung nhưng bị quá tải
+
+   Đầu thập niên 1990, miền Nam có nơi một ngày có điện thì hai, ba ngày mất điện, trong khi miền Bắc dư điện. [Xem lại](#thieu-dien)
+
+2. Đường dây được đóng điện vào ngày nào?
+   - [ ] Tháng 4 năm 1992
+   - [ ] Tháng 3 năm 1993
+   - [x] Ngày 27 tháng 5 năm 1994
+   - [ ] Tháng 2 năm 1992
+
+   Ngày 27 tháng 5 năm 1994, đường dây được đóng điện, đưa điện từ Bắc vào Trung, Nam. [Xem lại](#dong-dien)
+
+3. Đường dây 500 kV mang lại ý nghĩa gì sau khi hoàn thành?
+   - [ ] Thay thế hoàn toàn thuỷ điện Hoà Bình
+   - [x] Nối các hệ thống điện riêng lẻ của ba miền thành lưới điện quốc gia thống nhất
+   - [ ] Chỉ cấp điện cho vùng Tây Nguyên
+
+   Đường dây nối ba miền thành lưới điện quốc gia, nâng độ an toàn và chất lượng cấp điện. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Đường dây 500kV Bắc - Nam: Bước ngoặt của ngành điện Việt Nam", Tạp chí Công Thương — phê duyệt tháng 2/1992, khởi công 5/4/1992 ở nhiều tỉnh, thời gian 2 năm, đóng điện 27/5/1994: https://tapchicongthuong.vn/duong-day-500kv-bac-nam--buoc-ngoat-cua-nganh-dien-viet-nam-81289.htm

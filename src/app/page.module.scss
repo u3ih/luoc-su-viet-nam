@@ -71,3 +71,17 @@
     translate: 0 5px;
   }
 }
+
+.langs {
+  margin-top: 14px;
+  font-size: 14px;
+
+  a {
+    color: var(--giay-mo);
+    text-underline-offset: 4px;
+
+    &:hover {
+      color: var(--vang-nhat);
+    }
+  }
+}

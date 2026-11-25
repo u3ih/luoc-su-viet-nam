@@ -46,6 +46,29 @@ Năm 1873, Soái phủ Nam Kỳ phái đại uý Francis Garnier đem quân ra H
 
 Lính Pháp muốn cứu chữa, nhưng ông từ chối, nói rằng sống lay lắt không bằng thong dong chết vì việc nghĩa (diễn ý). Ông nhịn ăn gần một tháng, mất ngày 20 tháng 12 năm 1873, thọ 73 tuổi. Vua Tự Đức tự soạn văn tế ba công thần Nguyễn Duy, Nguyễn Lâm, Nguyễn Tri Phương, cho lập đền thờ ông ở quê. Ông được thờ cùng Hoàng Diệu ở đền Trung Liệt trên gò Đống Đa, Hà Nội.
 
+## Ôn tập
+
+1. Francis Garnier ra Hà Nội năm 1873 với lý do nào?
+   - [x] Giải quyết vụ tranh chấp giữa lái buôn Jean Dupuis và quan lại nhà Nguyễn
+   - [ ] Thay Nguyễn Tri Phương giữ thành
+   - [ ] Cứu viện đại đồn Chí Hoà
+
+   Soái phủ Nam Kỳ phái Garnier đem quân ra Hà Nội với lý do ấy. [Xem lại](#garnier)
+
+2. Thành Hà Nội thất thủ như thế nào?
+   - [ ] Sau nhiều tháng bị vây hãm
+   - [ ] Quân Nguyễn mở cổng thành đầu hàng
+   - [x] Quân Pháp đánh úp trong đêm, chỉ khoảng một giờ thành thất thủ
+
+   Đêm 19 rạng 20 tháng 11 năm 1873, quân Pháp chiếm hai cửa phía nam, pháo thuyền bắn lên; quân giữ thành rút theo cửa tây. [Xem lại](#thanh-ha-noi)
+
+3. Sau khi bị trọng thương và bị bắt, Nguyễn Tri Phương đã làm gì?
+   - [ ] Nhận chữa trị rồi trốn khỏi thành
+   - [ ] Viết thư xin hoà với Garnier
+   - [x] Từ chối chữa trị, nhịn ăn gần một tháng rồi mất
+
+   Ông nói sống lay lắt không bằng thong dong chết vì việc nghĩa (diễn ý), và mất ngày 20 tháng 12 năm 1873. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Nguyễn Tri Phương", Wikipedia tiếng Việt — xuất thân, các mặt trận Đà Nẵng 1858, Chí Hoà 1861, Garnier ra Bắc năm 1873, trận đêm 19 rạng 20/11/1873, Nguyễn Lâm tử trận, từ chối chữa trị, tuyệt thực, mất ngày 20/12/1873, văn tế của vua Tự Đức, đền Trung Liệt: https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Tri_Ph%C6%B0%C6%A1ng

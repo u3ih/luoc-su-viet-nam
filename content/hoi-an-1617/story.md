@@ -58,6 +58,30 @@ Sang thế kỷ XIX, cửa sông thu hẹp, sông Cổ Cò bị bồi lấp, và
 
 Ngày 4 tháng 12 năm 1999, tại kỳ họp thứ 23, Hội An được công nhận là Di sản văn hoá thế giới.
 
+## Ôn tập
+
+1. Thuyền Châu Ấn cập cảng Hội An từ năm 1604 là thuyền của người nước nào?
+   - [ ] Hà Lan
+   - [ ] Anh
+   - [x] Nhật Bản
+   - [ ] Bồ Đào Nha
+
+   Thuyền Châu Ấn của người Nhật cập cảng từ năm 1604; khoảng năm 1617, phố Nhật Bản hình thành. [Xem lại](#nguoi-nhat)
+
+2. Sau loạn Minh – Thanh giữa thế kỷ XVII, ai thay người Nhật nắm thương mại ở Hội An?
+   - [x] Người Hoa
+   - [ ] Người Chăm
+   - [ ] Người Anh
+
+   Người Hoa đến định cư đông hơn, hình thành cộng đồng Minh Hương; đến nay Hội An còn năm hội quán của các nhóm người Hoa. [Xem lại](#nguoi-hoa)
+
+3. Ngày 4 tháng 12 năm 1999, Hội An được công nhận là gì?
+   - [ ] Di sản thiên nhiên thế giới
+   - [ ] Di sản tư liệu thế giới
+   - [x] Di sản văn hoá thế giới
+
+   Quyết định được đưa ra tại kỳ họp thứ 23. [Xem lại](#ngay-nay)
+
 ## Nguồn tham khảo
 
 - "Hội An", Wikipedia tiếng Việt — thương cảng, phố Nhật, người Hoa, suy giảm, UNESCO: https://vi.wikipedia.org/wiki/H%E1%BB%99i_An

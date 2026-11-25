@@ -53,6 +53,31 @@ Sau khi nhường ngôi, Chiêu Hoàng làm hoàng hậu của Trần Thái Tôn
 
 Trần Thủ Độ giúp Thái Tông dẹp loạn trong nước, chỉnh đốn mọi việc, góp phần để Đại Việt đủ sức chống Mông Cổ. Ông được nhiều sử gia đánh giá cao về tài chính trị, nhưng cũng bị phê phán nhiều về cách hành xử.
 
+## Ôn tập
+
+1. Lý Chiêu Hoàng lên ngôi lúc bao nhiêu tuổi và có điều gì đặc biệt?
+   - [ ] 17 tuổi, là vị vua trẻ nhất nhà Lý
+   - [ ] 7 tuổi, là hoàng tử cuối cùng nhà Lý
+   - [x] 7 tuổi, là nữ hoàng duy nhất trong lịch sử Việt Nam
+   - [ ] 8 tuổi, là vua đầu tiên nhà Trần
+
+   Tháng 10 năm 1224, Lý Huệ Tông lập con gái thứ hai là Chiêu Thánh công chúa làm hoàng thái tử rồi truyền ngôi. [Xem lại](#chieu-hoang)
+
+2. Tháng 12 năm 1225, Lý Chiêu Hoàng nhường ngôi cho ai?
+   - [ ] Trần Thủ Độ
+   - [ ] Trần Thừa
+   - [x] Trần Cảnh, tức vua Trần Thái Tông
+   - [ ] Lý Huệ Tông
+
+   Nhà Trần thay nhà Lý, kết thúc hơn 200 năm triều Lý; Trần Thủ Độ được phong Quốc thượng phụ, nắm mọi việc cai trị. [Xem lại](#nhuong-ngoi)
+
+3. Sau khi nhường ngôi, Lý Chiêu Hoàng giữ vị trí nào?
+   - [ ] Thái thượng hoàng
+   - [x] Hoàng hậu của Trần Thái Tông
+   - [ ] Quốc thượng phụ
+
+   Đến năm 1237, bà bị phế vì không sinh được con nối dõi. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Lý Chiêu Hoàng", Wikipedia tiếng Việt — truyền ngôi 1224, nhường ngôi 1225, cuộc đời về sau: https://vi.wikipedia.org/wiki/L%C3%BD_Chi%C3%AAu_Ho%C3%A0ng

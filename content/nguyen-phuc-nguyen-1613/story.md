@@ -46,6 +46,29 @@ Vua Chân Lạp Chey Chettha, muốn thoát sự khống chế của Xiêm La, d
 
 Năm 1623, một sứ bộ của chúa Nguyễn tới Oudong, xin lập trạm thu thuế ở Prey Nokor (vùng Sài Gòn) và Kas Krobei (Bến Nghé); vua Chey Chettha chấp thuận. Các nguồn hiểu việc này khác nhau: nhiều sách tiếng Việt gọi là “nhượng đất”, còn tư liệu của Viện Viễn Đông Bác cổ Pháp được dẫn trong bài về vua Chey Chettha chép rằng hai nơi chỉ được cho dùng tạm trong năm năm, từ 1623 đến 1628, rồi trả lại Chân Lạp; nhà vua mất năm 1627, thỏa thuận ấy không được thực hiện như đã định. Các nhà sử học nhìn chung coi đây là bước đầu của việc người Việt mở rộng về phía nam vượt qua biên giới năm 1471; trước đó, người Khmer, người Chăm và các dân tộc khác đã sinh sống ở vùng này từ lâu.
 
+## Ôn tập
+
+1. Chúa Sãi mở cửa cho thương nhân nước ngoài buôn bán ở đâu?
+   - [ ] Phú Xuân
+   - [x] Hội An
+   - [ ] Cửa Việt
+
+   Ông mở cửa cho thương nhân Trung Hoa, Nhật Bản, châu Âu; thuyền Châu Ấn Nhật Bản tìm đến Đàng Trong vì nhà Minh cấm buôn bán với Nhật Bản. [Xem lại](#hoi-an)
+
+2. Khoảng năm 1620, con gái chúa Sãi là Ngọc Vạn được gả cho ai?
+   - [ ] Thương nhân Nhật Bản Araki Sōtarō
+   - [x] Vua Chân Lạp Chey Chettha
+   - [ ] Vua Xiêm La
+
+   Vua Chey Chettha muốn thoát sự khống chế của Xiêm La, dời đô về Oudong và cầu thân với chúa Nguyễn; nhiều chi tiết về bà vẫn chỉ là "tương truyền". [Xem lại](#ngoc-van)
+
+3. Năm 1623, sứ bộ của chúa Nguyễn tới Oudong xin điều gì và vua Chey Chettha đáp ra sao?
+   - [ ] Xin kết minh quân sự; nhà vua từ chối
+   - [ ] Xin vua Chân Lạp cử người sang Hội An; nhà vua từ chối
+   - [x] Xin lập trạm thu thuế ở Prey Nokor và Kas Krobei; nhà vua chấp thuận
+
+   Các nguồn hiểu việc này khác nhau (nhượng đất hay cho dùng tạm trong năm năm), nên chương không kết luận. [Xem lại](#prey-nokor)
+
 ## Nguồn tham khảo
 
 - “Nguyễn Phúc Nguyên”, Wikipedia tiếng Việt — sinh năm 1563, đánh cướp biển Nhật năm 1585, nối ngôi 1613, thôi nộp thuế năm 1620, chiến tranh 1627, buôn bán ở Hội An, Araki Sōtarō năm 1619, xưởng đúc súng, gả Ngọc Vạn năm 1620, sứ bộ năm 1623 tới Oudong lập trạm thu thuế Prei Nokor: https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Ph%C3%BAc_Nguy%C3%AAn

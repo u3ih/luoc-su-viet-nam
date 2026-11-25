@@ -49,6 +49,29 @@ Chinh phụ ngâm có 7 bản dịch và phỏng dịch bằng thể lục bát 
 
 Bản dịch phổ biến ấy có người cho là của Đoàn Thị Điểm (1705 – 1748), có người cho là của Phan Huy Ích (1751 – 1822); theo bài tham khảo, những phát hiện gần đây có xu hướng nghiêng về Phan Huy Ích. Dù ai dịch, bản Nôm song thất lục bát là một đỉnh cao của thơ Nôm thế kỷ XVIII.
 
+## Ôn tập
+
+1. Ai là tác giả nguyên tác chữ Hán của Chinh phụ ngâm?
+   - [ ] Đoàn Thị Điểm
+   - [ ] Phan Huy Ích
+   - [x] Đặng Trần Côn
+
+   Chinh phụ ngâm là tác phẩm văn vần của Đặng Trần Côn, ra đời khoảng năm 1741. [Xem lại](#nguyen-tac)
+
+2. Chinh phụ ngâm là lời than của ai?
+   - [x] Người vợ có chồng đi đánh trận
+   - [ ] Người lính nơi biên ải
+   - [ ] Người mẹ tiễn con đi học
+
+   Bài thơ là lời người vợ tiễn chồng ra trận, rồi ở nhà mỏi mòn chờ đợi. [Xem lại](#tien-dua)
+
+3. Bản dịch Nôm thành công và phổ biến nhất của Chinh phụ ngâm viết theo thể thơ nào?
+   - [ ] Lục bát
+   - [x] Song thất lục bát
+   - [ ] Thất ngôn bát cú
+
+   Bản Nôm thành công và phổ biến nhất theo thể song thất lục bát, dài 412 câu. [Xem lại](#ban-dich)
+
 ## Nguồn tham khảo
 
 - "Chinh phụ ngâm", Wikipedia tiếng Việt — tác giả, năm ra đời, hình thức nguyên tác, các bản dịch, tranh luận về dịch giả: https://vi.wikipedia.org/wiki/Chinh_ph%E1%BB%A5_ng%C3%A2m

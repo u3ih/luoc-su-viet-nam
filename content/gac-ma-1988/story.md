@@ -46,6 +46,29 @@ Trung Quốc đổ quân chiếm giữ Gạc Ma; Việt Nam giữ được hai b
 
 Bộ Ngoại giao Việt Nam nhiều lần khẳng định Việt Nam có đầy đủ cơ sở pháp lý và bằng chứng lịch sử về chủ quyền đối với hai quần đảo Hoàng Sa và Trường Sa. Hằng năm vào ngày 14 tháng 3, các lễ tưởng niệm được tổ chức ở nhiều nơi, trong đó có Khu tưởng niệm chiến sĩ Gạc Ma ở Khánh Hoà. Theo báo Việt Nam News, 13 trong số 64 liệt sĩ quê ở tỉnh Quảng Bình cũ.
 
+## Ôn tập
+
+1. Việt Nam mở chiến dịch nào để đưa người và vật liệu ra giữ các bãi đá chưa có người đóng ở Trường Sa?
+   - [ ] CQ-604
+   - [x] CQ-88 (“Chủ quyền 88”)
+   - [ ] CQ-505
+
+   Tối 11 tháng 3 năm 1988, tàu HQ-604 rời quân cảng Cam Ranh ra đá Gạc Ma trong chiến dịch này. [Xem lại](#cq-88)
+
+2. Theo tư liệu Việt Nam, sáng 14 tháng 3 năm 1988 có bao nhiêu cán bộ, chiến sĩ Việt Nam hy sinh?
+   - [ ] 9
+   - [ ] 25
+   - [x] 64
+
+   Số 9 là những người bị bắt, sau được Trung Quốc trả về Việt Nam năm 1991. [Xem lại](#sang-14-3)
+
+3. Sau ngày 14 tháng 3 năm 1988, Việt Nam giữ được những bãi đá nào?
+   - [x] Cô Lin và Len Đao
+   - [ ] Chữ Thập và Châu Viên
+   - [ ] Ga Ven và Tư Nghĩa
+
+   Trung Quốc đổ quân chiếm giữ Gạc Ma; Việt Nam giữ được hai bãi Cô Lin và Len Đao. [Xem lại](#ba-bai-da)
+
 ## Nguồn tham khảo
 
 - “Hải chiến Trường Sa 1988”, Wikipedia tiếng Việt — chiến dịch CQ-88, HQ-604 rời Cam Ranh tối 11/3, HQ-605 giữ Len Đao, HQ-505, nhóm giữ cờ trên Gạc Ma (Nguyễn Mậu Phong, Trần Văn Phương), HQ-604, HQ-605 chìm, HQ-505 ủi bãi ở Cô Lin, Việt Nam giữ Cô Lin và Len Đao, Trung Quốc chiếm Chữ Thập, Châu Viên, Ga Ven, Tư Nghĩa, 64 người hy sinh (3 + 61 mất tích), 9 người bị bắt được trả về năm 1991, thương vong phía Trung Quốc (khoảng 25 theo bài tiếng Việt; 1 bị thương theo địa chí Hải Nam), các tên gọi của phía Trung Quốc: https://vi.wikipedia.org/wiki/H%E1%BA%A3i_chi%E1%BA%BFn_Tr%C6%B0%E1%BB%9Dng_Sa_1988

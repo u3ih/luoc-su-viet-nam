@@ -47,6 +47,29 @@ Rừng trên núi đá vôi ở Cúc Phương có thể chia nhiều tầng tán
 
 Cúc Phương có 97 loài thú, nhiều loài nằm trong Sách đỏ Việt Nam. Đây là nơi sinh sống của voọc quần đùi trắng — loài linh trưởng bị đe dọa tuyệt chủng ở mức cực kỳ nguy cấp — và được công nhận là một vùng chim quan trọng tại Việt Nam.
 
+## Ôn tập
+
+1. Ngày 7 tháng 7 năm 1962, Cúc Phương được lập thành gì?
+   - [ ] Vườn quốc gia đầu tiên của Việt Nam
+   - [x] Khu rừng cấm rộng 20.000 ha, khu bảo vệ thiên nhiên đầu tiên của Việt Nam
+   - [ ] Một khu bảo tồn biển
+
+   Quyết định số 72 thành lập khu rừng cấm Cúc Phương rộng 20.000 ha, khu bảo vệ thiên nhiên đầu tiên của Việt Nam. [Xem lại](#thanh-lap)
+
+2. Cúc Phương được chuyển hạng thành vườn quốc gia đầu tiên của Việt Nam vào năm nào?
+   - [ ] 1962
+   - [ ] 1975
+   - [x] 1966
+
+   Ngày 8 tháng 1 năm 1966, lâm trường Cúc Phương được chuyển hạng thành Vườn quốc gia Cúc Phương. [Xem lại](#thanh-lap)
+
+3. Các hang động ở Cúc Phương cho thấy con người sống ở đây từ khi nào?
+   - [ ] Từ khoảng 1.000 năm trước
+   - [x] Từ 7.000 đến 12.000 năm trước
+   - [ ] Từ khi khu rừng cấm được lập năm 1962
+
+   Trong các hang động đã tìm thấy mộ táng, rìu đá, mũi tên đá của người xưa. [Xem lại](#nui-da-voi)
+
 ## Nguồn tham khảo
 
 - "Vườn quốc gia Cúc Phương", Wikipedia tiếng Việt — vị trí, khảo cổ, Quyết định 72/TTg ngày 7/7/1962, chuyển hạng 1966, diện tích, địa hình, thực vật, động vật: https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_C%C3%BAc_Ph%C6%B0%C6%A1ng

@@ -47,6 +47,29 @@ Bốn giờ sáng ngày 24 tháng 2 năm 1861, theo lệnh Đề đốc Charner,
 
 Phía quân Việt khoảng 1.000 người chết và bị thương; Tham tán Phạm Thế Hiển, Lang trung Nguyễn Duy, Tán tương Tôn Thất Trĩ tử trận, Nguyễn Tri Phương bị thương nặng. Báo cáo của Charner ghi phía Pháp 12 người chết, 213 bị thương; các nguồn Pháp khác ghi nhiều hơn. Sau trận, Pháp lần lượt chiếm Định Tường (15 tháng 4 năm 1861), Biên Hòa (7 tháng 1 năm 1862), Vĩnh Long (23 tháng 3 năm 1862).
 
+## Ôn tập
+
+1. Sau hòa ước Bắc Kinh năm 1860, Napoléon III cử ai thống lĩnh quân Pháp ở Viễn Đông, với mục tiêu đầu tiên là Đại đồn Chí Hòa?
+   - [x] Đề đốc Léonard Charner
+   - [ ] Nguyễn Tri Phương
+   - [ ] Trương Định
+
+   Mục tiêu đầu tiên của Đề đốc Léonard Charner là Đại đồn Chí Hòa. [Xem lại](#boi-canh)
+
+2. Nguyễn Tri Phương chọn chiến lược nào để giữ Đại đồn Chí Hòa?
+   - [ ] Chỉ tấn công, không dựng lũy
+   - [x] Nửa công nửa thủ: dựng chiến lũy che quân và bao vây dần quân Pháp
+   - [ ] Rút khỏi Sài Gòn, không giữ đại đồn
+
+   Biết súng đạn Pháp có sức tàn phá lớn, ông chọn nửa công nửa thủ và liên tục dựng thêm lũy mới. [Xem lại](#dap-luy)
+
+3. Trận đánh kéo dài bao lâu thì Đại đồn Chí Hòa bị chiếm?
+   - [ ] Chưa đầy một buổi sáng
+   - [ ] Hơn một tuần
+   - [x] Từ 4 giờ sáng ngày 24 đến khoảng 8 giờ tối hôm sau
+
+   Trận đánh bắt đầu lúc 4 giờ sáng ngày 24 tháng 2 năm 1861 và đến khoảng 8 giờ tối hôm sau thì đại đồn bị chiếm. [Xem lại](#tan-cong)
+
 ## Nguồn tham khảo
 
 - "Trận Đại đồn Chí Hòa", Wikipedia tiếng Việt — bối cảnh, chiến lược của Nguyễn Tri Phương, diễn biến, thương vong, hậu quả: https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_%C4%90%E1%BA%A1i_%C4%91%E1%BB%93n_Ch%C3%AD_H%C3%B2a

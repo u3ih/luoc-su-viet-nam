@@ -49,6 +49,29 @@ Vua Chiêm Chế Củ xin dâng ba châu Bố Chính, Ma Linh, Địa Lý để 
 
 Năm 1072, Lý Thánh Tông mất; thái tử Càn Đức 7 tuổi lên ngôi, tức Lý Nhân Tông. Ỷ Lan, mẹ đẻ của vua, về sau lại nhiếp chính; bà được sử khen về việc trị nước và chăm lo Phật giáo. Việc bà phế truất và sát hại Thượng Dương Thái hậu để nắm quyền nhiếp chính đến nay vẫn gây tranh cãi. Bà mất năm 1117.
 
+## Ôn tập
+
+1. Khi vua Lý Thánh Tông thân chinh đi đánh Chiêm Thành năm 1069, ai được giao trông coi việc triều chính?
+   - [ ] Lý Thường Kiệt
+   - [x] Nguyên phi Ỷ Lan, có Thái sư Lý Đạo Thành giúp sức
+   - [ ] Thượng Dương Thái hậu
+
+   Lý Thường Kiệt khi ấy làm đại tướng tiên phong. [Xem lại](#nam-chinh)
+
+2. Theo truyền thuyết, vì sao bà được gọi là Ỷ Lan?
+   - [ ] Vì bà sinh ra ở làng Ỷ Lan
+   - [x] Vua gặp một cô gái hái dâu đứng tựa bụi lan; Ỷ Lan nghĩa là tựa vào gốc lan
+   - [ ] Vì bà thích trồng hoa lan trong cung
+
+   Sử sách không chép rõ xuất thân của bà; chỉ biết bà họ Lê, người hương Thổ Lỗi. [Xem lại](#tua-lan)
+
+3. Vua Chiêm Chế Củ dâng những châu nào để chuộc tội?
+   - [ ] Châu Hoan, châu Ái, châu Diễn
+   - [ ] Châu Cao Bằng, Lạng Sơn, Bắc Giang
+   - [x] Ba châu Bố Chính, Ma Linh, Địa Lý
+
+   Phạm vi ba châu được ghi khác nhau, khoảng vùng Quảng Bình, Quảng Trị ngày nay. [Xem lại](#ba-chau)
+
 ## Nguồn tham khảo
 
 - "Ỷ Lan", Wikipedia tiếng Việt — xuất thân, truyền thuyết, nhiếp chính năm 1069, năm 1072, các tranh cãi: https://vi.wikipedia.org/wiki/%E1%BB%B6_Lan

@@ -49,6 +49,29 @@ Năm 1611, Nguyễn Hoàng sai Văn Phong đánh vùng Ayaru của Champa; sau �
 
 Đại Nam liệt truyện tiền biên chép rằng sách thực lục bỏ sót tên ông. Năm 1689, chúa Nguyễn mới truy phong ông tước Bảo quốc chi thần; từ đó đến năm 1767 chúa Nguyễn gia phong năm lần, rồi triều Nguyễn gia phong thêm sáu lần (1822 đến 1909). Khu mộ và đền thờ Lương Văn Chánh nay là di tích lịch sử cấp quốc gia.
 
+## Ôn tập
+
+1. Năm 1597, Lương Văn Chánh nhận lệnh chúa Nguyễn Hoàng đưa khoảng bao nhiêu lưu dân vào khai khẩn vùng đất từ đèo Cù Mông đến đèo Cả?
+   - [ ] Khoảng 400 người
+   - [x] Khoảng 4.000 người
+   - [ ] Khoảng 40.000 người
+
+   Ông cùng lưu dân khẩn hoang, lập ấp, tạo nên những làng đầu tiên trên châu thổ sông Đà Diễn, sông Cái. [Xem lại](#luu-dan)
+
+2. Tên phủ Phú Yên, do Nguyễn Hoàng đặt năm 1611, có nghĩa là gì?
+   - [x] Giàu có và yên bình
+   - [ ] Vùng đất mới khai phá
+   - [ ] Sông nước hiền hoà
+
+   Phủ Phú Yên gồm hai huyện Đồng Xuân và Tuy Hòa. [Xem lại](#lap-phu)
+
+3. Khu mộ và đền thờ Lương Văn Chánh hiện nay được xếp loại nào?
+   - [ ] Di sản thế giới của UNESCO
+   - [ ] Di tích cấp tỉnh
+   - [x] Di tích lịch sử cấp quốc gia
+
+   Ông được các chúa Nguyễn truy phong từ năm 1689 và gia phong nhiều lần về sau. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Lương Văn Chánh", Wikipedia tiếng Việt — tiểu sử, năm 1558, 1578, 1597, mất năm 1611, các lần truy phong, di tích: https://vi.wikipedia.org/wiki/L%C6%B0%C6%A1ng_V%C4%83n_Ch%C3%A1nh

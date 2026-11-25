@@ -51,6 +51,29 @@ Tháng 6 âm lịch năm Canh Tý (1300), Hưng Đạo vương ốm nặng. Vua 
 
 Ông mất ngày 22 tháng 8 âm lịch năm ấy (5 tháng 10 năm 1300). Trước khi mất, ông dặn các con hỏa táng, bí mật chôn trong vườn An Lạc, san đất trồng cây như cũ để người đời không biết chỗ nào. Triều đình truy tặng ông Thái sư Thượng phụ Thượng quốc công Nhân Vũ Hưng Đạo Đại vương. Dân gian tôn ông là "Đức Thánh Trần", lập đền thờ nhiều nơi, nổi tiếng nhất là đền Kiếp Bạc.
 
+## Ôn tập
+
+1. Ai đến thăm Hưng Đạo vương khi ông ốm nặng tháng 6 năm 1300 và hỏi kế giữ nước?
+   - [ ] Vua Lê Thánh Tông
+   - [ ] Vua Trần Nhân Tông
+   - [x] Vua Trần Anh Tông
+
+   Vua Trần Anh Tông ngự tới nhà thăm, hỏi kế sách nếu giặc phương Bắc lại sang xâm lược. [Xem lại](#vua-den)
+
+2. Theo lời Hưng Đạo vương, đâu là thượng sách giữ nước?
+   - [x] Khoan thư sức dân để làm kế sâu rễ bền gốc
+   - [ ] Đánh nhanh thắng nhanh trước khi giặc kịp tiến quân
+   - [ ] Xây thật nhiều thành luỹ ở biên giới
+
+   Ông nói: "khoan thư sức dân để làm kế sâu rễ bền gốc, đó là thượng sách giữ nước vậy". [Xem lại](#khoan-thu)
+
+3. Trước khi mất, Hưng Đạo vương dặn các con làm gì?
+   - [ ] Đặt thi hài trong lăng lớn bên sông Kiếp Bạc
+   - [ ] Đưa thi hài về phủ Thiên Trường
+   - [x] Hỏa táng, bí mật chôn trong vườn An Lạc, san đất trồng cây như cũ
+
+   Ông dặn các con hỏa táng, bí mật chôn trong vườn An Lạc, san đất trồng cây như cũ để người đời không biết chỗ nào. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Trần Hưng Đạo", Wikipedia tiếng Việt — thái ấp Vạn Kiếp, danh hiệu năm 1289, cuộc thăm hỏi năm 1300 và lời đáp (trích Toàn thư), ngày mất, lời dặn, truy tặng, đền Kiếp Bạc: https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_H%C6%B0ng_%C4%90%E1%BA%A1o

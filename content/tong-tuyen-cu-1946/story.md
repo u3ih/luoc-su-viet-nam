@@ -46,6 +46,29 @@ Ngày 6 tháng 1 năm 1946, cuộc bỏ phiếu diễn ra ở 71 tỉnh thành; 
 
 Cuộc bầu cử chọn ra 333 đại biểu Quốc hội khoá I; cộng thêm 70 ghế dành cho hai đảng đối lập. Ở kỳ họp thứ nhất, Chủ tịch Hồ Chí Minh nói thắng lợi của tổng tuyển cử là kết quả sự đoàn kết của đồng bào “gồm tất cả các tôn giáo, tất cả các dân tộc”. Ngày 9 tháng 11 năm 1946, Quốc hội thông qua bản hiến pháp đầu tiên của nước Việt Nam Dân chủ Cộng hoà.
 
+## Ôn tập
+
+1. Theo hai sắc lệnh năm 1945, ai có quyền bầu cử trong cuộc tổng tuyển cử?
+   - [ ] Chỉ nam giới từ 21 tuổi trở lên
+   - [x] Mọi công dân từ 18 tuổi trở lên, không phân biệt nam nữ
+   - [ ] Chỉ người biết chữ
+
+   Đó là Sắc lệnh số 14 ngày 8 tháng 9 và Sắc lệnh số 51 ngày 17 tháng 10 năm 1945. [Xem lại](#sac-lenh)
+
+2. Vì sao mỗi nơi bỏ phiếu phải lập tiểu ban viết phiếu hộ cử tri?
+   - [ ] Vì thiếu giấy in phiếu
+   - [x] Vì khi ấy khoảng 95% dân số không biết chữ
+   - [ ] Vì cử tri không được tự viết theo luật
+
+   Tiểu ban ba người: một người viết, hai người kiểm tra, và tuyên thệ viết đúng, giữ bí mật. [Xem lại](#sac-lenh)
+
+3. Ngày 6 tháng 1 năm 1946, cuộc bỏ phiếu diễn ra ở đâu và bầu ra cơ quan nào?
+   - [ ] Ở Hà Nội, bầu ra Hội đồng Nhân dân
+   - [ ] Ở 21 tỉnh, bầu ra Chính phủ lâm thời
+   - [x] Ở 71 tỉnh thành, bầu ra Quốc hội khoá I
+
+   Ngày 9 tháng 11 năm 1946, Quốc hội thông qua bản hiến pháp đầu tiên của nước Việt Nam Dân chủ Cộng hoà. [Xem lại](#ngay-bau)
+
 ## Nguồn tham khảo
 
 - “Tổng tuyển cử Quốc hội Việt Nam 1946”, Wikipedia tiếng Việt — Sắc lệnh 14 và 51, quyền bầu cử từ 18 tuổi, 95% mù chữ và tiểu ban viết hộ, ý kiến về tính bí mật của lá phiếu, số ứng cử viên, Việt Quốc và Việt Cách tẩy chay, 70 ghế theo thoả thuận 24/12/1945, 89% cử tri, Hà Nội 91,95%, 42 cán bộ thiệt mạng, ném bom Mỹ Tho và Khánh Hoà, 333 đại biểu, lời Hồ Chí Minh: https://vi.wikipedia.org/wiki/T%E1%BB%95ng_tuy%E1%BB%83n_c%E1%BB%AD_Qu%E1%BB%91c_h%E1%BB%99i_Vi%E1%BB%87t_Nam_1946

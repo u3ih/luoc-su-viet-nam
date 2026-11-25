@@ -46,6 +46,30 @@ Năm 687, các thủ lĩnh bản địa Lý Tự Tiên và Đinh Kiến nổi d�
 
 Năm 825, lị sở An Nam đô hộ phủ đặt ở Tống Bình, vùng Hà Nội ngày nay. Từ năm 846, Nam Chiếu nhiều lần tấn công; đến năm 866, Cao Biền mới đánh lui hẳn, và theo thỉnh cầu của ông, vua Đường Ý Tông thăng An Nam đô hộ phủ thành Tĩnh Hải quân. Tên "An Nam" thì vẫn được các triều đình phương Bắc dùng gọi Việt Nam gần suốt thời quân chủ; nhiều vua Việt từ thời Lý đến Tây Sơn nhận tước hiệu An Nam quốc vương trong quan hệ ngoại giao.
 
+## Ôn tập
+
+1. Năm 679, nhà Đường đổi Giao Châu đô đốc phủ thành gì?
+   - [ ] Tĩnh Hải quân
+   - [ ] Kinh lược sứ
+   - [x] An Nam đô hộ phủ
+   - [ ] Hoàn vương quốc
+
+   Tháng 8 năm 679, nhà Đường đổi Giao Châu đô đốc phủ thành An Nam đô hộ phủ, gồm 12 châu với 59 huyện. [Xem lại](#muoi-hai-chau)
+
+2. Hào trưởng nào đánh chiếm thành Tống Bình năm 791?
+   - [x] Phùng Hưng
+   - [ ] Dương Thanh
+   - [ ] Cao Biền
+
+   Năm 791, hào trưởng Phùng Hưng đánh chiếm thành Tống Bình; còn Dương Thanh nổi dậy năm 819. [Xem lại](#noi-day)
+
+3. Năm 866, An Nam đô hộ phủ được thăng thành gì sau khi Cao Biền đánh lui Nam Chiếu?
+   - [ ] Giao Châu đô đốc phủ
+   - [x] Tĩnh Hải quân
+   - [ ] An Nam quốc vương
+
+   Theo thỉnh cầu của Cao Biền, vua Đường Ý Tông thăng An Nam đô hộ phủ thành Tĩnh Hải quân. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "An Nam đô hộ phủ", Wikipedia tiếng Việt — đổi tên tháng 8/679, 12 châu 59 huyện, địa bàn, Kinh lược sứ, Lý Tự Tiên và Đinh Kiến năm 687, người Ả Rập và đạo Hồi, thương nhân nổi loạn 757 – 758, Abe no Nakamaro 761 – 767, Java đánh Chu Diên năm 767, Mai Thúc Loan, Phùng Hưng 791, Dương Thanh 819, Hoàn vương quốc, lị sở Tống Bình năm 825, Nam Chiếu, Tĩnh Hải quân năm 866, tên An Nam trong ngoại giao: https://vi.wikipedia.org/wiki/An_Nam_%C4%91%C3%B4_h%E1%BB%99_ph%E1%BB%A7

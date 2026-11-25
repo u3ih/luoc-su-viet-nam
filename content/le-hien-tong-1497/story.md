@@ -46,6 +46,29 @@ Vua tự tay viết sắc lệnh sai các quan đi khắp nơi khuyên dân đ�
 
 Năm 1499, nhà Minh sai sứ sang viếng Lê Thánh Tông và phong Hiến Tông làm An Nam quốc vương. Năm 1501, ông định chi tiết thể lệ thi Hương, cho khám xét trường thi kỹ để chống mang tài liệu vào. Ngày 24 tháng 6 năm 1504, Lê Hiến Tông mất, thọ 44 tuổi. Người nối ngôi là Lê Túc Tông chỉ ở ngôi sáu tháng rồi mất — giai đoạn hùng mạnh của Đại Việt thời Lê sơ khép lại.
 
+## Ôn tập
+
+1. Lê Hiến Tông là con của vị vua nào?
+   - [ ] Lê Thái Tổ
+   - [x] Lê Thánh Tông
+   - [ ] Lê Túc Tông
+
+   Lê Tranh là con trưởng của Lê Thánh Tông, được lập làm thái tử từ năm 1462 và lên ngôi năm 1497. [Xem lại](#thai-tu)
+
+2. Đường lối chính trị của Lê Hiến Tông như thế nào?
+   - [ ] Bỏ hết phép tắc thời Hồng Đức để lập phép mới
+   - [x] Giữ nguyên việc chính trị như đời Hồng Đức
+   - [ ] Giao toàn bộ chính sự cho các quan
+
+   Ông còn ôn hoà với bề tôi, giảm thuế khoá, phu dịch và xét lại án oan. [Xem lại](#thai-tu)
+
+3. Mỗi xã được đặt người nào để lo việc đê điều, nông tang?
+   - [ ] Một tổng binh
+   - [ ] Một quan án sát
+   - [x] Một xã trưởng hay thôn trưởng chuyên trông nom việc nông tang
+
+   Vua cũng sai các quan khuyên dân đắp đê, đào ngòi lạch, khơi bờ ruộng để phòng hạn, lụt. [Xem lại](#nong-tang)
+
 ## Nguồn tham khảo
 
 - "Lê Hiến Tông", Wikipedia tiếng Việt — thân thế, lập thái tử năm 1462, lên ngôi năm 1497 lúc 37 tuổi, niên hiệu Cảnh Thống, giữ phép tắc Hồng Đức, cách đối xử với bề tôi, các chính sách giảm thuế, chiêu an ở Nghệ An – Thuận Hóa, sắc dụ xử án năm 1498, đê điều và nông tang, chiếu năm 1501, sứ nhà Minh năm 1499, thể lệ thi Hương năm 1501, mất ngày 24/6/1504, Lê Túc Tông: https://vi.wikipedia.org/wiki/L%C3%AA_Hi%E1%BA%BFn_T%C3%B4ng

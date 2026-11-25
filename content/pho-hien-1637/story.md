@@ -51,6 +51,29 @@ Bài tham khảo không nêu rõ nguyên nhân suy tàn, chỉ ghi các mốc đ
 
 Quần thể di tích Phố Hiến vẫn còn trên địa bàn phường, trong đó có Văn miếu Xích Đằng và chùa Chuông.
 
+## Ôn tập
+
+1. Xưa Phố Hiến nằm ở đâu so với sông Hồng?
+   - [ ] Nằm sâu trong đất liền, cách sông Hồng hàng chục km
+   - [x] Nằm sát bờ tả ngạn sông Hồng; nay do phù sa bồi đắp, sông đã lùi ra xa khoảng 2 km
+   - [ ] Nằm giữa sông Hồng, trên một cồn cát
+
+   Phố Hiến nay là phường trung tâm hành chính của tỉnh Hưng Yên, cách Hà Nội khoảng 48 km về phía đông nam. [Xem lại](#pho-hien)
+
+2. Những thương nhân nào từng buôn bán ở Phố Hiến?
+   - [ ] Chỉ có thương nhân Việt
+   - [ ] Chỉ có thương nhân Việt và Hoa
+   - [x] Thương nhân Việt, Hoa, Nhật Bản và phương Tây
+
+   Về năm hình thành Phố Hiến, các nguồn nêu khác nhau nên chương không kết luận; một bản đồ thế kỷ XVII còn ghi cả thương điếm Anh. [Xem lại](#thuong-dien)
+
+3. Trong câu ca "Thứ nhất Kinh Kỳ, thứ nhì Phố Hiến", Phố Hiến được xếp sau nơi nào?
+   - [ ] Hội An
+   - [x] Kinh đô Thăng Long
+   - [ ] Gia Định
+
+   Văn bia chùa Thiên Ứng, dựng năm 1625, gọi nơi này là "tiểu Tràng An". [Xem lại](#kinh-ky)
+
 ## Nguồn tham khảo
 
 - "Phố Hiến", Wikipedia tiếng Việt — vị trí, giao thương, câu ca, mốc 1804 và 1831, di tích: https://vi.wikipedia.org/wiki/Ph%E1%BB%91_Hi%E1%BA%BFn

@@ -46,6 +46,29 @@ Năm 1935, Cát Tường đi xuyên Việt giới thiệu áo dài tân thời. 
 
 Nhiều lời đồn cho rằng hoạ sĩ Lê Phổ cũng cách tân áo dài, nhưng theo các tư liệu được dẫn trong nguồn, ông không thiết kế áo dài: trong đặc san ĐẸP mùa nực năm 1934 của Cát Tường, Lê Phổ chỉ vẽ một trang nữ trang, và quảng cáo trên báo Phong Hoá ngày 14 tháng 9 năm 1934 ghi “Có hoạ sĩ Lê Phổ cho kiểu” — tức chọn kiểu trong các mẫu Lemur có sẵn cho khách.
 
+## Ôn tập
+
+1. Hoạ sĩ nào cách tân áo ngũ thân thành áo dài Lemur?
+   - [ ] Lê Phổ
+   - [x] Cát Tường
+   - [ ] Phùng Há
+
+   Hoạ sĩ Cát Tường, tên tiếng Pháp là Le Mur, cách tân áo ngũ thân chỉ còn hai vạt trước, sau; vạt trước nối dài chấm đất, thân trên may ôm theo dáng người. [Xem lại](#phong-hoa)
+
+2. So với áo ngũ thân, áo dài Lemur khác ở điểm nào?
+   - [x] Chỉ còn hai vạt trước, sau; vạt trước dài chấm đất, thân trên may ôm
+   - [ ] Vẫn giữ năm vạt nhưng may rộng và ngắn hơn
+   - [ ] Thêm một vạt nhỏ ẩn bên dưới vạt trước
+
+   Áo ngũ thân có vạt áo rộng và ngắn, còn Lemur chỉ còn hai vạt, vạt trước nối dài chấm đất. [Xem lại](#ngu-than)
+
+3. Theo các tư liệu được dẫn trong chương, hoạ sĩ Lê Phổ có vai trò gì với áo dài Lemur?
+   - [ ] Là người thiết kế mẫu áo dài đầu tiên
+   - [ ] Là người may tủ áo dài cho Hoàng hậu Nam Phương
+   - [x] Không thiết kế áo dài; chỉ vẽ một trang nữ trang và chọn kiểu có sẵn cho khách
+
+   Trong đặc san ĐẸP năm 1934, Lê Phổ chỉ vẽ một trang nữ trang; quảng cáo trên Phong Hoá ghi ông "cho kiểu" tức chọn trong các mẫu Lemur có sẵn. [Xem lại](#le-pho)
+
 ## Nguồn tham khảo
 
 - “Áo dài”, Wikipedia tiếng Việt — áo ngũ thân, cải cách của Lemur Cát Tường (hai vạt, vạt trước chấm đất, nút dọc vai, eo nhấn), phản ứng của dư luận, mẫu đầu tiên trên báo Phong Hoá số 90 ngày 23/3/1934 (theo sách của Phạm Thảo Nguyên, 2019), chuyến đi xuyên Việt năm 1935, tủ áo cho Hoàng hậu Nam Phương, Phùng Há, vai trò của Lê Phổ (đặc san ĐẸP 1934, quảng cáo trên Phong Hoá ngày 14/9/1934): https://vi.wikipedia.org/wiki/%C3%81o_d%C3%A0i

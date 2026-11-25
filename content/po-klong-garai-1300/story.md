@@ -47,6 +47,29 @@ Trong tháp chính đặt tượng thờ vua Po Klong Garai. Ngày 18 tháng 1 n
 
 Tháp Po Klong Garai được xếp hạng di tích quốc gia năm 1979, sau là di tích quốc gia đặc biệt. Đây là một trong những cụm tháp Chăm đẹp nhất còn lại ở Việt Nam, và vẫn là nơi đồng bào Chăm đến hành lễ.
 
+## Ôn tập
+
+1. Theo truyền thuyết của người Chăm, bạn của cậu bé buôn trầu Jatol thấy điều lạ gì?
+   - [x] Hai con rồng trắng liếm mình cậu
+   - [ ] Cậu hoá thành vua trong một đêm
+   - [ ] Đàn chim bay lượn quanh cậu
+
+   Về sau cậu được quần thần rước về nối ngôi, xưng là Po Klong Garai. [Xem lại](#truyen-thuyet)
+
+2. Cụm tháp trên đồi Trầu được xây dưới thời vua nào?
+   - [ ] Po Klong Garai
+   - [x] Jaya Simhavarman III (Chế Mân)
+   - [ ] Lê Thánh Tông
+
+   Cụm tháp xây vào cuối thế kỷ XIII – đầu thế kỷ XIV, gồm ba tháp: tháp chính, tháp lửa, tháp cổng. [Xem lại](#dung-thap)
+
+3. Ngày nay tháp Po Klong Garai còn được dùng làm gì?
+   - [ ] Chỉ là di tích, không ai đến lễ
+   - [x] Nơi đồng bào Chăm đến hành lễ
+   - [ ] Nơi cư trú của người dân quanh đồi
+
+   Tháp được xếp hạng di tích quốc gia năm 1979, sau là di tích quốc gia đặc biệt. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Tháp Po Klong Garai", Wikipedia tiếng Việt — vị trí, niên đại, ba tháp và chiều cao, vua Po Klong Garai, truyền thuyết Jatol, xếp hạng, bảo vật quốc gia 2024: https://vi.wikipedia.org/wiki/Th%C3%A1p_Po_Klong_Garai

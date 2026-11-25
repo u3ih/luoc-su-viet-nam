@@ -46,6 +46,28 @@ Tháng 10 năm 1980, tại cuộc thi piano quốc tế Frédéric Chopin lần 
 
 Ông tốt nghiệp Nhạc viện Tchaikovsky năm 1983, rồi sang dạy ở Nhạc viện Kunitachi, Tokyo; năm 1984 được Nhà nước Việt Nam phong Nghệ sĩ nhân dân. Từ đó ông biểu diễn ở hơn 40 nước, tại Lincoln Center, Barbican, Salle Pleyel, Musikverein, Concertgebouw, Suntory Hall. Năm 2005, ông vừa là khách mời mở màn vừa là giám khảo cuộc thi Chopin lần thứ 15. Ông mang quốc tịch Việt Nam và Canada.
 
+## Ôn tập
+
+1. Đặng Thái Sơn đoạt giải nhất cuộc thi piano quốc tế nào vào tháng 10 năm 1980?
+   - [ ] Cuộc thi Frédéric Chopin lần thứ 15
+   - [x] Cuộc thi Frédéric Chopin lần thứ 10
+
+   Cuộc thi tổ chức tại Warszawa, Ba Lan; ông là người châu Á đầu tiên giành giải nhất. [Xem lại](#chopin)
+
+2. Từ bé, Đặng Thái Sơn học đàn với ai?
+   - [ ] Với cha, nhà thơ, nhạc sĩ Đặng Đình Hưng
+   - [ ] Với Isaac Katz
+   - [x] Với mẹ, nghệ sĩ piano Thái Thị Liên
+
+   Năm 1965 ông vào học Nhạc viện Hà Nội, khi ấy đang sơ tán về huyện Yên Dũng. [Xem lại](#tuoi-tho)
+
+3. Năm 1976, Đặng Thái Sơn sang học ở đâu?
+   - [x] Nhạc viện Quốc gia Tchaikovsky ở Moskva
+   - [ ] Nhạc viện Kunitachi ở Tokyo
+   - [ ] Nhạc viện Hà Nội
+
+   Ông học các thầy Vladimir Natanson và Dmitry Bashkirov; tài năng của ông được Isaac Katz phát hiện từ năm 1974. [Xem lại](#moskva)
+
 ## Nguồn tham khảo
 
 - "Đặng Thái Sơn", Wikipedia tiếng Việt — ngày sinh, quê, cha mẹ, học với mẹ, Nhạc viện Hà Nội sơ tán năm 1965, Isaac Katz năm 1974, Nhạc viện Tchaikovsky năm 1976, giải nhất cuộc thi Chopin lần X (10/1980), vụ Pogorelich và Martha Argerich, tốt nghiệp năm 1983, Nhạc viện Kunitachi, Nghệ sĩ nhân dân năm 1984: https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B7ng_Th%C3%A1i_S%C6%A1n

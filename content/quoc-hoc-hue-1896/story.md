@@ -47,6 +47,29 @@ Trường đổi tên qua nhiều thời kỳ: Pháp tự Quốc học đường
 
 Nay trường là Trường Trung học phổ thông chuyên Quốc Học – Huế, nổi tiếng với kết quả học tập của học sinh và trình độ giáo viên.
 
+## Ôn tập
+
+1. Trường Quốc Học Huế được lập theo chỉ dụ của vị vua nào?
+   - [ ] Vua Gia Long
+   - [x] Vua Thành Thái
+   - [ ] Vua Minh Mạng
+
+   Trường được lập ngày 23 tháng 10 năm 1896, tên lúc mới lập là “Pháp tự Quốc học trường môn”. [Xem lại](#thanh-lap)
+
+2. Lúc mới lập, trường dạy những thứ chữ nào?
+   - [ ] Chỉ chữ Nho
+   - [x] Tiếng Pháp, chữ Quốc ngữ và chữ Nho
+   - [ ] Chỉ tiếng Pháp và chữ Quốc ngữ
+
+   Giáo trình dạy bằng tiếng Việt cùng tiếng Pháp ngay từ đầu. [Xem lại](#hoc-tro)
+
+3. Từ năm 1915 đến năm 1936, trường mang tên Collège Quốc học khi chuyển thành loại trường nào?
+   - [ ] Trường tiểu học
+   - [x] Trường trung học
+   - [ ] Trường dạy nghề
+
+   Quốc Học là trường trung học đệ nhất cấp đầu tiên ở Huế. [Xem lại](#doi-ten)
+
 ## Nguồn tham khảo
 
 - "Trường Trung học phổ thông chuyên Quốc Học – Huế", Wikipedia tiếng Việt — thành lập 1896, trưởng giáo, tên gọi qua các thời kỳ, chương trình dạy ban đầu: https://vi.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_Trung_h%E1%BB%8Dc_ph%E1%BB%95_th%C3%B4ng_chuy%C3%AAn_Qu%E1%BB%91c_H%E1%BB%8Dc_%E2%80%93_Hu%E1%BA%BF

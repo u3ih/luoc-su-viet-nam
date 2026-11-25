@@ -67,6 +67,29 @@ Trong ngày mồng 5, quân Tây Sơn vào Thăng Long. Tôn Sĩ Nghị rút ch�
 
 Sau chiến thắng, Quang Trung cử sứ giảng hoà với nhà Thanh. Việt Nam sử lược chép nhà Thanh công nhận ông là An Nam quốc vương, hai bên giữ quan hệ thông sứ.
 
+## Ôn tập
+
+1. Vì sao nhà Thanh cho Tôn Sĩ Nghị đem quân sang năm 1788?
+   - [ ] Nguyễn Huệ mời quân Thanh sang giúp
+   - [ ] Quân Tây Sơn tấn công vào đất nhà Thanh
+   - [x] Vua Lê Chiêu Thống sang xin giúp để giữ ngôi
+
+   Năm 1788, Lê Chiêu Thống rời Thăng Long, sang nước Thanh xin giúp; nhà Thanh cho Tôn Sĩ Nghị đem quân sang. [Xem lại](#cau-vien)
+
+2. Nguyễn Huệ lên ngôi hoàng đế, đặt niên hiệu Quang Trung, ở đâu?
+   - [x] Núi Bân, gần Phú Xuân
+   - [ ] Thăng Long
+   - [ ] Tam Điệp
+
+   Ngày 25 tháng 11 âm lịch năm Mậu Thân, tức 22 tháng 12 năm 1788, Nguyễn Huệ lên ngôi ở núi Bân gần Phú Xuân. [Xem lại](#len-ngoi)
+
+3. Kết quả trong ngày mồng 5 tháng Giêng năm Kỷ Dậu (30 tháng 1 năm 1789) là gì?
+   - [ ] Quân Tây Sơn thua và phải lui về Nghệ An
+   - [x] Quân Tây Sơn vào Thăng Long, Tôn Sĩ Nghị rút chạy, quân Thanh tan rã
+   - [ ] Hai bên giảng hoà ngay tại Tam Điệp
+
+   Trong ngày mồng 5, quân Tây Sơn vào Thăng Long; Lê Chiêu Thống đi theo sang đất Thanh. [Xem lại](#thang-long)
+
 ## Nguồn tham khảo
 
 - Trần Trọng Kim, Việt Nam sử lược, Quyển II, Phần IV, Chương XI "Nhà Nguyễn Tây Sơn" — cầu viện, lên ngôi, Tam Điệp, Hà Hồi, Ngọc Hồi, Đống Đa, giảng hoà: https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_II/T%E1%BB%B1_ch%E1%BB%A7_th%E1%BB%9Di_%C4%91%E1%BA%A1i/Ch%C6%B0%C6%A1ng_XI

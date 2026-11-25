@@ -47,6 +47,29 @@ Sau Chiến tranh thế giới thứ hai và chiến tranh Việt – Pháp, kho
 
 Ngày 31 tháng 12 năm 1976, sau hơn một năm khôi phục tuyến đường bị phá hoại trong chiến tranh, chuyến tàu khách Thống Nhất Bắc – Nam đầu tiên khởi hành. Tuyến đường sắt nay dài 1.726 km, khổ 1 m, chạy gần song song với Quốc lộ 1.
 
+## Ôn tập
+
+1. Từ năm 1881, người Pháp bắt đầu xây dựng đường sắt ở Việt Nam, mở đầu bằng tuyến nào?
+   - [ ] Hà Nội – Hải Phòng
+   - [x] Sài Gòn – Mỹ Tho
+   - [ ] Huế – Đà Nẵng
+
+   Các đoạn đường sau đó được xây từng đoạn trong hơn nửa thế kỷ. [Xem lại](#doan-dau)
+
+2. Theo sách "Xứ Đông Dương" của Toàn quyền Paul Doumer, khoản vay 200 triệu franc để làm đường sắt xuyên Việt được trả bằng cách nào?
+   - [ ] Chính quốc Pháp trả hết
+   - [ ] Trả bằng tiền bán vé tàu
+   - [x] Người Đông Dương trả qua các sắc thuế
+
+   Đông Dương phải vay chính quốc Pháp khoản tiền này để làm đường sắt xuyên Việt. [Xem lại](#doan-dau)
+
+3. Chuyến tàu khách Thống Nhất Bắc – Nam đầu tiên khởi hành ngày 31 tháng 12 năm 1976, sau khi nào?
+   - [ ] Sau khi tuyến Sài Gòn – Mỹ Tho hoàn thành
+   - [x] Sau hơn một năm khôi phục tuyến đường bị phá hoại trong chiến tranh
+   - [ ] Sau khi tuyến Hà Nội – Sài Gòn được khánh thành năm 1936
+
+   Tuyến đường sắt nay dài 1.726 km, khổ 1 m, chạy gần song song với Quốc lộ 1. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Đường sắt Sài Gòn – Mỹ Tho", Wikipedia tiếng Việt — tuyến đầu tiên từ năm 1881: https://vi.wikipedia.org/wiki/%C4%90%C6%B0%E1%BB%9Dng_s%E1%BA%AFt_S%C3%A0i_G%C3%B2n_%E2%80%93_M%E1%BB%B9_Tho

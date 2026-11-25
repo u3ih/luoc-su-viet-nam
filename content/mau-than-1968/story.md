@@ -46,6 +46,29 @@ Rạng sáng 30 tháng 1, một số nơi ở miền Trung nổ súng sớm mộ
 
 Về quân sự, lực lượng tấn công bị đẩy khỏi các đô thị; theo ước tính của Mỹ và Việt Nam Cộng hoà, chỉ đợt đầu đã có hơn 45.000 quân tấn công chết, lực lượng cơ sở nội thành tổn thất nặng. Sau đó còn đợt 2 tháng 5 và đợt 3 tháng 8, càng thiệt hại thêm. Nhưng dư luận Mỹ bị chấn động: ngày 27 tháng 2, nhà báo Walter Cronkite nói nước Mỹ đang sa lầy trong thế bế tắc mà chỉ đàm phán mới gỡ được; ngày 31 tháng 3, Tổng thống Johnson tuyên bố ngừng ném bom một phần miền Bắc và không ra tranh cử nhiệm kỳ hai. Ngày 13 tháng 5, hoà đàm Paris khai mạc. Phía Việt Nam đánh giá cuộc Tổng tiến công và nổi dậy Xuân Mậu Thân là bước ngoặt, làm lung lay ý chí của Mỹ, buộc Mỹ ngừng ném bom miền Bắc và chấp nhận đàm phán; năm 1973, Trung ương Đảng cũng thừa nhận khuyết điểm chủ quan trong đánh giá tình hình.
 
+## Ôn tập
+
+1. Cuối năm 1967, Bộ Chính trị Đảng Lao động quyết định chuyển hướng tiến công như thế nào?
+   - [ ] Từ đô thị trở về rừng núi, nông thôn
+   - [x] Từ rừng núi, nông thôn vào các đô thị, nhất là Sài Gòn, Huế, Đà Nẵng
+   - [ ] Chỉ tập trung vào Khe Sanh
+
+   Khe Sanh được chọn làm hướng nghi binh; dịp Tết, phần lớn binh sĩ Việt Nam Cộng hoà được nghỉ phép. [Xem lại](#ke-hoach)
+
+2. Cuộc tấn công rạng sáng 31 tháng 1 năm 1968 diễn ra trên quy mô nào?
+   - [ ] Chỉ ở Sài Gòn
+   - [ ] Chỉ ở các tỉnh miền Trung
+   - [x] Khoảng 77.000 quân tấn công hơn 100 thị xã, thành phố
+
+   Trong đó có 36 trên 44 tỉnh lỵ và thủ đô Sài Gòn. [Xem lại](#giao-thua)
+
+3. Sau đợt tấn công, diễn biến nào xảy ra ở phía Mỹ?
+   - [ ] Mỹ tăng ném bom miền Bắc và Tổng thống Johnson ra tranh cử nhiệm kỳ hai
+   - [ ] Mỹ rút toàn bộ quân ngay trong năm 1968
+   - [x] Dư luận bị chấn động; ngày 31 tháng 3, Tổng thống Johnson tuyên bố ngừng ném bom một phần miền Bắc và không ra tranh cử
+
+   Ngày 13 tháng 5, hoà đàm Paris khai mạc. Về quân sự, lực lượng tấn công bị đẩy khỏi các đô thị. [Xem lại](#buoc-ngoat)
+
 ## Nguồn tham khảo
 
 - “Tet Offensive”, Wikipedia tiếng Anh — Lê Duẩn và mục tiêu tổng khởi nghĩa, phần lớn binh sĩ Việt Nam Cộng hoà nghỉ phép dịp Tết, tấn công sớm 30/1, 77.000 quân đánh hơn 100 đô thị (36 trên 44 tỉnh lỵ) ngày 31/1, đội 19 người đánh Đại sứ quán Mỹ không vào được toà nhà chính, Nguyễn Ngọc Loan và Nguyễn Văn Lém 1/2, ảnh của Eddie Adams, trận Huế (hơn 5.800 thường dân chết, 116.000 trên 140.000 dân mất nhà), thảm sát ở Huế (đến 2.800 người theo phía Đồng Minh; hoàn cảnh có thể không bao giờ được biết đầy đủ), hơn 45.000 quân tấn công chết trong đợt đầu theo phía Mỹ và Việt Nam Cộng hoà, đợt 2 và đợt 3, Cronkite 27/2, Johnson 31/3, hoà đàm Paris 13/5: https://en.wikipedia.org/wiki/Tet_Offensive

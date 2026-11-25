@@ -1,0 +1,17 @@
+.report {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 18px;
+  font-size: 12px;
+  color: var(--giay-mo);
+  opacity: 0.55;
+  text-decoration: none;
+  transition: opacity 0.3s, color 0.3s;
+
+  &:hover,
+  &:focus-visible {
+    opacity: 1;
+    color: var(--vang-nhat);
+  }
+}

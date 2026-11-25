@@ -1,0 +1,72 @@
+@use "./styles/mixins" as *;
+
+// Chế độ trình chiếu (lớp học): chữ to, ẩn bớt nút, chuyển phân cảnh bằng phím ← → hoặc bấm vào cảnh.
+:global(html.is-presenting) {
+  :global(.beat__card) {
+    max-width: 44rem;
+  }
+
+  :global(.beat__title) {
+    font-size: clamp(3rem, 5.4vw, 5rem);
+  }
+
+  :global(.beat__body),
+  :global(.note),
+  :global(.quote) {
+    font-size: 1.35em;
+    line-height: 1.6;
+  }
+
+  :global(.controls) > :not(.presentExit) {
+    display: none;
+  }
+
+  :global(.toast) {
+    display: none;
+  }
+}
+
+.presentExit {
+  // nút thoát vẫn hiện khi trình chiếu
+  position: relative;
+}
+
+.presentChip {
+  @include phone {
+    display: none !important;
+  }
+}
+
+.notice {
+  position: fixed;
+  left: 50%;
+  bottom: 18px;
+  z-index: 12;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  max-width: calc(100vw - 32px);
+  padding: 10px 14px;
+  font-size: 14px;
+  color: var(--giay);
+  background: rgba(18, 11, 8, 0.92);
+  border: 1px solid var(--line);
+  transform: translateX(-50%);
+
+  @include phone {
+    bottom: 72px;
+  }
+
+  a {
+    color: var(--vang-nhat);
+    white-space: nowrap;
+    text-underline-offset: 4px;
+  }
+
+  button {
+    flex: none;
+    width: 28px;
+    height: 28px;
+    color: var(--giay-mo);
+  }
+}

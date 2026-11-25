@@ -49,6 +49,30 @@ Phong trào lan sang Quảng Ngãi (chiều 28 tháng 3), Thừa Thiên (đầu 
 
 Hàng trăm người bị đày ra Côn Đảo, trong đó có Phan Châu Trinh, Huỳnh Thúc Kháng, Trần Cao Vân, Ngô Đức Kế…; hàng trăm người khác bị đày đi Lao Bảo. Nhờ Hội Nhân quyền Pháp can thiệp, năm 1911 Phan Châu Trinh được trả tự do trước hạn.
 
+## Ôn tập
+
+1. Dân Đại Lộc kéo lên tỉnh lỵ Hội An ngày 11 tháng 3 năm 1908 để đòi điều gì?
+   - [ ] Đòi vua Pháp trả lại đất đai
+   - [x] Đòi bỏ lệ đi xâu và giảm sưu thuế
+   - [ ] Đòi mở trường học cho con em
+   - [ ] Đòi thả các nhà nho bị bắt
+
+   Dân vừa đi vừa hô đòi bỏ lệ đi xâu, đòi giảm thuế; đến Tòa sứ, công sứ chỉ cho ba người đại diện vào. [Xem lại](#hoi-an)
+
+2. Buổi đầu, đoàn biểu tình ở Đại Lộc hành động thế nào?
+   - [ ] Mang vũ khí để tự vệ
+   - [ ] Đốt phá nhà tri huyện
+   - [x] Không mang vũ khí, không dùng bạo lực, kiên trì đòi giảm sưu thuế
+
+   Sau đó phong trào lan khắp các tỉnh Trung Kỳ, được gọi là Trung Kỳ dân biến. [Xem lại](#hoi-an)
+
+3. Sau phong trào, nhờ đâu Phan Châu Trinh được trả tự do trước hạn vào năm 1911?
+   - [ ] Nhờ vua Duy Tân ân xá
+   - [x] Nhờ Hội Nhân quyền Pháp can thiệp
+   - [ ] Nhờ công sứ Quảng Nam xin giúp
+
+   Ông là một trong hàng trăm người bị đày ra Côn Đảo sau phong trào. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Phong trào chống sưu thuế Trung Kỳ 1908", Wikipedia tiếng Việt — nguyên nhân, Đại Lộc, ngày 11 tháng 3, Hội An, các tỉnh, đàn áp, người bị đày: https://vi.wikipedia.org/wiki/Phong_tr%C3%A0o_ch%E1%BB%91ng_s%C6%B0u_thu%E1%BA%BF_Trung_K%E1%BB%B3_1908

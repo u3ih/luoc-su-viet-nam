@@ -46,6 +46,29 @@ Vịnh Mốc là làng ven biển ở Vĩnh Linh, ngay bắc sông Bến Hải �
 
 Thiếu ánh sáng, thiếu lương thực, người ta chỉ thắp đèn khi họp, cấp cứu người bệnh hay chăm sóc trẻ sơ sinh. Ở các địa đạo khác của Vĩnh Linh, có hầm bị bom đánh sập làm nhiều người chết; Vịnh Mốc được đào sâu và chắc hơn, trong gần 2.000 ngày đêm không ai thiệt mạng, 17 em bé ra đời dưới lòng đất. Quả bom trúng trực tiếp duy nhất không nổ, lỗ bom thành lỗ thông hơi. Bảo tàng địa đạo mở cửa đón khách từ năm 1995.
 
+## Ôn tập
+
+1. Vì sao dân làng Vịnh Mốc đào địa đạo?
+   - [ ] Để tìm nguồn nước ngầm
+   - [x] Vì Vĩnh Linh bị ném bom liên tục từ năm 1965 đến 1972
+   - [ ] Để xây hầm chứa lúa
+
+   Vịnh Mốc là làng ven biển ở Vĩnh Linh, ngay bắc sông Bến Hải. [Xem lại](#gioi-tuyen)
+
+2. Tầng địa đạo sâu nhất, khoảng 22 – 23 m, dùng làm gì?
+   - [ ] Nơi ở của các gia đình
+   - [ ] Trụ sở xã
+   - [x] Kho hàng tiếp tế cho đảo Cồn Cỏ
+
+   Tầng trên để cơ động, trú ẩn; tầng giữa là nơi ở, có trụ sở xã. [Xem lại](#ba-tang)
+
+3. Bao nhiêu em bé ra đời dưới lòng đất ở địa đạo Vịnh Mốc?
+   - [ ] 7
+   - [x] 17
+   - [ ] 27
+
+   Trong gần 2.000 ngày đêm không ai thiệt mạng; quả bom trúng trực tiếp duy nhất không nổ. [Xem lại](#su-song)
+
 ## Nguồn tham khảo
 
 - “Địa đạo Vịnh Mốc”, Wikipedia tiếng Việt — vị trí, hơn nửa triệu tấn bom ở Vĩnh Linh, gợi ý học Củ Chi, Lê Xuân Vy và la bàn, 18.000 ngày công, trục chính hơn 2.000 m, ba tầng, hốc gia đình, giếng, hội trường, nhà hộ sinh, khoảng 1.200 người, 17 em bé, các địa đạo khác bị sập, bảo tàng năm 1995: https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Ba_%C4%91%E1%BA%A1o_V%E1%BB%8Bnh_M%E1%BB%91c

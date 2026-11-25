@@ -46,6 +46,29 @@ Những năm 1913 – 1915, hội chủ trương bạo động để gây tiến
 
 Cuối năm 1914, Phan Bội Châu bị nhà chức trách Trung Hoa bắt giam tới năm 1917. Hội vẫn hoạt động dưới sự lãnh đạo của Nguyễn Thượng Hiền: năm 1915 đánh đồn Tà Lùng (Cao Bằng) không thành; ngày 28 tháng 9 năm 1915, khoảng 200 tù nhân ở nhà tù Lao Bảo nổi dậy phá ngục. Các mưu khởi nghĩa ở Trung Kỳ năm 1916 với vua Duy Tân, do Thái Phiên và Trần Cao Vân trù tính, và cuộc khởi nghĩa ở Thái Nguyên từ ngày 30 tháng 8 năm 1917, có Lương Ngọc Quyến, uỷ viên quân vụ của hội, tham gia, đều có liên hệ với Quang phục hội.
 
+## Ôn tập
+
+1. Việt Nam Quang phục hội, lập năm 1912 ở Quảng Châu, có tôn chỉ gì?
+   - [ ] Xây dựng chế độ quân chủ lập hiến ở Việt Nam
+   - [x] Khôi phục Việt Nam, kiến lập Việt Nam Dân quốc
+   - [ ] Cải cách giáo dục và mở trường học trong nước
+
+   Sau Cách mạng Tân Hợi, tư tưởng dân chủ khiến Phan Bội Châu bỏ đường lối quân chủ lập hiến trước kia; Kỳ Ngoại hầu Cường Để làm hội chủ. [Xem lại](#thanh-lap)
+
+2. Đội quân của hội lấy tên gì?
+   - [ ] Chấn Hoa Hưng Á hội
+   - [ ] Việt tương đội
+   - [x] Quang phục quân
+
+   Chấn Hoa Hưng Á hội là tổ chức do hội lập thêm ở Quảng Đông để gây quỹ, bán "quân dụng phiếu". [Xem lại](#to-chuc)
+
+3. Chiều 26 tháng 4 năm 1913 xảy ra sự việc nào, trong những năm hội chủ trương bạo động để gây tiếng vang?
+   - [ ] Phan Bội Châu bị nhà chức trách Trung Hoa bắt giam
+   - [x] Một quả tạc đạn ném vào khách sạn Hà Nội ở phố Tràng Tiền, làm chết hai thiếu tá Pháp
+   - [ ] Quân của hội đánh đồn Tà Lùng ở Cao Bằng
+
+   Chính quyền thuộc địa Pháp lập Hội đồng đề hình truy tố 99 người, tuyên bảy án tử hình; Cường Để, Phan Bội Châu cùng vài người khác bị kết án tử hình vắng mặt. [Xem lại](#nam-1913)
+
 ## Nguồn tham khảo
 
 - "Việt Nam Quang phục Hội", Wikipedia tiếng Việt — hình thành năm 1912, tôn chỉ, cơ cấu, Quang phục quân, Chấn Hoa Hưng Á hội, các vụ tạc đạn tháng 4/1913, Hội đồng đề hình, Phan Bội Châu bị giam 1914 – 1917, đồn Tà Lùng, phá ngục Lao Bảo năm 1915, khởi nghĩa 1916, 1917: https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_Nam_Quang_ph%E1%BB%A5c_H%E1%BB%99i

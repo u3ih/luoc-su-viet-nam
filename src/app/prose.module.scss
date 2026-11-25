@@ -1,0 +1,107 @@
+@use "../core/ui/styles/mixins" as *;
+
+// Trang chữ thường (phương pháp, cần giúp): một cột đọc dễ trên mọi khổ màn.
+
+.page {
+  min-height: 100vh;
+  padding-bottom: 80px;
+}
+
+.body {
+  max-width: 44rem;
+  margin: 0 auto;
+  padding: 112px 16px 0;
+
+  h1 {
+    font-family: var(--font-d);
+    font-weight: 800;
+    font-size: clamp(2.2rem, 6vw, 3.4rem);
+    line-height: 1.08;
+    margin-bottom: 14px;
+    @include gold-text;
+  }
+
+  h2 {
+    margin: 34px 0 10px;
+    font-family: var(--font-d);
+    font-size: 1.6rem;
+    line-height: 1.2;
+    color: var(--vang-nhat);
+  }
+
+  h3 {
+    margin: 22px 0 8px;
+    font-size: 1.05rem;
+  }
+
+  p,
+  ul,
+  ol {
+    margin-bottom: 12px;
+  }
+
+  ul,
+  ol {
+    padding-left: 22px;
+  }
+
+  li + li {
+    margin-top: 4px;
+  }
+
+  a {
+    color: var(--vang-nhat);
+    text-underline-offset: 4px;
+  }
+
+  strong {
+    color: var(--giay);
+  }
+}
+
+.body .stat {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 10rem), 1fr));
+  gap: 10px;
+  margin: 18px 0 8px;
+  padding: 0;
+  list-style: none;
+
+  li {
+    margin: 0;
+    padding: 12px 14px;
+    border: 1px solid var(--line);
+  }
+
+  b {
+    display: block;
+    font-family: var(--font-d);
+    font-size: 2rem;
+    line-height: 1.1;
+    color: var(--vang-nhat);
+  }
+
+  span {
+    font-size: 13px;
+    color: var(--giay-mo);
+  }
+}
+
+.more {
+  margin-bottom: 12px;
+
+  summary {
+    cursor: pointer;
+    color: var(--giay-mo);
+  }
+
+  ul {
+    margin-top: 8px;
+    font-size: 15px;
+  }
+}
+
+.muted {
+  color: var(--giay-mo);
+  font-size: 14px;
+}

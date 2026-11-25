@@ -51,6 +51,29 @@ Vua Minh Mạng đặt tên kênh là "Vĩnh Tế hà", theo tên bà Châu Th�
 
 Nhiều người chết vì bệnh tật, kiệt sức, thú dữ; một số bỏ trốn. Một ghi chép nước ngoài (Crawfurd) ước khoảng 10.000 người chết; đây chỉ là một ghi chép, chưa được đối chiếu với tư liệu Việt. Hài cốt về sau được cải táng tại Nghĩa trủng ở chân núi Sam.
 
+## Ôn tập
+
+1. Kênh Vĩnh Tế nối hai địa phương nào?
+   - [x] Châu Đốc và Hà Tiên
+   - [ ] Sài Gòn và Mỹ Tho
+   - [ ] Cần Thơ và Cà Mau
+
+   Kênh nối bờ tây sông Châu Đốc với sông Giang Thành ở Hà Tiên, dài khoảng 87 km. [Xem lại](#lenh-dao)
+
+2. Vua Minh Mạng đặt tên kênh là "Vĩnh Tế hà" theo tên ai?
+   - [ ] Một vị tướng chỉ huy việc đào kênh
+   - [x] Bà Châu Thị Tế, vợ Thoại Ngọc Hầu
+   - [ ] Tên một con sông ở Hà Tiên
+
+   Núi Sam cũng được đổi tên là Vĩnh Tế sơn. [Xem lại](#doi-ten)
+
+3. Việc đào kênh để lại cái giá nào?
+   - [ ] Kênh bị bỏ dở, không bao giờ hoàn thành
+   - [ ] Công việc hoàn thành mà không ai bị thương vong
+   - [x] Nhiều người chết vì bệnh tật, kiệt sức, thú dữ; hài cốt về sau được cải táng ở Nghĩa trủng chân núi Sam
+
+   Một ghi chép nước ngoài ước khoảng 10.000 người chết, nhưng chưa được đối chiếu với tư liệu Việt. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Kênh Vĩnh Tế", Wikipedia tiếng Việt — kích thước, lệnh đào, ba đợt, đổi tên, thương vong: https://vi.wikipedia.org/wiki/K%C3%AAnh_V%C4%A9nh_T%E1%BA%BF

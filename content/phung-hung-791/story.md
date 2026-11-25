@@ -53,6 +53,28 @@ Nguồn sớm nhất nhắc đến Phùng Hưng là Việt điện u linh tập 
 
 Vì vậy nhiều chi tiết về Phùng Hưng, kể cả mốc năm và diễn biến, cần được đối chiếu thêm.
 
+## Ôn tập
+
+1. Phùng Hưng có tôn hiệu là gì?
+   - [ ] Tiền Ngô Vương
+   - [x] Bố Cái Đại Vương
+   - [ ] Dương Bình Vương
+
+   Đây được coi là một trong những trường hợp dùng chữ Nôm bản địa cổ nhất còn lưu truyền. [Xem lại](#bo-cai)
+
+2. Phùng Hưng sinh ở đâu?
+   - [x] Đường Lâm
+   - [ ] Tống Bình
+
+   Vị trí Đường Lâm còn có nhiều giả thuyết; còn Tống Bình là nơi ông mất. [Xem lại](#duong-lam)
+
+3. Nguồn sớm nhất nhắc đến Phùng Hưng là sách nào?
+   - [ ] Cựu Đường thư
+   - [ ] Tư trị thông giám
+   - [x] Việt điện u linh tập của Lý Tế Xuyên
+
+   Các chính sử Trung Quốc gần thời đó không nhắc đến Phùng Hưng, nên nhiều chi tiết cần đối chiếu thêm. [Xem lại](#nguon-su)
+
 ## Nguồn tham khảo
 
 - "Phùng Hưng", Wikipedia tiếng Việt — quê quán, khởi nghĩa 791, tôn hiệu, nguồn sử: https://vi.wikipedia.org/wiki/Ph%C3%B9ng_H%C6%B0ng

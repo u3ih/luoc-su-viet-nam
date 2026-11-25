@@ -60,6 +60,29 @@ Rạch Gầm – Xoài Mút được nhắc đến như một chiến thắng l�
 
 Nguyễn Ánh sau này trở lại, và câu chuyện giữa hai bên còn dài. Chương này chỉ kể một trận đánh, không đánh giá đúng sai.
 
+## Ôn tập
+
+1. Sau khi bị quân Tây Sơn đánh bại, Nguyễn Ánh nhờ đến ai?
+   - [ ] Nhà Thanh
+   - [x] Vua Xiêm
+   - [ ] Nhà Nguyễn ở Phú Xuân
+
+   Nguyễn Ánh phải chạy trốn ở miền nam, cuối cùng nhờ đến vua Xiêm. [Xem lại](#cau-vien)
+
+2. Vì sao khúc sông Rạch Gầm – Xoài Mút thuận lợi cho người quen sông nước giấu quân?
+   - [ ] Vì lòng sông hẹp, nước chảy xiết
+   - [x] Vì lòng sông rộng, hai bên bờ là đất thấp, cây cối rậm
+   - [ ] Vì hai bên bờ là vách đá dựng đứng
+
+   Đây là khúc sông Tiền dài vài cây số, lòng sông rộng, hai bên bờ đất thấp, cây cối rậm. [Xem lại](#nhu-dich)
+
+3. Theo các sách, quân Tây Sơn đánh trận trên sông như thế nào?
+   - [ ] Chỉ đánh từ phía sau đoàn thuyền
+   - [ ] Đánh bộ trên đất liền, không dùng thuyền
+   - [x] Chặn cả đầu lẫn đuôi đoàn thuyền, kết hợp thuỷ binh với pháo trên hai bờ và cù lao
+
+   Quân Tây Sơn đánh chặn cả đầu lẫn đuôi đoàn thuyền, kết hợp thuỷ binh với pháo bố trí trên hai bờ và trên cù lao. [Xem lại](#rach-gam)
+
 ## Nguồn tham khảo
 
 - Trần Trọng Kim, Việt Nam sử lược, Quyển II, Phần IV, Chương VIII "Vận trung suy của chúa Nguyễn" — quân Xiêm sang Hà Tiên năm 1784, trận Rạch Gầm – Xoài Mút, Nguyễn Ánh chạy sang Xiêm: https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_II/T%E1%BB%B1_ch%E1%BB%A7_th%E1%BB%9Di_%C4%91%E1%BA%A1i/Ch%C6%B0%C6%A1ng_VIII

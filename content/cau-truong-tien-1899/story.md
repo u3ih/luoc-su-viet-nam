@@ -46,6 +46,30 @@ Trận lụt năm Thìn, ngày 11 tháng 9 năm 1904, cuốn trôi bốn nhịp 
 
 Trong chiến tranh, năm 1946 cầu bị giật sập hai nhịp phía tả ngạn, đến năm 1953 mới sửa xong; năm 1968 một trụ và một nhịp lại bị phá, người ta phải dựng cầu phao bên cạnh. Từ năm 1991 đến 1995, cầu được trùng tu lớn. Từ Festival Huế năm 2002, cầu có hệ thống đèn đổi màu. Cầu Trường Tiền đi vào thơ Nguyễn Bính, vào bài hát và in trên tem thư Việt Nam.
 
+## Ôn tập
+
+1. Cầu Trường Tiền bằng thép được khánh thành vào lúc nào?
+   - [ ] Tháng 5 năm 1899
+   - [ ] Ngày 11 tháng 9 năm 1904
+   - [x] Ngày 18 tháng 12 năm 1900
+   - [ ] Năm 1937
+
+   Cầu khởi công tháng 5 năm 1899 và khánh thành ngày 18 tháng 12 năm 1900. [Xem lại](#xay-cau)
+
+2. Theo lời kể, cầu có bao nhiêu nhịp lúc mới xây?
+   - [ ] Sáu vài, mười hai nhịp
+   - [x] Sáu nhịp
+   - [ ] Mười hai nhịp
+
+   Cầu có sáu nhịp, mỗi nhịp dài 66,66 m; "sáu vài mười hai nhịp" trong ca dao là cách đảo lại cho thuận vần. [Xem lại](#xay-cau)
+
+3. Điều gì xảy ra với cầu trong trận lụt năm Thìn (1904)?
+   - [x] Lụt cuốn trôi bốn nhịp cầu
+   - [ ] Cầu bị giật sập hai nhịp phía tả ngạn
+   - [ ] Cầu được mở rộng thêm
+
+   Hãng Daydé et Pillé sửa hai nhịp còn lại và làm bốn nhịp mới theo kiểu cũ. [Xem lại](#lu-nam-thin)
+
 ## Nguồn tham khảo
 
 - “Cầu Trường Tiền”, Wikipedia tiếng Việt — cầu Mây, cầu Mống (Quách Tấn theo thơ Thái Thuận), hãng thiết kế, ngày khởi công và khánh thành, kích thước, chi phí, lụt năm 1904, các lần sửa chữa và mở rộng (1905 – 1915, 1937 – 1939), các tên gọi, hư hại năm 1946 và 1968, trùng tu 1991 – 1995, chiếu sáng 2002, tên gọi từ công trường đúc tiền, “sáu vài mười hai nhịp” (Trần Đức Anh Sơn): https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Tr%C6%B0%E1%BB%9Dng_Ti%E1%BB%81n

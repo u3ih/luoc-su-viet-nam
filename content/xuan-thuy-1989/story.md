@@ -46,6 +46,29 @@ Từ tháng 10, tháng 11 đến tháng 3, tháng 4 năm sau, hàng chục nghì
 
 Quanh vườn quốc gia là những làng quê ven biển với đầm tôm, vây vạng, nghề cá, nhà bổi, chùa chiền và nhà thờ. Hàng trăm loài động vật đáy, cá và rong tảo là sinh kế của cộng đồng vùng đệm. Người dân ở đây vẫn giữ chèo cổ, chầu văn, bơi chải, múa lân, đấu vật trong những ngày hội; đồng bào Công giáo và bên lương sống hoà hợp cùng nhau.
 
+## Ôn tập
+
+1. Từ tháng 1 năm 1989, Xuân Thủy có điểm gì đặc biệt trong Công ước Ramsar?
+   - [x] Là vùng đất ngập nước đầu tiên của Đông Nam Á tham gia công ước
+   - [ ] Là vùng đất ngập nước duy nhất của Việt Nam
+   - [ ] Là vùng đất ngập nước lớn nhất thế giới
+
+   Công ước Ramsar, ký năm 1971, nhằm bảo tồn những vùng đất ngập nước có tầm quan trọng quốc tế, nhất là nơi cư trú của chim nước. [Xem lại](#ramsar)
+
+2. Vì sao hàng chục nghìn con chim di cư dừng chân ở Xuân Thủy từ tháng 10 đến tháng 4 năm sau?
+   - [ ] Để tránh nóng từ phương nam
+   - [x] Để tránh rét từ phương bắc, kiếm ăn và lấy sức cho hành trình dài
+   - [ ] Để chờ nước triều lên rồi đẻ trứng
+
+   Đã ghi nhận 220 loài chim ở Xuân Thủy, trong đó có cò thìa, loài bị đe doạ toàn cầu. [Xem lại](#chim-di-cu)
+
+3. Những cánh rừng ngập mặn ở Xuân Thủy có vai trò gì?
+   - [ ] Chắn nước mặn không cho vào Hà Nội
+   - [ ] Cung cấp gỗ làm nhà cho các làng ven biển
+   - [x] Giữ phù sa để bồi thêm bãi mới và nuôi tôm cá
+
+   Gần 20 loài cây thích nghi với nước mặn tạo nên những cánh rừng rộng hàng nghìn héc-ta. [Xem lại](#bai-boi)
+
 ## Nguồn tham khảo
 
 - “Vườn quốc gia Xuân Thủy”, Wikipedia tiếng Việt — vị trí, diện tích 7.100 ha, rừng ngập mặn, tham gia Công ước Ramsar từ tháng 1/1989 (vùng đầu tiên ở Đông Nam Á), Quyết định 01/2003/QĐ-TTg, Khu dự trữ sinh quyển châu thổ sông Hồng 12/2004, mùa chim di cư, số liệu khảo sát 1988, 1994, 1996, 220 loài chim, cò thìa (74 cá thể), đời sống vùng đệm: https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_Xu%C3%A2n_Th%E1%BB%A7y

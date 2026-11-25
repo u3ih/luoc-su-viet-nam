@@ -46,6 +46,29 @@ Năm 1434, vua xuống chiếu định lệ thi: thi Hương ở các đạo, th
 
 Năm 1437, vua giao Nguyễn Trãi và Lương Đăng soạn lễ nhạc triều đình; hai người bất đồng, vua theo phương án của Lương Đăng. Năm 1439, vua thống nhất cách đo vải lụa, giấy tờ, tiền đồng trong nước. Tháng 8 năm 1442, sau khi tuần du miền đông, ghé Côn Sơn, Lê Thái Tông đột ngột mất ở vườn Vải, xã Đại Lại, khi mới 18 tuổi — mở đầu vụ án Lệ Chi viên.
 
+## Ôn tập
+
+1. Lê Thái Tông lên ngôi năm 1433 khi mấy tuổi?
+   - [ ] 18 tuổi
+   - [x] 11 tuổi
+   - [ ] 25 tuổi
+
+   Vua mới 11 tuổi, không có mẫu hậu nhiếp chính; Đại tư đồ Lê Sát làm thủ tướng, quyết đoán mọi việc. [Xem lại](#len-ngoi)
+
+2. Năm 1434, vua định lệ thi cử như thế nào?
+   - [ ] Mỗi năm thi một lần ở các đạo
+   - [x] Thi Hương ở các đạo, thi Hội ở kinh đô, ba năm một lần thi lớn
+   - [ ] Chỉ thi ở kinh đô, năm năm một lần
+
+   Người đỗ được danh hiệu tiến sĩ; tháng 3 năm 1442, khoa thi Hội có 450 sĩ tử, 33 người đỗ. [Xem lại](#thi-cu)
+
+3. Tháng 7 năm 1437, đại thần nào bị vua giao Hình quan hạch tội chuyên quyền rồi buộc tự vẫn?
+   - [ ] Lưu Nhân Chú
+   - [x] Lê Sát
+   - [ ] Nguyễn Trãi
+
+   Lê Quý Đôn về sau cho rằng Lê Sát và Lê Ngân chết không đáng tội. [Xem lại](#le-sat)
+
 ## Nguồn tham khảo
 
 - "Lê Thái Tông", Wikipedia tiếng Việt — lập thái tử, các đại thần nhận di chiếu, lên ngôi ngày 20/10/1433 lúc 11 tuổi, niên hiệu Thiệu Bình, Lê Sát chuyên quyền và cái chết của Lưu Nhân Chú, lệ kiện ở xã năm 1434, Lê Sát và Lê Ngân bị xử năm 1437, nhận xét của Lê Quý Đôn, chiếu định lệ thi năm 1434, khoa thi Hội năm 1442 (450 sĩ tử, 33 người đỗ), thi Đình, lệ dựng bia, lễ nhạc 1437, quy định đo lường năm 1439, mất năm 1442: https://vi.wikipedia.org/wiki/L%C3%AA_Th%C3%A1i_T%C3%B4ng

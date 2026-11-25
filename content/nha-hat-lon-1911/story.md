@@ -47,6 +47,29 @@ Sau 10 năm xây dựng, nhà hát khánh thành năm 1911; một nhóm kịch n
 
 Nhà hát từng là nơi Quốc hội đầu tiên của nước Việt Nam độc lập nhóm họp và thông qua Hiến pháp năm 1946. Sau đợt trùng tu 1995 – 1997, công trình lấy lại vẻ đẹp xưa; nay là một trong những địa điểm biểu diễn quan trọng bậc nhất ở Hà Nội.
 
+## Ôn tập
+
+1. Đồ án Nhà hát Lớn Hà Nội được họa theo hình dáng nhà hát nào?
+   - [ ] Nhà hát Hoàng gia ở Luân Đôn
+   - [x] Nhà hát Opéra Garnier ở Paris
+   - [ ] Nhà hát Scala ở Milano
+
+   Đồ án của hai kiến trúc sư Broyer và V. Harley họa theo hình dáng nhà hát Opéra Garnier ở Paris. [Xem lại](#do-an)
+
+2. Vì sao phải đóng 35 nghìn cây cọc tre xuống nền?
+   - [ ] Để làm khung cho mái nhà hát
+   - [ ] Để ngăn người lạ vào công trình
+   - [x] Vì nhà hát xây trên một vũng lầy
+
+   Vì xây trên một vũng lầy, việc san lấp mặt bằng rất khó khăn; 35 nghìn cây cọc tre được đóng xuống nền. [Xem lại](#dong-coc)
+
+3. Sự kiện nào sau đây từng diễn ra tại Nhà hát Lớn?
+   - [ ] Quốc hội thông qua Hiến pháp năm 1959
+   - [ ] Quốc hội thông qua Hiến pháp năm 1980
+   - [x] Quốc hội đầu tiên của nước Việt Nam độc lập thông qua Hiến pháp năm 1946
+
+   Nhà hát từng là nơi Quốc hội đầu tiên của nước Việt Nam độc lập nhóm họp và thông qua Hiến pháp năm 1946. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Nhà hát Lớn Hà Nội", Wikipedia tiếng Việt — đồ án, kinh phí, khởi công 1901, cọc tre, khánh thành 1911, sức chứa, Quốc hội 1946, trùng tu 1995 – 1997: https://vi.wikipedia.org/wiki/Nh%C3%A0_h%C3%A1t_L%E1%BB%9Bn_H%C3%A0_N%E1%BB%99i

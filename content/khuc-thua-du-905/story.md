@@ -52,6 +52,29 @@ Khúc Thừa Dụ đặt trị sở ở La Thành, tức Đại La. Ông giữ �
 >
 > Bảng thông tin của bài tham khảo ghi thời gian cầm quyền của ông là 905–907, còn thân bài đặt việc chiếm Đại La năm 905 và việc được công nhận chính thức năm 906.
 
+## Ôn tập
+
+1. Khúc Thừa Dụ quê ở đâu?
+   - [ ] Đường Lâm
+   - [ ] Ái Châu
+   - [x] Hồng Châu, nay thuộc Hải Dương
+
+   Khúc Thừa Dụ quê ở Hồng Châu, nay thuộc Hải Dương, trong một gia đình hào trưởng có thế lực ở địa phương. [Xem lại](#hong-chau)
+
+2. Năm 906, triều đình nhà Đường công nhận Khúc Thừa Dụ giữ chức gì?
+   - [x] Tiết độ sứ
+   - [ ] Vua nước Nam
+   - [ ] Thái sư
+
+   Năm 906, nhân dân địa phương tôn ông lên cai quản, và triều đình nhà Đường công nhận ông làm tiết độ sứ. [Xem lại](#nam-905)
+
+3. Khúc Thừa Dụ giữ được sự công nhận của nhà Đường bằng cách nào?
+   - [ ] Xưng vương và tuyên bố tách khỏi nhà Đường
+   - [x] Trình bày vị trí của mình như một lời xin nhà Đường cho phép, không xưng vương hay xưng đế
+   - [ ] Đem quân đánh chiếm kinh đô nhà Đường
+
+   Ông trình bày vị trí của mình như một lời xin nhà Đường cho phép, và không xưng vương hay xưng đế. [Xem lại](#tu-chu)
+
 ## Nguồn tham khảo
 
 - "Khúc Thừa Dụ", Wikipedia tiếng Việt — quê quán, giành quyền năm 905, công nhận 906, mất 907: https://vi.wikipedia.org/wiki/Kh%C3%BAc_Th%E1%BB%ABa_D%E1%BB%A5

@@ -46,6 +46,30 @@ Năm 1972, trong chiến tranh, bệnh viện bị máy bay B-52 của quân đ�
 
 Năm 2006, Bạch Mai được Bộ Y tế công nhận là bệnh viện đa khoa hoàn chỉnh hạng đặc biệt đầu tiên của Việt Nam. Tháng 3 năm 2020, bệnh viện là nơi có số ca nhiễm COVID-19 lớn nhất cả nước, phải cách ly nghiêm ngặt từ cuối tháng 3 đến ngày 12 tháng 4, rồi hoạt động bình thường trở lại từ đầu tháng 5. Theo trang giới thiệu của bệnh viện, từ năm 2016 bệnh viện có quy mô khoảng 1.900 giường với 55 đơn vị trực thuộc; các tài liệu khác nêu những con số lớn hơn, tuỳ thời điểm và cách tính.
 
+## Ôn tập
+
+1. Bệnh viện Bạch Mai khi được lập năm 1911 mang tên gì?
+   - [ ] Bệnh viện René Robin
+   - [ ] Bệnh viện Bạch Mai
+   - [x] Nhà thương Cống Vọng
+
+   Năm 1911, bệnh viện được lập với tên nhà thương Cống Vọng, chuyên điều trị người mắc bệnh truyền nhiễm. [Xem lại](#cong-vong)
+
+2. Theo bệnh viện, năm 1972 có bao nhiêu cán bộ y tế thiệt mạng khi đang cứu chữa người bệnh?
+   - [ ] 8 người
+   - [x] 28 người
+   - [ ] 48 người
+
+   Năm 1972 bệnh viện bị máy bay B-52 ném bom bốn lần; theo bệnh viện, 28 cán bộ y tế thiệt mạng. [Xem lại](#nam-1972)
+
+3. Năm 2006, Bạch Mai được Bộ Y tế công nhận là gì?
+   - [ ] Cơ sở thực hành chính của Trường Y khoa Đông Dương
+   - [ ] Bệnh viện chuyên điều trị bệnh truyền nhiễm
+   - [ ] Bệnh viện tư nhân đầu tiên của Việt Nam
+   - [x] Bệnh viện đa khoa hoàn chỉnh hạng đặc biệt đầu tiên của Việt Nam
+
+   Năm 2006, Bạch Mai được công nhận là bệnh viện đa khoa hoàn chỉnh hạng đặc biệt đầu tiên của Việt Nam. [Xem lại](#ngay-nay)
+
 ## Nguồn tham khảo
 
 - “Bệnh viện Bạch Mai”, Wikipedia tiếng Việt — thành lập năm 1911 (nhà thương Cống Vọng, bệnh truyền nhiễm), tên René Robin năm 1935 và cơ sở thực hành của Trường Y khoa, tên Bạch Mai năm 1945, các giai đoạn 1945 – 1975, bị ném bom năm 1972 (28 cán bộ thiệt mạng), hạng đặc biệt năm 2006, COVID-19 năm 2020 (cách ly đến ngày 12/4, hoạt động bình thường từ đầu tháng 5): https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_B%E1%BA%A1ch_Mai

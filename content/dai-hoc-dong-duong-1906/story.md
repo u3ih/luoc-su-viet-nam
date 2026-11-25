@@ -47,6 +47,29 @@ Tháng 11 năm 1907, cơ sở giảng dạy đầu tiên khánh thành cạnh Nh
 
 Đến năm 1941 mới có giảng viên người Việt, khởi đầu ở trường y. Niên học cuối cùng trước tháng 3 năm 1945 có 1.575 sinh viên ghi danh. Viện là cơ sở đại học duy nhất ở Đông Dương đến năm 1945; Đại học Quốc gia Hà Nội ngày nay là đơn vị kế thừa truyền thống và cơ sở vật chất.
 
+## Ôn tập
+
+1. Ai ký nghị định lập Viện Đại học Đông Dương ngày 16 tháng 5 năm 1906?
+   - [ ] Albert Sarraut
+   - [x] Paul Beau
+   - [ ] Kazimierz Kwiatkowski
+
+   Toàn quyền Đông Dương Paul Beau ban hành Nghị định số 1514a; Albert Sarraut là người lập lại viện năm 1917. [Xem lại](#nghi-dinh)
+
+2. Theo nghị định, mục đích của viện đại học là gì?
+   - [ ] Chỉ đào tạo giảng viên người Pháp
+   - [ ] Chỉ nghiên cứu, không đào tạo
+   - [x] Đào tạo nhân viên bản xứ cho các bộ máy hành chính địa phương hoặc các cơ quan chuyên môn thuộc Phủ Toàn quyền Đông Dương
+
+   Viện gồm 5 trường và việc giảng dạy chủ yếu bằng tiếng Pháp. [Xem lại](#nghi-dinh)
+
+3. Điều gì xảy ra với viện sau khóa đầu khai giảng năm 1907?
+   - [ ] Mở rộng ngay thành mười trường
+   - [x] Chưa được một năm, việc giảng dạy dừng lại; đến năm 1917 viện được lập lại
+   - [ ] Chuyển vào Sài Gòn
+
+   Việc dừng giảng dạy không có quyết định, không thông báo nguyên nhân; ngày 21 tháng 12 năm 1917 Toàn quyền Albert Sarraut ra quyết định lập lại viện. [Xem lại](#khoa-dau)
+
 ## Nguồn tham khảo
 
 - "Viện Đại học Đông Dương", Wikipedia tiếng Việt — Nghị định 1514a ngày 16/5/1906, mục đích, năm trường thành viên, khóa đầu 1907, tạm dừng, lập lại 1917, giảng viên, số sinh viên, kế thừa: https://vi.wikipedia.org/wiki/Vi%E1%BB%87n_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_%C4%90%C3%B4ng_D%C6%B0%C6%A1ng

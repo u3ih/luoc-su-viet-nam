@@ -46,6 +46,29 @@ Hơn bốn năm “ngày đêm khó nhọc”, ông soạn bộ Đại Nam quấ
 
 Hơn ba mươi năm sau mới có Hội Khai Trí Tiến Đức ở Bắc Kỳ tiếp tục công việc làm tự điển. Đại Nam quấc âm tự vị được tái bản nhiều lần, sau năm 1975 đổi tên là Đại Nam quốc âm tự vị cho đúng chính tả; bản in năm 1998 dày 1.210 trang. Đến nay đây vẫn là bộ sách kinh điển của những người nghiên cứu tiếng Việt. Ông mất năm 1908, an táng ở Bà Rịa.
 
+## Ôn tập
+
+1. Huình Tịnh Của viết phần lớn tác phẩm bằng thứ chữ nào?
+   - [ ] Chữ Hán
+   - [ ] Chữ Pháp
+   - [x] Chữ quốc ngữ
+
+   Dù giỏi cả chữ Hán lẫn tiếng Pháp, ông chọn quốc ngữ, thứ chữ khi ấy còn bị coi thấp hơn. [Xem lại](#quoc-ngu)
+
+2. Bộ Đại Nam quấc âm tự vị được in ở đâu và vào năm nào?
+   - [ ] Ở Hà Nội, năm 1908
+   - [x] Ở Sài Gòn, năm 1895 và 1896
+   - [ ] Ở Huế, năm 1830
+
+   Sách xếp chữ theo 24 chữ cái phương Tây, phân biệt chữ gốc Hán Việt và chữ Nôm. [Xem lại](#tu-vi)
+
+3. Sách giải nghĩa ngắn gọn và dẫn thêm những gì?
+   - [x] Ca dao, tục ngữ, câu thơ Kiều, Lục Vân Tiên và tiếng địa phương
+   - [ ] Chỉ các điển tích trong sách chữ Hán
+   - [ ] Chỉ các từ mượn tiếng Pháp
+
+   Riêng chữ “ăn” có tới 125 từ ghép. [Xem lại](#tu-vi)
+
 ## Nguồn tham khảo
 
 - “Huỳnh Tịnh Của”, Wikipedia tiếng Việt — tiểu sử, du học Penang, Đốc phủ sứ năm 1861, Gia Định báo năm 1865, điều trần lên vua Tự Đức, khoảng 17 tác phẩm, quá trình soạn Đại Nam quấc âm tự vị (A. Landes, hơn bốn năm), in năm 1895 – 1896, đặc điểm (125 từ ghép với “ăn”, phân biệt Hán Việt và Nôm, dẫn ca dao, thơ), tái bản và bản 1998: https://vi.wikipedia.org/wiki/Hu%E1%BB%B3nh_T%E1%BB%8Bnh_C%E1%BB%A7a

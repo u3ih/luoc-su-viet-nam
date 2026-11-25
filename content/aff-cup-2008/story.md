@@ -46,6 +46,30 @@ Lượt đi ngày 24 tháng 12 trên sân Rajamangala ở Băng Cốc, Việt Na
 
 Đội trưởng Phan Văn Tài Em nhận cúp vô địch; thủ môn Dương Hồng Sơn được bầu là cầu thủ xuất sắc nhất giải. Đây là lần đầu tiên đội tuyển Việt Nam vô địch một giải khu vực. Trang Goal.com xếp chiến thắng vào mười sự kiện bóng đá châu Á năm 2008; độc giả báo VietNamNet bình chọn đây là một trong mười sự kiện nổi bật của Việt Nam trong năm.
 
+## Ôn tập
+
+1. Ở bán kết, đội tuyển Việt Nam gặp đối thủ nào?
+   - [ ] Thái Lan
+   - [ ] Malaysia
+   - [x] Singapore
+
+   Việt Nam gặp đương kim vô địch Singapore; tiền đạo Nguyễn Quang Hải ghi bàn duy nhất ở lượt về, đưa đội vào chung kết. [Xem lại](#ban-ket)
+
+2. Ai ghi bàn gỡ hoà bằng cú đánh đầu ở lượt về chung kết trên sân Mỹ Đình?
+   - [ ] Nguyễn Quang Hải
+   - [ ] Phan Văn Tài Em
+   - [ ] Nguyễn Minh Phương
+   - [x] Lê Công Vinh
+
+   Lê Công Vinh đánh đầu từ quả đá phạt của Nguyễn Minh Phương, giúp hai đội hoà 1–1 và Việt Nam thắng chung cuộc 3–2. [Xem lại](#chung-ket)
+
+3. Chiến thắng năm 2008 có ý nghĩa gì với bóng đá Việt Nam?
+   - [x] Lần đầu tiên đội tuyển vô địch một giải khu vực
+   - [ ] Lần đầu tiên đội tuyển vào chung kết giải Đông Nam Á
+   - [ ] Lần đầu tiên đội tuyển thắng Thái Lan
+
+   Đội trưởng Phan Văn Tài Em nhận cúp; đây là lần đầu tiên Việt Nam vô địch một giải khu vực, còn lần vào chung kết trước đó là năm 1998. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Giải vô địch bóng đá Đông Nam Á 2008", Wikipedia tiếng Việt — giải lần thứ 7, AFF Suzuki Cup, vòng bảng ở Indonesia và Thái Lan, chuyển bảng B về Phuket ngày 29/11/2008, Việt Nam thắng Singapore ở bán kết, thắng Thái Lan chung cuộc 3–2, các bình chọn của Goal.com và VietNamNet: https://vi.wikipedia.org/wiki/Gi%E1%BA%A3i_v%C3%B4_%C4%91%E1%BB%8Bch_b%C3%B3ng_%C4%91%C3%A1_%C4%90%C3%B4ng_Nam_%C3%81_2008

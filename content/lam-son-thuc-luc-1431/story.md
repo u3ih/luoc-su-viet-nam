@@ -51,6 +51,29 @@ Trong lời tựa, nhà vua dặn con cháu đừng quên những ngày gian kh�
 
 Hiện còn sáu bộ Lam Sơn thực lục bằng chữ Hán, đều là bản viết tay, không có bản in chữ Hán nào. Năm 1944, Mạc Bảo Thần dịch sách, in năm 1956; năm 1969, bản dịch của Văn Tân in trong Nguyễn Trãi toàn tập.
 
+## Ôn tập
+
+1. Lam Sơn thực lục kể lại điều gì?
+   - [ ] Cuộc kháng chiến chống quân Mông – Nguyên
+   - [x] Mười năm khởi nghĩa Lam Sơn
+   - [ ] Việc dời đô về Thăng Long
+
+   Vua Lê Thái Tổ cho soạn sách vào tháng 12 năm 1431, bằng chữ Hán. [Xem lại](#boi-canh)
+
+2. Phần thứ ba của bộ sách kể điều gì?
+   - [ ] Thân thế nhà vua và buổi đầu khởi nghĩa
+   - [ ] Cuộc chiến cho tới khi quân Minh rút về nước
+   - [x] Việc sửa sang đất nước, chép bài Bình Ngô đại cáo và lời tổng kết của vua
+
+   Phần thứ nhất từ năm 1418 đến năm 1424; phần thứ hai từ năm 1424 đến năm 1428. [Xem lại](#ba-phan)
+
+3. Trong lời tựa, nhà vua dặn con cháu điều gì?
+   - [ ] Phải xây thêm nhiều cung điện
+   - [x] Mặc gấm vóc rực rỡ thì phải nghĩ đến những ngày áo quần lam lũ, gian khổ
+   - [ ] Phải giữ sách trong cung, không cho ai chép
+
+   Nhà vua dặn con cháu đừng quên những ngày gian khổ khởi nghĩa. [Xem lại](#loi-tua)
+
 ## Nguồn tham khảo
 
 - "Lam Sơn thực lục", Wikipedia tiếng Việt — thời điểm soạn, tác giả, bối cảnh, cấu trúc ba phần, bản chép, bản dịch, trích lời tựa (bản dịch Mạc Bảo Thần): https://vi.wikipedia.org/wiki/Lam_S%C6%A1n_th%E1%BB%B1c_l%E1%BB%A5c

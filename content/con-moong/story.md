@@ -93,6 +93,29 @@ Năm 2015, Thủ tướng Chính phủ xếp hạng hang Con Moong cùng sáu di
 
 Hang đã nằm trong Danh sách dự kiến Di sản thế giới của UNESCO từ năm 2006. Hồ sơ đề cử hiện vẫn đang được các nhà khoa học bàn bạc, xây dựng.
 
+## Ôn tập
+
+1. Hang Con Moong nằm ở đâu?
+   - [ ] Trong vùng núi đá vôi ở Ninh Bình
+   - [x] Trong vùng núi đá vôi thuộc huyện Thạch Thành, tỉnh Thanh Hoá
+   - [ ] Trong vùng núi đá vôi ở Quảng Bình
+
+   Hang nằm trong vùng đệm của Vườn quốc gia Cúc Phương, được phát hiện năm 1974 và khai quật lần đầu năm 1976. [Xem lại](#hang-dong)
+
+2. Theo các nguồn trong nước, địa tầng của hang Con Moong gồm bao nhiêu lớp?
+   - [ ] Ba lớp, dày khoảng một mét
+   - [ ] Năm lớp, dày khoảng ba mét
+   - [x] Mười lớp, dày trung bình khoảng chín mét rưỡi
+
+   Các nhà nghiên cứu cho đó là bề dày hiếm thấy ở Việt Nam và Đông Nam Á. [Xem lại](#dia-tang)
+
+3. Ở lớp trên cùng của hang có những dấu vết gì?
+   - [ ] Công cụ thạch anh ghè đẽo, không có xương thú
+   - [ ] Trống đồng và đồ sắt
+   - [x] Rìu đá mài lưỡi và gốm thô sơ
+
+   Lớp này được các nhà nghiên cứu xếp vào sơ kỳ văn hoá Đa Bút, có tài liệu xếp vào văn hoá Bắc Sơn. [Xem lại](#lop-tren)
+
 ## Nguồn tham khảo
 
 - Hang Con Moong, Wikipedia tiếng Việt (có trích dẫn). https://vi.wikipedia.org/wiki/Hang%5FCon%5FMoong

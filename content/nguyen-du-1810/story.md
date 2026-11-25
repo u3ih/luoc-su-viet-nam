@@ -62,6 +62,29 @@ Hai bản in xưa nhất còn lại là của Liễu Văn Đường (1871) và D
 
 Nguyễn Du được người Việt tôn xưng là "Đại thi hào dân tộc" và được UNESCO vinh danh là Danh nhân văn hoá thế giới. Năm 2015, lễ kỷ niệm 250 năm ngày sinh ông được tổ chức cấp quốc gia ở thành phố Hà Tĩnh.
 
+## Ôn tập
+
+1. Truyện Kiều được viết bằng chữ gì, theo thể thơ nào?
+   - [ ] Chữ Hán, thể lục bát
+   - [x] Chữ Nôm, thể lục bát
+   - [ ] Chữ Nôm, thể song thất lục bát
+
+   Truyện Kiều viết bằng chữ Nôm theo thể lục bát, gồm 3.254 câu. [Xem lại](#truyen-kieu)
+
+2. Truyện Kiều dựa theo tác phẩm nào?
+   - [x] Kim Vân Kiều truyện của Thanh Tâm Tài Nhân
+   - [ ] Chinh phụ ngâm
+   - [ ] Phủ biên tạp lục
+
+   Truyện dựa theo tiểu thuyết "Kim Vân Kiều truyện", bối cảnh Trung Quốc thời Minh. [Xem lại](#truyen-kieu)
+
+3. Về thời điểm Nguyễn Du sáng tác Truyện Kiều, chương cho biết điều gì?
+   - [ ] Đã xác định chắc chắn là sau chuyến đi sứ năm 1813
+   - [ ] Đã xác định chắc chắn là khi ông còn là sinh đồ năm 1783
+   - [x] Chưa xác định; thuyết được nhiều người chấp nhận là khoảng 1804 – 1809, khi ông làm cai bạ ở Quảng Bình
+
+   Còn có thuyết cho rằng ông viết sau chuyến đi sứ Trung Quốc năm 1813 – 1814, và một ý kiến khác cho rằng tác phẩm ra đời sớm hơn. [Xem lại](#thoi-diem)
+
 ## Nguồn tham khảo
 
 - "Truyện Kiều", Wikipedia tiếng Việt — nguồn gốc cốt truyện, cốt truyện, thời điểm sáng tác, bản in, dịch thuật: https://vi.wikipedia.org/wiki/Truy%E1%BB%87n_Ki%E1%BB%81u

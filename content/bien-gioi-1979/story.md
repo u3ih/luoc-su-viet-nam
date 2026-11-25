@@ -46,6 +46,30 @@ Rạng sáng 17 tháng 2 năm 1979, quân Trung Quốc, theo các nguồn nướ
 
 Cả hai bên đều tuyên bố thắng. Số người chết rất khác nhau giữa các nguồn: theo một bài nghiên cứu của Viện Hoover (Mỹ), mỗi bên có khoảng 30.000 người chết; số liệu do hai phía công bố khác nhau nhiều và chưa được kiểm chứng độc lập. Xung đột ở biên giới còn kéo dài nhiều năm, ác liệt nhất là ở Vị Xuyên, Hà Giang từ năm 1984. Năm 1991, quan hệ Việt – Trung được bình thường hoá. Hằng năm, những người lính và dân thường chết trong hai cuộc chiến được tưởng niệm.
 
+## Ôn tập
+
+1. Ngày 25 tháng 12 năm 1978, sự kiện nào bắt đầu?
+   - [ ] Quân Khmer Đỏ giết hại dân thường ở xã Ba Chúc
+   - [ ] Quân Trung Quốc tấn công trên toàn tuyến biên giới phía bắc
+   - [x] Việt Nam mở cuộc tấn công toàn diện vào Campuchia cùng lực lượng Campuchia chống Khmer Đỏ
+
+   Chỉ trong khoảng hai tuần quân Việt Nam chiếm Phnôm Pênh; quân đội Việt Nam ở lại Campuchia đến năm 1989. [Xem lại](#phnom-penh)
+
+2. Ở xã Ba Chúc, An Giang, từ ngày 18 đến 30 tháng 4 năm 1978 đã xảy ra điều gì?
+   - [x] Quân Khmer Đỏ giết 3.157 dân thường, nhiều người bị giết ngay trong chùa
+   - [ ] Quân Trung Quốc chiếm thị xã và phá huỷ cơ sở hạ tầng
+   - [ ] Quân Khmer Đỏ đột kích đảo Phú Quốc và chiếm đảo Thổ Chu
+
+   Chỉ vài người sống sót; Nhà mồ Ba Chúc được xếp hạng di tích lịch sử quốc gia năm 1980. [Xem lại](#ba-chuc)
+
+3. Quan hệ Việt – Trung được bình thường hoá vào năm nào?
+   - [ ] 1979
+   - [ ] 1984
+   - [ ] 1989
+   - [x] 1991
+
+   Sau năm 1979, xung đột ở biên giới còn kéo dài nhiều năm, ác liệt nhất ở Vị Xuyên, Hà Giang từ năm 1984; đến năm 1991 quan hệ mới được bình thường hoá. [Xem lại](#sau-chien-tranh)
+
 ## Nguồn tham khảo
 
 - “Chiến tranh biên giới Tây Nam”, Wikipedia tiếng Việt — các tên gọi khác nhau, Khmer Đỏ đột kích Phú Quốc, chiếm Thổ Chu và giết hơn 500 dân thường năm 1975, Hội đồng Nhân dân Cách mạng Campuchia lập 8/1/1979, các cuộc tấn công 1977 – 1978, tấn công toàn diện 25/12/1978, rút quân đến năm 1989: https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_bi%C3%AAn_gi%E1%BB%9Bi_T%C3%A2y_Nam

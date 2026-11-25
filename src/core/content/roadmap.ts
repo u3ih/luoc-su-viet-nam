@@ -93,3 +93,6 @@ export function loadRoadmap(): RoadmapEra[] {
   cache = eras;
   return eras;
 }
+
+/** Sự kiện chỉ dẫn nguồn Wikipedia — cần bổ sung nguồn chính thống (AGENTS.md mục 4.8). */
+export const wikiOnly = (ev: RoadmapEvent) => ev.sources.every((u) => /(^|\.)wikipedia\.org\//.test(new URL(u).hostname + "/"));

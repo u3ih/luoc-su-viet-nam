@@ -47,6 +47,29 @@ Các bản chép về sau gom thành 5 tập: ngoài tập bản đồ hành ch�
 
 Bản gốc Bản đồ Hồng Đức đã thất truyền. Viện Nghiên cứu Hán Nôm còn lưu khoảng 10 văn bản cùng đề cập tới bộ bản đồ này, chép vào cuối thế kỷ XVIII và nửa đầu thế kỷ XIX. Các bản giống nhau về đại thể nhưng khác nhau về chi tiết, do nhiều địa danh đã đổi tên qua các thời kỳ.
 
+## Ôn tập
+
+1. Năm Quang Thuận thứ 7 (1467), vua Lê Thánh Tông ra lệnh gì?
+   - [x] Cho các thừa tuyên vẽ bản đồ địa phương mình, ghi rõ núi sông, hình thế, gửi về Bộ Hộ
+   - [ ] Cho đo lại ruộng đất cả nước để đánh thuế
+   - [ ] Cho chép lại Nam Bắc phân giới địa đồ thời Lý
+
+   Trước đó đã có Nam Bắc phân giới địa đồ thời Lý Anh Tông (1172), nhưng chỉ là bản vẽ tay, không phổ biến như một bản đồ chính thức. [Xem lại](#lenh-ve)
+
+2. Tập thứ nhất của bộ bản đồ hoàn tất năm 1490 gồm những gì?
+   - [ ] Chỉ một tấm toàn đồ Đại Việt
+   - [ ] Mười ba tấm bản đồ của mười ba thừa tuyên, không có bản đồ kinh thành
+   - [x] Một tấm toàn đồ Đại Việt, một tấm bản đồ kinh thành Thăng Long và 13 tấm bản đồ của 13 thừa tuyên
+
+   Tập gồm 15 tấm, ghi 52 phủ, 178 huyện, 50 châu cùng hàng nghìn xã, thôn, trang. [Xem lại](#thua-tuyen)
+
+3. Hiện nay bản gốc Bản đồ Hồng Đức ra sao?
+   - [ ] Còn nguyên bản gốc, lưu ở Viện Nghiên cứu Hán Nôm
+   - [x] Đã thất truyền; chỉ còn khoảng 10 văn bản chép lại, giống nhau về đại thể nhưng khác về chi tiết
+   - [ ] Chưa từng có bản chép lại nào
+
+   Các bản chép vào cuối thế kỷ XVIII và nửa đầu thế kỷ XIX, khác nhau do nhiều địa danh đã đổi tên qua các thời kỳ. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Bản đồ Hồng Đức", Wikipedia tiếng Việt — lệnh vẽ 1467, hoàn tất 1490, nội dung tập thứ nhất, các tập, các dị bản ở Viện Nghiên cứu Hán Nôm: https://vi.wikipedia.org/wiki/B%E1%BA%A3n_%C4%91%E1%BB%93_H%E1%BB%93ng_%C4%90%E1%BB%A9c

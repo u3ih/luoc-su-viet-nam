@@ -76,6 +76,30 @@ Năm 1414, Trùng Quang Đế, Đặng Dung, Nguyễn Cảnh Dị lần lượt 
 >
 > — Đặng Dung, "Thuật hoài". Nghĩa là: thù nước chưa trả mà đầu đã bạc, bao lần mài gươm báu dưới trăng (diễn ý)
 
+## Ôn tập
+
+1. Sau khi bắt được cha con Hồ Quý Ly năm 1407, nhà Minh làm gì?
+   - [ ] Lập lại nhà Trần như đã hứa
+   - [x] Đổi nước ta thành quận Giao Chỉ, đặt quan cai trị
+   - [ ] Rút quân về nước
+
+   Nhà Minh lấy cớ khôi phục nhà Trần nhưng không lập lại nhà Trần. [Xem lại](#giao-chi)
+
+2. Trận thắng lớn nhất của nhà Hậu Trần diễn ra ở đâu?
+   - [ ] Mô Độ
+   - [ ] Thái Gia
+   - [x] Bến Bô Cô bên sông Đáy
+   - [ ] Đông Quan
+
+   Cuối năm 1408, quân Minh thua lớn, Mộc Thạnh chạy về thành Cổ Lộng. [Xem lại](#bo-co)
+
+3. Vì sao lòng quân Hậu Trần chia rẽ từ đầu năm 1409?
+   - [ ] Quân Minh dùng kế ly gián tướng giặc
+   - [ ] Giản Định Đế bị bắt
+   - [x] Giản Định Đế nghe lời gièm pha, giết Đặng Tất và Nguyễn Cảnh Chân
+
+   Hai tướng giỏi nhất bị giết, con của họ là Đặng Dung và Nguyễn Cảnh Dị bỏ đi, đưa Trần Quý Khoáng lên ngôi. [Xem lại](#nghi-ky)
+
 ## Nguồn tham khảo
 
 - Đại Việt sử ký toàn thư (Ngô Sĩ Liên và các sử thần, 1479), Bản kỷ — phần Hậu Trần: https://vi.wikisource.org/wiki/%C4%90%E1%BA%A1i_Vi%E1%BB%87t_s%E1%BB%AD_k%C3%BD_to%C3%A0n_th%C6%B0

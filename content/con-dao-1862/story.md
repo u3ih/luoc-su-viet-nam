@@ -46,6 +46,29 @@ Từ năm 1954, nhà tù thuộc chính quyền Quốc gia Việt Nam rồi Vi�
 
 Rạng sáng ngày 1 tháng 5 năm 1975, tù chính trị nổi dậy chiếm nhà tù, chấm dứt hơn 113 năm hoạt động của nó. Gần nhà tù là nghĩa trang Hàng Dương, nơi chôn cất nhiều người tù đã chết trên đảo; số người chết qua các thời kỳ đến nay chưa có con số kiểm chứng. Ngày nay, hệ thống nhà tù Côn Đảo là di tích quốc gia đặc biệt.
 
+## Ôn tập
+
+1. Nhà tù Côn Đảo được chính quyền nào lập ra, để giam những ai?
+   - [x] Chính quyền thuộc địa Pháp, giam người bị coi là đặc biệt nguy hiểm như tù chính trị, tử tù
+   - [ ] Triều đình nhà Nguyễn, giam quan lại phạm tội
+   - [ ] Chính quyền Việt Nam Cộng hoà, giam tù binh
+
+   Về năm thành lập, các nguồn ghi khác nhau: năm 1861 hoặc ngày 1 tháng 2 năm 1862. Sau năm 1954, nhà tù do Quốc gia Việt Nam rồi Việt Nam Cộng hoà tiếp tục sử dụng. [Xem lại](#lap-nha-tu)
+
+2. Sau khi ảnh khu "chuồng cọp" đăng trên tạp chí Life ngày 17 tháng 7 năm 1970, điều gì xảy ra?
+   - [ ] Nhà tù Côn Đảo bị đóng cửa ngay
+   - [x] Khoảng 180 tù nam và 300 tù nữ được chuyển khỏi khu này
+   - [ ] Các nghị sĩ Mỹ bị cấm tới thăm đảo
+
+   Những bức ảnh gây chấn động dư luận quốc tế; năm 1971, một khu biệt giam mới gồm 384 phòng được xây ở trại Phú Bình. [Xem lại](#chuong-cop)
+
+3. Rạng sáng ngày 1 tháng 5 năm 1975, điều gì xảy ra ở nhà tù Côn Đảo?
+   - [ ] Nhà tù được chuyển giao cho chính quyền Việt Nam Cộng hoà
+   - [ ] Nhà tù bị phá bỏ hoàn toàn
+   - [x] Tù chính trị nổi dậy chiếm nhà tù, chấm dứt hơn 113 năm hoạt động của nó
+
+   Nay hệ thống nhà tù Côn Đảo là di tích quốc gia đặc biệt; số người chết trên đảo qua các thời kỳ chưa có con số kiểm chứng. [Xem lại](#hang-duong)
+
 ## Nguồn tham khảo
 
 - “Nhà tù Côn Đảo”, Wikipedia tiếng Việt — giam tù chính trị, tử tù, chuồng cọp do Pháp xây năm 1940 (120 phòng), chuồng cọp trại Phú Bình năm 1971 (384 phòng), Don Luce, Tom Harkin, ảnh trên Life 17/7/1970, số tù được chuyển đi sau tháng 7/1970, tù nhân nổi dậy rạng sáng 1/5/1975 chấm dứt 113 năm, di tích quốc gia đặc biệt: https://vi.wikipedia.org/wiki/Nh%C3%A0_t%C3%B9_C%C3%B4n_%C4%90%E1%BA%A3o

@@ -57,6 +57,29 @@ Mọi việc trong nhà đều do bà Tú gánh vác; Tú Xương rất trân tr
 
 Tú Xương mất ngày 29 tháng 1 năm 1907, sống được 37 năm. Thơ ông chép trong các tập Vị thành giai cú tập biên, Quốc văn tùy ký ở Viện Hán Nôm; từ năm 1931 có nhiều lần xuất bản bằng chữ Quốc ngữ, như Vị Xuyên thi văn tập.
 
+## Ôn tập
+
+1. Tú Xương đỗ tú tài ở khoa thi Hương nào?
+   - [ ] Khoa Bính Tuất (1886)
+   - [x] Khoa Giáp Ngọ (1894)
+   - [ ] Khoa Bính Ngọ (1906)
+
+   Ông dự tám khoa thi Hương; sau ba lần hỏng, đến khoa Giáp Ngọ mới đỗ tú tài, rồi không đỗ thêm được. [Xem lại](#tam-khoa)
+
+2. Hai câu thơ "Quanh năm buôn bán ở mom sông, Nuôi đủ năm con với một chồng" viết về ai?
+   - [ ] Mẹ của Tú Xương
+   - [ ] Chị gái của Tú Xương
+   - [x] Bà Tú, vợ của Tú Xương
+
+   Mọi việc trong nhà đều do bà Tú gánh vác; ông viết về vợ như một lời tri ân. [Xem lại](#thuong-vo)
+
+3. Tú Xương sinh ra ở đâu?
+   - [x] Phố Hàng Nâu, thành Nam Định
+   - [ ] Phố Hàng Nâu, Hà Nội
+   - [ ] Làng Tiên Điền, Hà Tĩnh
+
+   Ông sinh ngày 5 tháng 9 năm 1870, là con trưởng trong chín người con. [Xem lại](#hang-nau)
+
 ## Nguồn tham khảo
 
 - "Tú Xương", Wikipedia tiếng Việt — tiểu sử, các khoa thi, bà Tú, thơ "Vịnh khoa thi Hương", "Thương vợ", văn bản, năm mất: https://vi.wikipedia.org/wiki/T%C3%BA_X%C6%B0%C6%A1ng

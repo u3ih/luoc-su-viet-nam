@@ -47,6 +47,29 @@ Quan trọng nhất là pho tượng Phật A Di Đà bằng đá xanh ngồi th
 
 Năm 1686, chùa được xây dựng lại với quy mô lớn và đổi tên là Vạn Phúc tự. Năm 1947, chùa bị quân đội Pháp đốt cháy hoàn toàn. Năm 1959, ba gian chùa nhỏ được dựng lại để đặt pho tượng A Di Đà; năm 1962, chùa Phật Tích được công nhận là di tích lịch sử – văn hóa.
 
+## Ôn tập
+
+1. Trên bệ và cánh sen của tượng A Di Đà có hình gì, nét đặc trưng của mỹ thuật thời Lý?
+   - [x] Hình rồng và hoa lá
+   - [ ] Hình sư tử và voi
+   - [ ] Hình sóng nước
+
+   Pho tượng A Di Đà bằng đá xanh ngồi thiền định trên tòa sen, trên bệ và trong cánh sen có hình rồng và hoa lá. [Xem lại](#tuong-phat)
+
+2. Chùa Phật Tích khởi dựng năm 1057 vào đời vua nào?
+   - [ ] Lý Thái Tổ
+   - [x] Lý Thánh Tông
+   - [ ] Lý Nhân Tông
+
+   Gạch xây nền tháp có chữ "Lý gia đệ tam đế Long Thụy Thái Bình tứ niên tạo" — vua thứ ba nhà Lý, năm thứ tư niên hiệu Long Thụy Thái Bình. [Xem lại](#khoi-dung)
+
+3. Năm 1947, chùa Phật Tích gặp điều gì?
+   - [ ] Được xây lại với quy mô lớn và đổi tên là Vạn Phúc tự
+   - [x] Bị quân đội Pháp đốt cháy hoàn toàn
+   - [ ] Được công nhận là di tích lịch sử – văn hóa
+
+   Chùa bị đốt cháy năm 1947; năm 1959 dựng lại ba gian nhỏ để đặt tượng A Di Đà, năm 1962 được công nhận là di tích. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Chùa Phật Tích", Wikipedia tiếng Việt — khởi dựng 1057, gạch chữ Lý, chữ Phật 1071, ba cấp nền, tượng A Di Đà, tượng thú đá, trùng tu 1686, bị đốt 1947, xếp hạng 1962: https://vi.wikipedia.org/wiki/Ch%C3%B9a_Ph%E1%BA%ADt_T%C3%ADch

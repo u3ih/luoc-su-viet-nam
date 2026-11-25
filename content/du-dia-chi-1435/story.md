@@ -47,6 +47,29 @@ Ngoài phần của Nguyễn Trãi, sách còn có lời tập chú của Nguy�
 
 Theo lời họ Lý chép ở cuối sách, sau vụ án Lệ Chi Viên, Đại Tư đồ Lê Liệt sai hủy bản khắc. Khi vua Lê Nhân Tông lớn lên, vào Bí thư các thấy bản sách của Ức Trai còn sót lại, nói với quần thần rằng Nguyễn Trãi trung thành, giúp Thái Tổ dẹp giặc, giúp Thái Tông sửa sang thái bình (diễn ý).
 
+## Ôn tập
+
+1. Năm 1435, Nguyễn Trãi dâng sách Dư địa chí lên vua nào?
+   - [ ] Lê Thái Tổ
+   - [x] Lê Thái Tông
+   - [ ] Lê Nhân Tông
+
+   Nguyễn Trãi được vua Lê Thái Tông triệu ra làm quan và giao làm sách Dư địa chí để giúp vua hiểu thêm về đất nước. [Xem lại](#trieu-ra)
+
+2. Sách Dư địa chí ghi chép nội dung gì?
+   - [x] Sơ lược địa lý hành chính và tự nhiên của nước ta, kèm sản vật, cống phú từng vùng
+   - [ ] Diễn biến các cuộc kháng chiến chống quân xâm lược
+   - [ ] Phép thi cử và cách tổ chức quan lại
+
+   Sách viết bằng chữ Hán, ghi sơ lược địa lý hành chính và tự nhiên của nước ta qua các giai đoạn, chép cả sản vật, cống phú của từng vùng. [Xem lại](#dang-sach)
+
+3. Theo lời họ Lý chép ở cuối sách, điều gì xảy ra với bản khắc sách sau vụ án Lệ Chi Viên?
+   - [ ] Được sao chép, phát đi các nơi
+   - [ ] Được vua cho khắc lại ngay
+   - [x] Bị Đại Tư đồ Lê Liệt sai hủy
+
+   Sau vụ án Lệ Chi Viên, Đại Tư đồ Lê Liệt sai hủy bản khắc; về sau vua Lê Nhân Tông thấy bản còn sót lại của Ức Trai. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Dư địa chí", Wikipedia tiếng Việt — hoàn cảnh soạn, năm 1435, lời mở đầu, các người chú giải, việc hủy và giữ sách: https://vi.wikipedia.org/wiki/D%C6%B0_%C4%91%E1%BB%8Ba_ch%C3%AD

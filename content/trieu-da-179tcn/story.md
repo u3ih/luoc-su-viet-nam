@@ -60,6 +60,29 @@ Câu chuyện nỏ thần, Mỵ Châu và Trọng Thủy là truyền thuyết. 
 >
 > Có quan điểm coi Triệu Đà là vua chính thống của Việt Nam, có quan điểm coi ông là người xâm lược. Bài tham khảo ghi nhận đây là vấn đề phụ thuộc vào cách tiếp cận của người nghiên cứu. Chương không chọn quan điểm nào.
 
+## Ôn tập
+
+1. Triệu Đà lập nước Nam Việt và đóng đô ở đâu?
+   - [ ] Cổ Loa
+   - [ ] Long Xuyên
+   - [x] Phiên Ngung, nay thuộc Quảng Châu
+
+   Triệu Đà lập nước Nam Việt, đóng đô ở Phiên Ngung, nay thuộc Quảng Châu. [Xem lại](#nam-viet)
+
+2. Theo quan điểm sử học Việt Nam hiện nay, sau khi chiếm Âu Lạc, Triệu Đà chia đất thành hai quận nào?
+   - [ ] Nam Hải và Giao Chỉ
+   - [x] Giao Chỉ và Cửu Chân
+   - [ ] Nam Hải và Cửu Chân
+
+   Theo quan điểm sử học Việt Nam hiện nay, khoảng năm 179 TCN Triệu Đà đánh chiếm Âu Lạc và chia đất thành hai quận Giao Chỉ và Cửu Chân. [Xem lại](#chiem-au-lac)
+
+3. Bài tham khảo nói gì về câu chuyện nỏ thần, Mỵ Châu và Trọng Thủy?
+   - [ ] Đó là sự kiện được Sử ký của Tư Mã Thiên ghi chép đầy đủ
+   - [ ] Đó là câu chuyện có bằng chứng lịch sử rõ ràng
+   - [x] Đó là truyền thuyết, không có bằng chứng lịch sử
+
+   Câu chuyện nỏ thần, Mỵ Châu và Trọng Thủy là truyền thuyết; Sử ký không nhắc đến Trọng Thủy. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Triệu Đà", Wikipedia tiếng Việt — thân thế, các mốc ghi khác nhau về việc chiếm Âu Lạc, xưng đế, quan hệ với nhà Hán: https://vi.wikipedia.org/wiki/Tri%E1%BB%87u_%C4%90%C3%A0

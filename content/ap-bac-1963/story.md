@@ -46,6 +46,29 @@ Gần trưa, quân tiếp viện được 15 trực thăng Mỹ chở từ sân 
 
 Đêm xuống, quân Giải phóng rút khỏi trận địa. Các nguồn tham khảo cùng ghi: phía Việt Nam Cộng hoà khoảng 80 người chết, hơn 100 người bị thương; 3 cố vấn Mỹ chết, 8 người bị thương; phía quân Giải phóng 18 người chết, 39 người bị thương, dù trận địa hứng hơn 600 quả đạn pháo cùng napalm, bom đạn từ 13 máy bay và năm trực thăng vũ trang. Tướng Harkins coi cuộc hành quân là thành công vì đã chiếm được mục tiêu sau khi đối phương rút; nhưng các phóng viên như Neil Sheehan, David Halberstam, nghe cố vấn John Paul Vann kể lại, tường thuật đây là một thất bại. Ấp Bắc được phía Việt Nam coi là chiến thắng lớn đầu tiên của Quân Giải phóng trước quân chính quy có cố vấn Mỹ.
 
+## Ôn tập
+
+1. Quân Giải phóng chuẩn bị trận địa ở Ấp Bắc như thế nào?
+   - [ ] Xây thành đất bao quanh ấp
+   - [ ] Rút hết khỏi ấp trước khi cuộc hành quân bắt đầu
+   - [x] Đào hầm dọc bờ kênh, dưới hàng cây
+
+   Biết trước cuộc hành quân, quân Giải phóng đào hầm dọc bờ kênh, dưới hàng cây, rồi nổ súng từ các hố cá nhân khi tiểu đoàn bảo an tới gần. [Xem lại](#bo-ruong)
+
+2. Quân tiếp viện được 15 trực thăng đổ xuống chỗ nào?
+   - [x] Xuống ruộng ngay trước tuyến công sự
+   - [ ] Xuống phía sau tuyến công sự
+   - [ ] Xuống sân bay Tân Hiệp
+
+   Trực thăng đổ quân xuống ruộng ngay trước tuyến công sự; chỉ một chiếc không trúng đạn, năm chiếc bị bắn rơi hoặc phá huỷ. [Xem lại](#truc-thang)
+
+3. Sau trận Ấp Bắc, các phóng viên như Neil Sheehan và David Halberstam tường thuật cuộc hành quân ra sao?
+   - [ ] Một thành công vì chiếm được mục tiêu
+   - [x] Một thất bại
+   - [ ] Họ không đưa tin về trận này
+
+   Tướng Harkins coi cuộc hành quân là thành công vì đã chiếm được mục tiêu sau khi đối phương rút; các phóng viên, nghe cố vấn John Paul Vann kể lại, tường thuật đây là một thất bại. [Xem lại](#rut-dem)
+
 ## Nguồn tham khảo
 
 - “Battle of Ap Bac”, Wikipedia tiếng Anh — phát hiện đài vô tuyến 28/12/1962, quân số hai bên (khoảng 350 và 1.400), kế hoạch ba hướng, Huỳnh Văn Cao, John Paul Vann, nguồn tin (tiếp tế, điệp viên, liên lạc vô tuyến không mã hoá), phục kích cách 30 m, 15 trực thăng (5 chiếc mất), M113 ngần ngại, 14 lính M113 tử trận, Tiểu đoàn 8 Dù rơi trước tuyến công sự, hơn 600 quả đạn pháo, 13 máy bay, rút trong đêm, thương vong hai bên, đánh giá của Harkins: https://en.wikipedia.org/wiki/Battle_of_Ap_Bac

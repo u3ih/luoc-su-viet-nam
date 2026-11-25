@@ -11,10 +11,12 @@ type Props = {
   onComplete: () => void;
   /** Máy tự kéo thanh (chế độ tự cuộn khi nghe kể). Người xem chạm vào thanh thì máy thôi kéo. */
   autoPlay?: boolean;
+  /** Chữ "đang kéo giúp" theo ngôn ngữ trang. */
+  helping: string;
 };
 
 /** Thanh kéo tương tác chung: ghi giá trị vào story.inputs[key], báo hoàn thành khi vượt ngưỡng. */
-export default function SliderInteraction({ spec, done, onComplete, autoPlay }: Props) {
+export default function SliderInteraction({ spec, done, onComplete, autoPlay, helping }: Props) {
   const [value, setValue] = useState(0);
   const tween = useRef<gsap.core.Tween | null>(null);
 
@@ -62,7 +64,7 @@ export default function SliderInteraction({ spec, done, onComplete, autoPlay }: 
         aria-valuetext={`${pct}%`}
         style={{ "--p": `${pct}%` } as React.CSSProperties}
       />
-      {!done && <p className="slider__hint">{autoPlay ? "Đang kéo giúp bạn…" : spec.hint}</p>}
+      {!done && <p className="slider__hint">{autoPlay ? helping : spec.hint}</p>}
     </div>
   );
 }

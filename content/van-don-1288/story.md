@@ -69,6 +69,29 @@ Theo bài tham khảo, khoảng 17 vạn thạch lương bị chìm. Ô Mã Nhi 
 
 Đầu tháng 4 năm 1288, khi rút về theo đường sông Bạch Đằng, thủy quân Nguyên sa vào trận địa cọc của nhà Trần.
 
+## Ôn tập
+
+1. Ai chỉ huy thủy quân nhà Trần đánh đoàn thuyền lương ở Vân Đồn?
+   - [ ] Trương Văn Hổ
+   - [ ] Ô Mã Nhi
+   - [x] Trần Khánh Dư
+
+   Năm 1283, Trần Khánh Dư được phong Phó đô tướng quân, trấn giữ Vân Đồn. [Xem lại](#ban-than)
+
+2. Lần này quân Nguyên chở lương theo đường nào?
+   - [ ] Đường bộ qua Lạng Sơn
+   - [x] Đường biển
+   - [ ] Đường sông Hồng
+
+   Đoàn thuyền lương do Trương Văn Hổ chỉ huy, theo bài tham khảo gồm 70 chiếc. [Xem lại](#thuyen-luong)
+
+3. Trận đánh úp đoàn thuyền lương khiến quân Nguyên rơi vào tình cảnh nào?
+   - [ ] Thừa thắng tiến sâu vào Thăng Long
+   - [ ] Có thêm lương thực
+   - [x] Thiếu lương và phải tính đường rút
+
+   Nhiều thuyền bị đắm, Trương Văn Hổ chạy thoát về Quỳnh Châu; Thượng hoàng tha tội cho Trần Khánh Dư. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - Đặng Việt Thủy, "Danh tướng Trần Khánh Dư với chiến thắng Vân Đồn đầu năm 1288", Tạp chí điện tử Giáo dục Việt Nam, 28/3/2018 — số quân, số thuyền, số lương, diễn biến, trích Toàn thư: https://giaoduc.net.vn/danh-tuong-tran-khanh-du-voi-chien-thang-van-don-dau-nam-1288-post184740.gd

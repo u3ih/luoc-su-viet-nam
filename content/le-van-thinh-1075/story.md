@@ -47,6 +47,29 @@ Tháng 6 năm Giáp Tý (1084), ông được cử đến trại Vĩnh Bình bà
 
 Theo sử cũ, mùa đông năm 1095, khi vua Lý Nhân Tông xem đánh cá ở hồ Dâm Đàm (Hồ Tây), Lê Văn Thịnh bị buộc tội mưu làm phản; Đại Việt sử ký toàn thư chép thêm chuyện ông "hóa hổ". Vua nghĩ ông là đại thần có công, không nỡ giết, năm 1096 đày lên Thao Giang. Đời sau bàn nhiều về vụ án; đa số cho rằng ông bị hàm oan, nhưng nguyên nhân chưa thống nhất.
 
+## Ôn tập
+
+1. Khoa thi tháng 2 năm 1075 dưới thời Lý Nhân Tông có điểm gì đáng chú ý?
+   - [ ] Là khoa thi võ đầu tiên
+   - [x] Là khoa thi Nho học đầu tiên được ghi lại
+   - [ ] Là khoa thi cuối cùng của triều Lý
+
+   Vua Lý Nhân Tông mở khoa thi Minh kinh bác học và thi Nho học tam trường — khoa thi Nho học đầu tiên được ghi lại; Lê Văn Thịnh đỗ đầu. [Xem lại](#khoa-thi)
+
+2. Năm 1084, Lê Văn Thịnh được cử đến trại Vĩnh Bình để làm gì?
+   - [ ] Dẹp loạn trong nước
+   - [ ] Mở trường dạy học
+   - [x] Bàn việc cương giới với sứ nhà Tống
+
+   Ông được cử đến trại Vĩnh Bình bàn việc cương giới với sứ nhà Tống là Thành Trạc; theo sử liệu, nhà Tống chấp thuận trả lại 6 huyện, 3 động thuộc châu Quảng Nguyên. [Xem lại](#ban-cuong-gioi)
+
+3. Theo sử cũ, sau vụ án hồ Dâm Đàm, vua Lý Nhân Tông xử Lê Văn Thịnh thế nào?
+   - [ ] Xử tử
+   - [x] Không nỡ giết, năm 1096 đày lên Thao Giang
+   - [ ] Cách chức rồi cho về quê
+
+   Vua nghĩ ông là đại thần có công, không nỡ giết, năm 1096 đày lên Thao Giang; đời sau bàn nhiều về vụ án nhưng nguyên nhân chưa thống nhất. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Lê Văn Thịnh", Wikipedia tiếng Việt — quê quán, thời trẻ, khoa thi 1075, bàn cương giới 1084, chức Thái sư, vụ án hồ Dâm Đàm theo Đại Việt sử lược và Toàn thư, các ý kiến: https://vi.wikipedia.org/wiki/L%C3%AA_V%C4%83n_Th%E1%BB%8Bnh

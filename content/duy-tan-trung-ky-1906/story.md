@@ -47,6 +47,29 @@ Nhà cầm quyền cấm dân chúng tụ tập nghe diễn thuyết. Đặng Ng
 
 Năm 1908, khi nhân dân Trung Kỳ nổi lên chống sưu thuế, nhà cầm quyền Pháp đàn áp; cuộc vận động Duy Tân kết thúc. Nhiều nhà duy tân bị bắt, đày đi Côn Đảo.
 
+## Ôn tập
+
+1. Cuộc vận động Duy Tân do Phan Châu Trinh phát động năm 1906 theo chủ trương nào?
+   - [ ] Khởi nghĩa vũ trang chống nhà cầm quyền
+   - [ ] Chỉ cải cách việc học chữ Hán trong các trường cũ
+   - [x] Bất bạo động, khôi phục đất nước bằng việc nâng cao dân trí và cải tổ xã hội
+
+   Cuộc vận động chủ trương mở mang kinh tế, lập nhà buôn lớn để tự lực và mở trường dạy học. [Xem lại](#chu-truong)
+
+2. Trong khẩu hiệu "Khai dân trí" có những việc nào?
+   - [ ] Giữ lối học tầm chương trích cú
+   - [x] Mở trường dạy chữ Quốc ngữ, dạy kiến thức khoa học thực dụng, bài trừ hủ tục
+   - [ ] Cấm dân chúng tụ tập nghe diễn thuyết
+
+   Phan Châu Trinh cùng Huỳnh Thúc Kháng, Trần Quý Cáp đi khắp Quảng Nam và các tỉnh lân cận vận động. [Xem lại](#van-dong)
+
+3. Cuộc vận động Duy Tân kết thúc như thế nào?
+   - [ ] Nhà cầm quyền Pháp chấp nhận các yêu cầu nên cuộc vận động thành công
+   - [x] Năm 1908, nhà cầm quyền Pháp đàn áp khi nhân dân Trung Kỳ nổi lên chống sưu thuế; nhiều nhà duy tân bị bắt, đày đi Côn Đảo
+   - [ ] Các nhà duy tân tự giải tán từ năm 1906
+
+   Trước đó, nhà cầm quyền đã cấm dân chúng tụ tập nghe diễn thuyết và gây khó cho nhiều nhà duy tân. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Phong trào Duy Tân", Wikipedia tiếng Việt — chủ trương, người vận động, khẩu hiệu, bị ngăn trở, kết thúc năm 1908: https://vi.wikipedia.org/wiki/Phong_tr%C3%A0o_Duy_T%C3%A2n

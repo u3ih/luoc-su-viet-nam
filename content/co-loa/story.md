@@ -92,6 +92,29 @@ Ngày nay, những đoạn thành đất và hào nước của Cổ Loa vẫn c
 
 Năm 939, sau chiến thắng Bạch Đằng, Ngô Quyền lại chọn Cổ Loa làm kinh đô.
 
+## Ôn tập
+
+1. Thục Phán hợp nhất đất Văn Lang của người Lạc Việt, lập ra nước nào?
+   - [x] Âu Lạc
+   - [ ] Nam Việt
+   - [ ] Văn Lang
+
+   Thục Phán, thủ lĩnh người Âu Việt, lập nước Âu Lạc và xưng là An Dương Vương, đóng đô ở Phong Khê, nay là Cổ Loa. [Xem lại](#au-lac)
+
+2. Theo truyền thuyết, nỏ thần mất linh vì sao?
+   - [ ] Thần Kim Quy lấy lại chiếc vuốt
+   - [ ] Cao Lỗ làm hỏng lẫy nỏ
+   - [x] Trọng Thủy dò biết bí mật của nỏ thần rồi đánh tráo lẫy nỏ
+
+   Trọng Thủy ở rể trong thành, dò biết bí mật nỏ thần, đánh tráo lẫy nỏ rồi tìm cớ về nước; sau đó Triệu Đà cất quân đánh. [Xem lại](#my-chau)
+
+3. Ngoài mỗi vòng thành đất ở Cổ Loa có gì, vừa để phòng thủ vừa cho thuyền đi lại?
+   - [ ] Hàng rào cọc tre
+   - [x] Hào nước thông với sông Hoàng
+   - [ ] Rừng cây rậm
+
+   Cổ Loa có ba vòng thành đắp bằng đất, ngoài mỗi vòng có hào nước thông với sông Hoàng. [Xem lại](#ba-vong-thanh)
+
 ## Nguồn tham khảo
 
 - Đại Việt sử ký toàn thư, Ngoại kỷ, quyển I, Kỷ nhà Thục (Ngô Sĩ Liên và các sử thần, 1479).

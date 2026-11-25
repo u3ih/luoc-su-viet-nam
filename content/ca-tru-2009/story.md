@@ -46,6 +46,29 @@ Một chầu hát cần ba thành phần: đào nương vừa hát vừa gõ ph�
 
 Theo bài Wikipedia, thời Pháp thuộc ca trù phát triển ở các ca quán đô thị và dần biến tướng; sau năm 1954 bị cấm, đến thời Đổi mới mới được khôi phục, nay được xem là một bộ môn nghệ thuật bác học của âm nhạc cổ truyền. Ngày 1 tháng 10 năm 2009, UNESCO ghi danh ca trù vào Danh sách di sản văn hoá phi vật thể cần bảo vệ khẩn cấp; hồ sơ ban đầu gồm 16 tỉnh, thành phố ở nửa phía Bắc.
 
+## Ôn tập
+
+1. Một chầu ca trù cần những thành phần nào?
+   - [ ] Đào nương, kép đàn bầu và người thổi sáo
+   - [x] Đào nương gõ phách, kép đàn đáy và quan viên đánh trống chầu
+   - [ ] Quan viên hát, đào nương đánh trống và kép gõ mõ
+
+   Đào nương vừa hát vừa gõ phách, kép chơi đàn đáy phụ hoạ, quan viên đánh trống chầu chấm câu. [Xem lại](#chau-hat)
+
+2. Chữ "ca trù" được cho là có nghĩa gì?
+   - [ ] Hát trong cung đình
+   - [ ] Hát bên bàn trà
+   - [x] Hát thẻ: người nghe ném thẻ tre cho đào hát, sau đếm thẻ trả tiền
+
+   Người nghe thấy chỗ hay thì ném thẻ tre cho đào hát; dân gian còn gọi là hát ả đào, hát cô đầu. [Xem lại](#ten-goi)
+
+3. Ngày 1 tháng 10 năm 2009, UNESCO đã làm gì với ca trù?
+   - [x] Ghi danh vào Danh sách di sản văn hoá phi vật thể cần bảo vệ khẩn cấp
+   - [ ] Công nhận là di sản thế giới
+   - [ ] Công nhận là kiệt tác truyền khẩu của nhân loại
+
+   Hồ sơ ban đầu gồm 16 tỉnh, thành phố ở nửa phía Bắc. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Ca trù", Wikipedia tiếng Việt — định nghĩa, vùng thịnh hành, phát triển từ thế kỷ XV, nghĩa chữ "ca trù", các tên gọi khác, hát nói và các tác giả Nguyễn Công Trứ, Cao Bá Quát, ba thành phần của một chầu hát (đào nương – phách, kép – đàn đáy, quan viên – trống chầu), các giai đoạn thăng trầm, UNESCO ghi danh ngày 1/10/2009, 16 tỉnh thành trong hồ sơ: https://vi.wikipedia.org/wiki/Ca_tr%C3%B9

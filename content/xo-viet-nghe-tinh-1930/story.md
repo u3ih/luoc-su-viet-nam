@@ -46,6 +46,29 @@ Sau ngày 12 tháng 9, phong trào lan khắp Nghệ An, Hà Tĩnh: người bi�
 
 Lính lê dương và lính khố xanh trở lại chiếm các đồn cũ; từ tháng 1 năm 1931, chính quyền Pháp lập hồ sơ, cấp thẻ căn cước để kiểm soát dân cư. Làn sóng biểu tình mới nổi lên quanh ngày 1 tháng 5 năm 1931, nhưng bắt bớ, xử tử và nạn đói khiến phong trào lụi dần. Các Xô viết chỉ tồn tại được bốn, năm tháng. Dư luận ở Huế, Sài Gòn và cả ở Pháp phản đối cách trấn áp của lính lê dương, khiến số lính này phải tạm rút về trại từ tháng 3 năm 1931; sau những vụ nổ súng quanh ngày 1 tháng 5, Khâm sứ Le Fol bị cách chức.
 
+## Ôn tập
+
+1. Ngày 1 tháng 5 năm 1930, các cuộc đấu tranh mở đầu ở đâu?
+   - [x] Khu Vinh – Bến Thuỷ
+   - [ ] Phủ lị Hưng Nguyên
+   - [ ] Khu phố cổ Hà Nội
+
+   Ngày 1 tháng 5 năm 1930, các cuộc đấu tranh mở đầu ở khu Vinh – Bến Thuỷ. [Xem lại](#ben-thuy)
+
+2. Ngày 12 tháng 9 năm 1930, nông dân Hưng Nguyên kéo về phủ lị để đòi điều gì?
+   - [ ] Đòi mở chợ và bến đò mới
+   - [ ] Đòi thêm ruộng công cho các làng
+   - [x] Đòi bỏ sưu thuế, chống khủng bố
+
+   Hơn 8.200 nông dân Hưng Nguyên kéo về phủ lị, đòi bỏ sưu thuế, chống khủng bố. [Xem lại](#hung-nguyen)
+
+3. Ở nhiều thôn xã Nghệ An, Hà Tĩnh, các "Xô viết" là gì và đã làm gì?
+   - [ ] Đồn binh do chính quyền thuộc địa lập, để kiểm soát dân cư
+   - [ ] Đoàn biểu tình đi từ làng này sang làng khác
+   - [x] Uỷ ban tự quản, giảm tô, chia lại ruộng công, bỏ các thứ thuế
+
+   Ở nhiều thôn xã, các uỷ ban tự quản gọi là "Xô viết" được lập: giảm tô, chia lại ruộng công, bỏ các thứ thuế. [Xem lại](#xo-viet)
+
 ## Nguồn tham khảo
 
 - “Xô viết Nghệ Tĩnh”, Wikipedia tiếng Việt — mở đầu 1/5/1930 ở Vinh – Bến Thuỷ, 97 cuộc bãi công, biểu tình Hưng Nguyên 12/9/1930 (8.200 rồi 30.000 người), 217 người chết, các Xô viết tồn tại bốn, năm tháng, đánh giá của sử Việt Nam: https://vi.wikipedia.org/wiki/X%C3%B4_vi%E1%BA%BFt_Ngh%E1%BB%87_T%C4%A9nh

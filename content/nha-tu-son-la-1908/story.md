@@ -46,6 +46,29 @@ Trong số những người từng bị giam ở đây có Tô Hiệu, Lê Duẩ
 
 Nhà tù hai lần bị bom phá hỏng, chỉ còn những bức tường đổ nát. Sau năm 1975, đến năm 1980, Bảo tàng tỉnh Sơn La phục chế lại một số đoạn tường bao, hai tháp canh, nhà bếp, trại giam lớn, hầm ngầm và xà lim ngầm theo dấu vết nền móng cũ. Ngày nay, nhà tù Sơn La là di tích quốc gia đặc biệt, nằm ở phường Tô Hiệu, mỗi năm đón hàng trăm nghìn lượt khách.
 
+## Ôn tập
+
+1. Nhà tù Sơn La được chính quyền thuộc địa Pháp xây năm 1908 ở đâu?
+   - [ ] Bên bờ sông Hồng ở Hà Nội
+   - [x] Trên đỉnh đồi Khau Cả, bên suối Nậm La
+   - [ ] Ngoài đảo ở vịnh Bắc Bộ
+
+   Ban đầu nhà tù rộng khoảng 500 mét vuông, tường đá lẫn gạch, mái tôn không trần. [Xem lại](#khau-ca)
+
+2. Từ năm 1930 đến 1945, nhà tù Sơn La giam bao nhiêu đoàn tù chính trị?
+   - [ ] 4 đoàn tù
+   - [ ] 8 đoàn tù
+   - [x] 14 đoàn tù, tổng cộng 1.013 lượt người
+
+   Năm 1940, nhà tù được mở rộng thêm một trại giam lớn. [Xem lại](#doan-tu)
+
+3. "Cây đào Tô Hiệu" trong sân nhà tù gắn với ai?
+   - [x] Tô Hiệu, bí thư chi bộ nhà tù, mất ở đây
+   - [ ] Người chỉ huy nhà tù
+   - [ ] Người thiết kế nhà tù
+
+   Theo sử Việt Nam, những người tù còn tổ chức học tập ngay trong ngục. [Xem lại](#to-hieu)
+
 ## Nguồn tham khảo
 
 - “Nhà tù Sơn La”, Wikipedia tiếng Việt — đồi Khau Cả, suối Nậm La, xây năm 1908 rộng 500 m², kết cấu phòng giam, mở rộng năm 1940, tổng diện tích 2.170 m² qua ba lần xây, hai lần bị bom, phục chế từ năm 1980, cây đào Tô Hiệu: https://vi.wikipedia.org/wiki/Nh%C3%A0_t%C3%B9_S%C6%A1n_La

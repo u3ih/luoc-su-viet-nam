@@ -46,6 +46,29 @@ Kazimierz Kwiatkowski sinh năm 1944 ở Pachole, Ba Lan, trong một gia đình
 
 Kỳ họp thứ 23 của Uỷ ban Di sản thế giới diễn ra ở Marrakech từ 29 tháng 11 đến 4 tháng 12 năm 1999. Ngày 4 tháng 12, Hội An được ghi danh là biểu hiện nổi bật của sự giao thoa văn hoá ở một thương cảng quốc tế, một cảng thị châu Á truyền thống được bảo tồn hoàn hảo; Mỹ Sơn được ghi danh theo tiêu chí thứ hai và thứ ba. Kazik đã mất hai năm trước đó. Năm 2007, Hội An dựng tượng ông; năm 2009 thêm một tượng ở Mỹ Sơn.
 
+## Ôn tập
+
+1. Ngày 4 tháng 12 năm 1999, ở Marrakech, UNESCO cùng lúc ghi danh những nơi nào của Việt Nam là di sản thế giới?
+   - [x] Đô thị cổ Hội An và khu đền tháp Mỹ Sơn
+   - [ ] Đô thị cổ Hội An và kinh thành Huế
+   - [ ] Khu đền tháp Mỹ Sơn và vịnh Hạ Long
+
+   Tại kỳ họp thứ 23 của Uỷ ban Di sản thế giới, ngày 4 tháng 12 năm 1999, cả Hội An và Mỹ Sơn được ghi danh. [Xem lại](#ghi-danh)
+
+2. Kazik theo nguyên tắc trùng tu nào ở Mỹ Sơn?
+   - [ ] Xây lại các ngọn tháp mới giống hệt như xưa
+   - [ ] Thay gạch cũ bằng vật liệu hiện đại cho bền
+   - [x] Trùng tu "khảo cổ học": giữ di tích gốc tối đa, chỉ can thiệp để duy trì hiện trạng
+
+   Kazik kiên trì nguyên tắc trùng tu "khảo cổ học"; đến năm 1989 ông đã cứu được khoảng 20 đền tháp ở Mỹ Sơn. [Xem lại](#my-son)
+
+3. Ở Hội An, Kazik đã làm gì cho phố cổ?
+   - [ ] Thiết kế các ngôi nhà hiện đại thay cho nhà cũ
+   - [x] Thuyết phục chính quyền đừng thay các ngôi nhà cũ bằng nhà hiện đại
+   - [ ] Dời các ngôi nhà gỗ ra khỏi khu phố cổ
+
+   Kazik là một trong những người đầu tiên nhận ra giá trị của nhà gỗ và quy hoạch phố xá còn nguyên vẹn của Hội An. [Xem lại](#hoi-an)
+
 ## Nguồn tham khảo
 
 - “Kazimierz Kwiatkowski”, Wikipedia tiếng Việt — tiểu sử, sứ mệnh trùng tu Ba Lan – Việt Nam năm 1981, nguyên tắc trùng tu khảo cổ học, hồ sơ đo vẽ 1981 – 1988, khoảng 20 đền tháp đến năm 1989, tám người trong đoàn thiệt mạng, quỹ năm 1991, vai trò ở Hội An, tượng năm 2007 và 2009: https://vi.wikipedia.org/wiki/Kazimierz_Kwiatkowski

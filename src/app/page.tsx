@@ -1,13 +1,15 @@
-import { githubLinks } from "@/core/content/links";
 import { groupChaptersByEra } from "@/core/content/eras";
+import { loadJourneys } from "@/core/content/journeys";
 import { listChapters } from "@/core/content/load";
 import { loadRoadmap } from "@/core/content/roadmap";
 import { ldJson, siteJsonLd } from "@/core/content/seo";
 import { Button, DongSonBand, Icon, Kicker, Link } from "@/core/ui";
 import { ContinueButton, ReadSummary } from "@/core/ui/ReadProgress";
 import SmoothScroll from "@/core/ui/SmoothScroll";
+import { href } from "@/core/ui/i18n";
 import { site } from "@/site.config";
 import ChapterBrowser from "./ChapterBrowser";
+import Journeys from "./Journeys";
 import HomeDrum from "./HomeDrum";
 import css from "./page.module.scss";
 
@@ -23,7 +25,7 @@ export default function Home() {
     title: g.title,
     intro: g.intro,
     events: g.events,
-    cards: g.chapters.map((c) => ({ slug: c.slug, title: c.title, year: c.year, era: c.era, teaser: c.teaser, seal: c.seal ?? [c.title.split(" ")[0], c.year], textUrl: githubLinks(c.dir).textUrl })),
+    cards: g.chapters.map((c) => ({ slug: c.slug, title: c.title, year: c.year, era: c.era, teaser: c.teaser, seal: c.seal ?? [c.title.split(" ")[0], c.year], textUrl: href.text(c.slug) })),
   }));
   // gợi ý trải đều qua các thời kỳ (mỗi thời kỳ lấy sự kiện chưa có chương có lời mô tả dài nhất), thay vì dồn vào mấy sự kiện đầu tiên
   const pool = roadmap
@@ -52,11 +54,23 @@ export default function Home() {
             Bản đồ & lộ trình lịch sử
           </Button>
         </div>
+        <p className={css.langs}>
+          <Link href="/en" hrefLang="en" lang="en">
+            English: a few chapters
+          </Link>
+        </p>
         <Link className={css.down} href="#cac-chuong">
           <span>Các chương</span>
           <Icon name="down" size={16} />
         </Link>
       </header>
+
+      <section className="home__section" id="hanh-trinh">
+        <h2 className="home__h2">Hành trình gợi ý</h2>
+        <DongSonBand className="band" />
+        <p className={css.note}>Chưa biết bắt đầu từ đâu? Chọn một hành trình: các chương nối nhau theo chủ đề, xem hết chương này thì chuyển sang chương kế.</p>
+        <Journeys journeys={loadJourneys()} />
+      </section>
 
       <section className="home__section" id="cac-chuong">
         <h2 className="home__h2">Các chương</h2>
@@ -113,13 +127,17 @@ export default function Home() {
             <p>Làm model bằng Blender, dựng cảnh bằng Three.js theo bộ khung có sẵn.</p>
           </div>
         </div>
-        <Button variant="primary" href={`${site.repo}/blob/${site.branch}/CONTRIBUTING.md`}>
-          Hướng dẫn đóng góp
-        </Button>
+        <div className="home__cta">
+          <Button variant="primary" href="/dong-gop">
+            Việc đang cần giúp
+          </Button>
+          <Button href={`${site.repo}/blob/${site.branch}/CONTRIBUTING.md`}>Hướng dẫn đóng góp</Button>
+          <Button href="/phuong-phap">Phương pháp & nguồn</Button>
+        </div>
       </section>
 
       <footer className="home__footer">
-        <span>{site.name}</span> · Dự án mở, phi lợi nhuận ·{" "}
+        <span>{site.name}</span> · Dự án mở, phi lợi nhuận · <Link href="/phuong-phap">Phương pháp & nguồn</Link> ·{" "}
         <Link href={site.repo}>
           GitHub
         </Link>

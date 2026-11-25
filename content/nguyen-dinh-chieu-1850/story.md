@@ -47,6 +47,29 @@ Năm 1859, quân Pháp đánh chiếm Gia Định; gia đình ông chuyển về
 
 Theo bài tham khảo, những đề nghị về đất đai và tiền dưỡng lão của chính quyền Pháp đều bị ông từ chối. Nguyễn Đình Chiểu mất ngày 3 tháng 7 năm 1888. Lục Vân Tiên được dịch ra nhiều thứ tiếng, chuyển thể qua tranh, sân khấu, điện ảnh; hình thức nói thơ Vân Tiên năm 2025 được đưa vào Danh mục di sản văn hóa phi vật thể quốc gia.
 
+## Ôn tập
+
+1. Vì sao năm 1848 Nguyễn Đình Chiểu bỏ thi ở Huế để về Nam?
+   - [ ] Vì ông thi trượt khoa trước
+   - [ ] Vì quân Pháp đánh chiếm Gia Định
+   - [x] Vì ông nhận tin mẹ mất và về Nam chịu tang
+
+   Ông sinh năm 1822 trong một gia đình nhà nho ở Gia Định, đỗ Tú tài ở trường thi Gia Định năm 1843. [Xem lại](#ra-kinh)
+
+2. Sau khi bị mù trên đường về Nam, Nguyễn Đình Chiểu làm gì?
+   - [ ] Ra làm quan ở triều đình Huế
+   - [x] Dạy học, hành nghề thuốc và sáng tác, người ta gọi là cụ đồ Chiểu
+   - [ ] Bỏ nghề, sống ẩn dật không viết gì nữa
+
+   Các tác phẩm của ông gồm truyện thơ Lục Vân Tiên, Dương Từ – Hà Mậu, Ngư Tiều vấn đáp nho y diễn ca, cùng thơ Đường luật và văn tế. [Xem lại](#mu-loa)
+
+3. Ở Ba Tri, Nguyễn Đình Chiểu viết thơ văn về điều gì?
+   - [ ] Về cuộc sống yên bình của các cung đình ở Huế
+   - [ ] Về việc buôn bán đường sông ở Nam Kỳ
+   - [x] Về cuộc kháng chiến của người dân Nam Kỳ, trong đó có nghĩa sĩ Cần Giuộc, Trương Định, Phan Tòng
+
+   Năm 1859 quân Pháp đánh chiếm Gia Định, gia đình ông chuyển về Cần Giuộc, rồi đến Ba Tri sau Hòa ước năm 1862. [Xem lại](#ba-tri)
+
 ## Nguồn tham khảo
 
 - "Nguyễn Đình Chiểu", Wikipedia tiếng Việt — tiểu sử, Tú tài 1843, mù lòa, tác phẩm, Cần Giuộc, Ba Tri, từ chối đề nghị, năm mất, nói thơ Vân Tiên: https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_%C4%90%C3%ACnh_Chi%E1%BB%83u

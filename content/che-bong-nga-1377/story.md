@@ -58,6 +58,30 @@ Tướng La Ngai hoả táng thi hài, rút quân về nước, sau đó tự x�
 >
 > Sau cuộc tiến công năm 1371, Chiêm Thành có gửi thư sang nhà Minh tố cáo Đại Việt và xin vũ khí. Sử Việt cho đó là vu cáo; Minh thực lục ghi nhà Minh bác yêu cầu xin vũ khí. Về đánh giá, Maspero xem giai đoạn 1360–1390 là thời cực thịnh của Champa, còn Trần Trọng Kim và Ngô Thì Sĩ ghi nhận tài dùng binh của Chế Bồng Nga.
 
+## Ôn tập
+
+1. Năm 1377, vua Trần Duệ Tông đem quân đánh Chiêm Thành thì gặp kết cục nào?
+   - [ ] Chiếm được thành Đồ Bàn và bắt Chế Bồng Nga
+   - [x] Sa vào phục binh của Chế Bồng Nga ở Đồ Bàn và tử trận
+   - [ ] Rút quân về sau khi hai bên giảng hòa
+   - [ ] Bị chặn lại ở sông Hải Triều
+
+   Chế Bồng Nga nhử quân Trần đến thành Đồ Bàn, phục binh đánh tan quân Trần và giết vua Trần Duệ Tông. [Xem lại](#do-ban-1377)
+
+2. Năm 1371, quân Chiêm tiến vào đâu, cướp phá và bắt người?
+   - [ ] Dĩ Lý
+   - [x] Thăng Long
+   - [ ] Đồ Bàn
+
+   Ngày 27 tháng 3 âm lịch năm 1371, quân Chiêm vào Thăng Long khi vua Trần Nghệ Tông đã rời kinh thành. [Xem lại](#thang-long-1371)
+
+3. Chế Bồng Nga tử trận năm 1390 như thế nào?
+   - [ ] Bị bệnh mất ngay trong thành Đồ Bàn
+   - [ ] Bị quân Trần bắt sống rồi đem về kinh đô
+   - [x] Thuyền của vua, sơn màu xanh lục, bị Trần Khát Chân dồn súng bắn ở sông Hải Triều
+
+   Bỉ Lậu Kê ra hàng, báo cho Trần Khát Chân biết thuyền của vua sơn xanh lục; Trần Khát Chân dồn súng bắn và Chế Bồng Nga tử trận. [Xem lại](#hai-trieu-1390)
+
 ## Nguồn tham khảo
 
 - "Chế Bồng Nga", Wikipedia tiếng Việt — các cuộc tiến công 1361, 1371, 1377, 1378, 1380, 1383, 1389; cái chết ở sông Hải Triều; hậu quả; các nhận định: https://vi.wikipedia.org/wiki/Ch%E1%BA%BF_B%E1%BB%93ng_Nga

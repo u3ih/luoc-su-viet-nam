@@ -47,6 +47,29 @@ Phần lớn các điều luật lấy từ Đại Thanh luật lệ, có sửa 
 
 Hoàng Việt luật lệ được dùng suốt thời nhà Nguyễn, rồi tiếp tục được áp dụng ở Trung Kỳ trong thời Pháp thuộc. Nhà nghiên cứu Nguyễn Q. Thắng coi đây là "một chuẩn thước cho công tác luật pháp của triều Nguyễn".
 
+## Ôn tập
+
+1. Ai được lệnh chủ trì soạn Hoàng Việt luật lệ?
+   - [ ] Vũ Trinh
+   - [x] Nguyễn Văn Thành
+   - [ ] Trần Hựu
+
+   Vua Gia Long lệnh cho Tổng trấn Bắc thành Nguyễn Văn Thành cùng Vũ Trinh, Trần Hựu soạn bộ luật. [Xem lại](#soan-luat)
+
+2. Bộ luật ban hành năm 1813 gồm bao nhiêu quyển, bao nhiêu điều?
+   - [ ] 12 quyển, 298 điều
+   - [x] 22 quyển, 398 điều
+   - [ ] 22 quyển, 166 điều
+
+   Quyển đầu là mục lục, các bảng và thể lệ; riêng hình luật chiếm 166 điều. [Xem lại](#hai-muoi-hai-quyen)
+
+3. So với luật nhà Thanh, bộ luật bỏ những cực hình nào?
+   - [ ] Phạt tiền và đày đi xa
+   - [x] Tru di tam tộc và lăng trì
+   - [ ] Mọi hình phạt tù
+
+   Bộ luật còn nương nhẹ cho người già, trẻ em, người tàn tật, phụ nữ có thai và xử nặng quan lại nhận hối lộ. [Xem lại](#noi-dung)
+
 ## Nguồn tham khảo
 
 - "Hoàng Việt luật lệ", Wikipedia tiếng Việt — soạn thảo, ban hành 1813, cấu trúc 22 quyển 398 điều, nội dung, quan hệ với luật nhà Thanh, đánh giá: https://vi.wikipedia.org/wiki/Ho%C3%A0ng_Vi%E1%BB%87t_lu%E1%BA%ADt_l%E1%BB%87

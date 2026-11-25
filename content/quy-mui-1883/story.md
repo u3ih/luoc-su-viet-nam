@@ -46,6 +46,30 @@ Ngày 25 tháng 8 năm 1883, chánh sứ Trần Đình Túc và phó sứ Nguy�
 
 Theo bài Wikipedia tiếng Việt, với triều đình Huế, việc ký là cách hoãn binh: phụ chính Tôn Thất Thuyết bí mật xây căn cứ Tân Sở ở miền núi Quảng Trị, chuyển súng đạn, lương thực lên đó. Ở Pháp, giới ngoại giao cho hoà ước quá khắc nghiệt, nên không phê chuẩn; ngày 6 tháng 6 năm 1884, hoà ước Giáp Thân (Patenôtre) được ký thay thế.
 
+## Ôn tập
+
+1. Ngày 20 tháng 8 năm 1883, quân Pháp chiếm các đồn ở đâu?
+   - [ ] Đèo Ngang
+   - [x] Cửa Thuận An
+   - [ ] Tân Sở
+
+   Thuận An là cửa sông dẫn thẳng lên kinh đô Huế. [Xem lại](#thuan-an)
+
+2. Hoà ước Quý Mùi ký ngày 25 tháng 8 năm 1883 gồm bao nhiêu điều và có nội dung chính nào?
+   - [ ] 17 điều, Pháp rút quân khỏi Bắc Kỳ
+   - [ ] 27 điều, nhà Thanh được quyền bảo hộ Việt Nam
+   - [x] 27 điều, triều Huế công nhận sự bảo hộ của Pháp; ngoại giao phải được Pháp ưng thuận
+   - [ ] 72 điều, Pháp trả lại tỉnh Bình Thuận
+
+   Chánh sứ Trần Đình Túc và phó sứ Nguyễn Trọng Hợp ký với Jules Harmand. [Xem lại](#ky-ket)
+
+3. Hoà ước Quý Mùi sau đó được thay bằng hoà ước nào?
+   - [ ] Hoà ước Nhâm Tuất
+   - [x] Hoà ước Giáp Thân (Patenôtre) ký ngày 6 tháng 6 năm 1884
+   - [ ] Hoà ước Giáp Tuất
+
+   Ở Pháp, giới ngoại giao cho hoà ước quá khắc nghiệt nên không phê chuẩn. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Hòa ước Quý Mùi, 1883", Wikipedia tiếng Việt — ngày ký 25/8/1883 ở Huế, các bên ký, 27 điều, bối cảnh (Tự Đức mất 19/7/1883, Dục Đức, Hiệp Hoà, Thuận An ngày 20/8), tối hậu thư, nội dung chính theo Trần Trọng Kim, phản ứng của triều đình, Tân Sở: https://vi.wikipedia.org/wiki/H%C3%B2a_%C6%B0%E1%BB%9Bc_Qu%C3%BD_M%C3%B9i,_1883

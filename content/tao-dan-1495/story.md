@@ -47,6 +47,29 @@ Thơ Tao Đàn chủ yếu vịnh thiên nhiên theo đề tài định sẵn: v
 
 Hội duy trì đến năm 1497. Các tập thơ để lại gồm Hồng Đức quốc âm thi tập (chữ Nôm), Quỳnh uyển cửu ca, Minh lương cẩm tú, Văn minh cổ xúy, Chinh Tây kỷ hành, Cổ tâm bách vịnh, Xuân văn thi tập…; tất cả được chép trong bộ Thiên Nam dư hạ tập 100 quyển.
 
+## Ôn tập
+
+1. Ai lập ra hội xướng họa thơ ca Tao Đàn năm 1495?
+   - [ ] Thân Nhân Trung
+   - [x] Vua Lê Thánh Tông
+   - [ ] Đỗ Nhuận
+
+   Hội có vua và 28 vị tiến sĩ; Thân Nhân Trung làm Tao Đàn Đô nguyên súy, Đỗ Nhuận làm Phó nguyên súy. [Xem lại](#xuong-hoa)
+
+2. Thơ Tao Đàn chủ yếu viết về đề tài nào?
+   - [ ] Chiến trận và đánh giặc
+   - [x] Vịnh thiên nhiên theo đề tài định sẵn như bốn mùa, mười hai tháng
+   - [ ] Chuyện làm quan ở triều đình
+
+   Thơ cũng đề cập tình yêu lứa đôi và quyền bình đẳng của người phụ nữ, theo bài tham khảo. [Xem lại](#noi-dung)
+
+3. Tập thơ nào của hội được viết bằng chữ Nôm?
+   - [ ] Quỳnh uyển cửu ca
+   - [ ] Minh lương cẩm tú
+   - [x] Hồng Đức quốc âm thi tập
+
+   Hội duy trì đến năm 1497; các tập thơ được chép trong bộ Thiên Nam dư hạ tập 100 quyển. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Tao Đàn nhị thập bát tú" (Hội Tao Đàn), Wikipedia tiếng Việt — năm lập, 9 bài thơ, số bài họa, thành viên, nội dung, các tập thơ: https://vi.wikipedia.org/wiki/H%E1%BB%99i_Tao_%C4%90%C3%A0n

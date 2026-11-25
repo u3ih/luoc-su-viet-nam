@@ -51,6 +51,29 @@ Phủ biên tạp lục gồm 8 quyển chia hai phần, nay còn sáu quyển; 
 
 Ông mất ngày 11 tháng 6 năm 1784, lúc 58 tuổi. Ngày 31 tháng 10 năm 2025, UNESCO vinh danh Lê Quý Đôn là danh nhân văn hóa thế giới.
 
+## Ôn tập
+
+1. Năm 1776, Lê Quý Đôn được cử giữ chức gì ở Thuận Hóa?
+   - [ ] Bồi tụng
+   - [x] Hiệp trấn Tham tán quân cơ
+   - [ ] Hội nguyên
+
+   Năm 1776, chúa Trịnh Sâm đặt ty trấn phủ ở Thuận Hóa và cử ông làm Hiệp trấn Tham tán quân cơ. [Xem lại](#thuan-hoa)
+
+2. Phủ biên tạp lục chép những gì?
+   - [ ] Chỉ chép các trận đánh lớn của quân Trịnh
+   - [ ] Phép làm thơ chữ Hán
+   - [x] Sự tích khai mở hai xứ Thuận Hóa, Quảng Nam, hình thế núi sông, thuế khóa, sản vật
+
+   Sách chép cả tên phủ huyện, tổng xã, hình thế núi sông, thuế khóa, sản vật của hai xứ. [Xem lại](#thuan-hoa)
+
+3. Năm 1752, Lê Quý Đôn đỗ danh hiệu nào ở kỳ thi Đình?
+   - [x] Bảng nhãn
+   - [ ] Trạng nguyên
+   - [ ] Thám hoa
+
+   Ông đỗ Hội nguyên rồi đỗ Bảng nhãn; vì khoa ấy không lấy Trạng nguyên nên kể như cả ba kỳ ông đều đỗ đầu. [Xem lại](#do-dau)
+
 ## Nguồn tham khảo
 
 - "Lê Quý Đôn", Wikipedia tiếng Việt — tiểu sử, ba lần đỗ đầu, năm 1773, 1776, số tác phẩm, năm mất, UNESCO 2025: https://vi.wikipedia.org/wiki/L%C3%AA_Qu%C3%BD_%C4%90%C3%B4n

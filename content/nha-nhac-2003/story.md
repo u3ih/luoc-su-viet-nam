@@ -47,6 +47,29 @@ Tháng 8 năm 1885 kinh đô Huế thất thủ; các vua Nguyễn sau Tự Đ�
 
 Năm 2003, Nhã nhạc cung đình Huế được UNESCO công nhận là kiệt tác truyền khẩu và phi vật thể của nhân loại. Theo đánh giá của UNESCO, trong các thể loại nhạc cổ truyền ở Việt Nam, chỉ có Nhã nhạc đạt tới tầm vóc quốc gia.
 
+## Ôn tập
+
+1. Nhã nhạc là loại nhạc gì, biểu diễn trong những dịp nào?
+   - [ ] Nhạc dân gian, biểu diễn trong hội làng ngày mùa
+   - [x] Nhạc cung đình, biểu diễn trong các dịp lễ như vua đăng quang, băng hà và các lễ tôn nghiêm
+   - [ ] Nhạc nhà chùa, chỉ biểu diễn trong các lễ cầu siêu
+
+   Đó là sự kế thừa lâu dài, từ khi những dàn nhạc có nhiều nhạc khí cung đình xuất hiện trên các bệ đá kê cột chùa thời Lý, thế kỷ XI và XII. [Xem lại](#nguon-coi)
+
+2. Nhã nhạc và hát bội cung đình đạt tới đỉnh cao vào đời vua nào?
+   - [ ] Gia Long
+   - [ ] Minh Mạng
+   - [x] Tự Đức
+
+   Đời Tự Đức, nhà hát Minh Khiêm Đường được dựng năm 1864. Trước đó, thời Gia Long có Việt tương đội 200 nghệ nhân, thời Minh Mạng xây nhà hát Duyệt Thị Đường (1824). [Xem lại](#thoi-thinh)
+
+3. Năm 2003, UNESCO công nhận Nhã nhạc cung đình Huế là gì?
+   - [x] Kiệt tác truyền khẩu và phi vật thể của nhân loại, di sản phi vật thể đầu tiên của Việt Nam
+   - [ ] Di sản thế giới thuộc loại hình thiên nhiên
+   - [ ] Di sản văn hóa vật thể của nhân loại
+
+   Theo đánh giá của UNESCO, trong các thể loại nhạc cổ truyền ở Việt Nam, chỉ có Nhã nhạc đạt tới tầm vóc quốc gia. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Nhã nhạc cung đình Huế", Wikipedia tiếng Việt — định nghĩa, nguồn gốc từ thời Lý, thời các chúa Nguyễn, thời Gia Long, Minh Mạng, Tự Đức, sa sút sau 1885, UNESCO 2003: https://vi.wikipedia.org/wiki/Nh%C3%A3_nh%E1%BA%A1c_cung_%C4%91%C3%ACnh_Hu%E1%BA%BF

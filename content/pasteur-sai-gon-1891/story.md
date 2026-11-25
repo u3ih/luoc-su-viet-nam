@@ -46,6 +46,29 @@ Năm 1891, Viện Pasteur Sài Gòn ra đời — chi nhánh đầu tiên ngoài
 
 Sau năm 1975, viện đổi tên là Viện Dịch tễ học; năm 1991 lấy lại tên Viện Pasteur, nay là Viện Pasteur Thành phố Hồ Chí Minh thuộc Bộ Y tế. Viện nghiên cứu, giám sát và phòng chống các bệnh truyền nhiễm như sốt xuất huyết, tiêu chảy, HIV, bại liệt cho 20 tỉnh, thành từ Lâm Đồng đến Cà Mau.
 
+## Ôn tập
+
+1. Ai lập Viện Pasteur Sài Gòn năm 1891?
+   - [ ] Louis Pasteur
+   - [ ] Émile Roux
+   - [x] Albert Calmette
+
+   Calmette là bác sĩ hải quân, học trò của Louis Pasteur, được Pasteur giao việc lập và điều hành chi nhánh ở Sài Gòn. [Xem lại](#calmette)
+
+2. Viện Pasteur Sài Gòn có điểm gì đặc biệt so với các viện Pasteur khác?
+   - [ ] Là viện Pasteur đầu tiên trên thế giới
+   - [x] Là chi nhánh đầu tiên ngoài nước Pháp của Viện Pasteur Paris
+   - [ ] Là viện duy nhất chuyên nghiên cứu bệnh lao
+
+   Ban đầu viện đặt ở bệnh viện Grall, về sau xây cơ sở mới ở vị trí ngày nay. [Xem lại](#thanh-lap)
+
+3. Calmette làm những việc gì ở Sài Gòn?
+   - [ ] Chỉ chữa bệnh cho binh lính Pháp
+   - [ ] Chỉ nghiên cứu bệnh lao
+   - [x] Sản xuất vắc-xin đậu mùa và bệnh dại, nghiên cứu bệnh tả và các chất độc như nọc rắn
+
+   Năm 1894 ông về Pháp và làm ra huyết thanh kháng nọc rắn đầu tiên, gọi là huyết thanh Calmette. [Xem lại](#vac-xin)
+
 ## Nguồn tham khảo
 
 - “Viện Pasteur Thành phố Hồ Chí Minh”, Wikipedia tiếng Việt — thành lập năm 1891, chi nhánh đầu tiên ngoài nước Pháp, Albert Calmette, cơ sở ban đầu ở bệnh viện Grall, đổi tên Viện Dịch tễ học và năm 1991, chức năng cho 20 tỉnh từ Lâm Đồng đến Cà Mau: https://vi.wikipedia.org/wiki/Vi%E1%BB%87n_Pasteur_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh

@@ -47,6 +47,29 @@ Hang hình thành khoảng 2 – 5 triệu năm trước, khi nước sông xói
 
 Hang có hai "giếng trời" — nơi trần sụp xuống, đưa nắng chiếu vào, cho cây cối mọc thành rừng nhiệt đới ngay trong lòng hang; một nơi được gọi là "vườn Adam". Tháng 1 năm 2010, các nhà thám hiểm trở lại Sơn Đoòng để tìm hiểu thêm hệ thống hang.
 
+## Ôn tập
+
+1. Ai tình cờ tìm ra cửa hang Sơn Đoòng năm 1991?
+   - [ ] Howard Limbert
+   - [ ] Một đoàn thám hiểm của Hiệp hội Hang động Hoàng gia Anh
+   - [x] Ông Hồ Khanh, người dân địa phương, khi vào trú mưa
+
+   Cửa hang nằm sâu trong rừng già, địa hình hiểm trở. [Xem lại](#ho-khanh)
+
+2. Năm 2009, phát hiện về hang Sơn Đoòng được công bố như thế nào?
+   - [ ] Hang được xác định là hang dài nhất thế giới nhờ vệ tinh
+   - [x] Phái đoàn do Howard Limbert dẫn đầu công bố, cho rằng quy mô hang lớn nhất thế giới
+   - [ ] Ông Hồ Khanh công bố ngay sau khi tìm ra cửa hang
+
+   Ông Hồ Khanh phải đến năm 2009 mới báo cho đoàn thám hiểm. [Xem lại](#tham-hiem)
+
+3. Nhờ đâu trong lòng hang có rừng nhiệt đới?
+   - [ ] Dòng sông ngầm dài 2,5 km tưới cho cây
+   - [ ] Cây được người dân địa phương trồng
+   - [x] Hai "giếng trời", nơi trần sụp xuống đưa nắng chiếu vào
+
+   Hang còn có tên một nơi gọi là "vườn Adam". [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Hang Sơn Đoòng", Wikipedia tiếng Việt — vị trí, phát hiện năm 1991, đoàn thám hiểm 2009, tên gọi, địa chất, kích thước, sông ngầm, giếng trời: https://vi.wikipedia.org/wiki/Hang_S%C6%A1n_%C4%90o%C3%B2ng

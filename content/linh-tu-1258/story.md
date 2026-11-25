@@ -46,6 +46,29 @@ Bà trải qua những năm triều Lý rối ren, nhiều lần bị giáng, b�
 
 Tháng giêng năm 1259, Thiên Cực công chúa qua đời, thuỵ hiệu Linh Từ quốc mẫu, an táng ở đền Ngừ (Hưng Hà) gần lăng Trần Thủ Độ. Sử thần Ngô Sĩ Liên ghi nhận công lao bà giúp nhà Trần trong việc nội trị, cho rằng phần báo đáp nhà Lý thì không bằng; các sách đời sau như Việt sử tiêu án, Khâm định Việt sử thông giám cương mục chê trách nặng hơn. Dân gian vẫn lập đền thờ bà ở quê nhà Hưng Hà và ở khu đền thờ các vua Trần.
 
+## Ôn tập
+
+1. Năm 1258, khi vua và quân nhà Trần đánh quân Mông Cổ, Thiên Cực công chúa làm gì?
+   - [ ] Trực tiếp chỉ huy quân ra mặt trận
+   - [ ] Sang trại quân Mông Cổ để giảng hoà
+   - [x] Đưa hoàng tử, hoàng tôn cùng gia quyến quý tộc lánh về Hoàng Giang để bảo vệ
+
+   Ở Hoàng Giang, bà còn cho khám xét thuyền các nhà, thấy chứa giấu quân khí thì thu lấy để dùng vào việc quân. [Xem lại](#hoang-giang)
+
+2. Bà là em gái của những ai?
+   - [x] Trần Thừa và Trần Tự Khánh
+   - [ ] Trần Thủ Độ và Trần Thái Tông
+   - [ ] Lý Huệ Tông và Trần Lý
+
+   Bà là con gái Trần Lý; tên thật không rõ, Toàn thư chỉ chép là Trần thị. [Xem lại](#hai-ap)
+
+3. Lúc ngôi vua chuyển sang họ Trần, Thái Tông gọi bà là gì?
+   - [ ] Hoàng thái hậu
+   - [x] Quốc mẫu, cho dùng nghi trượng như hoàng hậu
+   - [ ] Lý Chiêu Hoàng
+
+   Bà khi ấy bị giáng làm Thiên Cực công chúa rồi lấy Thái sư Trần Thủ Độ. [Xem lại](#ly-tran)
+
 ## Nguồn tham khảo
 
 - "Linh Từ Quốc mẫu", Wikipedia tiếng Việt — thân thế, tên gọi, năm 1209 gặp Lý Huệ Tông, giáng làm Thiên Cực công chúa, danh xưng Quốc mẫu, việc bảo vệ gia quyến ở Hoàng Giang và thu quân khí năm 1258, mất năm 1259, các nhận định, đền thờ: https://vi.wikipedia.org/wiki/Linh_T%E1%BB%AB_Qu%E1%BB%91c_m%E1%BA%ABu

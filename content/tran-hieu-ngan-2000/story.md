@@ -46,6 +46,29 @@ Chiều ngày 28 tháng 9 năm 2000, tại nhà thi đấu ở Sydney, Úc, Tr�
 
 Sau Sydney, Trần Hiếu Ngân giã từ sàn đấu, làm việc ở Trung tâm đào tạo võ thuật Thành phố Hồ Chí Minh và huấn luyện đội tuyển trẻ của thành phố. Năm 2000, cô được tặng Huân chương Lao động hạng Nhì. Mười sáu năm sau, ở Rio de Janeiro, xạ thủ Hoàng Xuân Vinh mang về tấm huy chương vàng Thế vận hội đầu tiên.
 
+## Ôn tập
+
+1. Trần Hiếu Ngân thi đấu môn thể thao nào?
+   - [ ] Judo
+   - [x] Taekwondo
+   - [ ] Bắn súng
+
+   Cô bắt đầu học taekwondo năm 1987, khi thị xã Tuy Hoà mở lớp taekwondo đầu tiên. [Xem lại](#tuy-hoa)
+
+2. Ngày 28 tháng 9 năm 2000 ở Sydney, Trần Hiếu Ngân giành được thành tích gì?
+   - [ ] Huy chương vàng Thế vận hội
+   - [x] Huy chương bạc, tấm huy chương Thế vận hội đầu tiên của Việt Nam
+   - [ ] Huy chương đồng ASIAD
+
+   Cô vào đến trận chung kết nội dung taekwondo nữ; đó cũng là tấm huy chương duy nhất của đoàn Việt Nam ở Sydney 2000. [Xem lại](#sydney)
+
+3. Tấm huy chương vàng Thế vận hội đầu tiên của Việt Nam do ai mang về, ở đâu?
+   - [ ] Trần Hiếu Ngân, ở Sydney
+   - [x] Hoàng Xuân Vinh, ở Rio de Janeiro
+   - [ ] Trương Ngọc Để, ở Rio de Janeiro
+
+   Mười sáu năm sau Sydney, xạ thủ Hoàng Xuân Vinh giành tấm huy chương vàng ấy. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - “Trần Hiếu Ngân”, Wikipedia tiếng Việt — ngày sinh, gia đình, lớp taekwondo năm 1987, các thành tích 1990 – 1999, huấn luyện viên Trương Ngọc Để, huy chương bạc ngày 28/9/2000 ở Sydney (huy chương duy nhất của đoàn), công việc sau khi giải nghệ, Huân chương Lao động hạng Nhì: https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Hi%E1%BA%BFu_Ng%C3%A2n

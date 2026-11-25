@@ -87,6 +87,29 @@ Hai Bà Trưng được thờ ở nhiều nơi, nổi tiếng nhất là đền 
 
 Khắp cả nước, nhiều con đường, trường học mang tên Hai Bà.
 
+## Ôn tập
+
+1. Trưng Trắc và Trưng Nhị là con gái của ai?
+   - [ ] Lạc tướng huyện Chu Diên
+   - [ ] Thái thú Tô Định
+   - [x] Lạc tướng huyện Mê Linh
+
+   Trưng Trắc lấy chồng là Thi Sách, con Lạc tướng huyện Chu Diên. [Xem lại](#me-linh)
+
+2. Sau khi khởi nghĩa giành thắng lợi, Trưng Trắc làm gì?
+   - [x] Tự lập làm vua, đóng đô ở Mê Linh; sử cũ gọi bà là Trưng Vương
+   - [ ] Đóng đô ở Luy Lâu và xưng thái thú
+   - [ ] Dâng đất cho nhà Hán để được yên ổn
+
+   Các quận Cửu Chân, Nhật Nam, Hợp Phố cùng hưởng ứng; Hai Bà lấy được sáu mươi lăm thành ở Lĩnh Nam. [Xem lại](#trung-vuong)
+
+3. Nhà Hán sai tướng nào đem quân sang đàn áp cuộc khởi nghĩa?
+   - [ ] Tô Định
+   - [x] Mã Viện
+   - [ ] Lê Văn Hưu
+
+   Thế quân Hán mạnh, Trưng Vương lui quân về giữ Cấm Khê; năm 43, cuộc khởi nghĩa bị dập tắt. [Xem lại](#ma-vien)
+
 ## Nguồn tham khảo
 
 - Phạm Diệp, Hậu Hán thư, "Nam Man truyện" và "Mã Viện truyện" (thế kỷ V).

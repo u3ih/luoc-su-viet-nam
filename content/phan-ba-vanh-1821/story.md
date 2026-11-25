@@ -49,6 +49,29 @@ Vua Minh Mạng sai Thống chế Trương Phúc Đặng ra Bắc. Quân triều
 
 Trong trận cuối, Phan Bá Vành bị thương rồi bị bắt cùng 765 thuộc hạ; trên đường áp giải, ông cắn lưỡi tự tử. Theo lệnh vua Minh Mạng, làng Trà Lũ bị phá hết nhà cửa, lũy tre, cây cối. Cuộc khởi nghĩa được xem là cuộc nổi dậy nông dân kéo dài nhất, phạm vi rộng nhất nửa đầu thế kỷ XIX.
 
+## Ôn tập
+
+1. Phan Bá Vành lập căn cứ chính ở đâu?
+   - [x] Trà Lũ
+   - [ ] Giao Thủy
+   - [ ] Cồn Tiên
+
+   Nhân nạn đói năm 1821, ông tập hợp dân chúng chống lại triều đình và lập căn cứ chính ở Trà Lũ. [Xem lại](#nam-doi)
+
+2. Vua Minh Mạng cử ai, khi ấy làm Tham hiệp Thanh Hóa, cùng các tướng đem quân thủy bộ ra hội tiễu?
+   - [ ] Trương Phúc Đặng
+   - [ ] Lê Mậu Cúc
+   - [x] Nguyễn Công Trứ
+
+   Trương Phúc Đặng là Thống chế được sai ra Bắc trước; Lê Mậu Cúc là Trấn thủ Sơn Nam, tử trận ở Cồn Tiên. [Xem lại](#hoi-tieu)
+
+3. Theo lệnh vua Minh Mạng, làng Trà Lũ chịu hình phạt nào sau khi khởi nghĩa thất bại?
+   - [ ] Được miễn thuế ba năm
+   - [x] Bị phá hết nhà cửa, lũy tre, cây cối
+   - [ ] Bị dời cả làng ra kinh đô
+
+   Phan Bá Vành bị thương, bị bắt cùng 765 thuộc hạ và cắn lưỡi tự tử trên đường áp giải. [Xem lại](#ket-cuc)
+
 ## Nguồn tham khảo
 
 - "Cuộc nổi dậy Phan Bá Vành", Wikipedia tiếng Việt — bối cảnh, Đặng gia thế phả, thân thế, diễn biến năm 1826, quân triều đình, kết cục: https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_n%E1%BB%95i_d%E1%BA%ADy_Phan_B%C3%A1_V%C3%A0nh

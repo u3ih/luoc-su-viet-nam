@@ -60,6 +60,29 @@ Lăng ở núi Tùng và đền thờ dưới chân núi Gai, xã Triệu Lộc,
 >
 > Câu nói về việc muốn cưỡi gió, chém cá kình, dựng nền độc lập được chép lần đầu trong Thanh Hoá kỷ thắng của Vương Duy Trinh, thế kỷ XIX; các bộ chính sử cũ hơn không nhắc. Chi tiết voi trắng, giáp vàng là truyền thuyết.
 
+## Ôn tập
+
+1. Bà Triệu khởi nghĩa vào năm nào, chống lại triều đại nào?
+   - [ ] Năm 226, chống nhà Hán
+   - [x] Năm 248, chống nhà Đông Ngô
+   - [ ] Năm 257, chống nhà Tấn
+
+   Mùa xuân năm 248, tức năm Mậu Thìn, bà khởi nghĩa chống nhà Đông Ngô. [Xem lại](#khoi-nghia)
+
+2. Nhà Đông Ngô cử ai làm thứ sử Giao Châu đem quân sang đối phó với nghĩa quân?
+   - [x] Lục Dận
+   - [ ] Triệu Quốc Đạt
+   - [ ] Lưu Vĩnh Phúc
+
+   Lục Dận, thứ sử Giao Châu, đem khoảng tám nghìn quân sang và dùng của cải mua chuộc một số thủ lĩnh địa phương. [Xem lại](#luc-dan)
+
+3. Về kết cục của cuộc khởi nghĩa, chương này ghi nhận điều gì?
+   - [ ] Mọi nguồn đều thống nhất là bà thắng và giữ độc lập đến năm 257
+   - [ ] Các bộ chính sử cũ đều chép đầy đủ lời nói của bà về việc cưỡi gió, chém cá kình
+   - [x] Có ý kiến khác nhau: Trần Trọng Kim chép bà thua và tuẫn tiết trên núi Tùng, còn Lê Mạnh Thát cho rằng bà đánh bại Lục Dận
+
+   Bài tham khảo nói ý kiến của giáo sư Lê Mạnh Thát chưa được nhiều người đồng thuận; câu nói nổi tiếng chỉ được chép lần đầu ở thế kỷ XIX. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Bà Triệu", Wikipedia tiếng Việt — tiểu sử, diễn biến, kết cục, ý kiến khác, truyền thuyết, tưởng niệm: https://vi.wikipedia.org/wiki/B%C3%A0_Tri%E1%BB%87u

@@ -47,6 +47,30 @@ Phần lớn điều khoản bám sát hoà ước năm 1883. Điểm mới th�
 >
 > Ranh giới trong cảnh chỉ là gợi ý, không theo bản đồ thật.
 
+## Ôn tập
+
+1. Jules Patenôtre được cử đến Huế để làm gì?
+   - [ ] Ký hoà ước đầu tiên giữa triều Nguyễn và nước Pháp
+   - [x] Sửa đổi hoà ước năm 1883
+   - [ ] Thương thuyết với nhà Thanh ở Thiên Tân
+
+   Hoà ước Giáp Thân ký ngày 6 tháng 6 năm 1884 là hoà ước cuối cùng triều Nguyễn ký với chính quyền thực dân Pháp. [Xem lại](#ky-uoc)
+
+2. Theo Hoà ước Giáp Thân, Nam Kỳ thuộc chế độ nào?
+   - [ ] Xứ bảo hộ, triều Nguyễn giữ một số quyền
+   - [ ] Trả lại cho Trung Kỳ
+   - [x] Thuộc địa của Pháp
+
+   Hoà ước chia thành ba chế độ: Bắc Kỳ và Trung Kỳ là xứ bảo hộ, Nam Kỳ là thuộc địa của Pháp. [Xem lại](#ba-mien)
+
+3. Tỉnh nào, trước thuộc Nam Kỳ, được hoà ước trả lại cho Trung Kỳ?
+   - [ ] Thanh Hoá
+   - [ ] Nghệ An
+   - [x] Bình Thuận
+   - [ ] Hà Tĩnh
+
+   Thanh Hoá, Nghệ An, Hà Tĩnh trước thuộc Bắc Kỳ cũng được trả lại cho Trung Kỳ. [Xem lại](#ba-mien)
+
 ## Nguồn tham khảo
 
 - "Hòa ước Giáp Thân (1884)", Wikipedia tiếng Việt — ngày ký, số điều, người ký, bối cảnh, nội dung chính: https://vi.wikipedia.org/wiki/H%C3%B2a_%C6%B0%E1%BB%9Bc_Gi%C3%A1p_Th%C3%A2n

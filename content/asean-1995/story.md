@@ -46,6 +46,29 @@ Lào và Myanmar gia nhập năm 1997, Campuchia năm 1999, hoàn tất ý tư�
 
 Việt Nam làm Chủ tịch ASEAN năm 2010 — năm hội nghị quyết định mở rộng Cấp cao Đông Á — và năm 2020, đề xuất Quỹ ASEAN ứng phó COVID-19. Ngày 26 tháng 10 năm 2025, Đông Timor gia nhập, nâng số thành viên lên mười một.
 
+## Ôn tập
+
+1. Việt Nam là thành viên thứ mấy của ASEAN khi được kết nạp năm 1995?
+   - [ ] Thứ sáu
+   - [ ] Thứ năm
+   - [x] Thứ bảy
+
+   Ngày 28 tháng 7 năm 1995, lễ kết nạp diễn ra ở Bandar Seri Begawan: Việt Nam trở thành thành viên thứ bảy của ASEAN. [Xem lại](#gia-nhap)
+
+2. Năm nước nào cùng ra Tuyên bố ASEAN ở Bangkok năm 1967?
+   - [x] Indonesia, Malaysia, Philippines, Singapore và Thái Lan
+   - [ ] Indonesia, Brunei, Lào, Myanmar và Thái Lan
+   - [ ] Malaysia, Campuchia, Philippines, Singapore và Brunei
+
+   Ngày 8 tháng 8 năm 1967, ngoại trưởng năm nước này gặp nhau ở Bangkok, lập Hiệp hội các quốc gia Đông Nam Á. [Xem lại](#bangkok)
+
+3. Năm 1998, Việt Nam đăng cai sự kiện nào của ASEAN?
+   - [ ] Hội nghị quyết định mở rộng Cấp cao Đông Á
+   - [x] Hội nghị cấp cao ASEAN lần thứ 6
+   - [ ] Lễ kết nạp Đông Timor
+
+   Chỉ ba năm sau khi gia nhập, Việt Nam đăng cai Hội nghị cấp cao lần thứ 6 và thông qua Chương trình hành động Hà Nội. [Xem lại](#asean-10)
+
 ## Nguồn tham khảo
 
 - "30 năm Việt Nam gia nhập ASEAN: Hành trình từ tham gia đến kiến tạo", Báo Đại biểu Nhân dân — ngày 28/7/1995 ở Bandar Seri Begawan, thành viên thứ 7, Hội nghị cấp cao lần 6 năm 1998, Chủ tịch ASEAN 2010 và 2020, kim ngạch 1995 và 2024: https://daibieunhandan.vn/30-nam-viet-nam-gia-nhap-asean-hanh-trinh-tu-tham-gia-den-kien-tao-10381000.html

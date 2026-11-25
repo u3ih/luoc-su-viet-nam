@@ -129,6 +129,29 @@ Từ ngày 1 tháng 7 năm 2025, tỉnh Hoà Bình nhập với Vĩnh Phúc và 
 >
 > Hang Hiem mới được khai quật từ năm 2019, và nhiều hố khai quật còn nhỏ. Các nhà khảo cổ vẫn đang bổ sung và chỉnh lại hiểu biết về văn hoá này.
 
+## Ôn tập
+
+1. Nhà khảo cổ nào khảo sát các hang đá vôi ở Hoà Bình trong thập niên 1920 và công bố kết quả năm 1927?
+   - [ ] Chester Gorman
+   - [x] Madeleine Colani
+   - [ ] Nguyễn Khắc Sử
+
+   Bà công bố kết quả chín cuộc khai quật; năm 1932, Đại hội các nhà tiền sử học Viễn Đông gọi tên "Hoà Bình" cho nền văn hoá này. [Xem lại](#colani)
+
+2. Công cụ tiêu biểu của văn hoá Hoà Bình có đặc điểm gì?
+   - [ ] Rìu đồng đúc bằng khuôn
+   - [ ] Đồ gốm mài nhẵn, vẽ hoa văn tinh xảo
+   - [x] Làm từ hòn cuội, ghè đẽo thường chỉ ở một mặt để tạo mép cắt
+
+   Loại công cụ ghè hết một mặt hòn cuội được gọi là Sumatralith; cùng với đó có mảnh tước và công cụ bằng xương. [Xem lại](#cuoi-ghe)
+
+3. Theo nhà khảo cổ Nguyễn Khắc Sử, văn hoá Hoà Bình tồn tại trong khoảng thời gian nào?
+   - [ ] Khoảng 4.000 đến 2.000 năm trước
+   - [x] Khoảng 20.000 đến 7.000 năm trước, chia làm ba giai đoạn
+   - [ ] Khoảng 2.000 đến 1.000 năm trước
+
+   Các di chỉ khác nhau cho niên đại khác nhau, và các nhà nghiên cứu vẫn bàn bạc về cách xác định tuổi. [Xem lại](#thoi-gian)
+
 ## Nguồn tham khảo
 
 - Nguyễn Khắc Sử, "Hoa Binh Culture in Vietnam after Nearly A Century since Its Discovery", Vietnam Social Sciences, số 2 (2021) (ba giai đoạn 20.000 – 11.000, 11.000 – 9.000, 9.000 – 7.000 năm trước; mới đọc bản tóm tắt). https://vjol.info.vn/VSS/vi/article/view/74498

@@ -47,6 +47,29 @@ Năm 1935, một người dân địa phương tình cờ phát hiện một đ�
 
 Tại kỳ họp lần thứ 27 của Ủy ban Di sản thế giới (30 tháng 6 – 5 tháng 7 năm 2003), UNESCO công nhận Phong Nha – Kẻ Bàng cùng ba mươi địa danh khác là di sản thiên nhiên thế giới, theo tiêu chí địa chất, địa mạo. Ngày 3 tháng 7 năm 2015, vườn được công nhận lần thứ hai với tiêu chí đa dạng sinh học, sinh thái. Năm 2009, trong vùng núi này, hang Sơn Đoòng được công bố là hang lớn nhất thế giới đã biết.
 
+## Ôn tập
+
+1. Vùng núi đá vôi Kẻ Bàng hình thành từ khi nào?
+   - [ ] Khoảng 4 triệu năm trước
+   - [ ] Khoảng 40 triệu năm trước
+   - [x] Hơn 400 triệu năm trước, vào Đại Cổ sinh
+
+   Vùng này được coi là vùng các-xtơ cổ nhất châu Á, với khoảng 300 hang động và sông ngầm. [Xem lại](#da-voi)
+
+2. Điều gì cho thấy động Phong Nha được người xưa biết đến từ lâu?
+   - [x] Văn tự Chăm cổ khắc trên vách đá
+   - [ ] Các bản vẽ của thám hiểm gia người Anh
+   - [ ] Bia đá của Giám mục Gauthier
+
+   Năm 1824, vua Minh Mạng sắc phong động Phong Nha là "Diệu ứng chi thần". [Xem lại](#dong-phong-nha)
+
+3. Phong Nha – Kẻ Bàng được UNESCO công nhận lần đầu năm 2003 theo tiêu chí nào?
+   - [ ] Đa dạng sinh học và sinh thái
+   - [ ] Giá trị văn hoá phi vật thể
+   - [x] Địa chất, địa mạo
+
+   Lần công nhận thứ hai, ngày 3 tháng 7 năm 2015, theo tiêu chí đa dạng sinh học, sinh thái. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Vườn quốc gia Phong Nha-Kẻ Bàng", Wikipedia tiếng Việt — tuổi đá vôi, số hang động, các sông, văn tự Chăm, sắc phong năm 1824, Cadière, động Tiên Sơn năm 1935, thám hiểm 1992, thành lập 1986 – 2001, UNESCO 2003 và 2015: https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_Phong_Nha-K%E1%BA%BB_B%C3%A0ng

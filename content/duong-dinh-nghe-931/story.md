@@ -46,6 +46,29 @@ Năm 937, thuộc hạ là Kiều Công Tiễn giết Dương Đình Nghệ. Con
 
 Các sử gia thường cho rằng ông mở đường cho nền độc lập sau khi nhà Đường sụp đổ. Bài tham khảo cũng ghi rằng Ngô Quyền, Đinh Bộ Lĩnh và Lê Hoàn đều kết thân với họ Dương, và họ Dương giữ ảnh hưởng chính trị trong nhiều thập kỷ.
 
+## Ôn tập
+
+1. Trước năm 931, Dương Đình Nghệ từng phục vụ dưới quyền ai?
+   - [ ] Ngô Quyền
+   - [x] Tiết độ sứ Khúc Hạo, rồi Khúc Thừa Mỹ
+   - [ ] Lý Tiến
+
+   Ông quê ở Ái Châu, nay thuộc Thanh Hoá, từng phục vụ dưới quyền Khúc Hạo, rồi Khúc Thừa Mỹ. [Xem lại](#ai-chau)
+
+2. Năm 931, sau khi đánh bại và giết Trần Bảo, Dương Đình Nghệ làm gì?
+   - [ ] Đầu hàng Nam Hán
+   - [ ] Rút về Ái Châu
+   - [x] Chiếm thành Tống Bình và tự xưng Tĩnh Hải quân tiết độ sứ
+
+   Quân Nam Hán do Trần Bảo đến cứu bị ông đánh bại; ông chiếm thành rồi tự xưng Tĩnh Hải quân tiết độ sứ. [Xem lại](#nam-931)
+
+3. Năm 937, ai giết Dương Đình Nghệ?
+   - [x] Kiều Công Tiễn, thuộc hạ của ông
+   - [ ] Ngô Quyền, con rể của ông
+   - [ ] Trần Bảo, tướng Nam Hán
+
+   Kiều Công Tiễn giết ông; Ngô Quyền sau đó giết Kiều Công Tiễn để trả thù. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Dương Đình Nghệ", Wikipedia tiếng Việt — quê quán, chiến dịch 931, qua đời 937, ảnh hưởng, các chỗ nguồn khác nhau: https://vi.wikipedia.org/wiki/D%C6%B0%C6%A1ng_%C4%90%C3%ACnh_Ngh%E1%BB%87

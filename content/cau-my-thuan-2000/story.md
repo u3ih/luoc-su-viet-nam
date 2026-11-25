@@ -46,6 +46,29 @@ Ngày 21 tháng 5 năm 2000, cầu hoàn thành. Vì khánh thành đúng năm 2
 
 Cuối năm 2023, cầu Mỹ Thuận 2 được khánh thành, cách cầu cũ 350 m về phía thượng lưu, nối cao tốc Trung Lương – Mỹ Thuận với cao tốc Mỹ Thuận – Cần Thơ; tổng mức đầu tư cầu và đường dẫn là 5.003 tỷ đồng.
 
+## Ôn tập
+
+1. Vì sao cầu Mỹ Thuận được mệnh danh là "cây cầu thế kỷ"?
+   - [ ] Vì cầu dài nhất thế kỷ
+   - [ ] Vì cầu được xây suốt một thế kỷ
+   - [x] Vì cầu khánh thành đúng năm 2000
+
+   Cầu hoàn thành ngày 21 tháng 5 năm 2000, là cây cầu dây văng đầu tiên của Việt Nam. [Xem lại](#thong-xe)
+
+2. Chính phủ nước nào tài trợ 66% tổng vốn xây cầu Mỹ Thuận?
+   - [ ] Hoa Kỳ
+   - [ ] Nhật Bản
+   - [x] Úc
+
+   Theo chương trình viện trợ AusAID, Úc tài trợ 66%, phía Việt Nam góp 34%; còn các dự định năm 1950 (Hoa Kỳ) và thập niên 1960 (Nhật Bản) đều không thành. [Xem lại](#du-dinh)
+
+3. Nhịp chính của cầu Mỹ Thuận được đỡ bằng hệ nào?
+   - [x] Hai tháp chữ H cùng 128 dây văng xoè hình rẻ quạt
+   - [ ] Một vòm thép lớn vắt qua sông
+   - [ ] Hàng trụ cầu dày đặc dưới lòng sông
+
+   Nhịp chính dài 660 m, đúc hẫng dần ra giữa sông. [Xem lại](#thi-cong)
+
 ## Nguồn tham khảo
 
 - "Cầu Mỹ Thuận", Wikipedia tiếng Việt — vị trí, "cây cầu thế kỷ", các dự định năm 1950 và thập niên 1960, vốn AusAID, thông số kỹ thuật, khởi công 6/7/1997, hoàn thành 21/5/2000, cầu Mỹ Thuận 2: https://vi.wikipedia.org/wiki/C%E1%BA%A7u_M%E1%BB%B9_Thu%E1%BA%ADn

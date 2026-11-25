@@ -46,6 +46,29 @@ Ngày 17 tháng 11, Tiểu đoàn 2, Trung đoàn 7 Kỵ binh hành quân bộ v
 
 Phía Mỹ xác nhận 305 người chết, 524 người bị thương trong cả chiến dịch, và cho rằng đã giết 3.561 quân đối phương; sử Việt Nam ghi phía Mỹ thương vong 1.500 đến 1.700 người. Một báo cáo năm 1966 của Quân đội Nhân dân Việt Nam ghi phía mình có 559 người chết, 669 người bị thương; nhiều nhà nghiên cứu cho rằng cả hai bên có thể đã thổi phồng thương vong của đối phương. Phía Mỹ coi tỷ lệ thương vong là bằng chứng chiến lược “tiêu hao” sẽ thành công; phía Việt Nam rút ra cách đánh áp sát. Ia Đrăng định hình cách đánh của cả hai bên trong nhiều năm sau. Năm 1994, Hal Moore và nhà báo Joseph Galloway trở lại thung lũng này.
 
+## Ôn tập
+
+1. Vì sao Sư đoàn 1 Kỵ binh bay Mỹ tiến về khu vực núi Chư Pông?
+   - [ ] Để chi viện cho trận Albany
+   - [x] Để truy đuổi sau khi vòng vây trại Plei Me được giải
+   - [ ] Để bảo vệ thành phố Pleiku
+
+   Khi vòng vây trại Plei Me được giải, tướng Westmoreland lệnh cho Sư đoàn Kỵ binh bay truy đuổi. [Xem lại](#plei-me)
+
+2. Cách đánh "nắm thắt lưng" mà đánh nhằm mục đích gì?
+   - [ ] Đánh từ xa bằng pháo binh
+   - [ ] Tránh mọi giao tranh với đối phương
+   - [x] Áp sát đối phương để máy bay và pháo Mỹ không thể bắn
+
+   Ở Albany, phía Quân đội Nhân dân Việt Nam luồn vào giữa đội hình hành quân của đối phương, áp sát để máy bay và pháo Mỹ không thể bắn. [Xem lại](#albany)
+
+3. Số liệu thương vong của trận Ia Đrăng được các nguồn ghi như thế nào?
+   - [x] Khác nhau giữa các nguồn; nhiều nhà nghiên cứu cho rằng cả hai bên có thể đã thổi phồng thương vong của đối phương
+   - [ ] Hai bên ghi số liệu hoàn toàn thống nhất
+   - [ ] Không có nguồn nào ghi số liệu
+
+   Phía Mỹ và phía Việt Nam nêu những con số thương vong khác nhau, nên chương ghi rõ nguồn của từng con số. [Xem lại](#ca-hai)
+
 ## Nguồn tham khảo
 
 - “Battle of Ia Drang”, Wikipedia tiếng Anh — trận lớn đầu tiên giữa quân đội Mỹ và Quân đội Nhân dân Việt Nam, vây Plei Me 19/10, ba trung đoàn 32, 33, 66, X-Ray 14 – 16/11 (Hal Moore), B-52 yểm trợ trực tiếp, Albany 17/11 (155 chết hoặc mất tích, 124 bị thương), lệnh của Nguyễn Hữu An (“grab them by the belt”), số thương vong hai phía (305 chết, 524 bị thương; 3.561 theo ước tính Mỹ; 1.500 – 1.700 theo sử Việt Nam; 559 chết, 669 bị thương theo báo cáo năm 1966 của Quân đội Nhân dân Việt Nam), chuyến trở lại năm 1994: https://en.wikipedia.org/wiki/Battle_of_Ia_Drang

@@ -60,6 +60,29 @@ Sử nhà Nguyễn chép Tây Sơn mất khoảng 1.800 thuyền các loại, 20
 
 Ngày 5 tháng 6 năm 1801, Nguyễn Ánh rời Thị Nại tiến đánh Phú Xuân. Theo Tạ Chí Đại Trường, sau trận này Tây Sơn mất quyền kiểm soát mặt biển.
 
+## Ôn tập
+
+1. Trong đêm rằm tháng Giêng năm Tân Dậu, quân Nguyễn dùng cách đánh nào ở đầm Thị Nại?
+   - [x] Hỏa công
+   - [ ] Dựng bãi cọc ngầm
+   - [ ] Đánh bộ bằng kỵ binh
+
+   Lê Văn Duyệt dùng đuốc hỏa công đánh thuyền lớn của Tây Sơn khi gió thuận; đến trưa, thủy quân Tây Sơn trong đầm bị đốt cháy gần hết. [Xem lại](#hoa-cong)
+
+2. Năm 1800, tướng Võ Tánh của Nguyễn Ánh cố thủ ở đâu khi quân Tây Sơn vây đánh?
+   - [ ] Phú Xuân
+   - [x] Thành Bình Định
+   - [ ] Nhạn Châu
+
+   Tư đồ Võ Văn Dũng đưa thuyền chặn cửa biển, lập hai bảo ở Nhạn Châu và Tam Tòa. [Xem lại](#vay-thanh)
+
+3. Về thiệt hại của trận Thị Nại, chương cho biết điều gì?
+   - [ ] Mọi nguồn ghi cùng một số liệu
+   - [ ] Không có nguồn nào ghi số liệu
+   - [x] Các nguồn ghi số liệu khác nhau, và sử nhà Nguyễn được lưu ý là có xu hướng tự đề cao
+
+   Sử nhà Nguyễn chép Tây Sơn mất khoảng 1.800 thuyền; về phía quân Nguyễn, Phạm Văn Sơn ghi 4.000 người chết còn Tạ Chí Đại Trường ghi hơn 600 người. [Xem lại](#thiet-hai)
+
 ## Nguồn tham khảo
 
 - "Trận Thị Nại (1801)", Wikipedia tiếng Việt — đầm Thị Nại, chuẩn bị, diễn biến theo Đại Nam thực lục, Phạm Văn Sơn, Huỳnh Minh, Tạ Chí Đại Trường, thiệt hại, hậu quả: https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_Th%E1%BB%8B_N%E1%BA%A1i_(1801)

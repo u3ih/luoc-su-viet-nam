@@ -46,6 +46,29 @@ Ngày 7 tháng 5 năm 2013, tên lửa đẩy Vega đưa VNREDSat-1 lên quỹ �
 
 VNREDSat-1 chụp ảnh ở một kênh toàn sắc và bốn kênh đa phổ, độ phân giải mặt đất 2,5 m (toàn sắc) và 10 m (đa phổ). Vệ tinh nối với hệ thống thu nhận, lưu trữ và xử lý ảnh viễn thám sẵn có của Bộ Tài nguyên và Môi trường, tạo thành một hệ thống quan sát hoàn chỉnh từ vệ tinh đến trạm mặt đất ở Việt Nam.
 
+## Ôn tập
+
+1. VNREDSat-1 là vệ tinh gì của Việt Nam?
+   - [ ] Vệ tinh viễn thông đầu tiên
+   - [ ] Vệ tinh dẫn đường đầu tiên
+   - [x] Vệ tinh quan sát Trái Đất đầu tiên
+
+   Ngày 7 tháng 5 năm 2013, tên lửa Vega đưa vệ tinh lên quỹ đạo thành công từ bãi phóng Kourou. [Xem lại](#phong)
+
+2. Vệ tinh VNREDSat-1 do ai thiết kế, chế tạo và dự án dùng vốn gì?
+   - [ ] Do Việt Nam tự chế tạo, bằng vốn trong nước
+   - [x] Do công ty EADS Astrium (Pháp) chế tạo, dùng vốn vay ODA ưu đãi của Chính phủ Pháp và vốn đối ứng của Việt Nam
+   - [ ] Do Mỹ chế tạo, bằng vốn tài trợ
+
+   Tổng mức đầu tư là 55,8 triệu euro vốn vay ODA, cùng gần 65 tỷ đồng vốn đối ứng. [Xem lại](#du-an)
+
+3. Mục đích chính của ảnh từ VNREDSat-1 là gì?
+   - [ ] Phát sóng truyền hình
+   - [x] Có ảnh vệ tinh độ phân giải cao phục vụ kinh tế – xã hội, ứng phó thiên tai và biến đổi khí hậu
+   - [ ] Chỉ phục vụ nghiên cứu Mặt Trăng
+
+   Độ phân giải mặt đất là 2,5 m (toàn sắc) và 10 m (đa phổ). [Xem lại](#anh-ve-tinh)
+
 ## Nguồn tham khảo
 
 - “VNREDSat-1”, Wikipedia tiếng Việt — vệ tinh quan sát Trái Đất đầu tiên, EADS Astrium, vận chuyển tới Kourou ngày 8/3/2013, hoãn phóng ngày 3/5/2013, phóng thành công ngày 7/5/2013 bằng tên lửa Vega, tổng mức đầu tư 55,8 triệu euro và 64,82 tỷ đồng, mục đích, thông số (toàn sắc và 4 kênh đa phổ, lặp 3 ngày, quỹ đạo đồng bộ Mặt Trời 680 km, độ phân giải 2,5 m và 10 m), hệ thống thu nhận của Bộ Tài nguyên và Môi trường: https://vi.wikipedia.org/wiki/VNREDSat-1

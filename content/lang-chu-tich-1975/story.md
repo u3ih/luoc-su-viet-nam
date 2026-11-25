@@ -46,6 +46,29 @@ Lăng khánh thành ngày 29 tháng 8 năm 1975, cao 21,6 m, rộng 41,2 m, gồ
 
 Hai bên lăng là khán đài bảy bậc; quảng trường phía trước chia thành 240 ô cỏ. Vườn quanh lăng có khoảng 250 loài cây, hoa từ khắp các vùng đất nước. Lăng mở cửa đón khách vào buổi sáng, trừ thứ hai và thứ sáu, và mỗi năm đóng cửa khoảng hai tháng để bảo dưỡng, tu bổ định kỳ.
 
+## Ôn tập
+
+1. Lăng Chủ tịch Hồ Chí Minh được khởi công ngày 2 tháng 9 năm 1973 ở vị trí nào?
+   - [ ] Bên hồ Hoàn Kiếm
+   - [ ] Trong khu Hoàng thành Thăng Long
+   - [x] Trên nền lễ đài cũ giữa quảng trường Ba Đình
+
+   Lăng được khởi công ngay tại vị trí lễ đài cũ giữa quảng trường Ba Đình — nơi ngày 2 tháng 9 năm 1945 ông đọc Tuyên ngôn độc lập. [Xem lại](#khoi-cong)
+
+2. Trong di chúc, Chủ tịch Hồ Chí Minh muốn được an táng như thế nào?
+   - [x] Hoả táng, tro chia ba phần đặt ở ba miền
+   - [ ] Giữ gìn lâu dài thi hài để người dân cả nước tới viếng
+   - [ ] Thuỷ táng
+
+   Trong di chúc, ông muốn được hoả táng, tro chia ba phần đặt ở ba miền; Bộ Chính trị khoá III quyết định giữ gìn lâu dài thi hài, không theo đúng nguyện vọng trong di chúc. [Xem lại](#di-chuc)
+
+3. Lăng Chủ tịch Hồ Chí Minh được khánh thành vào ngày nào?
+   - [ ] 2 tháng 9 năm 1973
+   - [x] 29 tháng 8 năm 1975
+   - [ ] 2 tháng 9 năm 1945
+
+   Lăng khánh thành ngày 29 tháng 8 năm 1975, cao 21,6 m, gồm ba lớp. [Xem lại](#ba-lop)
+
 ## Nguồn tham khảo
 
 - “Lăng Chủ tịch Hồ Chí Minh”, Wikipedia tiếng Việt — khởi công 2/9/1973 trên vị trí lễ đài cũ, khánh thành 29/8/1975, kích thước, ba lớp, vật liệu, dòng chữ, hơn 250 loài cây (bài tiếng Anh ghi gần 250 — lời kể ghi “khoảng 250”), di chúc muốn hoả táng, quyết định của Bộ Chính trị khoá III (Thông báo 151-TB/TW năm 1989), chuyên gia Liên Xô năm 1969 và 1970, năm phương án, lịch mở cửa và tu bổ: https://vi.wikipedia.org/wiki/L%C4%83ng_Ch%E1%BB%A7_t%E1%BB%8Bch_H%E1%BB%93_Ch%C3%AD_Minh

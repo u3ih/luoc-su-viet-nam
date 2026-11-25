@@ -47,6 +47,29 @@ Khoảng 1.140 hiện vật được phát hiện bằng vàng, bạc, đồng, 
 
 Thánh địa Cát Tiên được công nhận là di tích quốc gia năm 1997. Chủ nhân của thánh địa vẫn còn tranh luận: có thể là một tiểu quốc của Phù Nam, hoặc một quốc gia riêng tồn tại song song với Phù Nam, Chân Lạp. Nhiều đồ gốm ở đây mang đặc điểm văn hóa Óc Eo.
 
+## Ôn tập
+
+1. Di tích Cát Tiên được phát hiện năm 1985 trong dịp nào?
+   - [ ] Trong đợt khai quật lớn đầu tiên của các nhà khảo cổ
+   - [x] Trong một chuyến điền dã dân tộc học của cán bộ Bảo tàng Lâm Đồng
+   - [ ] Khi xây dựng một công trình bên sông Đồng Nai
+
+   Người dân từ lâu đã nhặt được tượng đá, linga, gạch vỡ; đến năm 1985, cán bộ Bảo tàng Lâm Đồng mới phát hiện ra di tích. [Xem lại](#ban-dia)
+
+2. Các đền tháp ở thánh địa Cát Tiên đều hướng về phía nào?
+   - [ ] Phía bắc
+   - [ ] Phía tây
+   - [x] Phía đông
+
+   Tất cả đền tháp đều hướng về phía đông, trước đền có sân gạch làm nơi hành lễ và lối lát gạch dẫn xuống bờ sông. [Xem lại](#khai-quat)
+
+3. Về chủ nhân của thánh địa Cát Tiên, chương cho biết điều gì?
+   - [ ] Đã xác định chắc chắn là một vương quốc Chăm Pa
+   - [x] Còn tranh luận: có thể là một tiểu quốc của Phù Nam hoặc một quốc gia riêng
+   - [ ] Đã xác định chắc chắn là người Chân Lạp
+
+   Chủ nhân thánh địa vẫn còn tranh luận: có thể là một tiểu quốc của Phù Nam, hoặc một quốc gia riêng tồn tại song song với Phù Nam, Chân Lạp. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Thánh địa Cát Tiên", Wikipedia tiếng Việt — vị trí, phát hiện năm 1985, các đợt khai quật, kiến trúc, hiện vật, máng nước thiêng, niên đại, ý kiến về chủ nhân, xếp hạng 1997: https://vi.wikipedia.org/wiki/Th%C3%A1nh_%C4%91%E1%BB%8Ba_C%C3%A1t_Ti%C3%AAn

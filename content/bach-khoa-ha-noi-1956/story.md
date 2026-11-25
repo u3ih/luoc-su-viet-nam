@@ -46,6 +46,30 @@ Những năm 1965 – 1975, trường đưa khoảng 7.000 người cùng hàng 
 
 Sau năm 1975, trường cử cán bộ vào xây dựng các trường bách khoa ở Thành phố Hồ Chí Minh, Đà Nẵng và nhiều trường khác. Năm 2006, thư viện Tạ Quang Bửu mười tầng khánh thành nhân dịp 50 năm thành lập trường. Ngày 5 tháng 12 năm 2022, Thủ tướng quyết định chuyển trường thành Đại học Bách khoa Hà Nội.
 
+## Ôn tập
+
+1. Ai được bổ nhiệm làm giám đốc đầu tiên của Trường Đại học Chuyên nghiệp Bách khoa?
+   - [ ] Nguyễn Văn Huyên
+   - [ ] Tạ Quang Bửu
+   - [x] Trần Đại Nghĩa
+
+   Bộ trưởng Nguyễn Văn Huyên ký nghị định thành lập trường, còn giáo sư, kỹ sư Trần Đại Nghĩa được bổ nhiệm làm giám đốc. [Xem lại](#thanh-lap)
+
+2. Khoá đầu tiên của trường khai giảng ngày 15 tháng 10 năm 1956 với bao nhiêu sinh viên?
+   - [ ] 633
+   - [x] 848
+   - [ ] 7.000
+
+   Khoá 1 có 848 sinh viên chính quy, học 14 ngành thuộc bốn liên khoa. [Xem lại](#khoa-1)
+
+3. Những năm 1965 – 1975, trường làm gì để tránh chiến tranh?
+   - [x] Đưa người và thiết bị rời Hà Nội đi sơ tán
+   - [ ] Đóng cửa hoàn toàn, không đào tạo nữa
+   - [ ] Chuyển toàn bộ trường vào Thành phố Hồ Chí Minh
+   - [ ] Sáp nhập vào Trường Đại học Xây dựng
+
+   Trường đưa khoảng 7.000 người cùng hàng trăm tấn thiết bị lên sơ tán ở Lạng Sơn, năm 1972 sơ tán lần hai về Hưng Yên, Hà Bắc. [Xem lại](#so-tan)
+
 ## Nguồn tham khảo
 
 - “Đại học Bách khoa Hà Nội”, Wikipedia tiếng Việt — nghị định 147/NĐ ngày 6/3/1956, giám đốc Trần Đại Nghĩa, khai giảng khoá 1 ngày 15/10/1956 (848 sinh viên, 14 ngành, 4 liên khoa), khởi công trụ sở ngày 15/3/1960, 633 kỹ sư khoá 1 tháng 10/1961, sơ tán 1965 – 1975 và 1972, tách trường năm 1966, cử cán bộ sau 1975, thư viện Tạ Quang Bửu năm 2006, Quyết định 1512/QĐ-TTg ngày 5/12/2022: https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_B%C3%A1ch_khoa_H%C3%A0_N%E1%BB%99i

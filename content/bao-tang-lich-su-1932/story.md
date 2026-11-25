@@ -46,6 +46,29 @@ Thời thuộc địa, bảo tàng trưng bày đồ cổ sưu tầm từ các n
 
 Bảo tàng giữ nhiều hiện vật quý như trống đồng Đông Sơn, gốm Bát Tràng, tượng thần Shiva, cọc gỗ trận Bạch Đằng. Về sau Bảo tàng Lịch sử Việt Nam và Bảo tàng Cách mạng Việt Nam sáp nhập thành Bảo tàng Lịch sử quốc gia; toà nhà ở số 1 phố Tràng Tiền vẫn mở cửa đón khách.
 
+## Ôn tập
+
+1. Bảo tàng Louis Finot tiêu biểu cho phong cách kiến trúc nào?
+   - [ ] Kiến trúc Pháp cổ điển thuần tuý
+   - [x] Kiến trúc Đông Dương, kết hợp kiến trúc Pháp với kiến trúc bản địa
+   - [ ] Kiến trúc Trung Hoa cổ thuần tuý
+
+   Công trình do hai kiến trúc sư C. Batteur và E. Hébrard thiết kế năm 1925, thuộc Viện Viễn Đông Bác cổ. [Xem lại](#thiet-ke)
+
+2. Khối mái bát giác ba lớp của bảo tàng gợi hình công trình nào?
+   - [ ] Chùa Một Cột
+   - [ ] Văn Miếu
+   - [x] Tháp chuông chùa Keo, Thái Bình
+
+   Mái có hàng con sơn chồng lên nhau mang nét kiến trúc Trung Hoa cổ, nhưng nhìn tổng thể gợi hình tháp chuông chùa Keo. [Xem lại](#sanh-bat-giac)
+
+3. Bảo tàng Lịch sử Việt Nam, thành lập ngày 3 tháng 9 năm 1958, ra đời trên cơ sở nào?
+   - [ ] Nhà hát Lớn Hà Nội
+   - [x] Bảo tàng Louis Finot, sau khi phía Pháp bàn giao toà nhà
+   - [ ] Bảo tàng Cách mạng Việt Nam
+
+   Năm 1958, phía Pháp bàn giao toà nhà; Bảo tàng Lịch sử Việt Nam được thành lập trên cơ sở bảo tàng Louis Finot. [Xem lại](#ban-giao)
+
 ## Nguồn tham khảo
 
 - “Bảo tàng Lịch sử quốc gia (Việt Nam)”, Wikipedia tiếng Việt — bảo tàng Louis Finot của Viện Viễn Đông Bác cổ, kiến trúc sư C. Batteur và E. Hébrard (thiết kế 1925), khởi công 1926, hoàn thành 1932, sảnh bát giác cạnh 11 m, tầng trệt cách ẩm 2,5 m, mái ba lớp gợi tháp chuông chùa Keo, bàn giao năm 1958, Bảo tàng Lịch sử Việt Nam thành lập ngày 3/9/1958, các hiện vật, sáp nhập thành Bảo tàng Lịch sử quốc gia: https://vi.wikipedia.org/wiki/B%E1%BA%A3o_t%C3%A0ng_L%E1%BB%8Bch_s%E1%BB%AD_qu%E1%BB%91c_gia_(Vi%E1%BB%87t_Nam)

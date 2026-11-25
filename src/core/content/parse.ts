@@ -1,6 +1,6 @@
 import matter from "gray-matter";
 import { marked, type Tokens } from "marked";
-import type { Beat, ChapterText } from "../types";
+import type { Beat, ChapterText, Lang, QuizQuestion } from "../types";
 
 // Đọc story.md → dữ liệu chương. Định dạng đầy đủ: content/README.md.
 //
@@ -18,7 +18,36 @@ export class ContentError extends Error {
   }
 }
 
-const SOURCES_HEADING = /^nguồn( tham khảo)?$/i;
+const SOURCES_HEADING = /^(nguồn( tham khảo)?|sources|references)$/i;
+const QUIZ_HEADING = /^(ôn tập|review)$/i;
+
+//   ## Ôn tập
+//   1. Câu hỏi?
+//      - [ ] Phương án sai
+//      - [x] Phương án đúng (đúng một ô [x], 2–4 phương án)
+//
+//      Giải thích ngắn. [Xem lại](#id-phan-canh)
+function quizItem(item: Tokens.ListItem, n: number, ids: Set<string>, file: string): QuizQuestion {
+  const where = `câu ôn tập ${n}`;
+  const head = item.tokens.find((t) => t.type === "paragraph" || t.type === "text") as Tokens.Paragraph | undefined;
+  const list = item.tokens.find((t) => t.type === "list") as Tokens.List | undefined;
+  const after = item.tokens.slice(list ? item.tokens.indexOf(list) + 1 : 0).find((t) => t.type === "paragraph" || t.type === "text") as Tokens.Paragraph | undefined;
+  if (!head || !list) throw new ContentError(file, `${where}: cần dòng câu hỏi rồi danh sách "- [ ] / - [x]" thụt vào`);
+  if (list.items.some((o) => !o.task)) throw new ContentError(file, `${where}: mỗi phương án phải là "- [ ]" hoặc "- [x]"`);
+  const right = list.items.flatMap((o, i) => (o.checked ? [i] : []));
+  if (right.length !== 1) throw new ContentError(file, `${where}: cần đúng một phương án đánh [x] (đang có ${right.length})`);
+  if (list.items.length < 2 || list.items.length > 4) throw new ContentError(file, `${where}: cần 2–4 phương án`);
+  const beat = after?.raw.match(/\]\(#([a-z0-9-]+)\)/)?.[1];
+  if (!after || !beat) throw new ContentError(file, `${where}: thiếu dòng giải thích kết thúc bằng "[Xem lại](#id-phan-canh)"`);
+  if (!ids.has(beat)) throw new ContentError(file, `${where}: "#${beat}" không phải id phân cảnh nào`);
+  return {
+    question: plain(head.text),
+    options: list.items.map((o) => plain(o.text)),
+    answer: right[0],
+    explain: plain(after.raw.replace(/\[[^\]]*\]\(#[^)]*\)/g, "")),
+    beat,
+  };
+}
 
 /** Bỏ cú pháp Markdown inline, giữ chữ. */
 function plain(md: string) {
@@ -56,7 +85,7 @@ function blockquote(tok: Tokens.Blockquote, beat: Beat, file: string) {
     return;
   }
   if (alert?.[1] === "IMPORTANT") {
-    const head = plain(paras[0] ?? "").replace(/^Tương tác:\s*/i, "");
+    const head = plain(paras[0] ?? "").replace(/^(Tương tác|Interaction):\s*/i, "");
     const [labels, hint = ""] = head.split("·").map((s) => s.trim());
     const [left, right] = labels.split("↔").map((s) => s.trim());
     if (!beat.interaction) throw new ContentError(file, `phân cảnh "${beat.id}" có khối tương tác nhưng thiếu "interaction: key@nguong" trong dòng <!-- -->`);
@@ -67,10 +96,10 @@ function blockquote(tok: Tokens.Blockquote, beat: Beat, file: string) {
   const citeIdx = paras.findIndex((p) => /^[—–-]\s/.test(p));
   const cite = citeIdx >= 0 ? plain(paras[citeIdx].replace(/^[—–-]\s*/, "")) : "";
   const text = plain(paras.filter((_, i) => i !== citeIdx).join(" "));
-  beat.quote = { text, cite: cite.replace(/\s*\(diễn ý\)\s*$/i, ""), paraphrase: /\(diễn ý\)/i.test(cite) };
+  beat.quote = { text, cite: cite.replace(/\s*\((diễn ý|paraphrased)\)\s*$/i, ""), paraphrase: /\((diễn ý|paraphrased)\)/i.test(cite) };
 }
 
-export function parseStory(source: string, file: string): ChapterText {
+export function parseStory(source: string, file: string, lang: Lang = "vi"): ChapterText {
   const { data, content } = matter(source);
   for (const k of ["slug", "title", "year", "sortYear", "era", "teaser"]) {
     if (data[k] === undefined || data[k] === "") throw new ContentError(file, `frontmatter thiếu "${k}"`);
@@ -83,15 +112,22 @@ export function parseStory(source: string, file: string): ChapterText {
   let lead = "";
   let current: Beat | null = null;
   let inSources = false;
+  let quizList: Tokens.List | null = null;
+  let inQuiz = false;
 
   for (const tok of tokens) {
     if (tok.type === "heading" && tok.depth === 2) {
       inSources = SOURCES_HEADING.test(plain(tok.text));
+      inQuiz = QUIZ_HEADING.test(plain(tok.text));
       current = null;
-      if (!inSources) {
+      if (!inSources && !inQuiz) {
         current = { id: "", kicker: "", title: plain(tok.text), body: [] };
         beats.push(current);
       }
+      continue;
+    }
+    if (inQuiz) {
+      if (tok.type === "list") quizList = tok as Tokens.List;
       continue;
     }
     if (inSources) {
@@ -129,8 +165,10 @@ export function parseStory(source: string, file: string): ChapterText {
     seen.add(b.id);
   }
   if (!beats.length) throw new ContentError(file, "chưa có phân cảnh nào (## Tiêu đề)");
+  const quiz = quizList?.items.map((it, i) => quizItem(it, i + 1, seen, file)) ?? [];
 
   return {
+    lang,
     slug: String(data.slug),
     title: String(data.title),
     year: String(data.year),
@@ -144,5 +182,6 @@ export function parseStory(source: string, file: string): ChapterText {
     lead: lead || beats[0].body[0] || "",
     beats,
     sources,
+    quiz,
   };
 }

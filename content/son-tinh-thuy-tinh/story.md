@@ -47,6 +47,29 @@ Thủy Tinh nổi giận, đem quân đuổi theo, hô mưa gọi gió, dâng n�
 
 Truyền thuyết kể rằng Thủy Tinh không nguôi giận, năm nào cũng dâng nước đánh Sơn Tinh — cách người xưa giải thích mùa mưa lũ hằng năm. Chuyện được chép trong Việt điện u linh tập, trong Lĩnh Nam chích quái với nhan đề Tản Viên sơn truyện, và được Đại Việt sử ký toàn thư đưa vào phần ngoại kỷ thời Hùng Vương. Sơn Tinh được thờ là Tản Viên Sơn Thánh, đứng đầu Tứ bất tử của tín ngưỡng dân gian người Việt.
 
+## Ôn tập
+
+1. Theo truyền thuyết, vua Hùng ra điều kiện gì để chọn chồng cho Mỵ Nương?
+   - [ ] Ai đánh thắng giặc ngoại xâm trước
+   - [x] Ai sáng hôm sau đem sính lễ đến trước thì được cưới công chúa
+   - [ ] Ai dâng nhiều vàng bạc nhất
+
+   Sính lễ gồm voi chín ngà, gà chín cựa, ngựa chín hồng mao. [Xem lại](#sinh-le)
+
+2. Theo truyền thuyết, vì sao Thủy Tinh dâng nước đánh Sơn Tinh?
+   - [ ] Vì Sơn Tinh xâm lấn vùng biển của ông
+   - [ ] Vì vua Hùng ra lệnh cho ông rút quân
+   - [x] Vì đến sau, không lấy được Mỵ Nương nên nổi giận
+
+   Thủy Tinh hô mưa gọi gió, dâng nước đánh Sơn Tinh; nước dâng đến đâu, Sơn Tinh nâng núi cao đến đó. [Xem lại](#nuoc-dang)
+
+3. Truyền thuyết này được người xưa dùng để giải thích điều gì?
+   - [ ] Nguồn gốc tên gọi núi Tản Viên
+   - [x] Mùa mưa lũ hằng năm
+   - [ ] Nguồn gốc nghề đắp thành
+
+   Chuyện được chép trong Việt điện u linh tập, Lĩnh Nam chích quái và Đại Việt sử ký toàn thư; Sơn Tinh được thờ là Tản Viên Sơn Thánh. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Sơn Tinh – Thủy Tinh", Wikipedia tiếng Việt — Hùng Duệ Vương, Mỵ Nương, sính lễ đến trước, các sách chép truyện (Việt điện u linh tập, Lĩnh Nam chích quái – Tản Viên sơn truyện, Toàn thư ngoại kỷ): https://vi.wikipedia.org/wiki/S%C6%A1n_Tinh_%E2%80%93_Th%E1%BB%A7y_Tinh

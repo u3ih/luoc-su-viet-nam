@@ -51,6 +51,29 @@ Năm 1783, ông viết xong Thượng kinh ký sự bằng chữ Hán, tả cả
 
 Ông tiếp tục chữa bệnh, dạy học, chỉnh lý bộ Hải Thượng y tông tâm lĩnh, viết thêm Vân khí bí điển năm 1786, và mất năm 1791. Ông được coi là ông tổ của ngành y học cổ truyền Việt Nam.
 
+## Ôn tập
+
+1. Vì sao năm 1746 Lê Hữu Trác xin ra khỏi quân đội?
+   - [x] Chán cảnh chiến tranh tàn phá, lại muốn về nuôi mẹ già và cháu nhỏ
+   - [ ] Bị thương nặng trong một trận đánh
+   - [ ] Được triều đình cử làm quan thuốc
+
+   Ông tòng quân từ năm 1740, nhưng chán chiến tranh; nhân người anh ở Hương Sơn mất, ông xin về nuôi mẹ già, cháu nhỏ. [Xem lại](#be-ten)
+
+2. Hiệu "Lãn Ông" mà Lê Hữu Trác đặt có ý gì?
+   - [ ] Ông thầy thuốc nổi tiếng khắp vùng
+   - [ ] Ông già quê ở Hải Dương
+   - [x] Ông lười, ngụ ý chán công danh
+
+   "Hải Thượng" lấy từ Hải Dương, Thượng Hồng và Bàu Thượng; "Lãn Ông" là ông lười, ngụ ý chán công danh. [Xem lại](#huong-son)
+
+3. Thượng kinh ký sự của Lê Hữu Trác ghi lại điều gì?
+   - [ ] Các phương thuốc gia truyền ông mua năm 1756
+   - [x] Chuyến lên kinh năm 1782, cảnh kinh đô và cuộc sống xa hoa trong phủ chúa
+   - [ ] Những năm ông tòng quân
+
+   Ông viết xong Thượng kinh ký sự bằng chữ Hán năm 1783, tả cảnh kinh đô và cuộc sống xa hoa trong phủ chúa mà ông mắt thấy tai nghe. [Xem lại](#thuong-kinh)
+
 ## Nguồn tham khảo
 
 - "Hải Thượng Lãn Ông", Wikipedia tiếng Việt — tiểu sử, tòng quân, về Hương Sơn, Trần Độc, ý nghĩa hiệu, Y tông tâm lĩnh, chuyến lên kinh 1782, Thượng kinh ký sự: https://vi.wikipedia.org/wiki/L%C3%AA_H%E1%BB%AFu_Tr%C3%A1c

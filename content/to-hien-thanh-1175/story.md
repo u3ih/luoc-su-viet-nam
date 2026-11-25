@@ -47,6 +47,29 @@ Năm 1175, vua Lý Anh Tông mất, thái tử Long Cán 3 tuổi lên ngôi, t�
 
 Năm 1179, khi vua mới 6 tuổi, Tô Hiến Thành ốm nặng. Trước khi mất, ông tiến cử Trần Trung Tá, người có thực tài, thay mình phụ chính, chứ không tiến cử Vũ Tán Đường, người hầu cận bên mình. Ông mất ngày 17 tháng 7 năm 1179.
 
+## Ôn tập
+
+1. Năm 1175, sau khi vua Lý Anh Tông mất, ai được giao phụ chính cho thái tử Long Cán 3 tuổi?
+   - [ ] Trần Trung Tá
+   - [ ] Vũ Tán Đường
+   - [x] Tô Hiến Thành
+
+   Thái tử Long Cán lên ngôi, tức Lý Cao Tông. [Xem lại](#mam-vang)
+
+2. Hoàng hậu đem mâm vàng đến gặp Tô Hiến Thành với mong muốn gì, và ông đáp lại ra sao?
+   - [ ] Mong ông giữ chức phụ chính, ông nhận lời
+   - [x] Mong ông đổi di chiếu để Lý Long Xưởng lên ngôi, ông kiên quyết từ chối
+   - [ ] Mong ông về hưu, ông xin thêm thời gian
+
+   Ông làm theo sự uỷ thác của vua, di chiếu được giữ và ấu chúa ở ngôi. [Xem lại](#mam-vang)
+
+3. Trước khi mất năm 1179, Tô Hiến Thành tiến cử ai thay mình phụ chính?
+   - [ ] Vũ Tán Đường, người hầu cận bên mình
+   - [x] Trần Trung Tá, người có thực tài
+   - [ ] Thân Lợi
+
+   Ông không tiến cử người hầu cận mà chọn người có thực tài; ông mất ngày 17 tháng 7 năm 1179. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Tô Hiến Thành", Wikipedia tiếng Việt — tiểu sử, Thân Lợi, khai hoang, năm 1174, mâm vàng, tiến cử Trần Trung Tá: https://vi.wikipedia.org/wiki/T%C3%B4_Hi%E1%BA%BFn_Th%C3%A0nh

@@ -47,6 +47,29 @@ Ngày 27 tháng 5 năm 1933, "Hồn bướm mơ tiên" của Khái Hưng ra đ�
 
 Cùng thời, phong trào Thơ mới giải phóng thơ khỏi phép tắc thanh vần chặt chẽ của thơ truyền thống, dùng lời ăn tiếng nói hằng ngày, chịu ảnh hưởng thơ hiện đại phương Tây. Tự Lực văn đoàn hoạt động chưa đầy một thập kỷ (1932 – 1942), là nhóm văn học được giới nghiên cứu quan tâm và tranh luận nhiều nhất trong văn học Việt Nam.
 
+## Ôn tập
+
+1. Nguyễn Tường Tam cùng các cộng sự quyết định lập Tự Lực văn đoàn sau khi tuần báo nào đổi mới ban biên tập năm 1932?
+   - [ ] Ngày Nay
+   - [x] Phong Hóa
+   - [ ] Đời Nay
+
+   Ngày 22 tháng 9 năm 1932, tuần báo Phong Hóa số 14 ra với ban biên tập hoàn toàn mới; sau đó nhóm quyết định lập bút nhóm Tự Lực văn đoàn. [Xem lại](#phong-hoa)
+
+2. Cuốn tiểu thuyết đầu tiên của Tự Lực văn đoàn là cuốn nào?
+   - [ ] Nửa chừng xuân
+   - [ ] Đoạn tuyệt
+   - [x] Hồn bướm mơ tiên
+
+   Ngày 27 tháng 5 năm 1933, "Hồn bướm mơ tiên" của Khái Hưng ra đời, là cuốn tiểu thuyết đầu tiên của văn đoàn. [Xem lại](#sang-tac)
+
+3. Phong trào Thơ mới giải phóng thơ khỏi điều gì?
+   - [x] Phép tắc thanh vần chặt chẽ của thơ truyền thống
+   - [ ] Việc dùng lời ăn tiếng nói hằng ngày
+   - [ ] Ảnh hưởng của thơ hiện đại phương Tây
+
+   Thơ mới giải phóng thơ khỏi phép tắc thanh vần chặt chẽ của thơ truyền thống, dùng lời ăn tiếng nói hằng ngày. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Tự Lực văn đoàn", Wikipedia tiếng Việt — Phong Hóa số 14 năm 1932, thành lập, tôn chỉ 10 điều năm 1934, tác phẩm, báo chí, xuất bản, thành viên, đánh giá: https://vi.wikipedia.org/wiki/T%E1%BB%B1_L%E1%BB%B1c_v%C4%83n_%C4%91o%C3%A0n

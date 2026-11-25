@@ -47,6 +47,29 @@ Năm 1820, khi lên ngôi, vua Minh Mạng đã xin nhà Thanh cho đổi quốc
 
 Quốc hiệu Đại Nam tồn tại đến năm 1945. Nhiều tên tỉnh đặt thời Minh Mạng còn được dùng đến ngày nay, dù địa giới đã thay đổi nhiều lần.
 
+## Ôn tập
+
+1. Trước năm 1831, ở hai đầu đất nước có hai thành do tổng trấn đứng đầu. Đó là những thành nào?
+   - [ ] Thăng Long và Phú Xuân
+   - [x] Bắc thành và Gia Định thành
+   - [ ] Thừa Thiên và Gia Định
+
+   Đầu thời Nguyễn, cả nước chia thành các dinh, trấn; vua Minh Mạng muốn thống nhất các đơn vị hành chính trong cả nước. [Xem lại](#truoc-1831)
+
+2. Cuộc cải cách hành chính của vua Minh Mạng năm 1831 – 1832 có điểm mới nào?
+   - [x] Bỏ các tổng trấn, đổi dinh, trấn thành tỉnh; lần đầu tiên đơn vị hành chính tỉnh xuất hiện
+   - [ ] Gộp cả nước thành một đơn vị duy nhất
+   - [ ] Lập thêm các tổng trấn ở mỗi vùng
+
+   Cả nước chia thành 31 đơn vị: phủ Thừa Thiên là trung tâm và 30 tỉnh. [Xem lại](#chia-tinh)
+
+3. Khi lên ngôi năm 1820, vua Minh Mạng xin nhà Thanh đổi quốc hiệu thành Đại Nam. Kết quả ra sao?
+   - [ ] Được nhà Thanh chấp thuận ngay
+   - [ ] Nhà Thanh yêu cầu đổi sang tên khác
+   - [x] Không được chấp thuận
+
+   Sau đó, theo sách Quốc sử di biên, ngày 2 tháng 3 năm Mậu Tuất (1838) vua bắt đầu đổi quốc hiệu là Đại Nam; chiếu ghi từ năm 1839. [Xem lại](#quoc-hieu)
+
 ## Nguồn tham khảo
 
 - "Hành chính Việt Nam thời Nguyễn", Wikipedia tiếng Việt — cải cách 1831 – 1832, 31 đơn vị, 18 tỉnh đợt đầu, Đô sát viện: https://vi.wikipedia.org/wiki/H%C3%A0nh_ch%C3%ADnh_Vi%E1%BB%87t_Nam_th%E1%BB%9Di_Nguy%E1%BB%85n

@@ -47,6 +47,29 @@ Tháp chính có các cột ốp, cửa vòm, cửa giả hình mũi lao, nhữn
 
 Mỗi kiến trúc ở Bánh Ít có dáng vẻ riêng, nhưng cùng chung nét đặc trưng là sự thắng thế của tính hoành tráng và ngôn ngữ của khối lớn. Cụm tháp được dựng khoảng cuối thế kỷ XI – đầu thế kỷ XII, thời kỳ chuyển tiếp trong nghệ thuật kiến trúc Chăm.
 
+## Ôn tập
+
+1. Cụm tháp Bánh Ít do cộng đồng nào dựng, vào khoảng thời gian nào?
+   - [ ] Người Việt, khoảng thế kỷ XV
+   - [x] Người Chăm, khoảng cuối thế kỷ XI – đầu thế kỷ XII
+   - [ ] Người Chăm, khoảng thế kỷ VII
+
+   Người Chăm dựng cụm tháp Bánh Ít vào khoảng cuối thế kỷ XI – đầu thế kỷ XII. [Xem lại](#mo-dau)
+
+2. Dù từng ngôi tháp không lớn, vì sao tổng thể tháp Bánh Ít khá đồ sộ?
+   - [ ] Vì mỗi ngôi tháp cao hơn trăm mét
+   - [ ] Vì tháp xây liền thành một khối duy nhất
+   - [x] Vì đó là các lớp kiến trúc trên cả một quả đồi tự nhiên cao 75 m
+
+   Tháp Bánh Ít là các lớp kiến trúc trên cả một quả đồi tự nhiên cao 75 m. [Xem lại](#ngon-doi)
+
+3. Ở tháp mái cong hình yên ngựa, dưới chân tháp có hình gì như đang nâng bổng tòa tháp lên?
+   - [ ] Hình quả bầu
+   - [ ] Cảnh ca múa
+   - [x] Hình người, thú, chim
+
+   Tháp mái cong hình yên ngựa có hình người, thú, chim dưới chân tháp như đang nâng bổng cả tòa tháp lên. [Xem lại](#trang-tri)
+
 ## Nguồn tham khảo
 
 - "Tháp Bánh Ít", Wikipedia tiếng Việt — vị trí, hiện trạng, các tháp, kiến trúc, trang trí, niên đại, phong cách: https://vi.wikipedia.org/wiki/Th%C3%A1p_B%C3%A1nh_%C3%8Dt

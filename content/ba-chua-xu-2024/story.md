@@ -46,6 +46,31 @@ Lễ hội diễn ra từ ngày 22 đến 27 tháng 4 âm lịch, ở miếu Bà
 
 Ngày 4 tháng 12 năm 2024, tại kỳ họp lần thứ 19 của Uỷ ban liên chính phủ Công ước 2003 về bảo vệ di sản văn hoá phi vật thể của UNESCO ở Asunción, Paraguay, lễ hội Vía Bà Chúa Xứ núi Sam được ghi danh là di sản văn hoá phi vật thể đại diện của nhân loại — di sản phi vật thể thứ 16 của Việt Nam được UNESCO vinh danh. Trước đó, miếu Bà được công nhận di tích quốc gia năm 1980, lễ hội là di sản văn hoá phi vật thể quốc gia năm 2014.
 
+## Ôn tập
+
+1. Theo truyền thuyết, sau khi trai tráng khiêng tượng không nổi, người ta chọn ai để khiêng tượng Bà xuống núi?
+   - [ ] Chín chàng trai khoẻ nhất vùng
+   - [ ] Các vị sư trong chùa
+   - [x] Chín cô gái
+   - [ ] Quân lính trấn giữ vùng biên
+
+   Theo lời một bà đồng, người ta chọn chín cô gái thì khiêng được; lễ rước kiệu hằng năm tái hiện cảnh này. [Xem lại](#ruoc-tuong)
+
+2. Lễ hội Vía Bà Chúa Xứ núi Sam là lễ hội chung của những cộng đồng nào?
+   - [ ] Người Kinh, Tày, Nùng, Thái
+   - [x] Người Kinh, Khmer, Chăm, Hoa
+   - [ ] Chỉ người Kinh và người Hoa
+
+   Lễ hội có dàn nhạc ngũ âm của người Khmer, múa lân, múa rồng của người Hoa, lễ vật và món ăn của người Hoa, người Chăm cùng góp vào. [Xem lại](#le-hoi)
+
+3. Vì sao các nhà khảo cổ cho rằng tượng Bà Chúa Xứ được đưa từ nơi xa tới?
+   - [x] Tượng tạc bằng đá sa thạch, loại đá không có ở vùng Bảy Núi hay Đồng bằng sông Cửu Long
+   - [ ] Tượng có khắc chữ ghi nơi chế tác
+   - [ ] Tượng quá lớn so với các tượng cùng vùng
+   - [ ] Tượng làm bằng gỗ quý chỉ có ở miền núi phía Bắc
+
+   Theo phát hiện của các nhà khảo cổ học những năm 1980, tượng cao hơn một mét, tạc bằng đá sa thạch. [Xem lại](#pho-tuong)
+
 ## Nguồn tham khảo
 
 - "Lễ hội Vía Bà Chúa Xứ núi Sam", Wikipedia tiếng Việt — thời gian, các nghi lễ, bốn cộng đồng, tượng đá sa thạch, giai thoại kênh Vĩnh Tế, truyền thuyết chín cô gái, lễ vào núi và lễ tại miếu: https://vi.wikipedia.org/wiki/L%E1%BB%85_h%E1%BB%99i_V%C3%ADa_B%C3%A0_Ch%C3%BAa_X%E1%BB%A9_n%C3%BAi_Sam

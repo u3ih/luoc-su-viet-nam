@@ -52,6 +52,29 @@ Ngày 10 tháng 1 năm 1867, ông cùng phái đoàn của Giám mục Gauthier 
 
 Đầu năm 1871, ông được triệu gấp ra Huế, danh nghĩa là "đưa học sinh đi Pháp", thực ra để bàn với vua Tự Đức về phương lược quân sự, ngoại giao ông đã trình cuối năm 1870. Triều đình bàn đi tính lại mà không quyết định được. Nguyễn Trường Tộ mất năm 1871.
 
+## Ôn tập
+
+1. Nguyễn Trường Tộ sinh ra trong hoàn cảnh nào và được ai dạy tiếng Pháp?
+   - [ ] Gia đình quan lại ở Huế, học với vua Tự Đức
+   - [x] Gia đình Công giáo nhiều đời ở Nghệ An, học với Giám mục Gauthier
+   - [ ] Gia đình thương nhân ở Sài Gòn, học với Albert Calmette
+
+   Ở Nhà chung Xã Đoài, ông được Giám mục Gauthier dạy tiếng Pháp và một số hiểu biết khoa học phương Tây. [Xem lại](#thay-lan)
+
+2. Ba bản điều trần ông thảo xong đầu tháng 5 năm 1863 nhận được phản hồi ra sao?
+   - [ ] Được triều đình thực hiện ngay
+   - [ ] Bị vua Tự Đức ra lệnh bãi bỏ
+   - [x] Không được phúc đáp
+
+   Đó là Tế cấp luận, Giáo môn luận và Thiên hạ phân hợp đại thế luận; ông vẫn tiếp tục gửi nhiều bản khác. [Xem lại](#dieu-tran)
+
+3. Chuyến đi Pháp của ông từ tháng 1 năm 1867 nhằm mục đích gì?
+   - [ ] Đàm phán hoà ước với chính phủ Pháp
+   - [ ] Truyền đạo Công giáo
+   - [x] Mua sách vở, dụng cụ, máy móc để lập trường học kỹ thuật ở Huế
+
+   Ông cùng phái đoàn của Giám mục Gauthier ở Pháp 8 tháng và về tới Huế ngày 29 tháng 2 năm 1868. [Xem lại](#sang-phap)
+
 ## Nguồn tham khảo
 
 - "Nguyễn Trường Tộ", Wikipedia tiếng Việt — thân thế, Xã Đoài, Hương Cảng, Sài Gòn, các bản điều trần, kênh Sắt, chuyến đi Pháp 1867 – 1868, năm 1871: https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Tr%C6%B0%E1%BB%9Dng_T%E1%BB%99

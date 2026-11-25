@@ -47,6 +47,29 @@ Trong vùng lõi có trung tâm cố đô Hoa Lư — kinh đô của các tri�
 
 Ngày 23 tháng 6 năm 2014, tại Doha, với sự đồng thuận tuyệt đối của Ủy ban Di sản thế giới, Quần thể danh thắng Tràng An chính thức trở thành di sản thế giới hỗn hợp đầu tiên của Việt Nam, đáp ứng cả giá trị nổi bật về văn hóa và thiên nhiên — di sản kép đầu tiên ở Đông Nam Á.
 
+## Ôn tập
+
+1. Ngày 23 tháng 6 năm 2014, Quần thể danh thắng Tràng An được ghi danh với tư cách gì?
+   - [ ] Di sản văn hoá phi vật thể
+   - [ ] Di sản thiên nhiên thế giới
+   - [x] Di sản thế giới hỗn hợp, đầu tiên của Việt Nam
+
+   Tràng An đáp ứng cả giá trị nổi bật về văn hoá và thiên nhiên, là di sản kép đầu tiên ở Đông Nam Á. [Xem lại](#ve-sau)
+
+2. Dấu vết con người tại Tràng An cho thấy điều gì?
+   - [ ] Con người chỉ xuất hiện từ thời Đinh, Tiền Lê
+   - [x] Cách người tiền sử tác động qua lại với cảnh quan và thích ứng với biến đổi môi trường, trải dài ít nhất 30.000 năm
+   - [ ] Người xưa sống hoàn toàn ngoài khu vực núi đá vôi
+
+   Nhóm hang Bói ở trung tâm khối đá vôi tiêu biểu có hang Bói, hang Trống, hang Mòi. [Xem lại](#tien-su)
+
+3. Cố đô Hoa Lư trong vùng lõi từng là kinh đô của những triều đại nào?
+   - [ ] Triều Lý và triều Trần
+   - [x] Triều Đinh và triều Tiền Lê
+   - [ ] Triều Ngô và triều Nguyễn
+
+   Hoa Lư là kinh đô trước khi dời đô ra Thăng Long. [Xem lại](#hoa-lu)
+
 ## Nguồn tham khảo
 
 - "Quần thể danh thắng Tràng An", Wikipedia tiếng Việt — các khu di tích, diện tích, vùng lõi, cố đô Hoa Lư, người tiền sử 30.000 năm, nhóm hang Bói, cư dân, UNESCO 23/6/2014: https://vi.wikipedia.org/wiki/Qu%E1%BA%A7n_th%E1%BB%83_danh_th%E1%BA%AFng_Tr%C3%A0ng_An

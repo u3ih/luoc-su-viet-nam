@@ -46,6 +46,29 @@ Sau 15 năm xây dựng, trong đó 9 năm vừa vận hành vừa thi công cá
 
 Hồ Hoà Bình giữ nước chống lũ, chống hạn cho đồng bằng sông Hồng và Hà Nội, cấp nước tưới mùa khô, đẩy nước mặn ra xa cửa sông, cải thiện đường thuỷ trên sông Đà. Trong quá trình xây dựng, 168 người đã mất vì tai nạn lao động hoặc bệnh tật, trong đó có các chuyên gia Liên Xô; đài tưởng niệm họ dựng cách nhà máy khoảng 300 m về phía hạ lưu. Năm 2021, dự án mở rộng nhà máy thêm 480 MW được khởi công.
 
+## Ôn tập
+
+1. Nước nào viện trợ kinh phí và cử gần một nghìn chuyên gia giúp xây dựng thuỷ điện Hoà Bình?
+   - [ ] Nhật Bản
+   - [x] Liên Xô
+   - [ ] Pháp
+
+   Liên Xô viện trợ kinh phí, cử gần một nghìn chuyên gia sang giúp xây dựng và hướng dẫn vận hành. [Xem lại](#khoi-cong)
+
+2. Tổng công suất của nhà máy thuỷ điện Hoà Bình khi khánh thành năm 1994 là bao nhiêu?
+   - [ ] 240 MW
+   - [ ] 480 MW
+   - [x] 1.920 MW
+
+   Nhà máy có 8 tổ máy, mỗi tổ 240 MW, tổng công suất 1.920 MW. [Xem lại](#phat-dien)
+
+3. Ngoài phát điện, hồ Hoà Bình giúp đồng bằng sông Hồng điều gì?
+   - [ ] Làm tăng lượng nước mặn vào cửa sông
+   - [x] Giữ nước chống lũ, chống hạn và cấp nước tưới mùa khô
+   - [ ] Chỉ phát điện, không ảnh hưởng tới lũ
+
+   Hồ giữ nước chống lũ, chống hạn cho đồng bằng sông Hồng và Hà Nội, cấp nước tưới mùa khô, đẩy nước mặn ra xa cửa sông. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Nhà máy thủy điện Hòa Bình", Wikipedia tiếng Việt — vị trí, Liên Xô viện trợ, các mốc 1979 – 1994, thông số kỹ thuật, vai trò chống lũ, tưới, giao thông, 168 người mất, đài tưởng niệm, dự án mở rộng: https://vi.wikipedia.org/wiki/Nh%C3%A0_m%C3%A1y_th%E1%BB%A7y_%C4%91i%E1%BB%87n_H%C3%B2a_B%C3%ACnh

@@ -1,0 +1,126 @@
+@use "./styles/mixins" as *;
+
+.quiz {
+  margin: 6px 0 22px;
+  padding: 18px 18px 14px;
+  border: 1px solid var(--line);
+  background: rgba(18, 11, 8, 0.55);
+}
+
+.head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.title {
+  font-family: var(--font-d);
+  font-size: 1.3rem;
+  line-height: 1.2;
+  color: var(--vang-nhat);
+}
+
+.sub {
+  font-size: 13px;
+  color: var(--giay-mo);
+}
+
+.hide,
+.off button,
+.score button,
+.feedback button {
+  flex: none;
+  font-size: 13px;
+  color: var(--giay-mo);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  transition: color 0.3s;
+
+  &:hover,
+  &:focus-visible {
+    color: var(--vang-nhat);
+  }
+}
+
+.list {
+  display: grid;
+  gap: 16px;
+  list-style: none;
+}
+
+.q {
+  border: 0;
+  min-width: 0;
+}
+
+.question {
+  margin-bottom: 8px;
+  font-weight: 600;
+  line-height: 1.45;
+}
+
+.option {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 7px 10px;
+  margin-bottom: 4px;
+  font-size: 15px;
+  line-height: 1.45;
+  border: 1px solid transparent;
+  cursor: pointer;
+  transition: border-color 0.3s, background 0.3s;
+
+  input {
+    flex: none;
+    margin-top: 4px;
+    accent-color: var(--vang);
+  }
+
+  &:hover {
+    border-color: var(--line);
+  }
+
+  :disabled & {
+    cursor: default;
+  }
+}
+
+.option.right {
+  border-color: var(--vang);
+  background: rgba(212, 162, 76, 0.12);
+}
+
+.option.wrong {
+  border-color: var(--son);
+  background: rgba(184, 50, 42, 0.14);
+}
+
+.feedback {
+  margin-top: 6px;
+  font-size: 14px;
+  line-height: 1.55;
+  color: var(--giay-mo);
+
+  b {
+    color: var(--giay);
+  }
+
+  button {
+    margin-top: 4px;
+  }
+}
+
+.score {
+  margin-top: 14px;
+  font-weight: 600;
+  color: var(--vang-nhat);
+}
+
+.off {
+  margin: 0 0 18px;
+  font-size: 13px;
+  color: var(--giay-mo);
+}

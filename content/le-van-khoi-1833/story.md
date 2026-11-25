@@ -58,6 +58,29 @@ Thi thể những người bị giết được chôn trong một gò mà ngư�
 >
 > Các sử gia đánh giá khác nhau. Trần Văn Giàu và Trần Bạch Đằng xem đây chủ yếu là mâu thuẫn giữa các phe trong giới cầm quyền, không xếp vào loại khởi nghĩa nông dân; Trần Văn Giàu ghi thêm rằng nó nổ ra cùng thời với một số cuộc khởi nghĩa nông dân trong nước. Nhà nghiên cứu Nguyễn Đình Đầu nhận xét cuộc nổi dậy bị cô lập, không có dân các tỉnh nổi lên hưởng ứng. Nguyên nhân chính cũng còn tranh luận, giữa việc triều đình xử trí Lê Văn Duyệt và việc quan chức địa phương mất quyền lực. Chương không chọn cách nhìn nào.
 
+## Ôn tập
+
+1. Sau khi tổng trấn Lê Văn Duyệt mất năm 1832, vua Minh Mạng làm gì ở Gia Định?
+   - [ ] Giao toàn quyền cho Lê Văn Khôi
+   - [x] Bãi bỏ chế độ tổng trấn ở Gia Định và đưa quan lại từ Huế vào cai quản
+   - [ ] Dời thành Gia Định ra Huế
+
+   Mộ Lê Văn Duyệt bị đánh roi, nhiều thuộc hạ bị bắt; Lê Văn Khôi, con nuôi của ông, bị bắt giam. [Xem lại](#boi-canh)
+
+2. Lê Văn Khôi cầu viện nước nào, dẫn đến chiến tranh Việt – Xiêm (1833 – 1834)?
+   - [ ] Nhà Thanh
+   - [ ] Chân Lạp
+   - [x] Xiêm La
+
+   Quân triều đình đánh bại quân Xiêm năm 1834. Khôi chết vì bệnh trong thành năm 1834; con trai ông được đưa lên thay. [Xem lại](#phan-cong)
+
+3. Ngày 8 tháng 9 năm 1835, điều gì xảy ra ở thành Phiên An?
+   - [x] Quân triều đình tấn công và chiếm thành
+   - [ ] Quân nổi dậy chiếm thêm các tỉnh Nam Kỳ
+   - [ ] Quân nổi dậy rút ra khỏi thành theo thoả thuận
+
+   Sáu người bị coi là đầu sỏ bị xử tử; thành Bát Quái bị phá và Minh Mạng cho xây thành Gia Định nhỏ hơn. Các sử gia đánh giá cuộc nổi dậy khác nhau. [Xem lại](#thanh-that-thu)
+
 ## Nguồn tham khảo
 
 - "Cuộc nổi dậy Lê Văn Khôi", Wikipedia tiếng Việt — bối cảnh, diễn biến, cầu viện Xiêm, kết thúc 1835, Mả Ngụy, nhận định của Nguyễn Đình Đầu, Trần Văn Giàu, Trần Bạch Đằng: https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_n%E1%BB%95i_d%E1%BA%ADy_L%C3%AA_V%C4%83n_Kh%C3%B4i

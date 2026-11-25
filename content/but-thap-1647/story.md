@@ -47,6 +47,29 @@ Chùa có tượng Quan Âm nghìn mắt nghìn tay bằng gỗ thế kỷ XVII,
 
 Năm 1876, vua Tự Đức đi qua, thấy ngọn tháp lớn liền gọi là Bút Tháp. Chùa là di tích quốc gia đặc biệt; lễ hội chùa (hội chùa Thấp) diễn ra ngày 24 tháng 3 âm lịch.
 
+## Ôn tập
+
+1. Tên chữ của chùa Bút Tháp là gì?
+   - [ ] Báo Nghiêm tự
+   - [x] Ninh Phúc tự
+   - [ ] Diệu Viên tự
+
+   Chùa Bút Tháp, tên chữ là Ninh Phúc tự, nằm bên đê hữu ngạn sông Đuống. [Xem lại](#ninh-phuc)
+
+2. Ai đã bỏ tiền của, ruộng lộc ra trùng tu chùa, hoàn thành năm 1647?
+   - [ ] Vua Tự Đức
+   - [ ] Thiền sư Chuyết Công
+   - [x] Hoàng thái hậu Trịnh Thị Ngọc Trúc cùng con gái
+
+   Hoàng thái hậu Trịnh Thị Ngọc Trúc cùng con gái là công chúa Lê Thị Ngọc Duyên xin phép chúa Trịnh Tráng, bỏ tiền của, ruộng lộc ra trùng tu chùa. [Xem lại](#trung-tu)
+
+3. Tên gọi "Bút Tháp" gắn với vị vua nào, khi đi qua thấy ngọn tháp lớn?
+   - [x] Vua Tự Đức, năm 1876
+   - [ ] Chúa Trịnh Tráng, năm 1647
+   - [ ] Thiền sư Chuyết Công, thế kỷ XVII
+
+   Năm 1876, vua Tự Đức đi qua, thấy ngọn tháp lớn liền gọi là Bút Tháp. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Chùa Bút Tháp", Wikipedia tiếng Việt — vị trí, tên gọi, trùng tu 1647, tượng Quan Âm, chạm khắc đá, tên Bút Tháp 1876, lễ hội, xếp hạng: https://vi.wikipedia.org/wiki/Ch%C3%B9a_B%C3%BAt_Th%C3%A1p

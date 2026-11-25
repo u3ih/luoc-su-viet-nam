@@ -46,6 +46,29 @@ Họ Khúc và Dương Đình Nghệ đều đóng ở Đại La, trị sở cũ
 
 Ngô Quyền mất năm 944, ngày mất chính xác đến nay chưa thống nhất. Trước khi mất, ông dặn Dương Tam Kha phò con trưởng là Ngô Xương Ngập; nhưng Dương Tam Kha cướp ngôi, xưng Dương Bình Vương. Các vua nhà Ngô chỉ xưng vương, chưa xưng đế. Sử gia Ngô Sĩ Liên khen ông mưu giỏi đánh tài, có công dựng lại cơ đồ.
 
+## Ôn tập
+
+1. Ngô Quyền không đóng đô ở Đại La mà chọn Cổ Loa, kinh đô cũ của thời nào?
+   - [ ] Thời họ Khúc
+   - [ ] Thời Nam Hán
+   - [x] Thời Âu Lạc
+
+   Họ Khúc và Dương Đình Nghệ đều đóng ở Đại La, trị sở cũ của chính quyền đô hộ. [Xem lại](#co-loa)
+
+2. Theo Đại Việt sử ký toàn thư, mùa xuân năm 939 Ngô Quyền làm gì?
+   - [ ] Đánh quân Nam Hán trên sông Bạch Đằng
+   - [x] Xưng vương, lập hoàng hậu, đặt trăm quan, chế định triều nghi phẩm phục
+   - [ ] Dời đô về Hoa Lư
+
+   Ông lên ngôi ngày 1 tháng 2 năm 939; sách gọi ông là Tiền Ngô Vương. [Xem lại](#trieu-dinh)
+
+3. Sau khi Ngô Quyền mất, ai cướp ngôi con trưởng của ông?
+   - [ ] Đinh Công Trứ
+   - [x] Dương Tam Kha
+   - [ ] Kiều Công Tiễn
+
+   Trước khi mất, ông dặn Dương Tam Kha phò con trưởng là Ngô Xương Ngập; nhưng Dương Tam Kha cướp ngôi, xưng Dương Bình Vương. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Ngô Quyền", Wikipedia tiếng Việt — ngày lên ngôi (10 tháng Giêng Kỷ Hợi, 1/2/939), lời Toàn thư "bắt đầu xưng vương…", phong tước Phạm Lệnh Công, Lê Lương, Đinh Công Trứ, dời đô về Cổ Loa và các cách giải thích (kể cả Tạ Chí Đại Trường), năm mất 944 và chỗ chưa thống nhất về ngày mất, Dương Tam Kha, nhận định của Ngô Sĩ Liên: https://vi.wikipedia.org/wiki/Ng%C3%B4_Quy%E1%BB%81n

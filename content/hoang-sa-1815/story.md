@@ -67,6 +67,29 @@ Trên đảo Lý Sơn, lễ khao lề thế lính Hoàng Sa vẫn diễn ra hằ
 
 Hai đảo trong nhóm Lưỡi Liềm của quần đảo Hoàng Sa mang tên Quang Ảnh và Hữu Nhật.
 
+## Ôn tập
+
+1. Theo Lê Quý Đôn, đội Hoàng Sa của chúa Nguyễn lấy người ở xã nào?
+   - [ ] Xã Phước Thọ
+   - [x] Xã An Vĩnh
+   - [ ] Xã Tân Phú Trung
+
+   Đội gồm 70 suất, hằng năm luân phiên; chèo thuyền câu nhỏ ra biển, ba ngày ba đêm mới đến đảo. [Xem lại](#bay-muoi)
+
+2. Đại Nam thực lục chép gì về năm Ất Hợi (1815)?
+   - [ ] Vua sai đội Bắc Hải ra Côn Lôn đo đạc
+   - [x] Vua sai bọn Phạm Quang Ảnh thuộc đội Hoàng Sa ra đảo Hoàng Sa xem xét, đo đạc thuỷ trình
+   - [ ] Vua sai Phạm Hữu Nhật mang mười bài gỗ ra đảo
+
+   Phạm Hữu Nhật ra đảo mang mười bài gỗ làm dấu mốc vào năm 1836. [Xem lại](#quang-anh)
+
+3. Lễ khao lề thế lính Hoàng Sa trên đảo Lý Sơn được công nhận là gì vào năm 2013?
+   - [ ] Di sản thế giới của UNESCO
+   - [x] Di sản văn hoá phi vật thể quốc gia
+   - [ ] Di tích lịch sử quốc gia
+
+   Lễ vẫn diễn ra hằng năm vào tháng 2, tháng 3 âm lịch. [Xem lại](#khao-le)
+
 ## Nguồn tham khảo
 
 - "Hải đội Hoàng Sa", Wikipedia tiếng Việt — đội Hoàng Sa theo Lê Quý Đôn, đội Bắc Hải, ghi chép năm 1754, năm 1816, câu hát: https://vi.wikipedia.org/wiki/H%E1%BA%A3i_%C4%91%E1%BB%99i_Ho%C3%A0ng_Sa

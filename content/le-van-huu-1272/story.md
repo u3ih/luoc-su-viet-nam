@@ -51,6 +51,29 @@ Lê Văn Hưu rất coi trọng nền độc lập, thường phê phán các nh
 
 Bộ Đại Việt sử ký nay không còn. Theo Trần Trọng Kim, thời thuộc Minh, sách vở nước Nam bị đưa về Trung Quốc, trong đó có 30 quyển Đại Việt sử ký, rồi thất lạc. Thời Lê, sử gia Ngô Sĩ Liên dựa vào bộ sách này để soạn Đại Việt sử ký toàn thư, còn trích nhiều lời bình của Lê Văn Hưu.
 
+## Ôn tập
+
+1. Lê Văn Hưu đỗ Bảng nhãn khi bao nhiêu tuổi?
+   - [x] 17 tuổi, trong khoa thi năm 1247
+   - [ ] 13 tuổi
+   - [ ] 14 tuổi
+
+   Năm 1247 ông đỗ Bảng nhãn năm 17 tuổi; Nguyễn Hiền 13 tuổi đỗ Trạng nguyên, Đặng Ma La 14 tuổi đỗ Thám hoa. [Xem lại](#bang-nhan)
+
+2. Bộ Đại Việt sử ký 30 quyển chép lịch sử từ ai đến ai?
+   - [ ] Từ Hùng Vương đến Lý Chiêu Hoàng
+   - [x] Từ Triệu Vũ Đế đến Lý Chiêu Hoàng
+   - [ ] Từ Triệu Vũ Đế đến Trần Thánh Tông
+
+   Theo lệnh vua Trần Thái Tông, Lê Văn Hưu soạn sách chép từ Triệu Vũ Đế đến Lý Chiêu Hoàng, dâng vua Trần Thánh Tông tháng Giêng năm 1272. [Xem lại](#soan-su)
+
+3. Ngày nay bộ Đại Việt sử ký của Lê Văn Hưu như thế nào?
+   - [ ] Còn nguyên 30 quyển, lưu giữ đến nay
+   - [ ] Được in lại nhiều lần nên vẫn còn đủ
+   - [x] Không còn, nhưng Ngô Sĩ Liên dựa vào đó soạn Toàn thư và trích nhiều lời bình của ông
+
+   Sách bị thất lạc; sử gia Ngô Sĩ Liên dựa vào bộ này để soạn Đại Việt sử ký toàn thư, còn trích nhiều lời bình của Lê Văn Hưu. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Lê Văn Hưu", Wikipedia tiếng Việt — tiểu sử, khoa thi 1247, chức vụ, bộ sử bị đưa về Trung Quốc: https://vi.wikipedia.org/wiki/L%C3%AA_V%C4%83n_H%C6%B0u

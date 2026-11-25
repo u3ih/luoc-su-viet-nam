@@ -47,6 +47,29 @@ Mộc bản triều Nguyễn còn gồm những ván khắc in ở Văn Miếu �
 
 Năm 2007, Cục Văn thư và Lưu trữ Nhà nước làm hồ sơ trình UNESCO; ngày 31 tháng 7 năm 2009, mộc bản triều Nguyễn được đưa vào Chương trình Ký ức Thế giới. Mộc bản nay được bảo quản tại một trung tâm lưu trữ quốc gia ở Đà Lạt (Lâm Đồng).
 
+## Ôn tập
+
+1. Mộc bản triều Nguyễn ra đời trong quá trình hoạt động của cơ quan nào?
+   - [ ] Văn Miếu – Quốc Tử Giám
+   - [x] Quốc sử quán triều Nguyễn
+   - [ ] Cục Văn thư và Lưu trữ Nhà nước
+
+   Các bản thảo đều được hoàng đế ngự lãm, phê duyệt rồi mới giao cho thợ giỏi nhất trong cung đình khắc. [Xem lại](#quoc-su-quan)
+
+2. Mộc bản được làm như thế nào?
+   - [ ] Chữ được viết bằng mực trên gỗ thị
+   - [ ] Chữ được đúc bằng đồng rồi ghép lại
+   - [x] Chữ được khắc ngược trên gỗ như khắc con dấu, rồi quét mực, ép giấy để in
+
+   Cách làm này cho phép nhân bản tài liệu, phổ biến rộng rãi. [Xem lại](#khac-ban)
+
+3. Ngày 31 tháng 7 năm 2009, điều gì đã xảy ra với mộc bản triều Nguyễn?
+   - [ ] Được dời từ Huế ra Văn Miếu Hà Nội
+   - [x] Được đưa vào Chương trình Ký ức Thế giới của UNESCO
+   - [ ] Được dịch toàn bộ sang chữ quốc ngữ
+
+   Đây là di sản tư liệu thế giới đầu tiên của Việt Nam, gồm 34.618 tấm. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Mộc bản triều Nguyễn", Wikipedia tiếng Việt — số lượng, Quốc sử quán, kỹ thuật khắc, gỗ, ván khắc từ Văn Miếu, hồ sơ 2007, UNESCO 31/7/2009, nơi bảo quản: https://vi.wikipedia.org/wiki/M%E1%BB%99c_b%E1%BA%A3n_tri%E1%BB%81u_Nguy%E1%BB%85n

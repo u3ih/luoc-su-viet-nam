@@ -46,6 +46,30 @@ Ngày 11 tháng 12 năm 1993, tại kỳ họp thứ 17, Uỷ ban Di sản thế
 
 Đầu năm 1995, kiến trúc sư người Ba Lan Kazimierz Kwiatkowski (Kazik) và cộng sự bắt đầu đánh giá lại khu Tử Cấm thành; ông mất ngày 19 tháng 3 năm 1997 ở Huế khi đang tham gia trùng tu Đại Nội. Từng công trình được nghiên cứu, gia cố, dựng lại: Tây Khuyết đài dựng lại năm 2012, Đông Khuyết đài khởi công năm 2013 và hoàn thành tháng 11 năm 2023.
 
+## Ôn tập
+
+1. Ngày 11 tháng 12 năm 1993, UNESCO ghi danh Quần thể di tích Cố đô Huế như thế nào?
+   - [ ] Là di sản văn hoá phi vật thể đầu tiên của Việt Nam
+   - [x] Là di sản văn hoá thế giới, di sản thế giới đầu tiên của Việt Nam
+   - [ ] Là di sản thiên nhiên thế giới
+   - [ ] Là di sản tư liệu thế giới
+
+   Uỷ ban Di sản thế giới công nhận Quần thể di tích Cố đô Huế là di sản văn hoá thế giới, đó là di sản thế giới đầu tiên của Việt Nam. [Xem lại](#ghi-danh)
+
+2. Huế trở thành kinh đô của nước Việt Nam thống nhất dưới triều vua nào?
+   - [ ] Minh Mạng
+   - [ ] Tự Đức
+   - [x] Gia Long
+
+   Năm 1802, Huế thành kinh đô của nước Việt Nam vừa thống nhất dưới triều vua Gia Long. [Xem lại](#kinh-do)
+
+3. Vì sao nhiều công trình trong hoàng cung chỉ còn là nền đất trống?
+   - [ ] Vì chưa từng được xây dựng
+   - [x] Vì hoàng thành bị hư hại nặng và bỏ bê qua các cuộc chiến tranh sau năm 1945
+   - [ ] Vì bị dỡ đi để xây lăng các vua
+
+   Hoàng thành bị hư hại và bỏ bê cho đến thập niên 1980; nhiều công trình trong Tử Cấm thành bị phá năm 1947. [Xem lại](#tan-pha)
+
 ## Nguồn tham khảo
 
 - “Quần thể di tích Cố đô Huế”, Wikipedia tiếng Việt — ngày 11/12/1993, kỳ họp thứ 17 Uỷ ban Di sản thế giới, tiêu chí (iv): https://vi.wikipedia.org/wiki/Qu%E1%BA%A7n_th%E1%BB%83_di_t%C3%ADch_C%E1%BB%91_%C4%91%C3%B4_Hu%E1%BA%BF

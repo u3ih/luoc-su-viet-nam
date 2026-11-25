@@ -47,6 +47,29 @@ Theo Thực lục, chúa Nguyễn cho họ vào vùng đất phía nam. Binh thu
 
 Nhóm Trần Thượng Xuyên, thạo buôn bán và công nghệ, phát hiện cù lao Phố, một bãi sa bồi giữa sông Đồng Nai, có thể ngược lên lấy lâm thổ sản và xuôi ra biển Cần Giờ; nhiều người về đây lập phố. Nhóm Dương Ngạn Địch lập Mỹ Tho đại phố bên sông Mỹ Tho. Trần Thượng Xuyên được xem là người đầu tiên khai khẩn quy mô lớn vùng Biên Hòa.
 
+## Ôn tập
+
+1. Dương Ngạn Địch và Trần Thượng Xuyên tự trần với chúa Nguyễn điều gì vào năm 1679?
+   - [ ] Họ là sứ giả nhà Thanh xin kết giao
+   - [ ] Họ xin buôn bán ở các cửa biển Đà Nẵng
+   - [x] Họ là bề tôi mất nước nhà Minh, không chịu làm tôi nhà Thanh, xin làm bề tôi chúa Nguyễn
+
+   Họ đem hơn 3.000 quân và hơn 50 chiến thuyền đến các cửa biển Tư Dung và Đà Nẵng. [Xem lại](#xin-than-phuc)
+
+2. Chúa Nguyễn cho hai đoàn thuyền vào đóng ở những nơi nào?
+   - [ ] Cả hai vào Mỹ Tho
+   - [ ] Dương Ngạn Địch ở Biên Hòa, Trần Thượng Xuyên ở Mỹ Tho
+   - [x] Dương Ngạn Địch ở Mỹ Tho, Trần Thượng Xuyên ở Bàn Lân (Biên Hòa)
+
+   Họ vỡ đất hoang, dựng phố xá. [Xem lại](#vao-nam)
+
+3. Nhóm Trần Thượng Xuyên lập phố ở đâu?
+   - [x] Cù lao Phố, giữa sông Đồng Nai
+   - [ ] Mỹ Tho đại phố, bên sông Mỹ Tho
+   - [ ] Cửa biển Tư Dung
+
+   Nhóm Dương Ngạn Địch lập Mỹ Tho đại phố; Trần Thượng Xuyên được xem là người đầu tiên khai khẩn quy mô lớn vùng Biên Hòa. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Trần Thượng Xuyên", Wikipedia tiếng Việt — thân thế, năm 1679, trích Đại Nam thực lục tiền biên, Bàn Lân, cù lao Phố: https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Th%C6%B0%E1%BB%A3ng_Xuy%C3%AAn

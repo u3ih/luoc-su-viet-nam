@@ -47,6 +47,29 @@ Theo một biên niên thế kỷ IV, khoảng năm 257 TCN, Thục Phán, thủ
 
 Sau cuộc khởi nghĩa Hai Bà Trưng và cuộc viễn chinh của Mã Viện, sử sách Trung Hoa không còn ghi chép về người Lạc sau năm 44. Ngôn ngữ của người Lạc Việt vẫn còn tranh luận: nhiều học giả cho là thuộc ngữ hệ Nam Á (nhánh Việt – Mường), có người đề xuất thuộc ngữ hệ Tai – Kadai. Người Lạc Việt ở châu thổ sông Hồng được cho là tổ tiên của người Kinh; một nhóm người Lạc ở thung lũng sông Tả Giang (nay thuộc Trung Quốc) được cho là tổ tiên của người Choang.
 
+## Ôn tập
+
+1. Tài liệu cổ nhất nói về người Lạc là sách nào?
+   - [ ] Lĩnh Nam chích quái
+   - [x] Giao Châu ngoại vực ký, sách thế kỷ IV
+   - [ ] Thủy kinh chú, sách thế kỷ VI
+
+   Thủy kinh chú chỉ dẫn lại Giao Châu ngoại vực ký, nói về ruộng Lạc cày cấy theo con nước thuỷ triều. [Xem lại](#lac-dien)
+
+2. Về khảo cổ học, người Lạc Việt được biết là chủ nhân của nền văn hoá nào?
+   - [ ] Văn hoá Sa Huỳnh
+   - [ ] Văn hoá Óc Eo
+   - [x] Văn hoá Đông Sơn
+
+   Họ đúc trống đồng lớn, trồng lúa nước và đắp đê. [Xem lại](#dong-son)
+
+3. Theo một biên niên thế kỷ IV, khoảng năm 257 TCN, ai lập nước Âu Lạc?
+   - [ ] Triệu Đà
+   - [ ] Lạc vương
+   - [x] Thục Phán, xưng là An Dương Vương
+
+   Thục Phán đóng đô ở Cổ Loa sau khi thu phục các Lạc tướng. [Xem lại](#au-lac)
+
 ## Nguồn tham khảo
 
 - "Lạc Việt", Wikipedia tiếng Việt — Lạc Việt thuộc các tộc Bách Việt ở Bắc Bộ; đoạn Giao Châu ngoại vực ký được Thủy kinh chú dẫn (ruộng Lạc, Lạc dân, Lạc vương, Lạc hầu, Lạc tướng, ấn đồng dải xanh, con vua Thục): https://vi.wikipedia.org/wiki/L%E1%BA%A1c_Vi%E1%BB%87t

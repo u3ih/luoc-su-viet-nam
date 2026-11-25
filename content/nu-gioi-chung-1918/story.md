@@ -47,6 +47,29 @@ Báo in khổ 29 × 41 cm, mỗi số 24 trang. Sau 22 số, Nữ Giới Chung b
 
 Tờ báo được coi là một dấu mốc quan trọng, góp phần thức tỉnh ý thức về quyền lợi và vai trò của phụ nữ trong xã hội Việt Nam đầu thế kỷ XX. Sương Nguyệt Anh mất ngày 20 tháng 1 năm 1921.
 
+## Ôn tập
+
+1. Ai là chủ bút của Nữ Giới Chung?
+   - [ ] Lê Đức
+   - [ ] Nguyễn Đình Chiểu
+   - [x] Sương Nguyệt Anh
+
+   Năm 1917, ông Lê Đức mời Sương Nguyệt Anh, con gái nhà thơ Nguyễn Đình Chiểu, làm chủ bút. [Xem lại](#suong-nguyet-anh)
+
+2. Tên Nữ Giới Chung có nghĩa là gì?
+   - [x] Tiếng chuông của nữ giới
+   - [ ] Người phụ nữ Nam Kỳ
+   - [ ] Báo của nhà thờ
+
+   Nữ Giới Chung ra số đầu ngày 1 tháng 2 năm 1918 ở Sài Gòn, là tờ báo phụ nữ đầu tiên của Việt Nam. [Xem lại](#mo-dau)
+
+3. Nữ Giới Chung bị chính quyền thuộc địa buộc đình bản sau bao nhiêu số?
+   - [ ] 12 số
+   - [x] 22 số
+   - [ ] 40 số
+
+   Báo bị buộc đình bản ngày 19 tháng 7 năm 1918. [Xem lại](#dinh-ban)
+
 ## Nguồn tham khảo
 
 - "Nữ Giới Chung", Wikipedia tiếng Việt — ra đời, chủ bút, tòa soạn, chủ trương, hình thức, đình bản: https://vi.wikipedia.org/wiki/N%E1%BB%AF_Gi%E1%BB%9Bi_Chung

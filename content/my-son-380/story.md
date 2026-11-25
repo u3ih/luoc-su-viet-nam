@@ -47,6 +47,29 @@ Sau nhiều thế kỷ chìm trong quên lãng, Mỹ Sơn được phát hiện 
 
 Nhiều tháp, trong đó có tháp A1 cao 24 m, bị phá hủy năm 1969 trong chiến tranh. Năm 1999, Thánh địa Mỹ Sơn được UNESCO ghi vào danh sách Di sản thế giới, như một ví dụ điển hình về trao đổi văn hóa và bằng chứng duy nhất của một nền văn minh châu Á đã biến mất.
 
+## Ôn tập
+
+1. Ngôi đền đầu tiên ở thung lũng Mỹ Sơn, do vua Bhadravarman I dựng, làm bằng vật liệu gì?
+   - [ ] Gạch
+   - [x] Gỗ
+   - [ ] Đá
+
+   Theo văn bia, đền thờ linga và thần Shiva; hơn hai thế kỷ sau, đền bị thiêu hủy trong một trận hỏa hoạn lớn. [Xem lại](#den-go)
+
+2. Đầu thế kỷ VII, vua Sambhuvarman làm gì ở Mỹ Sơn?
+   - [ ] Dời kinh đô khỏi Mỹ Sơn
+   - [x] Dùng gạch xây lại ngôi đền
+   - [ ] Cho phá bỏ các đền tháp cũ
+
+   Các triều vua sau tiếp tục tu sửa và dựng thêm đền tháp; tháp và lăng mộ có niên đại từ thế kỷ VII đến thế kỷ XIV. [Xem lại](#thap-gach)
+
+3. Năm 1999, Thánh địa Mỹ Sơn được UNESCO làm gì?
+   - [ ] Công nhận là khu dự trữ sinh quyển thế giới
+   - [x] Ghi vào danh sách Di sản thế giới
+   - [ ] Công nhận là công viên địa chất toàn cầu
+
+   Mỹ Sơn được xem là bằng chứng duy nhất của một nền văn minh châu Á đã biến mất. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Thánh địa Mỹ Sơn", Wikipedia tiếng Việt — vị trí, Bhadravarman I, đền gỗ, Sambhuvarman, niên đại tháp, phát hiện 1885, Finot, Parmentier, A1, chiến tranh, UNESCO 1999: https://vi.wikipedia.org/wiki/Th%C3%A1nh_%C4%91%E1%BB%8Ba_M%E1%BB%B9_S%C6%A1n

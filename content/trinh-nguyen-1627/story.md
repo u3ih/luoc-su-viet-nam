@@ -66,6 +66,29 @@ Chúa Nguyễn sụp đổ năm 1777, chúa Trịnh sụp đổ năm 1786, khi p
 >
 > Quân số: bảng thông tin ghi quân Trịnh từ một trăm nghìn đến hai trăm nghìn người, quân Nguyễn khoảng năm mươi nghìn; Phan Khoang ghi quân Nguyễn khoảng hai mươi hai nghìn bảy trăm chính quy. Trận năm 1656: Đại Việt sử ký toàn thư ghi Trịnh thắng, Đại Nam thực lục ghi Nguyễn thắng. Số lần giao tranh: bảy lần (1627–1672), hoặc tám nếu tính trận 1774–1775.
 
+## Ôn tập
+
+1. Con sông nào trở thành ranh giới giữa Đàng Ngoài và Đàng Trong?
+   - [ ] Sông Hồng
+   - [x] Sông Gianh
+   - [ ] Sông Bạch Đằng
+
+   Sau khoảng bốn mươi sáu năm giao tranh, không bên nào tiêu diệt được bên kia, hai bên đình chiến. [Xem lại](#song-gianh)
+
+2. Theo các nhà nghiên cứu hiện đại, nguyên nhân thực tế dẫn tới xung đột Trịnh – Nguyễn là gì?
+   - [ ] Chúa Nguyễn cầu viện nước ngoài
+   - [ ] Chúa Trịnh đòi dời đô vào Phú Xuân
+   - [x] Chúa Nguyễn không nộp thuế cho triều đình ở Đàng Ngoài
+
+   Sử nhà Nguyễn thì ghi lại những giai thoại như mâm hai đáy và bài thơ "Dư bất thụ sắc". [Xem lại](#hai-mien)
+
+3. Cuộc chiến dài nhất từ năm 1655 đến năm 1660 có điểm gì đặc biệt?
+   - [ ] Quân Trịnh chiếm được toàn bộ Đàng Trong
+   - [x] Là lần duy nhất quân Nguyễn chủ động đánh ra Bắc, chiếm bảy huyện Nghệ An rồi bị Trịnh Căn giành lại
+   - [ ] Có ba tàu Hà Lan tham gia thuỷ chiến ở cảng Eo
+
+   Ba tàu Hà Lan tham gia trận thuỷ chiến năm 1643, không phải cuộc chiến 1655 – 1660. [Xem lại](#cac-tran)
+
 ## Nguồn tham khảo
 
 - "Trịnh – Nguyễn phân tranh", Wikipedia tiếng Việt — các lần giao tranh, sông Gianh, kết quả, chỗ các nguồn khác nhau: https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_%E2%80%93_Nguy%E1%BB%85n_ph%C3%A2n_tranh

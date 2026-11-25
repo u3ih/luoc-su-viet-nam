@@ -1,4 +1,6 @@
 import { Chip, Link } from "@/core/ui";
+import type { Lang } from "../types";
+import { href, uiText } from "./i18n";
 
 type Toggle = { on: boolean; toggle: () => void };
 
@@ -13,6 +15,8 @@ export default function TopBar({
   scrolls,
   title,
   onRoadmap,
+  lang = "vi",
+  present,
 }: {
   narration?: Toggle & { supported: boolean };
   ambient?: Toggle;
@@ -20,13 +24,17 @@ export default function TopBar({
   scrolls?: boolean;
   title?: string;
   onRoadmap?: boolean;
+  lang?: Lang;
+  /** Nút trình chiếu (trang chương, màn rộng). */
+  present?: Toggle & { chipClass: string; exitClass: string };
 }) {
+  const t = uiText(lang);
   return (
     <header className={`topbar ${scrolls ? "topbar--scrolls" : ""}`}>
       <div className="topbar__where">
-        <Link href="/" className="brand">
+        <Link href={href.home(lang)} className="brand">
           <span className="brand__mark" aria-hidden="true" />
-          Lược sử Việt Nam
+          {t.brand}
         </Link>
         <span className={`topbar__title ${title ? "is-shown" : ""}`} aria-hidden={!title}>
           {title}
@@ -34,27 +42,39 @@ export default function TopBar({
       </div>
       <div className="controls">
         {narration?.supported && (
-          <Chip icon="mic" on={narration.on} onClick={narration.toggle} aria-label="Nghe kể" title="Nghe kể — trang tự cuộn theo nhịp đọc">
-            {narration.on ? "Đang kể · tự cuộn" : "Nghe kể"}
+          <Chip icon="mic" on={narration.on} onClick={narration.toggle} aria-label={t.listen} title={t.listenTitle}>
+            {narration.on ? t.listening : t.listen}
           </Chip>
         )}
         {ambient && (
           <Chip icon={ambient.on ? "sound-on" : "sound-off"} on={ambient.on} onClick={ambient.toggle}>
-            Âm thanh
+            {t.sound}
           </Chip>
         )}
-        {onRoadmap ? (
-          <Chip icon="grid" ghost href="/#cac-chuong">
-            Các chương
+        {present && (
+          <Chip
+            icon="screen"
+            ghost={!present.on}
+            on={present.on}
+            onClick={present.toggle}
+            title={present.on ? t.presentExit : t.presentTitle}
+            className={present.on ? present.exitClass : present.chipClass}
+          >
+            {present.on ? t.presentExit : t.present}
+          </Chip>
+        )}
+        {onRoadmap || lang === "en" ? (
+          <Chip icon="grid" ghost href={lang === "en" ? "/en" : "/#cac-chuong"}>
+            {t.chapters}
           </Chip>
         ) : (
-          <Chip icon="map" ghost href="/lo-trinh" aria-label="Lộ trình lịch sử">
-            Lộ trình
+          <Chip icon="map" ghost href="/lo-trinh" aria-label={t.roadmap}>
+            {t.roadmapShort}
           </Chip>
         )}
         {textUrl && (
           <Chip icon="doc" ghost href={textUrl}>
-            Bản chữ
+            {t.textShort}
           </Chip>
         )}
       </div>

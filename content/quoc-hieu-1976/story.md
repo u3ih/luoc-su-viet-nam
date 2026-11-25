@@ -46,6 +46,29 @@ Ngày 2 tháng 7 năm 1976, Quốc hội khoá VI quyết định đặt tên n�
 
 Nhà nước thống nhất bắt đầu tái thiết trong cảnh đất nước kiệt quệ sau chiến tranh, bị bao vây cấm vận, rồi lại có chiến sự ở biên giới Tây Nam và phía Bắc năm 1979. Nền kinh tế kế hoạch hoá tập trung lâm vào khủng hoảng ở đầu thập niên 1980 — bối cảnh của công cuộc Đổi mới năm 1986.
 
+## Ôn tập
+
+1. Quốc hội khoá VI, được bầu ngày 25 tháng 4 năm 1976, có điểm gì đáng chú ý?
+   - [x] Là Quốc hội chung đầu tiên của hai miền kể từ năm 1954
+   - [ ] Là Quốc hội chỉ gồm đại biểu miền Bắc
+   - [ ] Là Quốc hội đầu tiên được bầu sau năm 1990
+
+   Quốc hội gồm 492 đại biểu của cả hai miền. [Xem lại](#bau-cu)
+
+2. Ngày 2 tháng 7 năm 1976, Quốc hội khoá VI quyết định đặt tên nước là gì?
+   - [ ] Việt Nam Dân chủ Cộng hoà
+   - [x] Cộng hoà Xã hội chủ nghĩa Việt Nam
+   - [ ] Cộng hoà miền Nam Việt Nam
+
+   Quốc hội còn quyết định thủ đô là Hà Nội và đổi tên Sài Gòn thành Thành phố Hồ Chí Minh. [Xem lại](#ten-nuoc)
+
+3. Cùng ngày 2 tháng 7 năm 1976, Quốc hội bầu ai làm Chủ tịch nước?
+   - [ ] Trường Chinh
+   - [ ] Phạm Văn Đồng
+   - [x] Tôn Đức Thắng
+
+   Trường Chinh được bầu làm Chủ tịch Uỷ ban Thường vụ Quốc hội, Phạm Văn Đồng làm Thủ tướng. [Xem lại](#ten-nuoc)
+
 ## Nguồn tham khảo
 
 - “Quốc hội Việt Nam khóa VI”, Wikipedia tiếng Việt — bầu ngày 25/4/1976, Quốc hội chung đầu tiên từ 1954, coi là tổng tuyển cử theo Hiệp định Paris, 492 đại biểu và cơ cấu, bầu lãnh đạo ngày 2/7/1976: https://vi.wikipedia.org/wiki/Qu%E1%BB%91c_h%E1%BB%99i_Vi%E1%BB%87t_Nam_kh%C3%B3a_VI

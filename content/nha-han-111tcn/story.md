@@ -46,6 +46,29 @@ Dương Bộc đóng ở mặt đông nam, Lộ Bác Đức đóng ở mặt tâ
 
 Các nơi trong Nam Việt lần lượt xin hàng. Hán thư chép quan Giám quận Quế Lâm là Cư Ông dụ hơn bốn mươi vạn dân Âu Lạc ra hàng, còn viên tướng cũ của Âu Lạc là Hoàng Đồng giết Tây Vu Vương rồi hàng nhà Hán; có nhà nghiên cứu cho rằng Tây Vu Vương là thủ lĩnh vùng Cổ Loa cũ. Nhà Hán chia đất Nam Việt thành chín quận; ba quận Giao Chỉ, Cửu Chân, Nhật Nam ở miền Bắc và Bắc Trung Bộ Việt Nam ngày nay. Sử cũ như Toàn thư lấy năm này làm mốc mở đầu thời Bắc thuộc; sách giáo khoa hiện nay thường tính từ khi Triệu Đà chiếm Âu Lạc, khoảng năm 179 TCN.
 
+## Ôn tập
+
+1. Vì sao nhà Hán đem quân đánh Nam Việt?
+   - [ ] Vua Nam Việt tự xưng là hoàng đế nhà Hán
+   - [x] Lữ Gia phản đối việc vào chầu rồi giết vua, Thái hậu và sứ giả nhà Hán
+   - [ ] Nam Việt đem quân đánh Trường An
+
+   Năm 112 TCN, Lữ Gia giết Ai Vương, Cù Thái hậu và sứ giả, lập Triệu Kiến Đức làm vua; nhà Hán cử năm đạo quân. [Xem lại](#chia-re)
+
+2. Thành Phiên Ngung bị quân Hán hạ như thế nào?
+   - [ ] Quân Hán vây suốt nhiều năm
+   - [x] Dương Bộc phóng lửa đốt thành lúc chập tối; tờ mờ sáng quân trong thành đầu hàng
+   - [ ] Thành thất thủ nhờ quân Âu Lạc mở cửa
+
+   Dương Bộc đóng ở mặt đông nam, Lộ Bác Đức đóng ở mặt tây bắc thành. [Xem lại](#phien-ngung)
+
+3. Sau năm 111 TCN, ba quận nào ở miền Bắc và Bắc Trung Bộ Việt Nam ngày nay thuộc nhà Hán?
+   - [ ] Quế Lâm, Thương Ngô, Nam Hải
+   - [x] Giao Chỉ, Cửu Chân, Nhật Nam
+   - [ ] Giao Chỉ, Cửu Chân, Hợp Phố
+
+   Nhà Hán chia đất Nam Việt thành chín quận. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Chiến tranh Hán – Nam Việt", Wikipedia tiếng Việt — sứ nhà Hán năm 113 TCN, Lữ Gia năm 112 TCN, năm đạo quân, Tầm Hiệp, Thạch Môn, trận Phiên Ngung mùa đông 111 TCN, Kiến Đức và Lữ Gia chạy ra biển, Cư Ông, Tây Vu Vương và Hoàng Đồng, chín quận: https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_H%C3%A1n_%E2%80%93_Nam_Vi%E1%BB%87t

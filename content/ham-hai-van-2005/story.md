@@ -47,6 +47,29 @@ Ngày 5 tháng 6 năm 2005, hầm được khánh thành. Trong hầm có 3.140 
 
 Để giảm tải cho hầm cũ, từ năm 2016 dự án hầm Hải Vân 2 dài khoảng 6,3 km được triển khai song song. Ngày 11 tháng 1 năm 2021, hầm Hải Vân 2 được đưa vào khai thác.
 
+## Ôn tập
+
+1. Dãy núi Hải Vân nằm ở ranh giới giữa hai thành phố nào?
+   - [ ] Huế và Quảng Trị
+   - [x] Huế và Đà Nẵng
+   - [ ] Đà Nẵng và Quảng Ngãi
+
+   Dãy núi Hải Vân đổ ra biển ở ranh giới thành phố Huế và thành phố Đà Nẵng. [Xem lại](#deo)
+
+2. Hầm đường bộ Hải Vân được khánh thành vào ngày nào?
+   - [ ] 27 tháng 8 năm 2000
+   - [ ] 11 tháng 1 năm 2021
+   - [x] 5 tháng 6 năm 2005
+
+   Hầm khởi công ngày 27 tháng 8 năm 2000 và khánh thành ngày 5 tháng 6 năm 2005. [Xem lại](#khanh-thanh)
+
+3. Xe máy muốn qua hầm Hải Vân phải đi bằng cách nào?
+   - [ ] Tự chạy qua hầm với tốc độ tối đa 70 km/h
+   - [x] Được chở qua bằng xe chuyên dụng có thu phí
+   - [ ] Chạy trên hầm phụ song song
+
+   Người đi bộ, xe máy, xe đạp điện, xe thô sơ không được tự lưu thông qua hầm; xe máy được chở qua bằng xe chuyên dụng có thu phí. [Xem lại](#dao-ham)
+
 ## Nguồn tham khảo
 
 - "Hầm đường bộ Hải Vân", Wikipedia tiếng Việt — vị trí, chiều dài, khởi công 27/8/2000, khánh thành 5/6/2005, chi phí, thông số, hệ thống chiếu sáng và thông gió, quy định qua hầm, hầm Hải Vân 2 (2021): https://vi.wikipedia.org/wiki/H%E1%BA%A7m_%C4%91%C6%B0%E1%BB%9Dng_b%E1%BB%99_H%E1%BA%A3i_V%C3%A2n

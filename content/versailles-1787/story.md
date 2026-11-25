@@ -46,6 +46,29 @@ Ngày 28 tháng 11 năm 1787, tại cung điện Versailles, Ngoại trưởng P
 
 Bá Đa Lộc rời Pháp ngày 27 tháng 12 năm 1787 để chờ quân ở Pondichéry, nhưng quân không đến: nước Pháp kiệt quệ tài chính, rồi Cách mạng Pháp nổ ra ngày 14 tháng 7 năm 1789. Hiệp ước không được thi hành điều khoản nào. Bá Đa Lộc tự quyên tiền của thương nhân, mua súng đạn, tàu, chiêu mộ một số người Pháp về Gia Định năm 1789 giúp Nguyễn Ánh — với tư cách cá nhân, không phải viện trợ chính thức của nước Pháp.
 
+## Ôn tập
+
+1. Ai thay mặt Nguyễn Ánh sang Pháp cầu viện, và đi cùng ai?
+   - [ ] Pierre Pigneau de Béhaine, cùng Nguyễn Huệ
+   - [x] Giám mục Bá Đa Lộc (Pierre Pigneau de Béhaine), cùng hoàng tử Cảnh mới bốn tuổi
+   - [ ] Ngoại trưởng de Montmorin, cùng vua Louis XVI
+
+   Cuối năm 1784 họ rời Việt Nam; đầu tháng 5 năm 1787 được vua Louis XVI tiếp. [Xem lại](#duong-sang)
+
+2. Theo hiệp ước ký ngày 28 tháng 11 năm 1787, Pháp hứa giúp gì, và Nguyễn Ánh nhượng lại gì?
+   - [ ] Pháp hứa viện trợ vàng bạc; Nguyễn Ánh nhượng đảo Phú Quốc
+   - [x] Pháp hứa cấp bốn tàu chiến, 1.200 bộ binh cùng vũ khí; Nguyễn Ánh nhượng cửa biển Đà Nẵng và đảo Côn Lôn, cho Pháp quyền tự do buôn bán
+   - [ ] Pháp hứa giúp quân Tây Sơn; Nguyễn Ánh nhượng đất Gia Định
+
+   Hiệp ước gồm 10 khoản, do bá tước de Montmorin thay mặt vua Louis XVI ký với Bá Đa Lộc. [Xem lại](#ky-ket)
+
+3. Vì sao hiệp ước không được thi hành?
+   - [ ] Nguyễn Ánh huỷ hiệp ước sau khi đánh bại Tây Sơn
+   - [ ] Bá Đa Lộc từ chối thực hiện
+   - [x] Nước Pháp kiệt quệ tài chính, rồi Cách mạng Pháp nổ ra năm 1789, nên quân không đến
+
+   Bá Đa Lộc tự quyên tiền, mua súng đạn, chiêu mộ một số người Pháp giúp Nguyễn Ánh với tư cách cá nhân, không phải viện trợ chính thức của Pháp. [Xem lại](#ve-sau)
+
 ## Nguồn tham khảo
 
 - "Hiệp ước Versailles (1787)", Wikipedia tiếng Việt — bối cảnh 1771 – 1785, quốc thư và hoàng tử Cảnh, hành trình qua Pondichéry, Lorient, ký ngày 28/11/1787, 10 khoản và nội dung chính, không được thi hành, nguyên nhân, Bá Đa Lộc tự quyên góp, nhận định: https://vi.wikipedia.org/wiki/Hi%E1%BB%87p_%C6%B0%E1%BB%9Bc_Versailles_(1787)
