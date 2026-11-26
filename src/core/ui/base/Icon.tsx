@@ -12,9 +12,22 @@ const PATHS = {
   screen: "M3 5h18v11H3zM8 20h8M12 16v4",
   flag: "M5 21V4M5 4h11l-2 4 2 4H5",
   route: "M6 19a2 2 0 1 0 0-4 2 2 0 0 0 0 4zM18 9a2 2 0 1 0 0-4 2 2 0 0 0 0 4zM8 17h6a3 3 0 0 0 0-6h-4a3 3 0 0 1 0-6h6",
+  search: "M11 18a7 7 0 1 0 0-14 7 7 0 0 0 0 14zM20 20l-4-4",
+  arrow: "M5 12h14M13 6l6 6-6 6",
+  close: "M6 6l12 12M18 6L6 18",
+  pen: "M4 20h4L19 9l-4-4L4 16v4zM13 7l4 4",
+  check: "M5 12l5 5 9-10",
+  cube: "M12 3l8 4.5v9L12 21l-8-4.5v-9L12 3zM4 7.5l8 4.5 8-4.5M12 12v9",
+  book: "M4 5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2V5zM4 19a2 2 0 0 1 2-2h13",
+  play: "M8 5l11 7-11 7V5z",
+  restart: "M4 12a8 8 0 1 0 3-6.2M4 4v4h4",
+  filter: "M4 6h16M7 12h10M10 18h4",
 } as const;
 
 export type IconName = keyof typeof PATHS;
+
+/** Mọi biểu tượng đang có (trang /thiet-ke liệt kê). */
+export const iconNames = Object.keys(PATHS) as IconName[];
 
 export default function Icon({ name, size = 14, className }: { name: IconName; size?: number; className?: string }) {
   return (

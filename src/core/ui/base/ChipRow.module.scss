@@ -1,0 +1,30 @@
+@use "../styles/mixins" as *;
+
+.row {
+  display: flex;
+  gap: var(--s-2);
+  padding: 2px 0 6px;
+  list-style: none;
+  overflow-x: auto;
+  scrollbar-width: none;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+
+  li {
+    flex: none;
+  }
+
+  @include phone {
+    flex-wrap: nowrap;
+    margin-inline: calc(var(--gutter) * -1);
+    padding-inline: var(--gutter);
+    scroll-padding-inline: var(--gutter);
+  }
+}
+
+.wrap {
+  flex-wrap: wrap;
+  overflow: visible;
+}

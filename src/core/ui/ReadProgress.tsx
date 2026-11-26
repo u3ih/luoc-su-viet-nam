@@ -1,6 +1,6 @@
 "use client";
 
-import { Button } from "@/core/ui";
+import { Button, Icon } from "@/core/ui";
 import { clearProgress, ratio } from "../story/progress";
 import { useProgress } from "./hooks/useProgress";
 import css from "./ReadProgress.module.scss";
@@ -22,7 +22,7 @@ export function ReadSummary({ slugs }: { slugs: string[] }) {
   const all = useProgress();
   const done = slugs.filter((s) => all[s]?.done).length;
   const started = slugs.filter((s) => all[s] && !all[s].done).length;
-  if (!done && !started) return <p className={css.summary}>Tiến độ xem được lưu ngay trên trình duyệt của bạn.</p>;
+  if (!done && !started) return null;
   return (
     <p className={css.summary}>
       <span className={css.bar} style={{ "--p": `${Math.round((done / Math.max(1, slugs.length)) * 100)}%` } as React.CSSProperties} aria-hidden="true" />
@@ -59,7 +59,7 @@ export function ContinueButton({ chapters, className }: { chapters: { slug: stri
   if (!target) return null;
   return (
     <Button variant="primary" className={className} href={`/chuong/${target.slug}`}>
-      ▶ {label}: {target.title}
+      <Icon name="play" size={12} /> {label}: {target.title}
     </Button>
   );
 }

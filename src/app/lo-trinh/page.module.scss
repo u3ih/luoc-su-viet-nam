@@ -2,63 +2,174 @@
 
 .page {
   min-height: 100vh;
-  background: var(--then);
+  background: var(--bg);
   background-image: var(--grain), radial-gradient(70% 50% at 70% 0%, rgba(184, 50, 42, 0.2), transparent 60%);
 }
 
 .head {
-  padding: 120px var(--gutter) 28px;
-}
+  max-width: calc(var(--content) + var(--gutter) * 2);
+  margin: 0 auto;
+  padding: 120px var(--gutter) var(--s-2);
 
-.title {
-  font-family: var(--font-d);
-  font-weight: 800;
-  font-size: clamp(2.8rem, 8vw, 6rem);
-  line-height: 1;
-  margin: 14px 0 20px;
-  @include gold-text;
-}
-
-.lead {
-  max-width: 44rem;
-  color: var(--giay-mo);
-  margin-bottom: 22px;
-}
-
-.list {
-  padding: 40px var(--gutter) 80px;
-}
-
-.foot {
-  margin-top: 48px;
-  font-size: 14px;
-  color: var(--giay-mo);
-
-  a {
-    color: var(--vang-nhat);
+  @include phone {
+    padding-top: 96px;
   }
 }
 
+.list {
+  padding: var(--s-7) var(--gutter) var(--s-8);
+}
+
+.inner {
+  max-width: var(--content);
+  margin: 0 auto;
+}
+
+.foot {
+  max-width: var(--measure);
+  margin-top: var(--s-7);
+  padding-top: var(--s-4);
+  border-top: 1px solid var(--border-soft);
+  font-size: 13px;
+  color: var(--text-faint);
+
+  a {
+    color: var(--accent-soft);
+  }
+}
+
+// ---------- bộ lọc ----------
+.filter {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: var(--s-3) var(--s-4);
+  max-width: calc(var(--content) + var(--gutter) * 2);
+  margin: 0 auto;
+  padding: var(--s-4) var(--gutter) var(--s-5);
+}
+
+.searchField {
+  flex: 0 1 300px;
+
+  @include phone {
+    flex: 1 1 100%;
+  }
+}
+
+.yearIn {
+  display: flex;
+  gap: 6px;
+
+  input {
+    width: 120px;
+  }
+}
+
+.count {
+  display: flex;
+  align-items: center;
+  gap: var(--s-3);
+  min-height: var(--tap);
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+.check {
+  display: flex;
+  align-items: center;
+  gap: var(--s-2);
+  min-height: var(--tap);
+  font-size: var(--fs-sm);
+  color: var(--text);
+  cursor: pointer;
+
+  input {
+    width: 16px;
+    height: 16px;
+    accent-color: var(--accent);
+  }
+}
+
+// ô năm + tỉnh/thành: màn rộng nằm chung hàng; điện thoại thu vào sau nút "Năm, tỉnh"
+.more {
+  display: contents;
+}
+
+.filter .moreBtn {
+  display: none;
+}
+
+@include phone {
+  .filter .moreBtn {
+    display: inline-flex;
+
+    &[aria-expanded="true"] {
+      color: var(--then);
+      background: var(--accent-soft);
+      border-color: var(--accent-soft);
+    }
+  }
+
+  .more {
+    display: none;
+    flex: 1 1 100%;
+    flex-wrap: wrap;
+    gap: var(--s-3) var(--s-4);
+  }
+
+  .moreOpen {
+    display: flex;
+  }
+}
+
+// ---------- dòng thời gian ----------
+// thanh nhảy tới thời kỳ: dính ở đầu màn hình khi cuộn qua hàng trăm sự kiện
+.eraNav {
+  position: sticky;
+  top: 0;
+  z-index: 6;
+  margin: 0 calc(var(--gutter) * -1);
+  padding: var(--s-2) var(--gutter);
+  background: linear-gradient(180deg, var(--bg) 84%, rgba(18, 11, 8, 0));
+
+  > ul {
+    max-width: var(--content);
+    margin-inline: auto;
+
+    @include phone {
+      margin-inline: calc(var(--gutter) * -1);
+    }
+  }
+}
+
+.empty {
+  padding: var(--s-5) 0;
+  color: var(--text-muted);
+}
+
 .era {
-  margin-top: 56px;
-  scroll-margin-top: 80px;
+  margin-top: var(--s-7);
+  scroll-margin-top: 72px;
 }
 
-.eraTitle {
-  font-family: var(--font-d);
-  font-size: clamp(1.7rem, 3.4vw, 2.5rem);
-  font-weight: 800;
-}
+.eraCount {
+  margin-left: 6px;
+  font-family: var(--font-b);
+  font-size: var(--fs-sm);
+  font-weight: 500;
+  color: var(--text-muted);
+  white-space: nowrap;
 
-.eraIntro {
-  max-width: 44rem;
-  color: var(--giay-mo);
-  margin-bottom: 14px;
+  @include phone {
+    display: block;
+    margin: 6px 0 0;
+  }
 }
 
 .events {
   list-style: none;
-  border-left: 1px solid var(--line);
+  border-left: 1px solid var(--border);
   margin-left: 6px;
 }
 
@@ -66,8 +177,11 @@
   position: relative;
   display: grid;
   grid-template-columns: minmax(110px, 180px) 1fr;
-  gap: 4px 24px;
-  padding: 16px 0 16px 24px;
+  gap: var(--s-1) var(--s-5);
+  padding: var(--s-4) 0 var(--s-4) var(--s-5);
+  // danh sách dài: trình duyệt bỏ qua việc vẽ những mục đang nằm ngoài màn hình
+  content-visibility: auto;
+  contain-intrinsic-size: auto 140px;
 
   // hạt mốc trên trục thời gian
   &::before {
@@ -78,28 +192,38 @@
     width: 11px;
     height: 11px;
     border-radius: 50%;
-    border: 1px solid var(--vang);
-    background: var(--then);
+    border: 1px solid var(--accent);
+    background: var(--bg);
   }
 
   @include phone {
     grid-template-columns: 1fr;
-    padding-left: 18px;
+    padding: 14px 0 14px 18px;
+
+    &::before {
+      top: 20px;
+    }
   }
 }
 
 .ready::before {
   background: var(--son);
-  border-color: var(--vang-nhat);
+  border-color: var(--accent-soft);
   box-shadow: 0 0 0 4px rgba(184, 50, 42, 0.25);
 }
 
 .year {
   font-family: var(--font-d);
   font-weight: 700;
-  font-size: 1.15rem;
-  color: var(--vang-nhat);
+  font-size: 1.1rem;
   line-height: 1.4;
+  color: var(--accent-soft);
+}
+
+.body {
+  display: grid;
+  gap: var(--s-1);
+  max-width: 46rem;
 }
 
 .eventTitle {
@@ -108,361 +232,55 @@
   line-height: 1.4;
 
   a {
-    color: var(--giay);
-    text-decoration-color: var(--vang);
+    color: var(--text);
+    text-decoration-color: var(--border-strong);
     text-underline-offset: 4px;
   }
 }
 
 .tag {
-  margin-left: 8px;
-  padding: 1px 8px;
-  font-size: 11px;
-  font-weight: 500;
-  letter-spacing: 0.06em;
-  color: var(--giay-mo);
-  border: 1px solid var(--line);
-  border-radius: 999px;
-  vertical-align: middle;
+  margin-left: var(--s-2);
 }
 
 .text {
-  color: var(--giay-mo);
+  color: var(--text-muted);
   font-size: 15px;
-  max-width: 46rem;
+
+  @include phone {
+    font-size: 14.5px;
+    line-height: 1.6;
+  }
+}
+
+.src {
+  font-size: 12.5px;
+  color: var(--text-faint);
+
+  a {
+    color: var(--accent);
+    text-underline-offset: 2px;
+  }
 }
 
 .meta {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 6px 16px;
-  margin-top: 6px;
+  gap: var(--s-2) var(--s-4);
+  margin-top: var(--s-1);
   font-size: 13px;
-  color: var(--giay-mo);
-}
-
-.go {
-  color: var(--vang-nhat);
-  font-weight: 600;
-  text-decoration: none;
-}
-
-.claim {
-  color: var(--giay-mo);
-  text-underline-offset: 3px;
+  color: var(--text-muted);
 }
 
 .addr {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 2px 18px;
-  margin-top: 4px;
   font-size: 13px;
-  color: var(--giay-mo);
-}
+  color: var(--text-muted);
 
-.src {
-  margin-top: 4px;
-  font-size: 13px;
-  color: var(--giay-mo);
-
-  a {
-    color: var(--vang);
-    text-decoration: underline;
-    text-underline-offset: 2px;
-  }
-}
-
-// bộ lọc khoảng năm + tỉnh/thành
-.filter {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: flex-end;
-  gap: 14px 18px;
-  padding: 0 var(--gutter) 22px;
-
-  @include phone {
-    padding: 0 var(--gutter) 18px;
-  }
-}
-
-.field {
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  font-size: 13px;
-  color: var(--giay-mo);
-
-  input,
-  select {
-    height: 38px;
-    padding: 0 14px;
-    font: inherit;
-    font-size: 14px;
-    color: var(--giay);
-    background: var(--then);
-    border: 1px solid var(--line);
-    border-radius: 999px;
-
-    &:focus-visible {
-      outline: 2px solid var(--vang);
-      outline-offset: 1px;
-    }
-  }
-}
-
-.yearIn {
-  display: flex;
-  gap: 6px;
-
-  input {
-    width: 112px;
-  }
-}
-
-.count {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  height: 38px;
-  font-size: 13px;
-  color: var(--giay-mo);
-}
-
-.clear {
-  padding: 4px 12px;
-  font: inherit;
-  font-size: 12px;
-  color: var(--vang-nhat);
-  background: none;
-  border: 1px solid var(--line);
-  border-radius: 999px;
-  cursor: pointer;
-}
-
-.empty {
-  padding: 24px 0;
-  color: var(--giay-mo);
-}
-
-// ô tìm kiếm và nút "chỉ sự kiện đã có chương" trong bộ lọc
-.searchIn {
-  width: min(100%, 240px);
-}
-
-// ô năm + tỉnh/thành: trên máy tính nằm chung hàng như bình thường; điện thoại thu vào sau nút "Lọc năm, tỉnh"
-.more {
-  display: contents;
-}
-
-.moreBtn {
-  display: none;
-}
-
-@include phone {
-  .searchField {
-    order: -1;
-    flex: 1 1 100%;
-  }
-
-  .searchIn {
-    width: 100%;
-  }
-
-  .more {
-    display: none;
-    flex: 1 1 100%;
-    flex-wrap: wrap;
-    gap: 14px 18px;
-  }
-
-  .moreOpen {
-    display: flex;
-  }
-
-  .moreBtn {
-    display: inline-flex;
-    align-items: center;
-    height: 38px;
-    padding: 0 14px;
-    font: inherit;
-    font-size: 14px;
-    color: var(--giay);
-    background: none;
-    border: 1px solid var(--line);
-    border-radius: 999px;
-    cursor: pointer;
-
-    &[aria-expanded="true"] {
-      color: var(--then);
-      background: var(--vang-nhat);
-      border-color: var(--vang-nhat);
-    }
-
-    &:focus-visible {
-      outline: 2px solid var(--vang-nhat);
-      outline-offset: 2px;
-    }
-  }
-}
-
-.check {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  height: 38px;
-  font-size: 14px;
-  color: var(--giay);
-  cursor: pointer;
-
-  input {
-    width: 16px;
-    height: 16px;
-    accent-color: var(--vang);
-  }
-}
-
-// thanh nhảy tới thời kỳ: dính ở đầu màn hình khi cuộn qua hàng trăm sự kiện
-.eraNav {
-  position: sticky;
-  top: 0;
-  z-index: 6;
-  margin: 0 calc(var(--gutter) * -1);
-  padding: 8px var(--gutter);
-  background: linear-gradient(180deg, var(--then) 86%, rgba(18, 11, 8, 0));
-
-  ul {
-    display: flex;
-    gap: 8px;
-    list-style: none;
-    overflow-x: auto;
-    padding-bottom: 4px;
-    scrollbar-width: thin;
-  }
-
-  a {
-    display: inline-flex;
-    align-items: center;
-    gap: 7px;
-    white-space: nowrap;
-    height: 32px;
-    padding: 0 13px;
-    font-size: 13px;
-    color: var(--giay);
-    text-decoration: none;
-    border: 1px solid var(--line);
-    border-radius: 999px;
-
-    b {
-      font-weight: 500;
-      font-size: 11.5px;
-      color: var(--vang);
-    }
-
-    &[aria-current="location"] {
-      color: var(--then);
-      background: var(--vang-nhat);
-      border-color: var(--vang-nhat);
-
-      b {
-        color: var(--then);
-      }
-    }
-
-    &:focus-visible {
-      outline: 2px solid var(--vang-nhat);
-      outline-offset: 2px;
-    }
-  }
-}
-
-.eraCount {
-  margin-left: 10px;
-  font-family: var(--font-b, inherit);
-  font-size: 0.8rem;
-  font-weight: 400;
-  color: var(--giay-mo);
-}
-
-// danh sách dài: trình duyệt bỏ qua việc vẽ những mục đang nằm ngoài màn hình
-.event {
-  content-visibility: auto;
-  contain-intrinsic-size: auto 120px;
-}
-
-@include phone {
-  .head {
-    padding-top: 96px;
-  }
-
-  .lead {
-    font-size: 15.5px;
-    line-height: 1.65;
-  }
-
-  .field input,
-  .field select,
-  .moreBtn {
-    height: var(--tap);
-  }
-
-  .field input {
-    font-size: 16px; // < 16px thì Safari iOS tự phóng to khi chạm vào ô
-  }
-
-  .eraNav ul {
-    margin: 0 calc(var(--gutter) * -1);
-    padding: 0 var(--gutter) 4px;
-    scrollbar-width: none;
-
-    &::-webkit-scrollbar {
-      display: none;
-    }
-  }
-
-  .era {
-    margin-top: 40px;
-  }
-
-  .eraCount {
-    display: block;
-    margin: 4px 0 0;
-  }
-
-  .event {
-    padding: 14px 0 14px 18px;
-
-    &::before {
-      top: 20px;
-    }
-  }
-
-  .year {
-    font-size: 1.05rem;
-  }
-
-  .text {
-    font-size: 14.5px;
+  p {
     line-height: 1.6;
   }
+}
 
-  // địa chỉ, nguồn: chữ nhỏ, sát nhau — phụ cho phần mô tả
-  .addr,
-  .src,
-  .meta {
-    font-size: 12.5px;
-    line-height: 1.55;
-  }
-
-  .addr {
-    flex-direction: column;
-    gap: 0;
-  }
-
-  .go {
-    display: inline-flex;
-    align-items: center;
-    min-height: 36px;
-  }
+.place {
+  color: var(--text-muted);
 }

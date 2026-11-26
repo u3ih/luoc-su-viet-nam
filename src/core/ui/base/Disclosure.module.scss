@@ -1,0 +1,40 @@
+@use "../styles/mixins" as *;
+
+.summary {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--s-2);
+  min-height: 32px;
+  list-style: none;
+  font-size: var(--fs-sm);
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: color var(--dur-1);
+
+  &::-webkit-details-marker {
+    display: none;
+  }
+
+  // mũi tên nhỏ xoay khi mở
+  &::before {
+    content: "";
+    width: 6px;
+    height: 6px;
+    border-right: 1.5px solid currentColor;
+    border-bottom: 1.5px solid currentColor;
+    rotate: -45deg;
+    transition: rotate var(--dur-2) var(--ease-out);
+  }
+
+  &:hover {
+    color: var(--accent-soft);
+  }
+
+  .details[open] > &::before {
+    rotate: 45deg;
+  }
+}
+
+.body {
+  padding: var(--s-2) 0 var(--s-1) 14px;
+}

@@ -1,7 +1,7 @@
 @use "../core/ui/styles/mixins" as *;
 
 .root {
-  margin-top: 18px;
+  margin-top: var(--s-2);
 }
 
 // thanh công cụ dính ở đầu màn hình khi cuộn qua danh sách dài
@@ -9,9 +9,10 @@
   position: sticky;
   top: 0;
   z-index: 5;
-  margin: 0 calc(var(--gutter) * -1) 8px;
-  padding: 12px var(--gutter) 10px;
-  background: linear-gradient(180deg, var(--then) 82%, rgba(18, 11, 8, 0));
+  // tràn hết bề ngang cửa sổ dù khung nội dung hẹp hơn
+  margin: 0 calc(50% - 50vw) var(--s-2);
+  padding: var(--s-3) calc(50vw - 50%) var(--s-2);
+  background: linear-gradient(180deg, var(--bg) 84%, rgba(18, 11, 8, 0));
 
   // màn hình nhỏ: thanh công cụ cao gần 1/4 màn hình nên không dính nữa
   @include phone {
@@ -23,223 +24,119 @@
 .row {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px 14px;
+  gap: var(--s-3);
   align-items: center;
 }
 
-.sr {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  overflow: hidden;
-  clip-path: inset(50%);
-}
-
 .search {
-  flex: 1 1 260px;
+  flex: 1 1 280px;
   max-width: 460px;
 
-  input {
-    width: 100%;
-    height: 40px;
-    padding: 0 14px;
-    font: inherit;
-    font-size: 15px;
-    color: var(--giay);
-    background: var(--then);
-    border: 1px solid var(--line);
-    border-radius: 999px;
-
-    &::placeholder {
-      color: var(--giay-mo);
-    }
-
-    &:focus-visible {
-      outline: 2px solid var(--vang);
-      outline-offset: 1px;
-    }
+  @include phone {
+    flex-basis: 100%;
+    max-width: none;
   }
 }
 
 .views {
-  display: inline-flex;
-  border: 1px solid var(--line);
-  border-radius: 999px;
-  overflow: hidden;
-
-  button {
-    height: 38px;
-    padding: 0 16px;
-    font: inherit;
-    font-size: 14px;
-    color: var(--giay-mo);
-    background: none;
-    border: 0;
-    cursor: pointer;
-
-    &[aria-pressed="true"] {
-      color: var(--then);
-      background: var(--vang);
-      font-weight: 600;
-    }
-
-    &:focus-visible {
-      outline: 2px solid var(--vang-nhat);
-      outline-offset: -3px;
-    }
+  @include phone {
+    width: 100%;
   }
 }
 
-// chip thời kỳ: một hàng cuộn ngang, không chiếm nhiều chỗ trên điện thoại
 .chips {
-  display: flex;
-  gap: 8px;
-  margin: 12px 0 0;
-  padding: 0 0 6px;
-  list-style: none;
-  overflow-x: auto;
-  scrollbar-width: thin;
-
-  button {
-    display: inline-flex;
-    gap: 7px;
-    align-items: baseline;
-    white-space: nowrap;
-    height: 34px;
-    padding: 0 14px;
-    font: inherit;
-    font-size: 13.5px;
-    color: var(--giay);
-    background: none;
-    border: 1px solid var(--line);
-    border-radius: 999px;
-    cursor: pointer;
-    align-items: center;
-
-    b {
-      font-weight: 500;
-      font-size: 12px;
-      color: var(--vang);
-    }
-
-    &[aria-pressed="true"] {
-      color: var(--then);
-      background: var(--vang-nhat);
-      border-color: var(--vang-nhat);
-
-      b {
-        color: var(--then);
-      }
-    }
-
-    &:focus-visible {
-      outline: 2px solid var(--vang-nhat);
-      outline-offset: 2px;
-    }
-  }
+  margin-top: var(--s-3);
 }
 
 .count {
   display: flex;
   align-items: center;
-  gap: 12px;
-  margin-top: 8px;
+  gap: var(--s-3);
+  min-height: var(--s-2);
   font-size: 13px;
-  color: var(--giay-mo);
-}
+  color: var(--text-muted);
 
-.clear {
-  padding: 3px 12px;
-  font: inherit;
-  font-size: 12px;
-  color: var(--vang-nhat);
-  background: none;
-  border: 1px solid var(--line);
-  border-radius: 999px;
-  cursor: pointer;
+  &:empty {
+    min-height: 0;
+  }
 }
 
 .empty {
-  padding: 28px 0;
-  color: var(--giay-mo);
+  padding: var(--s-6) 0;
+  color: var(--text-muted);
 
   a {
-    color: var(--vang-nhat);
+    color: var(--accent-soft);
   }
 }
 
 .era {
-  margin-top: 40px;
+  margin-top: var(--s-7);
   scroll-margin-top: 150px;
+
+  @include phone {
+    margin-top: var(--s-6);
+  }
 }
 
 .eraHead {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: baseline;
-  gap: 4px 18px;
-  padding-bottom: 8px;
-  border-bottom: 1px solid var(--line);
-}
-
-.eraTitle {
-  font-family: var(--font-d);
-  font-size: clamp(1.4rem, 2.6vw, 1.9rem);
-  font-weight: 800;
-  color: var(--vang-nhat);
-}
-
-.eraMeta {
-  font-size: 13px;
-  color: var(--giay-mo);
-
-  a {
-    color: var(--giay);
-    text-underline-offset: 3px;
-  }
-}
-
-.eraIntro {
-  max-width: 46rem;
-  margin: 10px 0 0;
-  color: var(--giay-mo);
-  font-size: 15px;
-}
-
-// thẻ gọn hơn bản cũ để một màn hình thấy được nhiều chương
-.grid {
-  margin-top: 16px;
-  grid-template-columns: repeat(auto-fill, minmax(min(100%, 270px), 1fr));
-  gap: 14px;
-}
-
-// thẻ gọn: cả thẻ bấm được (link tên chương phủ kín thẻ), tên chương nổi hơn năm, "bản chữ" chỉ là một dòng chữ nhỏ
-.card {
-  padding: 18px 20px 16px;
-  transform-style: preserve-3d;
-
-  // thắng .chapter-card:hover của ui.css
-  &:global(.chapter-card) {
-    transform: perspective(900px) rotateX(var(--rx, 0deg)) rotateY(var(--ry, 0deg)) translateY(var(--lift, 0px));
-    transition:
-      border-color 0.4s,
-      transform 0.45s var(--ease-out),
-      box-shadow 0.6s var(--ease-out),
-      background 0.6s;
-
-    &:hover {
-      --lift: -6px;
+  // điện thoại: bỏ link "sự kiện trên bản đồ" cho gọn, chip thời kỳ đã đủ điều hướng
+  @include phone {
+    > :last-child:not(:first-child) {
+      display: none;
     }
   }
 
+  padding-bottom: var(--s-4);
+  margin-bottom: var(--s-4);
+  border-bottom: 1px solid var(--border-soft);
+}
+
+.eraCount {
+  margin-left: 6px;
+  font-family: var(--font-b);
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 264px), 1fr));
+  gap: var(--s-4);
+  list-style: none;
+
+  @include phone {
+    gap: var(--s-3);
+  }
+}
+
+// thẻ chương: năm → tên → hai dòng giới thiệu → chân thẻ (tiến độ · bản chữ · mũi tên). Cả thẻ là link.
+.card.card {
+  min-height: 228px;
+  padding: 20px 20px 16px;
+  transform: perspective(900px) rotateX(var(--rx, 0deg)) rotateY(var(--ry, 0deg)) translateY(var(--lift, 0px));
+  transform-style: preserve-3d;
+  transition:
+    border-color var(--dur-2),
+    box-shadow var(--dur-3) var(--ease-out),
+    transform 0.45s var(--ease-out);
+
+  &:hover {
+    --lift: -4px;
+  }
+
+  // ánh vàng theo con trỏ
   &::before {
     content: "";
     position: absolute;
     inset: 0;
+    border-radius: inherit;
     pointer-events: none;
-    background: radial-gradient(circle at var(--gx, 50%) var(--gy, 0%), rgba(232, 196, 126, 0.16), transparent 50%);
+    background: radial-gradient(circle at var(--gx, 50%) var(--gy, 0%), rgba(232, 196, 126, 0.14), transparent 55%);
     opacity: 0;
-    transition: opacity 0.5s;
+    transition: opacity var(--dur-3);
   }
 
   &:hover::before {
@@ -247,139 +144,117 @@
   }
 
   :global(.seal) {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    scale: 0.78;
+    transform-origin: top right;
     pointer-events: none;
-    transition: transform 0.6s var(--ease-out);
+    transition: transform var(--dur-3) var(--ease-out);
   }
 
   &:hover :global(.seal) {
-    transform: translateZ(36px) rotate(-6deg);
+    transform: translateZ(30px) rotate(-6deg);
   }
 
-  // `.chapter-card` đặt display: flex nên phải tự ẩn khi có thuộc tính hidden
-  &[hidden] {
-    display: none;
-  }
-
-  &:focus-within {
-    border-color: var(--vang);
+  @include phone {
+    min-height: 0;
+    padding: 18px 18px 14px;
   }
 }
 
-// nhãn thời kỳ và năm không chạy đè con dấu ở góc
-.cardEra,
 .year {
-  padding-right: 74px;
-}
-
-.year {
-  margin-top: 8px;
+  padding-right: 64px;
   font-family: var(--font-d);
   font-weight: 700;
-  font-size: 1.15rem;
-  line-height: 1.3;
-  color: var(--vang);
+  font-size: 1.05rem;
+  line-height: 1.35;
+  color: var(--accent);
 }
 
 .cardTitle {
-  margin-top: 6px;
-  font-size: 1.45rem;
-  line-height: 1.22;
-}
+  margin-top: var(--s-2);
+  text-wrap: pretty;
+  font-family: var(--font-d);
+  font-size: 1.4rem;
+  line-height: 1.2;
 
-.cardLink {
-  color: var(--giay);
-  text-decoration: none;
-
-  // phủ kín thẻ: bấm chỗ nào trên thẻ cũng mở chương
-  &::after {
-    content: "";
-    position: absolute;
-    inset: 0;
-    z-index: 1;
+  a {
+    color: var(--text);
+    text-decoration: none;
   }
 
-  &:focus-visible {
-    outline: none;
-
-    &::after {
-      outline: 2px solid var(--vang-nhat);
-      outline-offset: 2px;
-    }
+  @include phone {
+    font-size: 1.3rem;
   }
 }
 
 .teaser {
   display: -webkit-box;
   -webkit-box-orient: vertical;
-  -webkit-line-clamp: 3;
-  line-clamp: 3;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
   overflow: hidden;
-  font-size: 14px;
-  margin: 8px 0 14px;
+  margin: var(--s-2) 0 var(--s-4);
+  font-size: var(--fs-sm);
+  line-height: 1.6;
+  color: var(--text-muted);
 }
 
 .cardFoot {
   display: flex;
-  flex-wrap: wrap;
   align-items: center;
-  gap: 8px 14px;
+  gap: var(--s-3);
   margin-top: auto;
-  padding-top: 12px;
-  border-top: 1px solid rgba(212, 162, 76, 0.16);
+  padding-top: var(--s-3);
+  border-top: 1px solid var(--border-soft);
   font-size: 13px;
 }
 
-.watch {
-  font-weight: 600;
-  color: var(--son-sang);
-  transition: color 0.3s;
+.textLink {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 32px;
+  color: var(--text-muted);
+  text-decoration: none;
+  transition: color var(--dur-1);
 
-  :global(.chapter-card):hover & {
-    color: var(--vang-nhat);
+  &:hover {
+    color: var(--text);
   }
 }
 
-// nằm trên lớp link phủ thẻ để vẫn bấm riêng được
-.textLink {
-  position: relative;
-  z-index: 2;
+.go {
+  display: grid;
+  place-items: center;
+  width: 32px;
+  height: 32px;
   margin-left: auto;
-  color: var(--giay-mo);
-  text-underline-offset: 3px;
+  border: 1px solid var(--border);
+  border-radius: 50%;
+  color: var(--accent-soft);
+  transition:
+    background var(--dur-2),
+    color var(--dur-2),
+    translate var(--dur-2) var(--ease-out);
 
-  &:hover {
-    color: var(--giay);
+  :global(li):hover & {
+    color: var(--then);
+    background: var(--accent);
+    border-color: var(--accent);
+    translate: 3px 0;
   }
 }
 
 .more {
-  display: block;
-  width: 100%;
-  margin-top: 14px;
-  padding: 12px 16px;
-  font: inherit;
-  font-size: 14px;
-  color: var(--vang-nhat);
-  background: rgba(212, 162, 76, 0.06);
-  border: 1px dashed var(--line);
-  cursor: pointer;
-  transition: border-color 0.3s, background 0.3s;
-
-  &:hover {
-    border-color: var(--vang);
-    background: rgba(212, 162, 76, 0.12);
-  }
-
-  &:focus-visible {
-    outline: 2px solid var(--vang-nhat);
-    outline-offset: 2px;
-  }
+  margin-top: var(--s-4);
+  border-style: dashed;
 }
 
 // kiểu "dòng thời gian": mỗi chương một dòng
 .rows {
   list-style: none;
-  margin-top: 6px;
 }
 
 .rowItem {
@@ -387,13 +262,15 @@
   grid-template-columns: minmax(96px, 150px) 1fr auto;
   gap: 4px 20px;
   align-items: baseline;
-  padding: 12px 6px;
-  border-bottom: 1px solid rgba(241, 230, 210, 0.08);
+  padding: 12px 8px;
+  border-bottom: 1px solid var(--border-soft);
+  border-radius: var(--r-sm);
   content-visibility: auto;
   contain-intrinsic-size: auto 64px;
+  transition: background var(--dur-1);
 
   &:hover {
-    background: rgba(212, 162, 76, 0.07);
+    background: var(--surface-1);
   }
 
   @include phone {
@@ -404,7 +281,7 @@
 .rowYear {
   font-family: var(--font-d);
   font-weight: 700;
-  color: var(--vang-nhat);
+  color: var(--accent-soft);
 }
 
 .rowTitle {
@@ -412,85 +289,18 @@
   font-weight: 600;
 
   a {
-    color: var(--giay);
-    text-decoration-color: var(--vang);
+    color: var(--text);
+    text-decoration-color: var(--border-strong);
     text-underline-offset: 4px;
   }
 }
 
 .rowTeaser {
   max-width: 52rem;
-  font-size: 14px;
-  color: var(--giay-mo);
+  font-size: var(--fs-sm);
+  color: var(--text-muted);
 }
 
 .rowBadge {
   justify-self: end;
-}
-
-@include phone {
-  .search {
-    flex-basis: 100%;
-    max-width: none;
-
-    input {
-      height: var(--tap);
-      font-size: 16px; // < 16px thì Safari iOS tự phóng to trang khi chạm vào ô
-    }
-  }
-
-  .views {
-    display: flex;
-    width: 100%;
-
-    button {
-      flex: 1;
-      height: 40px;
-    }
-  }
-
-  // chip thời kỳ chạy sát hai mép màn hình, cuộn ngang bằng ngón cái
-  .chips {
-    margin: 12px calc(var(--gutter) * -1) 0;
-    padding: 0 var(--gutter) 6px;
-    scroll-padding: 0 var(--gutter);
-    scrollbar-width: none;
-
-    &::-webkit-scrollbar {
-      display: none;
-    }
-
-    button {
-      height: 38px;
-    }
-  }
-
-  .era {
-    margin-top: 32px;
-  }
-
-  .eraIntro {
-    font-size: 14.5px;
-    line-height: 1.6;
-  }
-
-  .grid {
-    gap: 12px;
-  }
-
-  .card {
-    padding: 16px 18px 14px;
-  }
-
-  .cardTitle {
-    font-size: 1.3rem;
-  }
-
-  .cardFoot {
-    font-size: 14px;
-  }
-
-  .textLink {
-    padding: 6px 0;
-  }
 }

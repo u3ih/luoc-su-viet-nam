@@ -5,7 +5,7 @@ export default function SourceLinks({ urls, className }: { urls: string[]; class
   if (!urls.length) return null;
   return (
     <p className={className}>
-      <span>Nguồn đọc đầy đủ: </span>
+      <span>Nguồn: </span>
       {urls.map((u, i) => (
         <span key={u}>
           {i > 0 && " · "}

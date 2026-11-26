@@ -1,4 +1,4 @@
-import { Button, DongSonBand, Kicker, Link } from "@/core/ui";
+import { Button, DongSonBand, Icon, Kicker, Link } from "@/core/ui";
 import { site } from "@/site.config";
 import type { Chapter } from "../types";
 import { href, uiText } from "./i18n";
@@ -21,7 +21,7 @@ export default function ReadingView({ chapter, editUrl }: { chapter: Chapter; ed
           <h1 className={css.title}>{chapter.title}</h1>
           <p className={css.lead}>{chapter.lead}</p>
           <Button variant="primary" href={href.chapter(chapter.slug, lang)}>
-            {t.watch}
+            <Icon name="play" size={12} /> {t.watch}
           </Button>
         </header>
         <DongSonBand className="band" />

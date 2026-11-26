@@ -1,0 +1,34 @@
+@use "../styles/mixins" as *;
+
+.group {
+  display: inline-flex;
+  padding: 3px;
+  border: 1px solid var(--border);
+  border-radius: var(--r-pill);
+  background: var(--surface-1);
+
+  button {
+    flex: 1;
+    min-height: 36px;
+    padding: 0 var(--s-4);
+    border-radius: var(--r-pill);
+    font-size: var(--fs-sm);
+    color: var(--text-muted);
+    white-space: nowrap;
+    transition: color var(--dur-1), background var(--dur-2);
+
+    &:hover {
+      color: var(--text);
+    }
+
+    &[aria-pressed="true"] {
+      font-weight: 600;
+      color: var(--then);
+      background: var(--accent);
+    }
+
+    &:focus-visible {
+      outline-offset: -2px;
+    }
+  }
+}

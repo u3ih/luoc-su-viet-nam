@@ -1,8 +1,7 @@
 "use client";
 
-import { useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
-import { DongSonBand, Link } from "@/core/ui";
+import { Button, Card, Chip, ChipRow, DongSonBand, Icon, Link, useNavigate } from "@/core/ui";
 import { site } from "@/site.config";
 import type { Chapter, JourneyStep } from "../types";
 import css from "./ChapterEnd.module.scss";
@@ -28,7 +27,7 @@ type Props = {
 export default function ChapterEnd({ chapter, editUrl, journey, autoNext, onRestart, onReview }: Props) {
   const { next, prev, lang } = chapter;
   const t = uiText(lang);
-  const router = useRouter();
+  const navigate = useNavigate();
   const withJourney = (slug: string) => `${href.chapter(slug, lang)}${journey ? `?hanh-trinh=${journey.id}` : ""}`;
   const target = journey?.next ? withJourney(journey.next.slug) : next?.slug ? href.chapter(next.slug, lang) : null;
 
@@ -43,12 +42,12 @@ export default function ChapterEnd({ chapter, editUrl, journey, autoNext, onRest
       } catch {
         // không lưu được thì chương sau không tự kể, vẫn chuyển trang
       }
-      router.push(target!);
+      navigate(target!);
       return;
     }
     const timer = setTimeout(() => setLeft((s) => s - 1), 1000);
     return () => clearTimeout(timer);
-  }, [counting, left, target, router]);
+  }, [counting, left, target, navigate]);
   useEffect(() => {
     if (!autoNext) setCancelled(false);
   }, [autoNext]);
@@ -59,13 +58,13 @@ export default function ChapterEnd({ chapter, editUrl, journey, autoNext, onRest
       <span className={css.nextYear}>{year}</span>
       <span className={css.nextTitle}>{title}</span>
       <span className={css.arrow} aria-hidden="true">
-        →
+        <Icon name="arrow" size={20} />
       </span>
     </Link>
   );
 
   return (
-    <div className="chapter-end beat__extra">
+    <div className={`chapter-end beat__extra ${css.end}`}>
       <DongSonBand className="band band--dim" />
       <Quiz quiz={chapter.quiz} lang={lang} slug={chapter.slug} onReview={onReview} />
 
@@ -94,64 +93,72 @@ export default function ChapterEnd({ chapter, editUrl, journey, autoNext, onRest
             : card(href.chapter(next.slug, lang), t.nextChapter, next.year, next.title)
           : !journey?.next && card("/lo-trinh", t.nextWaiting, next.year, next.title, true))}
       <div className={css.nav}>
-        {prev?.slug && (
-          <Link href={href.chapter(prev.slug, lang)}>
-            ← {prev.title} · {prev.year}
-          </Link>
+        {prev?.slug ? (
+          <Button variant="quiet" size="sm" href={href.chapter(prev.slug, lang)}>
+            <Icon name="left" size={14} /> {prev.title} · {prev.year}
+          </Button>
+        ) : (
+          <span />
         )}
-        <button type="button" onClick={onRestart}>
-          {t.restart}
-        </button>
+        <Button variant="quiet" size="sm" onClick={onRestart}>
+          <Icon name="restart" size={14} /> {t.restart}
+        </Button>
       </div>
 
       {chapter.related.length > 0 && (
-        <div className={css.related}>
+        <section className={css.related} aria-label={t.related}>
+          <h3 className={css.blockHead}>{t.related}</h3>
           {chapter.related.map((g) => (
-            <div key={`${g.kind}-${g.label}`}>
-              <h3 className={css.relatedHead}>
+            <div key={`${g.kind}-${g.label}`} className={css.group}>
+              <p className={css.groupHead}>
                 {g.kind === "person" ? t.samePerson : t.samePlace} · <b>{g.label}</b>
-              </h3>
-              <ul>
+              </p>
+              <ChipRow label={`${g.kind === "person" ? t.samePerson : t.samePlace}: ${g.label}`} wrap>
                 {g.chapters.map((c) => (
-                  <li key={c.slug}>
-                    <Link href={href.chapter(c.slug, lang)}>
-                      {c.title} <span>{c.year}</span>
-                    </Link>
-                  </li>
+                  <Chip key={c.slug} href={href.chapter(c.slug, lang)}>
+                    {c.title} <span className={css.chipYear}>{c.year}</span>
+                  </Chip>
                 ))}
-              </ul>
+              </ChipRow>
             </div>
           ))}
-        </div>
+        </section>
       )}
 
       {chapter.sources.length > 0 && (
-        <div className="sources">
-          <h3>{t.sources}</h3>
+        <Card tone="veil" pad="sm" className={css.sources}>
+          <h3 className={css.blockHead}>{t.sources}</h3>
           <ul>
             {chapter.sources.map((s) => (
               <li key={s}>{s}</li>
             ))}
           </ul>
-        </div>
+        </Card>
       )}
-      <div className="contribute">
-        <Link href={href.text(chapter.slug, lang)}>{t.readText}</Link>
-        <Link href={editUrl}>{t.edit}</Link>
+      <ChipRow label={t.otherChapters} wrap className={css.links}>
+        <Chip icon="book" href={href.text(chapter.slug, lang)}>
+          {t.readText}
+        </Chip>
+        <Chip icon="pen" href={editUrl}>
+          {t.edit}
+        </Chip>
         {chapter.altLang && (
-          <Link href={href.chapter(chapter.slug, chapter.altLang)} hrefLang={chapter.altLang} lang={chapter.altLang}>
+          <Chip href={href.chapter(chapter.slug, chapter.altLang)} hrefLang={chapter.altLang} lang={chapter.altLang}>
             {t.otherLang}
-          </Link>
+          </Chip>
         )}
-        {lang === "vi" && <Link href="/lo-trinh">{t.roadmap}</Link>}
-        <Link href={lang === "en" ? "/en" : "/#cac-chuong"}>{t.otherChapters}</Link>
-      </div>
-      <p className="disclaimer disclaimer--ai" role="note">
+        {lang === "vi" && (
+          <Chip icon="map" href="/lo-trinh">
+            {t.roadmap}
+          </Chip>
+        )}
+        <Chip icon="grid" href={lang === "en" ? "/en" : "/#cac-chuong"}>
+          {t.otherChapters}
+        </Chip>
+      </ChipRow>
+      <p className={css.fine} role="note">
         {t.aiNotice}
-      </p>
-      {chapter.disclaimer && <p className="disclaimer">{chapter.disclaimer}</p>}
-      <p className="disclaimer">
-        {t.license}{" "}
+        {chapter.disclaimer && ` ${chapter.disclaimer}`} {t.license}{" "}
         <Link href={site.license.content.url} rel="license">
           {site.license.content.name}
         </Link>

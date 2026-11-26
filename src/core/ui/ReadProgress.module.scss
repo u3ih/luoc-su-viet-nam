@@ -30,7 +30,7 @@
 }
 
 .summary {
-  margin: -6px 0 22px;
+  margin: calc(var(--s-3) * -1) 0 var(--s-4);
   font-size: 14px;
   color: var(--giay-mo);
 

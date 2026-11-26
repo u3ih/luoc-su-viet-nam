@@ -3,7 +3,7 @@
 import { useEffect, useMemo, useState, type ReactNode } from "react";
 import { fold, shortEra, slugify } from "@/core/content/era-id";
 import type { RoadmapEra, RoadmapEvent } from "@/core/content/roadmap";
-import { DongSonBand, Link } from "@/core/ui";
+import { Button, Chip, ChipRow, Disclosure, Field, Icon, Input, Link, SearchField, SectionHead, Select, Tag } from "@/core/ui";
 import type { MapPin } from "@/core/ui/HistoryMap";
 import MapLoader from "@/core/ui/MapLoader";
 import { ReadBadge } from "@/core/ui/ReadProgress";
@@ -111,10 +111,9 @@ export default function RoadmapExplorer({ eras, footer }: { eras: RoadmapEra[]; 
   }, [ids, events]);
 
   const bound = (label: string, b: Bound, set: (b: Bound) => void) => (
-    <div className={css.field}>
-      <label htmlFor={`nam-${label}`}>{label}</label>
+    <Field label={label} htmlFor={`nam-${label}`}>
       <div className={css.yearIn}>
-        <input
+        <Input
           id={`nam-${label}`}
           type="number"
           inputMode="numeric"
@@ -124,26 +123,26 @@ export default function RoadmapExplorer({ eras, footer }: { eras: RoadmapEra[]; 
           value={b.value}
           onChange={(e) => set({ ...b, value: e.currentTarget.value })}
         />
-        <select aria-label={`${label}: trước hay sau Công nguyên`} value={b.bc ? "tcn" : "scn"} onChange={(e) => set({ ...b, bc: e.currentTarget.value === "tcn" })}>
+        <Select aria-label={`${label}: trước hay sau Công nguyên`} value={b.bc ? "tcn" : "scn"} onChange={(e) => set({ ...b, bc: e.currentTarget.value === "tcn" })}>
           <option value="tcn">TCN</option>
           <option value="scn">SCN</option>
-        </select>
+        </Select>
       </div>
-    </div>
+    </Field>
   );
 
   return (
     <>
       <form className={css.filter} role="search" aria-label="Lọc sự kiện theo năm và tỉnh thành" onSubmit={(e) => e.preventDefault()}>
-        <button type="button" className={css.moreBtn} aria-expanded={moreOpen} aria-controls="loc-them" onClick={() => setMoreOpen(!moreOpen)}>
-          Lọc năm, tỉnh{lo !== null || hi !== null || place ? " · đang lọc" : ""}
-        </button>
+        <SearchField className={css.searchField} label="Tìm sự kiện" placeholder="Tìm theo tên, nhân vật, địa danh…" value={query} onChange={setQuery} />
+        <Button size="sm" className={css.moreBtn} aria-expanded={moreOpen} aria-controls="loc-them" onClick={() => setMoreOpen(!moreOpen)}>
+          <Icon name="filter" size={14} /> Năm, tỉnh{lo !== null || hi !== null || place ? " · đang lọc" : ""}
+        </Button>
         <div id="loc-them" className={`${css.more} ${moreOpen ? css.moreOpen : ""}`}>
           {bound("Từ năm", from, setFrom)}
           {bound("Đến năm", to, setTo)}
-          <div className={css.field}>
-            <label htmlFor="loc-tinh">Tỉnh / thành (hiện nay)</label>
-            <select id="loc-tinh" value={place} onChange={(e) => setPlace(e.currentTarget.value)}>
+          <Field label="Tỉnh / thành (hiện nay)" htmlFor="loc-tinh">
+            <Select id="loc-tinh" value={place} onChange={(e) => setPlace(e.currentTarget.value)}>
               <option value="">Mọi nơi</option>
               {provinces.map(([p, n]) => (
                 <option key={p} value={p}>
@@ -151,12 +150,8 @@ export default function RoadmapExplorer({ eras, footer }: { eras: RoadmapEra[]; 
                 </option>
               ))}
               {unplaced > 0 && <option value={NO_PLACE}>Chưa rõ vị trí ({unplaced})</option>}
-            </select>
-          </div>
-        </div>
-        <div className={`${css.field} ${css.searchField}`}>
-          <label htmlFor="loc-tu-khoa">Tìm sự kiện</label>
-          <input id="loc-tu-khoa" type="search" className={css.searchIn} placeholder="tên, nhân vật, địa danh…" value={query} onChange={(e) => setQuery(e.currentTarget.value)} />
+            </Select>
+          </Field>
         </div>
         {someWaiting && (
           <label className={css.check}>
@@ -167,9 +162,9 @@ export default function RoadmapExplorer({ eras, footer }: { eras: RoadmapEra[]; 
         <p className={css.count} role="status">
           {rangeBad ? "Năm bắt đầu lớn hơn năm kết thúc." : `${events.length} / ${all.length} sự kiện`}
           {filtered && (
-            <button type="button" className={css.clear} onClick={reset}>
-              Xoá bộ lọc
-            </button>
+            <Button size="sm" onClick={reset}>
+              <Icon name="close" size={12} /> Xoá bộ lọc
+            </Button>
           )}
         </p>
       </form>
@@ -178,76 +173,81 @@ export default function RoadmapExplorer({ eras, footer }: { eras: RoadmapEra[]; 
 
       <section className={css.list} aria-label="Dòng thời gian">
         <nav className={css.eraNav} aria-label="Nhảy tới thời kỳ">
-          <ul>
+          <ChipRow label="Thời kỳ">
             {eras.map((era, i) => {
               const n = events.filter((e) => e.era === i).length;
               if (!n) return null;
               const id = slugify(era.title);
               return (
-                <li key={id}>
-                  <Link href={`#${id}`} aria-current={active === id ? "location" : undefined}>
-                    {shortEra(era.title)} <b>{n}</b>
-                  </Link>
-                </li>
+                <Chip key={id} href={`#${id}`} on={active === id} count={n} aria-current={active === id ? "location" : undefined}>
+                  {shortEra(era.title)}
+                </Chip>
               );
             })}
-          </ul>
+          </ChipRow>
         </nav>
-        {!events.length && <p className={css.empty}>Không có sự kiện nào khớp bộ lọc. Thử nới khoảng năm hoặc chọn &ldquo;Mọi nơi&rdquo;.</p>}
-        {eras.map((era, i) => {
-          const items = events.filter((e) => e.era === i);
-          if (!items.length) return null;
-          return (
-            <section key={era.title} className={css.era} id={slugify(era.title)}>
-              <h2 className={css.eraTitle}>
-                {era.title} <span className={css.eraCount}>{items.length} sự kiện{items.some((e) => e.slug) ? `, ${items.filter((e) => e.slug).length} đã có chương` : ""}</span>
-              </h2>
-              <DongSonBand className="band" />
-              {era.intro && !filtered && <p className={css.eraIntro}>{era.intro}</p>}
-              <ol className={css.events}>
-                {items.map((e) => (
-                  <li key={`${e.sortYear}-${e.title}`} className={`${css.event} ${e.slug ? css.ready : ""}`}>
-                    <p className={css.year}>{e.year}</p>
-                    <div>
-                      <h3 className={css.eventTitle}>
-                        {e.slug ? <Link href={`/chuong/${e.slug}`}>{e.title}</Link> : e.title}
-                        {e.legend && <span className={css.tag}>truyền thuyết</span>}
-                      </h3>
-                      <p className={css.text}>{e.text}</p>
-                      {(e.ancient || e.before2025 || e.now) && (
-                        <p className={css.addr}>
-                          {e.ancient && <span>Tên xưa: {e.ancient}</span>}
-                          {e.before2025 && <span>Trước 2025: {e.before2025}</span>}
-                          {e.now && <span>Hiện nay: {e.now}</span>}
-                        </p>
-                      )}
-                      <SourceLinks urls={e.sources} className={css.src} />
-                      <p className={css.meta}>
-                        {e.place && <span>{e.place}</span>}
-                        {e.slug ? (
-                          <>
-                            <Link className={css.go} href={`/chuong/${e.slug}`}>
-                              ▶ Xem chương
-                            </Link>
-                            <ReadBadge slug={e.slug} />
-                          </>
-                        ) : (
-                          <Link
-                            className={css.claim}
-                            href={`${site.repo}/issues/new?template=de-xuat-chuong.yml&title=${encodeURIComponent(`[Chương] ${e.title} (${e.year})`)}`}
-                          >
-                            Nhận viết chương này
-                          </Link>
-                        )}
-                      </p>
-                    </div>
-                  </li>
-                ))}
-              </ol>
-            </section>
-          );
-        })}
-        {footer}
+        <div className={css.inner}>
+          {!events.length && <p className={css.empty}>Không có sự kiện nào khớp bộ lọc. Thử nới khoảng năm hoặc chọn &ldquo;Mọi nơi&rdquo;.</p>}
+          {eras.map((era, i) => {
+            const items = events.filter((e) => e.era === i);
+            if (!items.length) return null;
+            const ready = items.filter((e) => e.slug).length;
+            return (
+              <section key={era.title} className={css.era} id={slugify(era.title)}>
+                <SectionHead
+                  title={
+                    <>
+                      {era.title} <span className={css.eraCount}>{items.length} sự kiện{ready ? ` · ${ready} có chương` : ""}</span>
+                    </>
+                  }
+                  lead={era.intro && !filtered ? era.intro : undefined}
+                />
+                <ol className={css.events}>
+                  {items.map((e) => (
+                    <li key={`${e.sortYear}-${e.title}`} className={`${css.event} ${e.slug ? css.ready : ""}`}>
+                      <p className={css.year}>{e.year}</p>
+                      <div className={css.body}>
+                        <h3 className={css.eventTitle}>
+                          {e.slug ? <Link href={`/chuong/${e.slug}`}>{e.title}</Link> : e.title}
+                          {e.legend && <Tag className={css.tag}>truyền thuyết</Tag>}
+                        </h3>
+                        <p className={css.text}>{e.text}</p>
+                        <SourceLinks urls={e.sources} className={css.src} />
+                        <div className={css.meta}>
+                          {e.slug ? (
+                            <>
+                              <Button size="sm" href={`/chuong/${e.slug}`}>
+                                <Icon name="play" size={11} /> Xem chương
+                              </Button>
+                              <ReadBadge slug={e.slug} />
+                            </>
+                          ) : (
+                            <Button
+                              size="sm"
+                              variant="quiet"
+                              href={`${site.repo}/issues/new?template=de-xuat-chuong.yml&title=${encodeURIComponent(`[Chương] ${e.title} (${e.year})`)}`}
+                            >
+                              <Icon name="pen" size={12} /> Nhận viết chương này
+                            </Button>
+                          )}
+                          {(e.ancient || e.before2025 || e.now) && (
+                            <Disclosure summary={e.place ?? "Địa danh"} className={css.addr}>
+                              {e.ancient && <p>Tên xưa: {e.ancient}</p>}
+                              {e.before2025 && <p>Trước 2025: {e.before2025}</p>}
+                              {e.now && <p>Hiện nay: {e.now}</p>}
+                            </Disclosure>
+                          )}
+                          {!(e.ancient || e.before2025 || e.now) && e.place && <span className={css.place}>{e.place}</span>}
+                        </div>
+                      </div>
+                    </li>
+                  ))}
+                </ol>
+              </section>
+            );
+          })}
+          {footer}
+        </div>
       </section>
     </>
   );
