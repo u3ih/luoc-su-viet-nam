@@ -1,5 +1,5 @@
 import type { Journey } from "@/core/content/journeys";
-import { Button, Icon, Link } from "@/core/ui";
+import { Button, Card, Disclosure, Icon, Link } from "@/core/ui";
 import { href } from "@/core/ui/i18n";
 import css from "./Journeys.module.scss";
 
@@ -10,28 +10,26 @@ export default function Journeys({ journeys }: { journeys: Journey[] }) {
       {journeys.map((j) => {
         const start = `${href.chapter(j.steps[0].slug)}?hanh-trinh=${j.id}`;
         return (
-          <li key={j.id} className={css.card}>
+          <Card as="li" tone="lacquer" key={j.id} className={css.card}>
             <p className={css.meta}>
-              <Icon name="route" /> {j.steps.length} chương · {j.steps[0].year} – {j.steps.at(-1)!.year}
+              <Icon name="route" size={14} />
+              {j.steps.length} chương · {j.steps[0].year} – {j.steps.at(-1)!.year}
             </p>
             <h3 className={css.title}>{j.title}</h3>
             <p className={css.intro}>{j.intro}</p>
-            <details className={css.steps}>
-              <summary>Các chương</summary>
+            <Disclosure summary="Các chương trong hành trình" className={css.steps}>
               <ol>
                 {j.steps.map((s) => (
                   <li key={s.slug}>
-                    <Link href={`${href.chapter(s.slug)}?hanh-trinh=${j.id}`}>
-                      {s.title} <span>{s.year}</span>
-                    </Link>
+                    <Link href={`${href.chapter(s.slug)}?hanh-trinh=${j.id}`}>{s.title}</Link> <span>{s.year}</span>
                   </li>
                 ))}
               </ol>
-            </details>
-            <Button variant="primary" href={start}>
-              Bắt đầu hành trình
+            </Disclosure>
+            <Button variant="primary" href={start} className={css.start}>
+              <Icon name="play" size={12} /> Bắt đầu hành trình
             </Button>
-          </li>
+          </Card>
         );
       })}
     </ol>

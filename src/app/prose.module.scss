@@ -69,8 +69,10 @@
 
   li {
     margin: 0;
-    padding: 12px 14px;
-    border: 1px solid var(--line);
+    padding: var(--s-3) var(--s-4);
+    border: 1px solid var(--border);
+    border-radius: var(--r-md);
+    background: var(--surface-1);
   }
 
   b {
@@ -88,15 +90,10 @@
 }
 
 .more {
-  margin-bottom: 12px;
-
-  summary {
-    cursor: pointer;
-    color: var(--giay-mo);
-  }
+  margin-bottom: var(--s-1);
 
   ul {
-    margin-top: 8px;
+    margin: 0;
     font-size: 15px;
   }
 }

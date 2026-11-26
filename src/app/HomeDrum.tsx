@@ -44,7 +44,7 @@ export default function HomeDrum() {
   }, []);
 
   return (
-    <div ref={ref} className={`home__fx ${css.stage}`} aria-hidden="true">
+    <div ref={ref} className={css.stage} aria-hidden="true">
       <div className={css.glow} />
       <div className={css.plane}>
         <DongSonDrum className={css.drum} />

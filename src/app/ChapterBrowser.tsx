@@ -2,7 +2,7 @@
 
 import { useMemo, useRef, useState } from "react";
 import { fold, shortEra } from "@/core/content/era-id";
-import { Link, Seal } from "@/core/ui";
+import { Button, Card, Chip, ChipRow, Icon, Link, Seal, SearchField, SectionHead, Segmented } from "@/core/ui";
 import { useTilt } from "@/core/ui/hooks/useTilt";
 import { ReadBadge } from "@/core/ui/ReadProgress";
 import css from "./ChapterBrowser.module.scss";
@@ -11,14 +11,17 @@ export type ChapterCard = { slug: string; title: string; year: string; era: stri
 export type EraBlock = { id: string; title: string; intro: string; events: number; cards: ChapterCard[] };
 
 type View = "the" | "dong";
+const VIEWS: { value: View; label: string }[] = [
+  { value: "the", label: "Thẻ" },
+  { value: "dong", label: "Dòng thời gian" },
+];
 
 /** Số thẻ hiện sẵn mỗi thời kỳ khi chưa lọc; phần còn lại mở bằng nút "Xem thêm" (vẫn có trong HTML, chỉ ẩn đi). */
 const PREVIEW = 8;
 
 /**
- * Danh sách chương của trang chủ khi đã có nhiều chương: chia theo thời kỳ, có thanh tìm kiếm, chip lọc thời kỳ
- * và hai kiểu xem — "Thẻ" (đọc teaser) hoặc "Dòng thời gian" (mỗi chương một dòng, quét nhanh hàng chục chương).
- * Lần render đầu chưa lọc gì nên HTML server vẫn có đủ chữ của mọi chương (thẻ quá PREVIEW chỉ bị ẩn bằng `hidden`).
+ * Danh sách chương của trang chủ: chia theo thời kỳ, có ô tìm, chip lọc thời kỳ và hai kiểu xem — "Thẻ" (đọc teaser)
+ * hoặc "Dòng thời gian" (mỗi chương một dòng). Lần render đầu chưa lọc nên HTML server có đủ chữ của mọi chương.
  */
 export default function ChapterBrowser({ eras }: { eras: EraBlock[] }) {
   const [query, setQuery] = useState("");
@@ -26,7 +29,7 @@ export default function ChapterBrowser({ eras }: { eras: EraBlock[] }) {
   const [view, setView] = useState<View>("the");
   const [opened, setOpened] = useState<ReadonlySet<string>>(new Set());
   const root = useRef<HTMLDivElement>(null);
-  useTilt(root, `.${css.card}`);
+  useTilt(root, `.${css.card}`, 5);
 
   const total = useMemo(() => eras.reduce((n, e) => n + e.cards.length, 0), [eras]);
   const q = fold(query.trim());
@@ -46,93 +49,89 @@ export default function ChapterBrowser({ eras }: { eras: EraBlock[] }) {
     <div className={css.root} ref={root}>
       <div className={css.bar}>
         <div className={css.row}>
-          <label className={css.search}>
-            <span className={css.sr}>Tìm chương</span>
-            <input type="search" placeholder="Tìm chương: tên, năm, nhân vật…" value={query} onChange={(e) => setQuery(e.currentTarget.value)} />
-          </label>
-          <div className={css.views} role="group" aria-label="Kiểu hiển thị">
-            <button type="button" aria-pressed={view === "the"} onClick={() => setView("the")}>
-              Thẻ
-            </button>
-            <button type="button" aria-pressed={view === "dong"} onClick={() => setView("dong")}>
-              Dòng thời gian
-            </button>
-          </div>
+          <SearchField className={css.search} label="Tìm chương" placeholder="Tìm theo tên, năm, nhân vật…" value={query} onChange={setQuery} />
+          <Segmented className={css.views} label="Kiểu hiển thị" options={VIEWS} value={view} onChange={setView} />
         </div>
-        <ul className={css.chips} aria-label="Lọc theo thời kỳ">
-          <li>
-            <button type="button" aria-pressed={!era} onClick={() => setEra("")}>
-              Tất cả <b>{total}</b>
-            </button>
-          </li>
+        <ChipRow label="Lọc theo thời kỳ" className={css.chips}>
+          <Chip on={!era} count={total} onClick={() => setEra("")}>
+            Tất cả
+          </Chip>
           {eras.map((e) => (
-            <li key={e.id}>
-              <button type="button" aria-pressed={era === e.id} onClick={() => setEra(era === e.id ? "" : e.id)}>
-                {shortEra(e.title)} <b>{e.cards.length}</b>
-              </button>
-            </li>
+            <Chip key={e.id} on={era === e.id} count={e.cards.length} onClick={() => setEra(era === e.id ? "" : e.id)}>
+              {shortEra(e.title)}
+            </Chip>
           ))}
-        </ul>
+        </ChipRow>
         <p className={css.count} role="status">
-          {filtered ? `${count} / ${total} chương` : `${total} chương, ${eras.length} thời kỳ`}
           {filtered && (
-            <button
-              type="button"
-              className={css.clear}
-              onClick={() => {
-                setQuery("");
-                setEra("");
-              }}
-            >
-              Xoá bộ lọc
-            </button>
+            <>
+              {count} / {total} chương
+              <Button
+                size="sm"
+                onClick={() => {
+                  setQuery("");
+                  setEra("");
+                }}
+              >
+                <Icon name="close" size={12} /> Xoá bộ lọc
+              </Button>
+            </>
           )}
         </p>
       </div>
 
-      {!shown.length && <p className={css.empty}>Không có chương nào khớp. Thử bớt từ khoá, hoặc xem cả{" "}
-        <Link href="/lo-trinh">lộ trình</Link> — nơi có cả những sự kiện chưa có chương.</p>}
+      {!shown.length && (
+        <p className={css.empty}>
+          Không có chương nào khớp. Thử bớt từ khoá, hoặc xem cả <Link href="/lo-trinh">lộ trình</Link> — nơi có cả những sự kiện chưa có chương.
+        </p>
+      )}
 
       {shown.map((e) => (
         <section key={e.id} id={e.id} className={css.era} aria-labelledby={`${e.id}-h`}>
-          <header className={css.eraHead}>
-            <h3 id={`${e.id}-h`} className={css.eraTitle}>
-              {e.title}
-            </h3>
-            <p className={css.eraMeta}>
-              {e.cards.length} chương · {e.events} sự kiện trên <Link href={`/lo-trinh#${e.id}`}>lộ trình</Link>
-            </p>
-          </header>
-          {e.intro && !filtered && <p className={css.eraIntro}>{e.intro}</p>}
+          <SectionHead
+            level={3}
+            id={`${e.id}-h`}
+            className={css.eraHead}
+            title={
+              <>
+                {e.title} <span className={css.eraCount}>{e.cards.length} chương</span>
+              </>
+            }
+            lead={!filtered && e.intro ? e.intro : undefined}
+            action={
+              <Button variant="quiet" size="sm" href={`/lo-trinh#${e.id}`}>
+                {e.events} sự kiện trên bản đồ <Icon name="arrow" size={13} />
+              </Button>
+            }
+          />
           {view === "the" ? (
             <>
-              <ol className={`chapters ${css.grid}`}>
+              <ol className={css.grid}>
                 {e.cards.map((c, i) => (
-                  <li key={c.slug} className={`chapter-card ${css.card}`} hidden={!filtered && !opened.has(e.id) && i >= PREVIEW}>
+                  <Card as="li" tone="lacquer" interactive key={c.slug} className={css.card} hidden={!filtered && !opened.has(e.id) && i >= PREVIEW}>
                     <Seal lines={c.seal} />
-                    <p className={`chapter-card__era ${css.cardEra}`}>{c.era}</p>
                     <p className={css.year}>{c.year}</p>
-                    <h4 className={`chapter-card__title ${css.cardTitle}`}>
-                      <Link href={`/chuong/${c.slug}`} className={css.cardLink}>
+                    <h4 className={css.cardTitle}>
+                      <Link href={`/chuong/${c.slug}`} data-cover="">
                         {c.title}
                       </Link>
                     </h4>
-                    <p className={`chapter-card__teaser ${css.teaser}`}>{c.teaser}</p>
+                    <p className={css.teaser}>{c.teaser}</p>
                     <div className={css.cardFoot}>
-                      <span className={css.watch} aria-hidden="true">
-                        ▶ Xem trực quan
-                      </span>
                       <ReadBadge slug={c.slug} />
-                      <Link className={css.textLink} href={c.textUrl}>
-                        Bản chữ
+                      <Link className={css.textLink} href={c.textUrl} data-above="">
+                        <Icon name="book" size={13} /> Bản chữ
                       </Link>
+                      <span className={css.go} aria-hidden="true">
+                        <Icon name="arrow" size={16} />
+                      </span>
                     </div>
-                  </li>
+                  </Card>
                 ))}
               </ol>
               {!filtered && !opened.has(e.id) && e.cards.length > PREVIEW && (
-                <button
-                  type="button"
+                <Button
+                  block
                   className={css.more}
                   onClick={() => {
                     setOpened(new Set(opened).add(e.id));
@@ -140,8 +139,9 @@ export default function ChapterBrowser({ eras }: { eras: EraBlock[] }) {
                     requestAnimationFrame(() => document.querySelector<HTMLElement>(`#${e.id} li:nth-child(${PREVIEW + 1}) a`)?.focus());
                   }}
                 >
-                  Xem thêm {e.cards.length - PREVIEW} chương · {e.title}
-                </button>
+                  Xem thêm {e.cards.length - PREVIEW} chương thời {shortEra(e.title).toLowerCase()}
+                  <Icon name="down" size={14} />
+                </Button>
               )}
             </>
           ) : (

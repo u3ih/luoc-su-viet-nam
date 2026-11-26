@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { listChapters } from "@/core/content/load";
 import { loadRoadmap } from "@/core/content/roadmap";
 import { ldJson, roadmapJsonLd } from "@/core/content/seo";
-import { Kicker, Link } from "@/core/ui";
+import { Link, SectionHead } from "@/core/ui";
 import { ReadSummary } from "@/core/ui/ReadProgress";
 import TopBar from "@/core/ui/TopBar";
 import { site } from "@/site.config";
@@ -32,12 +32,17 @@ export default function RoadmapPage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={ldJson(roadmapJsonLd(eras))} />
       <TopBar scrolls onRoadmap />
       <header className={css.head}>
-        <Kicker>Lược sử Việt Nam · Lộ trình</Kicker>
-        <h1 className={css.title}>Bản đồ lịch sử</h1>
-        <p className={css.lead}>
-          {total} sự kiện từ thời tiền sử đến nay, xếp theo thời gian và cắm mốc trên bản đồ. Rê chuột hoặc chạm vào một mốc để xem; sự kiện đã có chương thì
-          vào xem ngay.{waiting && " Những sự kiện còn lại đang chờ cộng đồng cùng viết."}
-        </p>
+        <SectionHead
+          level={1}
+          kicker="Lộ trình"
+          title="Bản đồ lịch sử"
+          lead={
+            <>
+              {total} sự kiện từ thời tiền sử đến nay, xếp theo thời gian và cắm mốc trên bản đồ. Chạm vào một mốc để xem; sự kiện đã có chương thì vào xem ngay.
+              {waiting && " Những sự kiện còn lại đang chờ cộng đồng cùng viết."}
+            </>
+          }
+        />
         <ReadSummary slugs={[...ready]} />
       </header>
 

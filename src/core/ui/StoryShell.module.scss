@@ -50,7 +50,8 @@
   font-size: 14px;
   color: var(--giay);
   background: rgba(18, 11, 8, 0.92);
-  border: 1px solid var(--line);
+  border: 1px solid var(--border);
+  border-radius: var(--r-pill);
   transform: translateX(-50%);
 
   @include phone {

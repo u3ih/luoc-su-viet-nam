@@ -1,41 +1,128 @@
 @use "../core/ui/styles/mixins" as *;
 
-// Phần mới của trang chủ. Phần cũ (thẻ chương, hero…) vẫn ở src/core/ui/ui.css, sẽ chuyển dần sang module.
-
-// năm là chữ dài ("Thế kỷ III TCN"): thu nhỏ cỡ chữ của .chapter-card__year (ui.css)
-:global(.chapter-card__year).yearLong {
-  font-size: 2.1rem;
-  line-height: 1.1;
+.home {
+  position: relative;
+  min-height: 100vh;
+  background: var(--bg);
+  background-image:
+    var(--grain),
+    radial-gradient(80% 60% at 80% 0%, rgba(184, 50, 42, 0.24), transparent 60%),
+    radial-gradient(60% 50% at 75% 50%, rgba(212, 162, 76, 0.1), transparent 70%);
+  overflow: hidden;
 }
 
-.badge {
-  margin: -8px 0 16px;
-  align-self: flex-start;
-}
+// ---------- Mở đầu ----------
+.hero {
+  position: relative;
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 120px var(--gutter) 120px;
 
-.note {
-  max-width: 44rem;
-  margin: -6px 0 22px;
-  color: var(--giay-mo);
-
-  a {
-    color: var(--vang-nhat);
-    text-underline-offset: 4px;
+  @include phone {
+    justify-content: flex-end;
+    padding: 96px var(--gutter) 112px;
   }
 }
 
-// .title.title: thắng `.home__hero > :not(.home__fx)` (ui.css)
-:global(.home__hero) > .title.title {
-  @include gold-text(rise 1.1s var(--ease-out) 0.22s both);
-  filter: blur(0) drop-shadow(0 4px 30px rgba(0, 0, 0, 0.55));
+.heroText {
+  position: relative;
+  width: 100%;
+  max-width: var(--content);
+  margin: 0 auto;
+
+  // chữ hiện lần lượt
+  > * {
+    @include motion-ok {
+      animation: rise 1.1s var(--ease-out) both;
+    }
+  }
+
+  @for $i from 1 through 5 {
+    > :nth-child(#{$i}) {
+      animation-delay: #{0.08 + ($i - 1) * 0.14}s;
+    }
+  }
 }
 
-// bản sao `rise` của ui.css (keyframe trong module bị băm tên); filter cùng danh sách hàm để nội suy mượt
+.title.title {
+  margin: var(--s-4) 0 var(--s-5);
+  font-family: var(--font-d);
+  font-weight: 800;
+  font-size: var(--fs-display);
+  line-height: 0.95;
+  letter-spacing: -0.01em;
+  @include gold-text(rise 1.1s var(--ease-out) 0.22s both);
+  filter: drop-shadow(0 4px 30px rgba(0, 0, 0, 0.55));
+}
+
 @keyframes rise {
   from {
     opacity: 0;
     translate: 0 26px;
-    filter: blur(6px) drop-shadow(0 4px 30px transparent);
+  }
+}
+
+.lead {
+  max-width: 34rem;
+  font-size: clamp(1rem, 1.5vw, 1.15rem);
+  color: var(--text-muted);
+}
+
+.cta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--s-3);
+  margin-top: var(--s-6);
+
+  @include phone {
+    flex-direction: column;
+    align-items: stretch;
+    margin-top: var(--s-5);
+  }
+}
+
+// dòng số liệu nhỏ dưới nút: chương · sự kiện · English
+.stats {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--s-2) var(--s-5);
+  margin-top: var(--s-5);
+  font-size: 13px;
+  color: var(--text-muted);
+
+  b {
+    font-family: var(--font-d);
+    font-size: 1.15rem;
+    color: var(--accent-soft);
+    margin-right: 4px;
+  }
+
+  span + span,
+  span + a {
+    position: relative;
+
+    &::before {
+      content: "";
+      position: absolute;
+      left: calc(var(--s-5) / -2);
+      top: 50%;
+      width: 3px;
+      height: 3px;
+      border-radius: 50%;
+      background: var(--border-strong);
+    }
+  }
+
+  a {
+    color: var(--text-muted);
+    text-underline-offset: 4px;
+
+    &:hover {
+      color: var(--accent-soft);
+    }
   }
 }
 
@@ -49,14 +136,14 @@
   align-items: center;
   gap: 2px;
   font-size: 11px;
-  letter-spacing: 0.24em;
+  letter-spacing: var(--track-label);
   text-transform: uppercase;
   text-decoration: none;
-  color: var(--giay-mo);
-  transition: color 0.3s;
+  color: var(--text-muted);
+  transition: color var(--dur-2);
 
   &:hover {
-    color: var(--vang-nhat);
+    color: var(--accent-soft);
   }
 
   svg {
@@ -72,16 +159,178 @@
   }
 }
 
-.langs {
-  margin-top: 14px;
-  font-size: 14px;
+// ---------- Mục ----------
+.section {
+  position: relative;
+  padding: var(--section-y) var(--gutter) 0;
+
+  &:last-of-type {
+    padding-bottom: var(--section-y);
+  }
+}
+
+.inner {
+  max-width: var(--content);
+  margin: 0 auto;
+}
+
+// mục trồi lên khi cuộn tới (trình duyệt hỗ trợ scroll-driven animation)
+@supports (animation-timeline: view()) {
+  @include motion-ok {
+    .section :global(header),
+    .help > li {
+      animation: rise linear both;
+      animation-timeline: view();
+      animation-range: entry 0% entry 60%;
+    }
+  }
+}
+
+.waiting,
+.help {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr));
+  gap: var(--s-4);
+  list-style: none;
+
+  @include phone {
+    gap: var(--s-3);
+  }
+}
+
+.waitCard {
+  gap: var(--s-2);
+  opacity: 0.85;
+
+  :global(.btn) {
+    align-self: flex-start;
+    margin-top: auto;
+  }
+}
+
+.waitYear {
+  font-family: var(--font-d);
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.waitTitle {
+  font-family: var(--font-d);
+  font-size: 1.3rem;
+  line-height: 1.2;
+}
+
+.waitText {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
+  overflow: hidden;
+  margin-bottom: var(--s-3);
+  font-size: var(--fs-sm);
+  color: var(--text-muted);
+}
+
+.community {
+  padding-bottom: var(--section-y);
+}
+
+.helpIcon {
+  display: grid;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+  margin-bottom: var(--s-4);
+  border: 1px solid var(--border);
+  border-radius: 50%;
+  color: var(--accent-soft);
+  background: var(--surface-1);
+}
+
+.helpTitle {
+  font-family: var(--font-d);
+  font-size: var(--fs-h4);
+  color: var(--accent-soft);
+  margin-bottom: var(--s-1);
+}
+
+.helpText {
+  font-size: 15px;
+  color: var(--text-muted);
+}
+
+.ctaRow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--s-3);
+  margin-top: var(--s-6);
+
+  @include phone {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}
+
+// ---------- Cuối trang ----------
+.footer {
+  padding: 0 var(--gutter) calc(var(--s-6) + env(safe-area-inset-bottom));
+  font-size: var(--fs-sm);
+  color: var(--text-muted);
+}
+
+.footBand {
+  display: block;
+  margin-bottom: var(--s-6);
+  color: var(--accent);
+  opacity: 0.3;
+}
+
+.footGrid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: var(--s-5) var(--s-7);
+}
+
+.footBrand {
+  font-family: var(--font-d);
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: var(--accent-soft);
+}
+
+.footNote {
+  max-width: 26rem;
+  margin-top: var(--s-1);
+}
+
+.footNav {
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  gap: var(--s-1) var(--s-6);
+  align-content: start;
 
   a {
-    color: var(--giay-mo);
-    text-underline-offset: 4px;
+    display: inline-flex;
+    align-items: center;
+    min-height: 32px;
+    color: var(--text);
+    text-decoration: none;
 
     &:hover {
-      color: var(--vang-nhat);
+      color: var(--accent-soft);
     }
+  }
+}
+
+.license {
+  margin-top: var(--s-6);
+  padding-top: var(--s-4);
+  border-top: 1px solid var(--border-soft);
+  font-size: var(--fs-xs);
+
+  a {
+    color: inherit;
+    text-underline-offset: 3px;
   }
 }

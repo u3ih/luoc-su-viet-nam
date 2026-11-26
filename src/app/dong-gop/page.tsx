@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { getText, listChapters, listTranslated } from "@/core/content/load";
 import { loadRoadmap, wikiOnly } from "@/core/content/roadmap";
-import { Kicker, Link } from "@/core/ui";
+import { Disclosure, Kicker, Link } from "@/core/ui";
 import { href } from "@/core/ui/i18n";
 import TopBar from "@/core/ui/TopBar";
 import { site } from "@/site.config";
@@ -32,7 +32,7 @@ export default function HelpPage() {
     <div className={css.page}>
       <TopBar scrolls />
       <article className={css.body}>
-        <Kicker>Lược sử Việt Nam · Đóng góp</Kicker>
+        <Kicker>Đóng góp</Kicker>
         <h1>Cần giúp</h1>
         <p>
           Những việc đang chờ cộng đồng, tính tự động từ nội dung hiện có. Không cần biết lập trình: phần lớn chỉ là sửa một file chữ trên GitHub. Cách làm xem{" "}
@@ -64,10 +64,15 @@ export default function HelpPage() {
           <Link href={edit("content/lo-trinh.md")}>content/lo-trinh.md</Link> (tối đa 3 link, cách nhau bằng dấu cách).
         </p>
         {wiki.map((e) => (
-          <details key={e.title} className={css.more}>
-            <summary>
-              {e.title} · {e.events.length}
-            </summary>
+          <Disclosure
+            key={e.title}
+            className={css.more}
+            summary={
+              <>
+                {e.title} · {e.events.length}
+              </>
+            }
+          >
             <ul>
               {e.events.map((ev) => (
                 <li key={`${ev.sortYear}-${ev.title}`}>
@@ -75,7 +80,7 @@ export default function HelpPage() {
                 </li>
               ))}
             </ul>
-          </details>
+          </Disclosure>
         ))}
 
         <h2>Thẩm định chương nháp</h2>
@@ -107,8 +112,7 @@ export default function HelpPage() {
           <Link href={`${site.repo}/blob/${site.branch}/content/README.md`}>content/README.md</Link>.
         </p>
         {noQuiz.length > 0 && (
-          <details className={css.more}>
-            <summary>{noQuiz.length} chương chưa có</summary>
+          <Disclosure className={css.more} summary={`${noQuiz.length} chương chưa có`}>
             <ul>
               {noQuiz.map((c) => (
                 <li key={c.slug}>
@@ -118,7 +122,7 @@ export default function HelpPage() {
                 </li>
               ))}
             </ul>
-          </details>
+          </Disclosure>
         )}
 
         <h2>Dịch sang tiếng Anh</h2>

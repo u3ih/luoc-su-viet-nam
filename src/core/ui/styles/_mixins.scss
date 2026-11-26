@@ -50,3 +50,44 @@
     }
   }
 }
+
+/** Ẩn khỏi mắt, vẫn đọc được bằng trình đọc màn hình. */
+@mixin sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+/** Ô nhập / chọn: bo tròn, cao bằng vùng chạm; 16px trên điện thoại để Safari iOS không tự phóng to. */
+@mixin control {
+  height: var(--tap);
+  padding: 0 var(--s-4);
+  font: inherit;
+  font-size: 15px;
+  color: var(--text);
+  background: var(--surface-1);
+  border: 1px solid var(--border);
+  border-radius: var(--r-pill);
+  transition: border-color var(--dur-1), background var(--dur-1);
+
+  &::placeholder {
+    color: var(--text-faint);
+  }
+
+  &:hover {
+    border-color: var(--line);
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 1px;
+    background: var(--surface-2);
+  }
+
+  @include phone {
+    font-size: 16px;
+  }
+}

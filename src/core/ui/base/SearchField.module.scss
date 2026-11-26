@@ -1,0 +1,35 @@
+@use "../styles/mixins" as *;
+
+.field {
+  display: grid;
+  gap: var(--s-1);
+}
+
+.label {
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+.sr {
+  @include sr-only;
+}
+
+.box {
+  position: relative;
+  display: block;
+}
+
+.icon {
+  position: absolute;
+  left: 16px;
+  top: 50%;
+  translate: 0 -50%;
+  color: var(--text-muted);
+  pointer-events: none;
+}
+
+.box input {
+  @include control;
+  width: 100%;
+  padding-left: 42px;
+}

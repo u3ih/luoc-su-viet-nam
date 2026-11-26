@@ -15,6 +15,11 @@ const RULES = [
   [/<img(\s|>|$)/, "thẻ `<img>` — dùng `Image` từ @/core/ui", true],
   [/<svg(\s|>|$)/, "`<svg>` rời — thêm biểu tượng vào `Icon` (base/Icon.tsx) hoặc hoa văn vào ornaments/", true],
   [/className=["'`{][^>]*?\b(btn|chip|kicker)\b(?![-_])/, "lớp `.btn`/`.chip`/`.kicker` viết tay — dùng `Button`/`Chip`/`Kicker`", true],
+  [/import \{[^}]*\b(useRouter|usePathname|useSearchParams)\b[^}]*\} from "next\/navigation"/, "hook điều hướng của next — dùng `useNavigate` từ @/core/ui"],
+  [/from "next\/(script|head|form|router)"/, "import thẳng từ next — bọc thành component nền trong src/core/ui/base"],
+  [/<details(\s|>|$)/, "`<details>` viết tay — dùng `Disclosure` từ @/core/ui", true],
+  [/<input[^>]*type="search"/, "ô tìm viết tay — dùng `SearchField` từ @/core/ui", true],
+  [/<(select)(\s|>|$)/, "`<select>` viết tay — dùng `Select` (+ `Field`) từ @/core/ui", true],
 ];
 
 function* files(dir) {

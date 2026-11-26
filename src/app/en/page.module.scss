@@ -50,8 +50,10 @@
   padding: 14px 16px;
   text-decoration: none;
   color: var(--giay);
-  border: 1px solid var(--line);
-  transition: border-color 0.3s;
+  border: 1px solid var(--border);
+  border-radius: var(--r-md);
+  background: var(--surface-1);
+  transition: border-color var(--dur-2);
 
   &:hover,
   &:focus-visible {
