@@ -8,7 +8,7 @@
 .article {
   max-width: 42rem;
   margin: 0 auto;
-  padding: 112px 16px 80px;
+  padding: 104px var(--gutter-bar) 80px;
 
   p + p {
     margin-top: 14px;

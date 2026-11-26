@@ -67,3 +67,42 @@
     color: var(--giay-mo);
   }
 }
+
+// điện thoại: một hàng cuộn ngang, thẻ sau ló ra mép phải để biết còn nữa — không chiếm cả chục màn hình
+@include phone {
+  .grid {
+    grid-auto-flow: column;
+    grid-template-columns: none;
+    grid-auto-columns: 86%;
+    gap: 12px;
+    margin: 0 calc(var(--gutter) * -1);
+    padding: 0 var(--gutter) 10px;
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x mandatory;
+    scroll-padding: 0 var(--gutter);
+    scrollbar-width: none;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+  }
+
+  .card {
+    scroll-snap-align: start;
+    padding: 18px;
+
+    :global(.btn) {
+      align-self: stretch;
+    }
+  }
+
+  .title {
+    font-size: 1.35rem;
+  }
+
+  .intro {
+    font-size: 14.5px;
+    line-height: 1.6;
+  }
+}

@@ -127,7 +127,8 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 18px clamp(16px, 4vw, 48px);
+  gap: 12px;
+  padding: 18px var(--gutter-bar);
 }
 .topbar--scrolls {
   position: absolute;
@@ -140,6 +141,20 @@
   z-index: -1;
   pointer-events: none;
   background: linear-gradient(180deg, rgba(18, 11, 8, 0.62) 0%, rgba(18, 11, 8, 0.32) 58%, rgba(18, 11, 8, 0) 100%);
+  transition: opacity 0.6s;
+}
+.topbar::after {
+  content: "";
+  position: absolute;
+  inset: 0 0 -28px;
+  z-index: -1;
+  pointer-events: none;
+  background: linear-gradient(180deg, rgba(18, 11, 8, 0.97) 0%, rgba(18, 11, 8, 0.93) 68%, rgba(18, 11, 8, 0) 100%);
+  opacity: 0;
+  transition: opacity 0.6s;
+}
+.topbar:has(.topbar__title.is-shown)::after {
+  opacity: 1;
 }
 .topbar__where {
   display: flex;
@@ -193,6 +208,7 @@
   display: inline-flex;
   align-items: center;
   gap: 6px;
+  min-height: 36px;
   padding: 7px 14px;
   border: 1px solid var(--line);
   border-radius: 999px;
@@ -214,7 +230,7 @@
 .toast {
   position: fixed;
   top: 68px;
-  right: clamp(16px, 4vw, 48px);
+  right: var(--gutter-bar);
   z-index: 10;
   max-width: 320px;
   padding: 10px 14px;
@@ -301,7 +317,7 @@ main {
   min-height: 118svh;
   display: flex;
   align-items: center;
-  padding: 96px clamp(16px, 7vw, 120px);
+  padding: 96px clamp(20px, 7vw, 120px);
 }
 .beat--interactive {
   min-height: 150svh;
@@ -652,7 +668,7 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  padding: 120px clamp(16px, 8vw, 140px) 80px;
+  padding: 120px var(--gutter) 80px;
 }
 @keyframes rise {
   from {
@@ -712,7 +728,7 @@ main {
 }
 .home__section {
   position: relative;
-  padding: 72px clamp(16px, 8vw, 140px);
+  padding: 72px var(--gutter);
 }
 .home__h2 {
   font-family: var(--font-d);
@@ -788,6 +804,10 @@ main {
   gap: 26px;
   margin-bottom: 30px;
 }
+.community > div {
+  padding-left: 18px;
+  border-left: 1px solid var(--line);
+}
 .community h3 {
   font-family: var(--font-d);
   font-size: 1.3rem;
@@ -799,7 +819,7 @@ main {
   font-size: 15px;
 }
 .home__footer {
-  padding: 40px clamp(16px, 8vw, 140px);
+  padding: 40px var(--gutter);
   border-top: 1px solid var(--line);
   font-size: 13px;
   color: var(--giay-mo);
@@ -826,7 +846,38 @@ main {
     align-items: flex-end;
     justify-content: flex-start;
     /* chừa chỗ cho thanh phân cảnh dưới đáy */
-    padding: 88px 16px calc(9svh + 64px);
+    padding: 88px var(--gutter) calc(9svh + 72px);
+  }
+  /* dải tối mềm ngay sau khối chữ: scrim cố định chỉ phủ nửa dưới màn hình, chữ dài trôi lên nền trời/nước sáng vẫn đọc được */
+  .beat__card::before {
+    content: "";
+    position: absolute;
+    inset: -48px calc(var(--gutter) * -1) -40px;
+    z-index: -1;
+    pointer-events: none;
+    background: linear-gradient(
+      180deg,
+      rgba(18, 11, 8, 0) 0%,
+      rgba(18, 11, 8, 0.66) 64px,
+      rgba(18, 11, 8, 0.72) calc(100% - 64px),
+      rgba(18, 11, 8, 0) 100%
+    );
+  }
+  .beat__card {
+    isolation: isolate;
+    width: 100%;
+  }
+  .beat__title {
+    font-size: clamp(2rem, 9.4vw, 2.6rem);
+    line-height: 1.08;
+  }
+  .beat__body {
+    font-size: 16.5px;
+    line-height: 1.68;
+  }
+  .note,
+  .slider {
+    padding: 14px 16px;
   }
   .beat--interactive {
     min-height: 112svh;
@@ -843,8 +894,36 @@ main {
   .topbar__title {
     display: none;
   }
-  .chip {
-    padding: 8px 10px;
+  .controls .chip {
+    width: 38px;
+    height: 38px;
+    background: rgba(18, 11, 8, 0.72);
+    padding: 0;
+    justify-content: center;
+  }
+  .controls .chip:has(span:only-child) {
+    width: auto;
+    padding: 0 14px;
+  }
+  .controls {
+    flex: none;
+    gap: 6px;
+  }
+  .brand {
+    gap: 8px;
+    font-size: 15px;
+    white-space: nowrap;
+  }
+  .topbar {
+    padding-top: max(14px, env(safe-area-inset-top));
+    padding-bottom: 14px;
+  }
+  .hero__lead {
+    font-size: 1.05rem;
+  }
+  .hero__scroll {
+    margin-top: 28px;
+    min-height: var(--tap);
   }
   .hero__drum {
     right: -40vw;
@@ -864,5 +943,52 @@ main {
     margin-left: 16px;
     vertical-align: middle;
     font-size: 0.85rem;
+  }
+
+  .home__hero {
+    min-height: 100svh;
+    padding: 96px var(--gutter) 96px;
+  }
+  .home__title {
+    margin: 14px 0 20px;
+  }
+  /* nút xếp dọc, cùng bề ngang: ngón cái dễ bấm, không lệch hàng */
+  .home__cta {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+    margin-top: 28px;
+  }
+  .home__section {
+    padding: 56px var(--gutter);
+  }
+  .home__section .band {
+    margin: 12px 0 16px;
+  }
+  .chapters {
+    gap: 12px;
+  }
+  .chapter-card {
+    padding: 18px 18px 16px;
+  }
+  .chapter-card .seal {
+    top: 16px;
+    right: 14px;
+    scale: 0.86;
+    transform-origin: top right;
+  }
+  .chapter-card__year {
+    font-size: 2.4rem;
+  }
+  .chapter-card__title {
+    font-size: 1.35rem;
+    line-height: 1.25;
+  }
+  .community {
+    gap: 22px;
+  }
+  .home__footer {
+    padding: 32px var(--gutter) calc(32px + env(safe-area-inset-bottom));
+    line-height: 1.9;
   }
 }
