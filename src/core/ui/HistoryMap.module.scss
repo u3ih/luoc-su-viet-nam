@@ -3,16 +3,12 @@
 $stage-h: min(78svh, 760px);
 
 .map {
-  padding: 0 clamp(16px, 8vw, 140px);
-
-  @include phone {
-    padding: 0 12px;
-  }
+  padding: 0 var(--gutter);
 }
 
 .placeholder {
   height: $stage-h;
-  margin: 46px clamp(16px, 8vw, 140px) 0;
+  margin: 46px var(--gutter) 0;
   border: 1px solid var(--line);
   background: radial-gradient(60% 60% at 50% 50%, #22140d, var(--then));
 }
@@ -416,5 +412,31 @@ $stage-h: min(78svh, 760px);
     color: var(--vang);
     text-decoration: underline;
     text-underline-offset: 2px;
+  }
+}
+
+// điện thoại: chip thời kỳ và nút "đi tới" mỗi loại một hàng cuộn ngang sát hai mép màn hình
+@include phone {
+  .filters,
+  .jumps {
+    flex-wrap: nowrap;
+    margin-left: calc(var(--gutter) * -1);
+    margin-right: calc(var(--gutter) * -1);
+    padding: 0 var(--gutter) 6px;
+    overflow-x: auto;
+    scrollbar-width: none;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+
+    :global(.chip) {
+      flex: none;
+      white-space: nowrap;
+    }
+  }
+
+  .jumps {
+    white-space: nowrap;
   }
 }

@@ -7,7 +7,7 @@
 }
 
 .head {
-  padding: 120px clamp(16px, 8vw, 140px) 28px;
+  padding: 120px var(--gutter) 28px;
 }
 
 .title {
@@ -26,7 +26,7 @@
 }
 
 .list {
-  padding: 40px clamp(16px, 8vw, 140px) 80px;
+  padding: 40px var(--gutter) 80px;
 }
 
 .foot {
@@ -180,10 +180,10 @@
   flex-wrap: wrap;
   align-items: flex-end;
   gap: 14px 18px;
-  padding: 0 clamp(16px, 8vw, 140px) 22px;
+  padding: 0 var(--gutter) 22px;
 
   @include phone {
-    padding: 0 12px 18px;
+    padding: 0 var(--gutter) 18px;
   }
 }
 
@@ -197,13 +197,13 @@
   input,
   select {
     height: 38px;
-    padding: 0 10px;
+    padding: 0 14px;
     font: inherit;
     font-size: 14px;
     color: var(--giay);
     background: var(--then);
     border: 1px solid var(--line);
-    border-radius: 6px;
+    border-radius: 999px;
 
     &:focus-visible {
       outline: 2px solid var(--vang);
@@ -328,8 +328,8 @@
   position: sticky;
   top: 0;
   z-index: 6;
-  margin: 0 calc(clamp(16px, 8vw, 140px) * -1);
-  padding: 8px clamp(16px, 8vw, 140px);
+  margin: 0 calc(var(--gutter) * -1);
+  padding: 8px var(--gutter);
   background: linear-gradient(180deg, var(--then) 86%, rgba(18, 11, 8, 0));
 
   ul {
@@ -389,4 +389,80 @@
 .event {
   content-visibility: auto;
   contain-intrinsic-size: auto 120px;
+}
+
+@include phone {
+  .head {
+    padding-top: 96px;
+  }
+
+  .lead {
+    font-size: 15.5px;
+    line-height: 1.65;
+  }
+
+  .field input,
+  .field select,
+  .moreBtn {
+    height: var(--tap);
+  }
+
+  .field input {
+    font-size: 16px; // < 16px thì Safari iOS tự phóng to khi chạm vào ô
+  }
+
+  .eraNav ul {
+    margin: 0 calc(var(--gutter) * -1);
+    padding: 0 var(--gutter) 4px;
+    scrollbar-width: none;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+  }
+
+  .era {
+    margin-top: 40px;
+  }
+
+  .eraCount {
+    display: block;
+    margin: 4px 0 0;
+  }
+
+  .event {
+    padding: 14px 0 14px 18px;
+
+    &::before {
+      top: 20px;
+    }
+  }
+
+  .year {
+    font-size: 1.05rem;
+  }
+
+  .text {
+    font-size: 14.5px;
+    line-height: 1.6;
+  }
+
+  // địa chỉ, nguồn: chữ nhỏ, sát nhau — phụ cho phần mô tả
+  .addr,
+  .src,
+  .meta {
+    font-size: 12.5px;
+    line-height: 1.55;
+  }
+
+  .addr {
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .go {
+    display: inline-flex;
+    align-items: center;
+    min-height: 36px;
+  }
 }

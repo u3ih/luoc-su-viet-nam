@@ -9,8 +9,8 @@
   position: sticky;
   top: 0;
   z-index: 5;
-  margin: 0 calc(clamp(16px, 8vw, 140px) * -1) 8px;
-  padding: 12px clamp(16px, 8vw, 140px) 10px;
+  margin: 0 calc(var(--gutter) * -1) 8px;
+  padding: 12px var(--gutter) 10px;
   background: linear-gradient(180deg, var(--then) 82%, rgba(18, 11, 8, 0));
 
   // màn hình nhỏ: thanh công cụ cao gần 1/4 màn hình nên không dính nữa
@@ -426,4 +426,71 @@
 
 .rowBadge {
   justify-self: end;
+}
+
+@include phone {
+  .search {
+    flex-basis: 100%;
+    max-width: none;
+
+    input {
+      height: var(--tap);
+      font-size: 16px; // < 16px thì Safari iOS tự phóng to trang khi chạm vào ô
+    }
+  }
+
+  .views {
+    display: flex;
+    width: 100%;
+
+    button {
+      flex: 1;
+      height: 40px;
+    }
+  }
+
+  // chip thời kỳ chạy sát hai mép màn hình, cuộn ngang bằng ngón cái
+  .chips {
+    margin: 12px calc(var(--gutter) * -1) 0;
+    padding: 0 var(--gutter) 6px;
+    scroll-padding: 0 var(--gutter);
+    scrollbar-width: none;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+
+    button {
+      height: 38px;
+    }
+  }
+
+  .era {
+    margin-top: 32px;
+  }
+
+  .eraIntro {
+    font-size: 14.5px;
+    line-height: 1.6;
+  }
+
+  .grid {
+    gap: 12px;
+  }
+
+  .card {
+    padding: 16px 18px 14px;
+  }
+
+  .cardTitle {
+    font-size: 1.3rem;
+  }
+
+  .cardFoot {
+    font-size: 14px;
+  }
+
+  .textLink {
+    padding: 6px 0;
+  }
 }

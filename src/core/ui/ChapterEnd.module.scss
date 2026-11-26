@@ -165,12 +165,16 @@
 
   a {
     display: inline-flex;
+    align-items: center;
     gap: 6px;
-    padding: 4px 10px;
+    min-height: 36px;
+    padding: 4px 14px;
     font-size: 14px;
     text-decoration: none;
     color: var(--giay);
     border: 1px solid var(--line);
+    border-radius: 999px;
+    background: rgba(18, 11, 8, 0.55);
     transition: border-color 0.3s, color 0.3s;
 
     &:hover,
@@ -197,5 +201,31 @@
     letter-spacing: normal;
     text-transform: none;
     color: var(--giay);
+  }
+}
+
+@include phone {
+  .next {
+    padding: 18px 18px 16px;
+  }
+
+  .nextYear {
+    font-size: 1.9rem;
+  }
+
+  .nextTitle {
+    font-size: 1.25rem;
+  }
+
+  .arrow {
+    width: 44px;
+    height: 44px;
+  }
+
+  .nav {
+    a,
+    button {
+      padding: 6px 0;
+    }
   }
 }

@@ -10,7 +10,7 @@
 .body {
   max-width: 44rem;
   margin: 0 auto;
-  padding: 112px 16px 0;
+  padding: 104px var(--gutter-bar) 0;
 
   h1 {
     font-family: var(--font-d);

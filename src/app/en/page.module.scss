@@ -10,7 +10,7 @@
   gap: 14px;
   max-width: 46rem;
   margin: 0 auto;
-  padding: 112px 16px 28px;
+  padding: 104px var(--gutter-bar) 28px;
 }
 
 .title {
@@ -39,7 +39,7 @@
   gap: 10px;
   max-width: 46rem;
   margin: 28px auto 0;
-  padding: 0 16px;
+  padding: 0 var(--gutter-bar);
   list-style: none;
 }
 
@@ -89,5 +89,5 @@
 .foot {
   max-width: 46rem;
   margin: 32px auto 0;
-  padding: 0 16px;
+  padding: 0 var(--gutter-bar);
 }
